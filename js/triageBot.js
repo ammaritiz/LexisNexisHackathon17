@@ -37,14 +37,15 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
             				var urls = _.pluck(matchingR, "html_url");
             				string = "*Here are some open issues:*\n";
             				for(var i = 0; i < matchingR.length; i++){
-            					string += (i + 1) + ". "+ titles[i] + ": ";
-            					string += urls[i] + "\n";
+            					string += (i + 1) + ") "+ titles[i] + ": ";
+            					string += urls[i] + "\n\n";
             				}
             			}
                   bot.reply(message, string);
 
                   bot.startConversation(message, function(response, convo){
-                    convo.ask("What issue number do you want to work on?", function(response, convo){
+                    convo.ask("Pick an item from the list!", function(response, convo){
+                      console.log("list item "+)
                       main.assignIssueToUser(user, repoOwner, repo, response.text, user.git_name).then(function(resp){
                         convo.say(resp);
                         convo.next();
@@ -102,18 +103,18 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
      {
       pattern: 'no',
       callback: function(response, convo) {
-                                    // stop the conversation. this will cause it to end with status == 'stopped'
-                                    convo.stop();
-                                  }
-                                },
-                                {
-                                  default: true,
-                                  callback: function(response, convo) {
-                                    convo.repeat();
-                                    convo.next();
-                                  }
-                                }
-                                ]);
+          // stop the conversation. this will cause it to end with status == 'stopped'
+          convo.stop();
+        }
+      },
+      {
+        default: true,
+        callback: function(response, convo) {
+          convo.repeat();
+          convo.next();
+        }
+      }
+      ]);
     }).catch(function (e){
       //No Deadline found as well as no open issues
       bot.reply(message,"No Deadlines found!");
