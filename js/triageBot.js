@@ -27,35 +27,63 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
             bot.reply(message, str);
           } else {
             main.getIssuesClosedByUser(repoOwner, repo, user.git_name).then(function(result) {
-                main.sortAndCompareIssues(result, openI).then(function(matchingR) {
-                  // console.log("In sortAndCompareIssues! ");
-                  var string;
-            			if(matchingR.length == 0){
-            				string = "No issues to work on for now!";
-            			} else {
-            				var titles = _.pluck(matchingR, "title");
-            				var urls = _.pluck(matchingR, "html_url");
-            				string = "*Here are some open issues:*\n";
-            				for(var i = 0; i < matchingR.length; i++){
-            					string += (i + 1) + ") "+ titles[i] + ": ";
-            					string += urls[i] + "\n\n";
-            				}
-            			}
-                  bot.reply(message, string);
+                  //bot.reply(message, string);
 
                   bot.startConversation(message, function(response, convo){
-                    convo.ask("Pick an item from the list!", function(response, convo){
+                    /*convo.ask("Pick an item from the list!", function(response, convo){
                       console.log("list item "+)
                       main.assignIssueToUser(user, repoOwner, repo, response.text, user.git_name).then(function(resp){
                         convo.say(resp);
                         convo.next();
                       });
-                    });
+                    });*/
+		        main.sortAndCompareIssues(result, openI).then(function(matchingR) {
+				 console.log("hi" + result);
+				 var string;
+					if(matchingR.length == 0){
+						string = "No issues to work on for now!";
+					} else {
+						var titles = _.pluck(matchingR, "title");
+						var urls = _.pluck(matchingR, "html_url");
+						string = "*Here are some open issues:*\n";
+						for(var i = 0; i < matchingR.length; i++){
+							string += (i + 1) + ") "+ titles[i] + ": ";
+							string += urls[i] + "\n\n";
+						}
+					}
+					
+				//bot.reply(message, string);
+				convo.ask(string + "Pick an item from the list!", [{
+				pattern: "^[0-9]+$",
+				callback: function(response, convo) {
+				 var issue;	
+				 if(response.text > matchingR.length || response.text < 1 || isNaN(matchingR)){
+					reject("Invalid issue number selected");
+				}else{
+					issue = matchingR[response.text - 1].number;
+				}	 
+				 main.assignIssueToUser(user, repoOwner, repo, issue, user.git_name).then(function(resp){
+					convo.say(resp);
+					convo.next();
+					});
+			       }
+			     },
+			      {
+				default: true,
+				callback: function(response, convo) {
+				  convo.repeat();
+				  convo.next();
+				}
+			      }
+			      ]);
+			}).catch(function (e){
+				bot.reply(message, e);
+				});
+			});			
                   });
-                });
-            }).catch(function (e){
-                  bot.reply(message, e);});
-        }}).catch(function (e){
+                
+            }
+	}).catch(function (e){
               bot.reply(message, e);
       }).catch(function (e){
             bot.reply(message, e);
