@@ -4,8 +4,8 @@ var request = require("request");
 var querystring = require('querystring');
 var token = "token " + process.env.GTOKEN;
 var urlRoot = "https://github.ncsu.edu/api/v3";
-var repoValue = "hqtu";
-var ownerValue= "TriageBotTesting";
+var repoValue = "TriageBotTesting";
+var ownerValue= "hqtu";
 //var nock = require("nock");
 // Load mock data
 // var data = require("../mock.json");
@@ -29,10 +29,33 @@ function getRepos(userName)
 		{
 			var repos = JSON.parse(body);
 			resolve(repos);
-			console.log(repos);
 		});
 	});
 }
+
+function getColloborators()
+{
+	var options = {
+		url: urlRoot + '/repos/' + ownerValue + "/"+repoValue+"/collaborators",
+		method: 'GET',
+		headers: {
+			"content-type": "application/json",
+			"Authorization": token
+		}
+	};
+
+	return new Promise(function (resolve, reject)
+	{
+		// Send a http request to url and specify a callback that will be called upon its return.
+		request(options, function (error, response, body)
+		{
+			var repos = JSON.parse(body);
+			resolve(repos);
+		});
+	});
+}
+
+
 
 function getIssues(owner, repo)
 {
@@ -93,7 +116,7 @@ function assignIssueNew(issue, assignee)
  {
 
 	var options = {
-		url: urlRoot + "/repos/" + repoValue +"/" + ownerValue + "/issues/"+issue+"/assignees",
+		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues/"+issue+"/assignees",
 		method: 'POST',
 		headers: {
 			"content-type": "application/json",
@@ -183,7 +206,7 @@ function getName(owner)
 		});
 	});
 }
-
+exports.getColloborators = getColloborators;
 exports.getRepos = getRepos;
 exports.getClosedIssues = getClosedIssues;
 exports.getIssues = getIssues;

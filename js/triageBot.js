@@ -28,93 +28,83 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
           } else {
             main.getIssuesClosedByUser(repoOwner, repo, user.git_name).then(function(result) {
                   //bot.reply(message, string);
-
-                  bot.startConversation(message, function(response, convo){
-                    /*convo.ask("Pick an item from the list!", function(response, convo){
-                      console.log("list item "+)
-                      main.assignIssueToUser(user, repoOwner, repo, response.text, user.git_name).then(function(resp){
-                        convo.say(resp);
-                        convo.next();
-                      });
-                    });*/
-		        main.sortAndCompareIssues(result, openI).then(function(matchingR) {
-				 console.log("hi" + result);
-				 var string;
-					if(matchingR.length == 0){
-						string = "No issues to work on for now!";
-					} else {
-						var titles = _.pluck(matchingR, "title");
-						var urls = _.pluck(matchingR, "html_url");
-						string = "*Here are some open issues:*\n";
-						for(var i = 0; i < matchingR.length; i++){
-							string += (i + 1) + ") "+ titles[i] + ": ";
-							string += urls[i] + "\n\n";
-						}
-					}
-					
-				//bot.reply(message, string);
-				convo.ask(string + "Pick an item from the list!", [{
-				pattern: "^[0-9]+$",
-				callback: function(response, convo) {
-				 var issue;	
-				 if(response.text > matchingR.length || response.text < 1 || isNaN(matchingR)){
-					reject("Invalid issue number selected");
-				}else{
-					issue = matchingR[response.text - 1].number;
-				}	 
-				 main.assignIssueToUser(user, repoOwner, repo, issue, user.git_name).then(function(resp){
-					convo.say(resp);
-					convo.next();
-					});
-			       }
-			     },
-			      {
-				default: true,
-				callback: function(response, convo) {
-				  convo.repeat();
-				  convo.next();
-				}
-			      }
-			      ]);
-			}).catch(function (e){
-				bot.reply(message, e);
-				});
-			});			
-                  });
-                
-            }
-	}).catch(function (e){
-              bot.reply(message, e);
+            bot.startConversation(message, function(response, convo){
+  		        main.sortAndCompareIssues(result, openI).then(function(matchingR) {
+                // console.log("hi" + result);
+                var string;
+                if(matchingR.length == 0){
+                	string = "No issues to work on for now!";
+                } else {
+                	var titles = _.pluck(matchingR, "title");
+                	var urls = _.pluck(matchingR, "html_url");
+                	string = "*Here are some open issues:*\n";
+                	for(var i = 0; i < matchingR.length; i++){
+                		string += (i + 1) + ") "+ titles[i] + ": ";
+                		string += urls[i] + "\n\n";
+                	}
+                }
+        				convo.ask(string + "Pick an item from the list!", [
+                  {
+                    pattern: "^[0-9]+$",
+                    callback: function(response, convo) {
+                      if(response.text > matchingR.length || response.text < 1 || isNaN(response.text)){
+                        convo.say("Invalid issue number selected!");
+                        convo.repeat();
+              				  convo.next();
+                      } else {
+                        var issue = matchingR[response.text - 1].number;
+                        // console.log("issue number: "+issue);
+                        main.assignIssueToUser(user, repoOwner, repo, issue, user.git_name).then(function(resp){
+                         convo.say(resp);
+                         convo.next();
+                        });
+                      }
+                    }
+                  },
+      		        {
+            				default: true,
+            				callback: function(response, convo) {
+                      convo.say("Invalid issue number selected!");
+            				  convo.repeat();
+            				  convo.next();
+                    }
+                  }]);
+    			     }).catch(function (e){
+    				    bot.reply(message, e);
+               });
+    			   });
+            });
+          }
+        }).catch(function (e){
+          bot.reply(message, e);
       }).catch(function (e){
-            bot.reply(message, e);
+        bot.reply(message, e);
       });
-
     });
 });
 
 var deadline_conversation_asking_for_issueNumber = function(response, convo,results,name,message)
 {
   convo.ask("What issue do you want to assign to "+name+" ?",function(response, convo) {
-   main.assignIssueForDeadline(results,response.text,name).then(function(resp){
-    bot.reply(message,resp);
-    convo.next();
-  }).catch(function (e){
-    bot.reply(message,"Invalid response!");
+    main.assignIssueForDeadline(results,response.text,name).then(function(resp){
+      bot.reply(message,resp);
+      convo.next();
+    }).catch(function (e){
+      bot.reply(message,"Invalid response!");
       convo.repeat();
       convo.next();
-    });;
+    });
   });
 }
-
 
 var deadline_conversation_asking_for_assignment = function(response, convo,name,message)
 {
   main.getOpenIssuesForDeadlines(repoOwner,repo).then(function (results)
   {
     var result =[];
-      for(i=0;i<results.length;i++){
-        result.push(i+1+" ) "+results[i].title);
-        result.push(results[i].html_url);
+    for(i=0;i<results.length;i++){
+      result.push(i+1+" ) "+results[i].title);
+      result.push(results[i].html_url);
         //result.push('Deadline- '+results[i].milestone.due_on);
         result.push('\n');
       }
@@ -153,33 +143,39 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
   controller.hears(['deadlines for (.*)', 'Deadline for (.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
     var name = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
-      main.getIssuesAssigedToAuser(repoOwner,repo,name).then(function (results)
+
+      main.isValidUser(name).then(function (validUserName){
+       main.getIssuesAssigedToAuser(repoOwner,repo,name).then(function (results)
+       {
+        bot.reply(message, results);
+      }).catch(function (e){
+        bot.startConversation(message, function(err,convo){
+          deadline_conversation_asking_for_assignment(err,convo,name,message);
+
+        });
+
+      });
+    }).catch(function (e){
+      bot.reply(message,"Sorry, " +name +" is not a valid user!");
+    });
+
+
+    });
+  });
+
+  controller.hears(['closed issues by (.*)', 'Closed issues by (.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
+    var name = message.match[1];
+    controller.storage.users.get(message.user, function(err, user) {
+      main.getIssuesClosedByUser(repoOwner,repo,name).then(function (results)
       {
         bot.reply(message, results);
       }).catch(function (e){
-      bot.startConversation(message, function(err,convo){
-      deadline_conversation_asking_for_assignment(err,convo,name,message);
-
-    });
-
-   });
-
-    });
-});
-
-controller.hears(['closed issues by (.*)', 'Closed issues by (.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
-    var name = message.match[1];
-    controller.storage.users.get(message.user, function(err, user) {
-        main.getIssuesClosedByUser(repoOwner,repo,name).then(function (results)
-        {
-            bot.reply(message, results);
-        }).catch(function (e){
-            bot.reply(message, e+name);
-        });
+        bot.reply(message, e+name);
       });
-});
+    });
+  });
 
-controller.hears(['Help me with issue #(.*)', 'help me with issue #(.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
+  controller.hears(['Help me with issue #(.*)', 'help me with issue #(.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
     var number = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
 

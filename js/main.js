@@ -11,6 +11,22 @@ var LABEL_WEIGHT = 0.15;
 var TITLE_WEIGHT = 0.2;
 var DESC_WEIGHT = 0.2;
 
+
+function isValidUser(user){
+	return new Promise(function (resolve, reject)
+	{
+		github.getColloborators().then(function (userList){
+			for (var i = 0; i < userList.length; i++){
+				if(userList[i].login == user){
+					resolve(user);
+				}
+			}
+			reject(user);
+
+		});
+	});
+}
+
 // Return open/closed issues in a user's repo
 function getIssues(user, repo, gituser, state)
 {
@@ -285,28 +301,28 @@ function getFreeDevelopers(owner, repo, number)
 					else{
 						for(i=0;i < issue.assignees.length;i++){
 							myissuedl.push(issue.assignees[i].login);
-					}
-					for(i = 0;i < matching_issues.length;i++)
-					{
-						for(j = 0;j < matching_issues[i].assignees.length;j++)
+						}
+						for(i = 0;i < matching_issues.length;i++)
 						{
-							if(result.indexOf(matching_issues[i].assignees[j].login) == -1){
-								result.push(matching_issues[i].assignees[j].login)
+							for(j = 0;j < matching_issues[i].assignees.length;j++)
+							{
+								if(result.indexOf(matching_issues[i].assignees[j].login) == -1){
+									result.push(matching_issues[i].assignees[j].login)
+								}
 							}
 						}
-					}
-					result = _.difference(result, myissuedl);
-					if(!result.length){
-						reject("Sorry, couldn't find anyone to help you");
-					}
-					resolve("I think " + result.join(', ') + " could help you");
+						result = _.difference(result, myissuedl);
+						if(!result.length){
+							reject("Sorry, couldn't find anyone to help you");
+						}
+						resolve("I think " + result.join(', ') + " could help you");
 					}
 				});
 			});
 		});
-	});
+});
 }
-
+exports.isValidUser = isValidUser;
 exports.assignIssueForDeadline = assignIssueForDeadline;
 exports.getOpenIssuesForDeadlines = getOpenIssuesForDeadlines;
 exports.getIssuesAssigedToAuser = getIssuesAssigedToAuser;
