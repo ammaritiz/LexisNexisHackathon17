@@ -155,7 +155,7 @@ function assignIssueToUser(currentUser, issue, assigneeName)
 {
 	return new Promise(function(resolve, reject){
 		github.assignIssue(issue, assigneeName).then(function(response){
-			var string = "Assigned "+issue+" to "+ (assigneeName == currentUser.gitName ? "you" : assigneeName);
+			var string = "Assigned issue #"+issue+" to "+ (assigneeName == currentUser.gitName ? "you" : assigneeName);
 			resolve(string);
 		});
 	});
@@ -227,7 +227,7 @@ function getDeadlinesForUser(assigneeName)
 			}
 			resolve(result.join('\n'));
 		});
-});
+	});
 }
 
 function getIssuesClosedByUser(userName)
@@ -309,8 +309,9 @@ function getFreeDevelopers(number)
 				});
 			});
 		});
-});
+	});
 }
+
 exports.isValidUser = isValidUser;
 exports.assignIssueForDeadline = assignIssueForDeadline;
 exports.getOpenIssuesForDeadlines = getOpenIssuesForDeadlines;

@@ -32,17 +32,17 @@ function getColloborators()
 function getIssues()
 {
 
- 	var options = {
- 		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues?state=all",
- 		method: 'GET',
- 		headers: {
- 			"content-type": "application/json",
- 			"Authorization": token
- 		}
- 	};
+	var options = {
+		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues?state=all",
+		method: 'GET',
+		headers: {
+			"content-type": "application/json",
+			"Authorization": token
+		}
+	};
 
- 	return new Promise(function (resolve, reject)
- 	{
+	return new Promise(function (resolve, reject)
+	{
 		// Send a http request to url and specify a callback that will be called upon its return.
 		request(options, function (error, response, body)
 		{
@@ -56,17 +56,17 @@ function getIssues()
 function getClosedIssues()
 {
 
- 	var options = {
- 		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues?state=closed",
- 		method: 'GET',
- 		headers: {
- 			"content-type": "application/json",
- 			"Authorization": token
- 		}
- 	};
+	var options = {
+		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues?state=closed",
+		method: 'GET',
+		headers: {
+			"content-type": "application/json",
+			"Authorization": token
+		}
+	};
 
- 	return new Promise(function (resolve, reject)
- 	{
+	return new Promise(function (resolve, reject)
+	{
 		// Send a http request to url and specify a callback that will be called upon its return.
 		request(options, function (error, response, body)
 		{
@@ -78,7 +78,7 @@ function getClosedIssues()
 
 
 function assignIssue(issue, assignee)
- {
+{
 
 	var options = {
 		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues/"+issue+"/assignees",
@@ -92,8 +92,8 @@ function assignIssue(issue, assignee)
 		}
 	};
 
- 	return new Promise(function (resolve, reject)
- 	{
+	return new Promise(function (resolve, reject)
+	{
 		// Send a http request to url and specify a callback that will be called upon its return.
 		request(options, function (error, response, body)
 		{
@@ -104,17 +104,17 @@ function assignIssue(issue, assignee)
 
 function getAnIssue(number)
 {
- 	var options = {
- 		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues/"+number,
- 		method: 'GET',
- 		headers: {
- 			"content-type": "application/json",
- 			"Authorization": token
- 		}
- 	};
+	var options = {
+		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues/"+number,
+		method: 'GET',
+		headers: {
+			"content-type": "application/json",
+			"Authorization": token
+		}
+	};
 
- 	return new Promise(function (resolve, reject)
- 	{
+	return new Promise(function (resolve, reject)
+	{
 		// Send a http request to url and specify a callback that will be called upon its return.
 		request(options, function (error, response, body)
 		{
