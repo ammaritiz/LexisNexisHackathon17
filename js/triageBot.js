@@ -307,6 +307,7 @@ convo.next();
 var asking_git_hub_name = function(response, convo, message) {
 
   convo.ask('What is your github username?', function(response, convo) {
+      main.isValidUser(response.text).then(function (validUserName){
     convo.ask('Your github user name is `' + response.text + '`? Please confirm', [
     {
       pattern: 'yes',
@@ -337,6 +338,11 @@ var asking_git_hub_name = function(response, convo, message) {
       }
     }
     ]);
+  }).catch(function (e){
+      bot.reply(message,"Sorry, " +e +" is not a valid user!");
+      convo.repeat();
+      convo.next(); 
+    });
 
     convo.next();
 
