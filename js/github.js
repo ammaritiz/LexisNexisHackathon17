@@ -7,6 +7,10 @@ var urlRoot = "https://github.ncsu.edu/api/v3";
 var repoValue = "TriageBotTesting";
 var ownerValue= "hqtu";
 
+
+/**
+ * @return collaborators of the current working git repo
+ */
 function getColloborators()
 {
 	var options = {
@@ -29,9 +33,11 @@ function getColloborators()
 	});
 }
 
+/**
+ * @return all the issues in current working git repos
+ */
 function getIssues()
 {
-
 	var options = {
 		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues?state=all",
 		method: 'GET',
@@ -52,10 +58,11 @@ function getIssues()
 	});
 }
 
-
+/**
+ * @return closed issues in current working git repos
+ */
 function getClosedIssues()
 {
-
 	var options = {
 		url: urlRoot + "/repos/" + ownerValue +"/" + repoValue + "/issues?state=closed",
 		method: 'GET',
@@ -76,7 +83,11 @@ function getClosedIssues()
 	});
 }
 
-
+/**
+ * @desc assign an issue to an user on the current working github repo
+ * @param issue that the user want to assign a developer with
+ * @param assignee that the user want to assign the issue to
+ */
 function assignIssue(issue, assignee)
 {
 
@@ -102,6 +113,10 @@ function assignIssue(issue, assignee)
 	});
 }
 
+/**
+ * @param ID number of the issue
+ * @return the details of the issue on the current working github repo
+ */
 function getAnIssue(number)
 {
 	var options = {

@@ -17,7 +17,6 @@ var bot = controller.spawn({
 }).startRTM();
 
 controller.hears(['give me issues'], 'direct_message, direct_mention, mention', function(bot, message) {
-
   controller.storage.users.get(message.user, function(err, user) {
 
     if (user && user.name && user.gitName) {
@@ -26,55 +25,9 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
           var str = "No issues to work on for now!";
           bot.reply(message, str);
         } else {
-          main.getIssuesClosedByUser(user.gitName).then(function(result) {
-            bot.startConversation(message, function(error, convo){
-              main.sortAndCompareIssues(result, openI).then(function(matchingR) {
-                var string;
-                if(matchingR.length == 0){
-                  string = "No issues to work on for now!";
-                } else {
-                  var titles = _.pluck(matchingR, "title");
-                  var urls = _.pluck(matchingR, "html_url");
-                  string = "*Here are some open issues:*\n";
-                  for(var i = 0; i < matchingR.length; i++){
-                    string += (i + 1) + ") "+ titles[i] + ": ";
-                    string += urls[i] + "\n\n";
-                  }
-                }
-                convo.ask(string + "Pick an item from the list!", [
-                  {
-                    pattern: "^[0-9]+$",
-                    callback: function(response, convo) {
-                      if(response.text > matchingR.length || response.text < 1 || isNaN(response.text)){
-                        convo.say("Invalid issue number selected!");
-                        convo.repeat();
-                        convo.next();
-                      } else {
-                        var issue = matchingR[response.text - 1].number;
-                        main.assignIssueToUser(user, issue, user.gitName).then(function(resp){
-                          convo.say(resp);
-                          convo.next();
-                        });
-                      }
-                    }
-                  },
-                  {
-                    default: true,
-                    callback: function(response, convo) {
-                      convo.say("Invalid issue number selected!");
-                      convo.repeat();
-                      convo.next();
-                    }
-                  }]);
-                }).catch(function (e){
-                  bot.reply(message, e);
-                });
-              });
-            }); // end main.getIssuesClosedByUser
+            getICBU(message, user, openI);
           }
-        }).catch(function (e){ // catch main.sortAndCompareIssues
-          bot.reply(message, e);
-        }).catch(function (e){ // catch main.getIssuesClosedByUser
+        }).catch(function (e){ // catch getIssues
           bot.reply(message, e);
         });
       } else {
@@ -97,6 +50,55 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
       }
     });
   });
+
+  var getICBU = function(message, user, openIssues)
+  {
+    main.getIssuesClosedByUser(user.gitName).then(function(result) {
+      bot.startConversation(message, function(error, convo){
+        main.sortAndCompareIssues(result, openIssues).then(function(matchingR) {
+          var string;
+          if(matchingR.length == 0){
+            string = "No issues to work on for now!";
+          } else {
+            var titles = _.pluck(matchingR, "title");
+            var urls = _.pluck(matchingR, "html_url");
+            string = "*Here are some open issues:*\n";
+            for(var i = 0; i < matchingR.length; i++){
+              string += (i + 1) + ") "+ titles[i] + ": ";
+              string += urls[i] + "\n\n";
+            }
+          }
+          convo.ask(string + "Pick an item from the list!", [
+            {
+              pattern: "^[0-9]+$",
+              callback: function(response, convo) {
+                if(response.text > matchingR.length || response.text < 1 || isNaN(response.text)){
+                  convo.say("Invalid issue number selected!");
+                  convo.repeat();
+                  convo.next();
+                } else {
+                  var issue = matchingR[response.text - 1].number;
+                  main.assignIssueToUser(user, issue, user.gitName).then(function(resp){
+                    convo.say(resp);
+                    convo.next();
+                  });
+                }
+              }
+            },
+            {
+              default: true,
+              callback: function(response, convo) {
+                convo.say("Invalid issue number selected!");
+                convo.repeat();
+                convo.next();
+              }
+            }]);
+          }).catch(function (e){ // catch main.sortAndCompareIssues
+            bot.reply(message, e);
+          });
+        }); // end bot.startConversation
+      }); // end main.getIssuesClosedByUser
+  }
 
   var deadlineConversationAskingForIssueNumber = function(response, convo,results,name,message)
   {
@@ -277,7 +279,6 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
           pattern: 'no',
           callback: function(response, convo) {
             // stop the conversation. this will cause it to end with status == 'stopped'
-
             convo.stop();
           }
         },
@@ -289,9 +290,7 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
           }
         }
       ]);
-
       convo.next();
-
     }, {'key': 'nickname'});
   };
 
