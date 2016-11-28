@@ -28,11 +28,11 @@ function isValidUser(user){
 }
 
 // Return open/closed issues in a user's repo
-function getIssues(user, repo, gituser, state)
+function getIssues(gituser, state)
 {
 	return new Promise(function (resolve, reject)
 	{
-		github.getIssues(user, repo).then(function (issues)
+		github.getIssues().then(function (issues)
 		{
 			var states;
 			if(state == "open"){
@@ -56,7 +56,7 @@ function getIssues(user, repo, gituser, state)
 	});
 }
 
-function assignIssueForDeadline(results ,issueNum, assigneeName)
+function assignIssueForDeadline(results, issueNum, assigneeName)
 {
 	return new Promise(function(resolve, reject){
 		var issue;
@@ -65,7 +65,7 @@ function assignIssueForDeadline(results ,issueNum, assigneeName)
 		}else{
 			issue = results[issueNum-1].number;
 		}
-		github.assignIssueNew(issue, assigneeName).then(function(response){
+		github.assignIssue(issue, assigneeName).then(function(response){
 			var string = "Assigned Issue #"+issueNum+" To "+ assigneeName+"\nTitle: "+ results[issueNum-1].title;
 			resolve(string);
 		});
@@ -90,7 +90,6 @@ function sortAndCompareIssues(issuesA, issuesB)
 		if(_.difference(issuesBTitles, issuesATitles) == 0){
 			resolve(issuesB);
 		} else {
-			// console.log("diff: "+_.difference(issuesBTitles, issuesATitles));
 			for(var i = 0; i < issuesB.length; i++)
 			{
 				var issuesBLabels = _.pluck(issuesB[i].labels, 'name');
@@ -100,7 +99,6 @@ function sortAndCompareIssues(issuesA, issuesB)
 					var score = 0;
 					var issuesALabels = _.pluck(issuesA[j].labels, 'name');
 					var labelsDiff = _.difference(issuesALabels, issuesBLabels);
-					// console.log("comparing "+issuesA[j].title+" with "+issuesB[i].title+" diff: "+labelsDiff);
 					// If all labels match or if both issues don't have labels, add to score
 					if(labelsDiff.length == 0 || (issuesALabels.length == 0 && issuesBLabels.length == 0)){
 						if(issuesALabels.length <= MAX_LABEL)
@@ -113,21 +111,17 @@ function sortAndCompareIssues(issuesA, issuesB)
 							score += (issuesALabels.length-labelsDiff.length)*LABEL_WEIGHT;
 						}
 					}
-					// console.log("label score "+score);
 					var titleScore = stringSimilarity.compareTwoStrings(issuesB[i].title, issuesA[j].title);
 					score += titleScore*TITLE_WEIGHT;
 					var descScore;
-					// console.log("title score "+titleScore);
 					if(issuesA[j].body.length != 0 && issuesB[i].body.length != 0){
 						descScore = stringSimilarity.compareTwoStrings(issuesB[i].body, issuesA[j].body);
 						score += descScore*DESC_WEIGHT;
-						// console.log("desc score "+descScore);
 					}
 					if(maxScore < score)
 					{
 						maxScore = score;
 					}
-					// console.log("total score for "+issuesB[i].title+" is "+score);
 				}
 				issueScore.push(maxScore);
 			}
@@ -157,46 +151,45 @@ function sortAndCompareIssues(issuesA, issuesB)
 }
 
 // Assignes a user to an issue
-function assignIssueToUser(currentUser, owner, repo, issue, assigneeName)
+function assignIssueToUser(currentUser, issue, assigneeName)
 {
 	return new Promise(function(resolve, reject){
-		github.assignIssue(owner, repo, issue, assigneeName).then(function(response){
-			var string = "Assigned "+issue+" to "+ (assigneeName == currentUser.git_name ? "you" : assigneeName);
+		github.assignIssue(issue, assigneeName).then(function(response){
+			var string = "Assigned "+issue+" to "+ (assigneeName == currentUser.gitName ? "you" : assigneeName);
 			resolve(string);
 		});
 	});
 }
 
-function getOpenIssuesForDeadlines(owner,repo)
+function getOpenIssuesForDeadlines()
 {
 	return new Promise(function (resolve, reject)
 	{
 		// mock data needs list of issues.
-		github.getIssues(owner,repo).then(function (issues)
+		github.getIssues().then(function (issues)
 		{
 			var resSet=[];
-			//TODO add code for fetching open issues
-			var open_issues =  _.reject(issues,function(issueVar){
+			var openIssues =  _.reject(issues,function(issueVar){
 				if(issueVar.state!='open')
 				{
 					return true;
 				}else
 				return false;
 			});
-			if(!open_issues.length){
+			if(!openIssues.length){
 				reject("No Open Issues found");
 			}
-			resolve(open_issues);
+			resolve(openIssues);
 		});
 	});
 }
 
-function getIssuesAssigedToAuser(owner,repo,assigneeName)
+function getDeadlinesForUser(assigneeName)
 {
 	return new Promise(function (resolve, reject)
 	{
 		// Fetching all the issues from github using rest api.
-		github.getIssues(owner,repo).then(function (issues)
+		github.getIssues().then(function (issues)
 		{
 			var resSet=[];
 			//removing issues which are not open OR dont have a milestone OR does not have a assignee
@@ -226,12 +219,10 @@ function getIssuesAssigedToAuser(owner,repo,assigneeName)
 			var states;
 
 			var result =[];
-			//TODO Strip date
 			for(i=0;i<issuesForAssignee.length;i++){
 				result.push(i+1+") "+issuesForAssignee[i].title);
 				result.push(issuesForAssignee[i].html_url);
 				result.push('Deadline- '+ new Date(issuesForAssignee[i].milestone.due_on));
-				// console.log(typeof issuesForAssignee[i].milestone.due_on);
 				result.push('\n');
 			}
 			resolve(result.join('\n'));
@@ -239,13 +230,12 @@ function getIssuesAssigedToAuser(owner,repo,assigneeName)
 });
 }
 
-function getIssuesClosedByUser(owner,repo,userName)
+function getIssuesClosedByUser(userName)
 {
 	return new Promise(function (resolve, reject)
 	{
-		github.getClosedIssues(owner, repo).then(function (issues)
+		github.getClosedIssues().then(function (issues)
 		{
-			// console.log(issues);
 			var issuesWithAssignee =  _.reject(issues,function(issueVar){
 				if(issueVar.assignee == null || issueVar.state != 'closed')
 				{
@@ -272,11 +262,11 @@ function getIssuesClosedByUser(owner,repo,userName)
 }
 
 // Use this to get gitnames of developers that could help you with a particular issue
-function getFreeDevelopers(owner, repo, number)
+function getFreeDevelopers(number)
 {
 	return new Promise(function (resolve, reject)
 	{
-		github.getAnIssue(owner, repo, number).then(function (issue)
+		github.getAnIssue(number).then(function (issue)
 		{
 			if(issue.state === undefined)
 			{
@@ -288,26 +278,25 @@ function getFreeDevelopers(owner, repo, number)
 				reject("Hey buddy, you don't need any help, this issue is already closed");
 				return
 			}
-			getIssues(owner, repo, 'closed').then(function(issues){
+			getIssues('closed').then(function(issues){
 				myissue = []
 				myissue.push(issue)
-				sortAndCompareIssues(myissue, issues).then(function(matching_issues){
-					// console.log(_.pluck(matching_issues,'number'))
+				sortAndCompareIssues(myissue, issues).then(function(matchingIssues){
 					var result =[];
 					myissuedl = [];
-					if(!matching_issues.length){
+					if(!matchingIssues.length){
 						reject("Sorry, couldn't find anyone to help you");
 					}
 					else{
 						for(i=0;i < issue.assignees.length;i++){
 							myissuedl.push(issue.assignees[i].login);
 						}
-						for(i = 0;i < matching_issues.length;i++)
+						for(i = 0;i < matchingIssues.length;i++)
 						{
-							for(j = 0;j < matching_issues[i].assignees.length;j++)
+							for(j = 0;j < matchingIssues[i].assignees.length;j++)
 							{
-								if(result.indexOf(matching_issues[i].assignees[j].login) == -1){
-									result.push(matching_issues[i].assignees[j].login)
+								if(result.indexOf(matchingIssues[i].assignees[j].login) == -1){
+									result.push(matchingIssues[i].assignees[j].login)
 								}
 							}
 						}
@@ -325,7 +314,7 @@ function getFreeDevelopers(owner, repo, number)
 exports.isValidUser = isValidUser;
 exports.assignIssueForDeadline = assignIssueForDeadline;
 exports.getOpenIssuesForDeadlines = getOpenIssuesForDeadlines;
-exports.getIssuesAssigedToAuser = getIssuesAssigedToAuser;
+exports.getDeadlinesForUser = getDeadlinesForUser;
 exports.getIssuesClosedByUser = getIssuesClosedByUser;
 exports.assignIssueToUser = assignIssueToUser;
 exports.getIssues = getIssues;

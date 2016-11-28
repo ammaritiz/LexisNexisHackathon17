@@ -1,6 +1,4 @@
 var main = require("./main.js")
-var repo = "hqtu";
-var repoOwner= "TriageBotTesting"
 var Promise = require("bluebird");
 var _ = require("underscore");
 if (!process.env.BOT_TOKEN) {
@@ -22,16 +20,15 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
 
     controller.storage.users.get(message.user, function(err, user) {
 
-      if (user && user.name && user.git_name) {
-        main.getIssues(repoOwner, repo, user.name, "open").then(function(openI) {
+      if (user && user.name && user.gitName) {
+        main.getIssues(user.gitName, "open").then(function(openI) {
           if(openI.length == 0){
             var str = "No issues to work on for now!";
             bot.reply(message, str);
           } else {
-              main.getIssuesClosedByUser(repoOwner, repo, user.git_name).then(function(result) {
+              main.getIssuesClosedByUser(user.gitName).then(function(result) {
               bot.startConversation(message, function(error, convo){
     		        main.sortAndCompareIssues(result, openI).then(function(matchingR) {
-                  // console.log("hi" + result);
                   var string;
                   if(matchingR.length == 0){
                   	string = "No issues to work on for now!";
@@ -54,8 +51,7 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
                 				  convo.next();
                         } else {
                           var issue = matchingR[response.text - 1].number;
-                          // console.log("issue number: "+issue);
-                          main.assignIssueToUser(user, repoOwner, repo, issue, user.git_name).then(function(resp){
+                          main.assignIssueToUser(user, issue, user.gitName).then(function(resp){
                            convo.say(resp);
                            convo.next();
                           });
@@ -102,7 +98,7 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
     });
 });
 
-var deadline_conversation_asking_for_issueNumber = function(response, convo,results,name,message)
+var deadlineConversationAskingForIssueNumber = function(response, convo,results,name,message)
 {
   convo.ask("What issue do you want to assign to "+name+" ?",function(response, convo) {
     main.assignIssueForDeadline(results,response.text,name).then(function(resp){
@@ -116,15 +112,14 @@ var deadline_conversation_asking_for_issueNumber = function(response, convo,resu
   });
 }
 
-var deadline_conversation_asking_for_assignment = function(response, convo,name,message)
+var deadlineConversationAskingForAssignment = function(response, convo,name,message)
 {
-  main.getOpenIssuesForDeadlines(repoOwner,repo).then(function (results)
+  main.getOpenIssuesForDeadlines().then(function (results)
   {
     var result =[];
     for(i=0;i<results.length;i++){
       result.push(i+1+" ) "+results[i].title);
       result.push(results[i].html_url);
-        //result.push('Deadline- '+results[i].milestone.due_on);
         result.push('\n');
       }
       convo.say("No Deadlines found for "+name);
@@ -133,7 +128,7 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
         pattern: 'yes',
         callback: function(response, convo) {
          convo.say(result.join('\n'));
-         deadline_conversation_asking_for_issueNumber(response,convo, results,name,message);
+         deadlineConversationAskingForIssueNumber(response,convo, results,name,message);
          convo.next();
        }
      },
@@ -159,33 +154,29 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
     });
   }
 
-  controller.hears(['deadlines for (.*)', 'Deadline for (.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
+  controller.hears(['deadlines for (.*)', 'Deadline for (.*)'], 'direct_message, direct_mention, mention', function(bot, message) {
     var name = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
 
       main.isValidUser(name).then(function (validUserName){
-       main.getIssuesAssigedToAuser(repoOwner,repo,name).then(function (results)
+       main.getDeadlinesForUser(name).then(function (results)
        {
         bot.reply(message, results);
       }).catch(function (e){
         bot.startConversation(message, function(err,convo){
-          deadline_conversation_asking_for_assignment(err,convo,name,message);
-
+          deadlineConversationAskingForAssignment(err,convo,name,message);
         });
-
       });
     }).catch(function (e){
       bot.reply(message,"Sorry, " +name +" is not a valid user!");
     });
-
-
     });
   });
 
   controller.hears(['closed issues by (.*)', 'Closed issues by (.*)'], 'direct_message,direct_mention,mention', function(bot, message) {
     var name = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
-      main.getIssuesClosedByUser(repoOwner,repo,name).then(function (results)
+      main.getIssuesClosedByUser(name).then(function (results)
       {
         bot.reply(message, results);
       }).catch(function (e){
@@ -198,8 +189,8 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
 
     var number = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
-      if (user && user.name && user.git_name) {
-        main.getFreeDevelopers(repoOwner,repo,number).then(function (results)
+      if (user && user.name && user.gitName) {
+        main.getFreeDevelopers(number).then(function (results)
         {
           bot.reply(message, results);
         }).catch(function (e){
@@ -231,7 +222,7 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
 
     controller.storage.users.get(message.user, function(err, user) {
 
-      if (user && user.name && user.git_name) {
+      if (user && user.name && user.gitName) {
         bot.reply(message, 'Hello ' + user.name );
       } else {
         bot.startConversation(message, function(err, convo) {
@@ -270,7 +261,7 @@ var deadline_conversation_asking_for_assignment = function(response, convo,name,
                                       if (!user) {
                                         user = {
                                           id: message.user,
-                                          git_name : '',
+                                          gitName : '',
                                         };
                                       }
                                       user.name = convo.extractResponse('nickname');
@@ -315,9 +306,9 @@ var asking_git_hub_name = function(response, convo, message) {
         // since no further messages are queued after this,
         // the conversation will end naturally with status == 'completed'
         controller.storage.users.get(message.user, function(err, user) {
-          user.git_name = convo.extractResponse('git_nickname');
+          user.gitName = convo.extractResponse('git_nickname');
           controller.storage.users.save(user, function(err, id) {
-            bot.reply(message, 'Got it! updating you github user name as ' + user.git_name + ' from now on.');
+            bot.reply(message, 'Got it! updating you github user name as ' + user.gitName + ' from now on. You can now issue commands!');
           });
         });
         convo.next();
@@ -341,7 +332,7 @@ var asking_git_hub_name = function(response, convo, message) {
   }).catch(function (e){
       bot.reply(message,"Sorry, " +e +" is not a valid user!");
       convo.repeat();
-      convo.next(); 
+      convo.next();
     });
 
     convo.next();
@@ -352,9 +343,7 @@ var asking_git_hub_name = function(response, convo, message) {
 
 
 controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
-
   controller.storage.users.get(message.user, function(err, user) {
-        // if (user && user.name) {
           if (user && user.name) {
             bot.reply(message,"Sorry couldn't understand it "+ user.name );
           }else{
@@ -364,7 +353,5 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
           bot.reply(message,"1. Dealine for <git_user_name>");
           bot.reply(message,"2. Help me with issue #<github issue number>");
           bot.reply(message,"3. Give me issues");
-
-        // }
       });
 });
