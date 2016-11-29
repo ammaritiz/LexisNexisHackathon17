@@ -21,6 +21,7 @@ The details about our updates of this milestone is included in the [SERVICE Docu
 ### Deployment
 
 In this milestone, the steps and details for our project to deploy is include in [DEPLOYMENT Document](documents/DEPLOY.md).
+
 For other guests to test our bot's use cases, detailed instructions for that is listed in [Acceptance Test Documents](documents/AcceptanceTest.md). 
 
 ### Screencast Demo
