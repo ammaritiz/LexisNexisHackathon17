@@ -29,3 +29,5 @@ For other guests to test our bot's use cases, detailed instructions for that is 
 Our Bot Milestone is demonstrated in this demo on youtube and can be accessed in [here](https://youtu.be/gZ3FrKAC1VQ).
 
 Our Service Milestone is demonstrated in this demo on youtube and can be accessed in [here](https://youtu.be/xcyAL6UnUK8).
+
+Our Deployment demo is demonstrated in these two demos on youtube and can be accessed in [here](https://youtu.be/fOz08XTs3x4) and [here](https://youtu.be/fOaChTrD9bM).
