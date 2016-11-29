@@ -10,7 +10,7 @@ You will also need a [virtual machine provider](https://docs.vagrantup.com/v2/pr
 
 Initialize a virtual machine. `ubuntu/trusty64` is one default image. A list of other virtual machine images can be found [here](https://atlas.hashicorp.com/boxes/search).
 
-    vagrant init ubuntu/trusty
+    vagrant init ubuntu/trusty64
 
 Start up the virtual machine.
 
