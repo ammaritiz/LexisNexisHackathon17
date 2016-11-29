@@ -192,7 +192,7 @@ var deadlineConversationAskingForAssignment = function(response, convo, name, me
     });
 }
 
-controller.hears(['deadlines for (.*)', 'Deadline for (.*)'], 'direct_message, direct_mention, mention', function(bot, message) {
+controller.hears(['deadlines for (.*)', 'Deadlines for (.*)'], 'direct_message, direct_mention, mention', function(bot, message) {
     var name = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
 
@@ -234,7 +234,7 @@ controller.hears(['Help me with issue #(.*)', 'help me with issue #(.*)'], 'dire
     var number = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
       if (user && user.name && user.gitName) {
-        main.getFreeDevelopers(user.gitName, number).then(function (results)
+        main.getHelp(user.gitName, number).then(function (results)
         {
           bot.reply(message, results);
         }).catch(function (e){
@@ -391,9 +391,7 @@ var asking_git_hub_name = function(response, convo, message) {
         convo.repeat();
         convo.next();
       });
-
       convo.next();
-
     }, {'key': 'git_nickname'});
 };
 
@@ -411,7 +409,7 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
         bot.reply(message,"Sorry couldn't understand it ");
       }
       bot.reply(message,"Below are is the list of commands you can use:");
-      bot.reply(message,"1. Deadline for <git_user_name>");
+      bot.reply(message,"1. Deadlines for <git_user_name>");
       bot.reply(message,"2. Help me with issue #<github issue number>");
       bot.reply(message,"3. Give me issues");
     });
