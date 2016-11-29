@@ -234,7 +234,7 @@ controller.hears(['Help me with issue #(.*)', 'help me with issue #(.*)'], 'dire
     var number = message.match[1];
     controller.storage.users.get(message.user, function(err, user) {
       if (user && user.name && user.gitName) {
-        main.getFreeDevelopers(number).then(function (results)
+        main.getFreeDevelopers(user.gitName, number).then(function (results)
         {
           bot.reply(message, results);
         }).catch(function (e){

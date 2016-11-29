@@ -262,7 +262,7 @@ function getIssuesClosedByUser(userName)
 }
 
 // Use this to get gitnames of developers that could help you with a particular issue
-function getFreeDevelopers(number)
+function getFreeDevelopers(name, number)
 {
 	return new Promise(function (resolve, reject)
 	{
@@ -301,6 +301,7 @@ function getFreeDevelopers(number)
 							}
 						}
 						result = _.difference(result, myissuedl);
+						result = _.without(result, name);
 						if(!result.length){
 							reject("Sorry, couldn't find anyone to help you");
 						}
