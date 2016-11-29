@@ -11,7 +11,10 @@ var LABEL_WEIGHT = 0.15;
 var TITLE_WEIGHT = 0.2;
 var DESC_WEIGHT = 0.2;
 
-
+/**
+ * @desc Check if the username is valid
+ * @param user - user name
+ */
 function isValidUser(user){
 	return new Promise(function (resolve, reject)
 	{
@@ -22,12 +25,14 @@ function isValidUser(user){
 				}
 			}
 			reject(user);
-
 		});
 	});
 }
 
-// Return open/closed issues in a user's repo
+/**
+ * @desc return open/closed issues in a user's repo
+ * @param user - user name
+ */
 function getIssues(gituser, state)
 {
 	return new Promise(function (resolve, reject)
@@ -56,6 +61,13 @@ function getIssues(gituser, state)
 	});
 }
 
+/**
+ * @desc Passing to github.js to assign issue number
+ * to specific user/developer
+ * @param results - the list of issues
+ * @param issueNUm - the number of the issue to assign
+ * @param assigneeName - the user/developer to assign the issue to
+ */
 function assignIssueForDeadline(results, issueNum, assigneeName)
 {
 	return new Promise(function(resolve, reject){
@@ -72,12 +84,14 @@ function assignIssueForDeadline(results, issueNum, assigneeName)
 	});
 }
 
-// Use this to compare two sets of issues, where:
-// issuesA is either the issue that needs help OR
-// issuesA is a list of closed issues by developer who wants open issues and
-// issuesB is the list of open or closed issues to compare against which will
-// be sorted according by comparing each issue on issueA for highest score
-// issuesB will then be returned once sorted from highest match to lowest
+/**
+ * @desc Assigning issue number to specific user/developer
+ * @param issuesA - is either the issue that needs help OR
+ * issuesA is a list of closed issues by developer who wants open issues and
+ * @param issuesB is the list of open or closed issues to compare against which will
+ * be sorted according by comparing each issue on issueA for highest score
+ * @return top 5 of sorted issuesB will then be returned from highest match to lowest
+ */
 function sortAndCompareIssues(issuesA, issuesB)
 {
 	return new Promise(function(resolve, reject){
@@ -150,7 +164,14 @@ function sortAndCompareIssues(issuesA, issuesB)
 	});
 }
 
-// Assignes a user to an issue
+
+/**
+ * @desc Assignes a user to an issue
+ * to specific user/developer
+ * @param currentUser - the current user talking to the bot
+ * @param issue - the issue you want to assign to the user
+ * @param assigneeName - the user/developer to assign the issue to
+ */
 function assignIssueToUser(currentUser, issue, assigneeName)
 {
 	return new Promise(function(resolve, reject){
@@ -161,6 +182,11 @@ function assignIssueToUser(currentUser, issue, assigneeName)
 	});
 }
 
+/**
+ * @desc make the call to github.js to
+ * get the list of open issues
+ * @return the list of open issues
+ */
 function getOpenIssuesForDeadlines()
 {
 	return new Promise(function (resolve, reject)
@@ -184,6 +210,10 @@ function getOpenIssuesForDeadlines()
 	});
 }
 
+/**
+ * @param assigneeName - the user/developer git username
+ * @return the list of deadlines for a specific user/developer
+ */
 function getDeadlinesForUser(assigneeName)
 {
 	return new Promise(function (resolve, reject)
@@ -230,6 +260,11 @@ function getDeadlinesForUser(assigneeName)
 	});
 }
 
+/**
+ * @desc return the list of closed issues that assigned to a specific user
+ * @param userName - the user/developer git username
+ * @return the list of deadlines for a specific user/developer
+ */
 function getIssuesClosedByUser(userName)
 {
 	return new Promise(function (resolve, reject)
@@ -261,8 +296,13 @@ function getIssuesClosedByUser(userName)
 	});
 }
 
-// Use this to get gitnames of developers that could help you with a particular issue
-function getFreeDevelopers(number)
+
+/**
+ * @desc Use this to get gitnames of developers that could help you with a particular issue
+ * @param number - the number of the issue to get help for in UC3
+ * @return the list of users/developers that have experiences with resolving the similar issue
+ */
+function getHelp(number)
 {
 	return new Promise(function (resolve, reject)
 	{
@@ -319,5 +359,5 @@ exports.getDeadlinesForUser = getDeadlinesForUser;
 exports.getIssuesClosedByUser = getIssuesClosedByUser;
 exports.assignIssueToUser = assignIssueToUser;
 exports.getIssues = getIssues;
-exports.getFreeDevelopers=getFreeDevelopers;
+exports.getHelp=getHelp;
 exports.sortAndCompareIssues = sortAndCompareIssues;
