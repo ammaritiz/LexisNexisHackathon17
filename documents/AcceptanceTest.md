@@ -19,7 +19,7 @@ For a first time user, the bot won't be able to recognize you unless you initiat
 
   * type `Hi` or `Hello`
   * Wait for the bot to respond and then tell it your nickname (The bot will use that to refer to you)
-  * Confirm your nickname by saying yes, then answer the bot's question by telling it your github username. (use `gitname` as your username)
+  * Confirm your nickname by saying yes, then answer the bot's question by telling it a valid github username. (one of the collaborators to the repo)
   * Confirm your github username by saying `yes`.
 
 ###UseCase 1
