@@ -48,7 +48,7 @@ The bot would then list the issues for the developer and wait for a response. Th
 
 ### Architecture Design
 
-<img src="images/Architecture Diagram.png"/>
+<img src="../images/Architecture Diagram.png"/>
 
 The bot’s architecture best represents a repository architecture pattern, where the data for developers’ past issues and issue information are being pulled more often than pushed to Github. The frontend of the bot architecture is the Slack UI, which will be used by the developers to communicate and assign issues to each other. Node.js will serve as the backend, making use of a third-party library called BotKit to listen to and process commands issued by the developer and to push notifications and reminders like upcoming deadlines.
 
@@ -64,6 +64,7 @@ Constraints or guidelines that should be established in building software for yo
 - Priority level of issues is calculated on deadlines and git issue’s label(s)
 - There are fixed number of labels.
 - Each individual issue is assigned appropriate label(s) by the developer(s).
+- Deadlines looks for issues with attached milestones.
 
 ###Additional Design Pattern:
 #####Adapter Pattern
