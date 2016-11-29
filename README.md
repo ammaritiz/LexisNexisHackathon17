@@ -18,6 +18,10 @@ The first three use cases of our Developer Triage Bot are described in the [Tria
 
 The details about our updates of this milestone is included in the [SERVICE Document](documents/SERVICE.md).
 
+### Deployment
+
+In this milestone, the steps and details for our project to deploy is include in [DEPLOYMENT Document](documents/DEPLOY.md).
+
 ### Screencast Demo
 
 Our Bot Milestone is demonstrated in this demo on youtube and can be accessed in [here](https://youtu.be/gZ3FrKAC1VQ).
