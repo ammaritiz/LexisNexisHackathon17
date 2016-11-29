@@ -386,12 +386,13 @@ var asking_git_hub_name = function(response, convo, message) {
             }
           }
         ]);
+    convo.next();
       }).catch(function (e){
         bot.reply(message,"Sorry, " +e +" is not a valid user!");
         convo.repeat();
         convo.next();
       });
-      convo.next();
+    
     }, {'key': 'git_nickname'});
 };
 
