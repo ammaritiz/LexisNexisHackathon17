@@ -86,6 +86,15 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
               }
             },
             {
+              pattern: "nevermind",
+              callback: function(response, convo) {
+                // stop the conversation. this will cause it to end with status == 'stopped'
+                convo.say("Okay! No issue was selected!");
+                console.log("okay");
+                convo.next();
+              }
+            },
+            {
               default: true,
               callback: function(response, convo) {
                 convo.say("Invalid issue number selected!");
@@ -124,8 +133,8 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
         result.push(results[i].html_url);
         result.push('\n');
       }
-      convo.say("No Deadlines found for "+name);
-      convo.ask("Do you want to assign him any of the open issues?", [
+      convo.say("No Deadlines found for " + name);
+      convo.ask("Do you want to assign them any of the open issues?", [
         {
           pattern: 'yes',
           callback: function(response, convo) {
@@ -138,7 +147,9 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
           pattern: 'no',
           callback: function(response, convo) {
             // stop the conversation. this will cause it to end with status == 'stopped'
-            convo.stop();
+            convo.say("Okay! No issue was assigned to " + name);
+            console.log("in deadlines");
+            convo.next();
           }
         },
         {
@@ -349,7 +360,7 @@ controller.hears(['give me issues'], 'direct_message, direct_mention, mention', 
         bot.reply(message,"Sorry couldn't understand it ");
       }
       bot.reply(message,"Below are is the list of commands you can use:");
-      bot.reply(message,"1. Dealine for <git_user_name>");
+      bot.reply(message,"1. Deadline for <git_user_name>");
       bot.reply(message,"2. Help me with issue #<github issue number>");
       bot.reply(message,"3. Give me issues");
     });
