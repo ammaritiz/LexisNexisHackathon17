@@ -53,7 +53,7 @@ Create a `inventory` file that contains something like the following.  **Note us
 
 #### Testing connection
 
-Now, run the ping test again to make sure you can actually talk to the node!
+Now, run the ping test again to make sure you can actually talk to the EC2 instance!
 
     ansible all -m ping -i inventory -vvvv
     
@@ -69,4 +69,4 @@ Now, run the ping test again to make sure you can actually talk to the node!
 
     ansible-playbook -i inventory -vvv playbook.yml
     
-The Bot should be up and running once the ansible scripts is completed successfully.
+The Bot should be up and running once the ansible script is completed successfully.
