@@ -56,4 +56,15 @@
 | Subflow 2     | Usernames Matching       | [#17](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/17), [#26](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/26)
 | Subflow 3     | Requesting help with closed issues | [#30](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/30)
 
-
+#### Week 7
+| Deliverable   | Item/Status   |  Issues/Tasks
+| ------------- | ------------  |  ------------
+| *Use Case 1*  | Give the user a list of open issues to work on | &nbsp;
+| Improve Use case 1 | Fix edge cases | [#31](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/31)
+| Improve issue list |  prettify issue list | [#32](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/32)
+| *Use Case 2*  | Give the user a requested person’s</br>(id of the person) current deadlines | &nbsp;
+| Improve Use case 2 | Fix edge cases | [#40](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/40)
+| *Use Case 3*  | Help the user with their issue(s)/task(s) | &nbsp;
+| Improve Use case 3 | Fix edge cases | [#41](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/41)
+| *Deployment* | provision an aws ec2 instance using ansible | &nbsp;
+| Provision the instance | right and run the ansible script | [#34](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/34), [#36](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/36)
