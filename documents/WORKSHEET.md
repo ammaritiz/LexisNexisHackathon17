@@ -68,7 +68,7 @@
 | *Use Case 3*  | Help the user with their issue(s)/task(s) | &nbsp;
 | Improve Use case 3 | Fix edge cases | [#41](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/41)
 
-### Week 8
+#### Week 8
 | Deliverable   | Item/Status   |  Issues/Tasks
 | ------------- | ------------  |  ------------
 | *Deployment* | provision an aws ec2 instance using ansible | &nbsp;
