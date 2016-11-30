@@ -63,8 +63,8 @@
 | Improve Use case 1 | Fix edge cases | [#31](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/31)
 | Subflow 4 |  Add a new pattern | [#39](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/39)
 | *Use Case 2*  | Give the user a requested person’s</br>(id of the person) current deadlines | &nbsp;
-| Improve Use case 2 | Fix edge case | [#40](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/40)
 | Validate gitname | Fix edge case | [35](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/35)
+| Improve Use case 2 | Fix edge case | [#40](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/40)
 | *Use Case 3*  | Help the user with their issue(s)/task(s) | &nbsp;
 | Improve Use case 3 | Fix edge cases | [#41](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/41)
 
@@ -74,5 +74,5 @@
 | *Deployment* | provision an aws ec2 instance using ansible | &nbsp;
 | Provision the instance | right and run the ansible script | [#34](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/34), [#36](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/36)
 | *Refactoring code* | comments and camelCase | &nbsp;
-| Improve readability | Add comments and use camel case | [#37](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/37), [#38](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/38)
 | Improve issue list |  prettify issue list | [#32](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/32)
+| Improve readability | Add comments and use camel case | [#37](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/37), [#38](https://github.ncsu.edu/maalbash/DeveloperTriage/issues/38)
