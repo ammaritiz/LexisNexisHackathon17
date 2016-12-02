@@ -48,7 +48,7 @@ The bot would then list the issues for the developer and wait for a response. Th
 
 ### Architecture Design
 
-<img src="../images/Architecture Diagram 2.0.png"/>
+<img src="../images/Architecture Diagram 3.0.png"/>
 
 The bot’s architecture best represents a repository architecture pattern, where the data for developers’ past issues and issue information are being pulled more often than pushed to Github. The frontend of the bot architecture is the Slack UI, which will be used by the developers to communicate and assign issues to each other. Node.js will serve as the backend, making use of a third-party library called BotKit to listen to and process commands issued by the developer and to push notifications and reminders like upcoming deadlines.
 
