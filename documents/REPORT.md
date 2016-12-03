@@ -34,7 +34,7 @@ priority tasks and then repeat the whole process again.
 ###Any limitations and future work:
 
 - One limitation is the inability to associate two issues if they have different names, labels and description. 
-- Future work will include improving the issue matching algorithm by using concepts of machine learning and having more accuracy.
-- Factoring in some form of timesheet/calendar to know about developers who are not assigned any issue and will have free time in near future.
-- Making the bot more user friendly and seamless. Right now one has to enter github usernames to interact with the bot, maybe in the future we can map github names with actual names. 
-- Currently there is no way to reset or change the github username, this could be easily added for future iterations.
+- Issue matching algorithm can be improved by using concepts of machine learning so the results are more accurate.
+- Factoring in some form of timesheet/calendar would be useful to know which developers are not assigned to any issue and will have free time in near future.
+- The bot could be more user friendly and seamless, for example improving the oboarding experience of entering the developer's name and github username to interact with the bot; in the future, we can map github names with actual names automatically. 
+- Currently, there is no way to reset or change the github username, this could be easily added for future iterations.
