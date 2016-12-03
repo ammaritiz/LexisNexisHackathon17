@@ -11,13 +11,13 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
 - Fetch open issues that are matched to the developer based on experience of working with similar issues in the past.
 
-<img src="../images/givemeissues.png"/>
+ <img src="../images/givemeissues.png"/>
  
 - Get a developer’s deadlines when assigning issues based on milestones and assign issues to developers that have no issues to work on. 
 
  <img src="../images/deadlinesFor_useCase2.png"/>
-- Recommend experienced developers that can help with the issue you are working on.
 
+- Recommend experienced developers that can help with the issue you are working on.
 
  <img src="../images/helpIssues_useCase3.png"/>
 
