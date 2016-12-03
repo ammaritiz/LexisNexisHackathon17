@@ -24,6 +24,10 @@ In this milestone, the steps and details for our project to deploy is include in
 
 For other guests to test our bot's use cases, detailed instructions for that is listed in [Acceptance Test Documents](documents/AcceptanceTest.md). 
 
+### Report
+
+For this milestone, the final report can be found in [REPORT Document](documents/REPORT.md).
+
 ### Screencast Demo
 
 Our Bot Milestone is demonstrated in this demo on youtube and can be accessed [here](https://youtu.be/gZ3FrKAC1VQ).
