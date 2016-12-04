@@ -1,6 +1,6 @@
 #REPORT MILESTONE
 
-This final report of our Triage bot project contains (1) a description of the problem the bot solves, (2) the bot's primary features, and (3) some limitations and future work for our bot. 
+This final report of our Triage bot project contains (1) a description of the problem the bot solves, (2) the bot's primary features, (3) the development process of the bot, and (4) some limitations and future work for our bot. 
 
 ##The Problem:
 
