@@ -26,6 +26,8 @@ The project development was a great learning experience. The project was slow at
 
 ##Limitations And Future Work:
 
+With the scope of the project and the time restriction, even when our bot provides solutions to the problem we were trying to solve, can definitely be improved in term of technical performance and also the flexibility in different environmets. There are several limitations and potential enhancement aspects that should be considered for future work.
+
 - One limitation is the inability to associate two issues if they have different names, labels and description. 
 - Issue matching algorithm can be improved by applying different machine learning algorithms so the results are more accurate which would need a bigger dataset for training the models and testing them.
 - Factoring in some form of timesheet/calendar would be useful to know which developers are not assigned to any issue and will have free time in near future.
