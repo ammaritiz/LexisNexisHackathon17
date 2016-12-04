@@ -27,7 +27,7 @@ The project development was a great learning experience. It can be summaried to 
 1. Framing the problem and designing the appropriate solution to it
 2. Integrating with the bot platform for our bot and developing the interaction component of it using mock data and services
 3. Implementing the internal logic required to actually perform the services/tasks via the bot, and
-4. Demonstrating a fully deployed version of our bot for use in Slack. 
+4. Deploying version of our bot for use in Slack through Amazon Web Services EC2. 
 
 The project was slow at the beginning because the team had to gather knowledge about all the tools and technologies that were needed for the bot. It would have been better if we knew about other alternatives and then decide which technologies were best suited to implement the bot. The development process was agile, as we had to constantly change the requirements of our bot to solve the problem of task allocation. The team was flexible and ready to switch gears and change the approach of how the bot should process the commands and handle edge cases. In every team meeting, we would look at the current state of the bot and create a list of known bugs and new features that needed to be added. We would then prioritize and fix a deadline for a portion of the high priority tasks, evaluate the new functions of our bot, and then repeat the whole process again in an iterative fashion.
 
