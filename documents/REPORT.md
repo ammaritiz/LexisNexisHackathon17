@@ -4,11 +4,11 @@ This final report of our Triage bot project contains (1) a description of the pr
 
 ##The Problem:
 
-Assigning bugs to developers is a time consuming task which wastes precious and expensive developer hours. The ability to assign and suggest similar and suitable issues along with the ability to recommend experienced developer for help to user is an essential core of our bot. 
+Assigning bugs to developers is a time consuming task which wastes precious and expensive developer hours. The ability to assign and suggest similar and suitable issues along with the ability to recommend experienced developers for help to the user is an essential core of our bot. 
 
 ##Primary Features And Screenshots:
 
-- Fetch open issues that are matched to the developer based on experience of working with similar issues in the past. (Compares closed issue of the developer with the current open issues and ranks them)
+- Fetch open issues that are matched to the developer based on the experience of working with similar issues in the past. (Compares closed issue of the developer with the current open issues and ranks them)
 
  <img src="../images/givemeissues.png"/>
  
