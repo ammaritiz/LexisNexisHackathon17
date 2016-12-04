@@ -12,7 +12,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
  <img src="../images/givemeissues.png"/>
  
-- Get a developer’s deadlines when assigning issues based on milestones and assign issues to developers that have no issues to work on. (Fetches a list of open issues for the developer, If no such issues exist then bot suggests to assign him some of the open issues.)
+- Get a developer’s deadlines when assigning issues based on milestones and assign issues to developers that have no issues to work on. (Fetches a list of open issues for the developer, If no such issues exist then bot suggests to assign them some of the open issues.)
 
  <img src="../images/deadlinesFor_useCase2.png"/>
 
