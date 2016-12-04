@@ -27,9 +27,14 @@ The project development was a great learning experience. The project was slow at
 ##Limitations And Future Work:
 
 - One limitation is the inability to associate two issues if they have different names, labels and description. 
-- Issue matching algorithm can be improved by using concepts of machine learning so the results are more accurate.
+- Issue matching algorithm can be improved by applying different machine learning algorithms so the results are more accurate which would need a bigger dataset for training the models and testing them.
 - Factoring in some form of timesheet/calendar would be useful to know which developers are not assigned to any issue and will have free time in near future.
 - The bot could be more user friendly and seamless, for example improving the oboarding experience of entering the developer's name and github username to interact with the bot; in the future, we can map github names with actual names automatically. 
 - Currently, there is no way to reset or change the github username, this could be easily added for future iterations.
 - The bot only works with Github and it would be nice if we could make it work for other task tracking softwares like JIRA and many more.
 - For issue matching, the bot just compares past closed issues while trying to help a developer, but we could extend it to look into crowd documentation or other relevant sources as well.
+
+## Acknowledgement: 
+
+We want to thank Dr. Chris Parnin, Assistant Professor at North Carolina State University, and the TAs including Xi Yang and Shudi Shao
+ for their support and guidance throughout this specific project. 
