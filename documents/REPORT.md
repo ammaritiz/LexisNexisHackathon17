@@ -23,6 +23,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 ##Development Process:
 
 The project development was a great learning experience. It can be summaried to several milestones: 
+
 1. Framing the problem and designing the appropriate solution to it
 2. Integrating with the bot platform for our bot and developing the interaction component of it using mock data and services
 3. Implementing the internal logic required to actually perform the services/tasks via the bot, and
