@@ -36,5 +36,4 @@ The project development was a great learning experience. The project was slow at
 
 ## Acknowledgement: 
 
-We want to thank Dr. Chris Parnin, Assistant Professor at North Carolina State University, and the TAs including Xi Yang and Shudi Shao
- for their support and guidance throughout this specific project. 
+We want to thank Dr. Chris Parnin (cjparnin@ncsu.edu), Assistant Professor at North Carolina State University, and the TAs including Xi Yang (yxi2@ncsu.edu) and Shudi Shao (sshao@ncsu.edu) for their support and guidance throughout this specific project. 
