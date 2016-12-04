@@ -9,15 +9,15 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
 ##Primary Features And Screenshots:
 
-- Fetch open issues that are matched to the developer based on experience of working with similar issues in the past.
+- Fetch open issues that are matched to the developer based on experience of working with similar issues in the past.(Compares closed issue of the developer with the current open issues and ranks them)
 
  <img src="../images/givemeissues.png"/>
  
-- Get a developer’s deadlines when assigning issues based on milestones and assign issues to developers that have no issues to work on. 
+- Get a developer’s deadlines when assigning issues based on milestones and assign issues to developers that have no issues to work on. (Fetches a list of open issues for the developer, If no such issues exist then bot suggests to assign him some of the open issues.)
 
  <img src="../images/deadlinesFor_useCase2.png"/>
 
-- Recommend experienced developers that can help with the issue you are working on.
+- Recommend experienced developers that can help with the issue you are working on.(Compares the issue for which the help is asked with all the closed issues and recommends names of developers who imght be able to help)
 
  <img src="../images/helpIssues_useCase3.png"/>
 
