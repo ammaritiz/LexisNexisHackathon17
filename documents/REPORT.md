@@ -16,7 +16,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
  <img src="../images/deadlinesFor_useCase2.png"/>
 
-- Recommend experienced developers that can help with the issue you are working on.(Compares the issue for which the help is asked with all the closed issues and recommends names of developers who imght be able to help)
+- Recommend experienced developers that can help with the issue you are working on. (Compares the issue for which the help is asked with all the closed issues and recommends names of developers who imght be able to help)
 
  <img src="../images/helpIssues_useCase3.png"/>
 
