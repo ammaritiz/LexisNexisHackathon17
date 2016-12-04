@@ -16,7 +16,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
  <img src="../images/deadlinesFor_useCase2.png"/>
 
-- Recommend experienced developers that can help with the issue you are working on. (Compares the issue for which the help is asked with all the closed issues and recommends names of developers who imght be able to help)
+- Recommend experienced developers that can help with the issue you are working on. (Compares the issue for which the help is asked with all the closed issues and recommends names of developers who might be able to help)
 
  <img src="../images/helpIssues_useCase3.png"/>
 
@@ -27,7 +27,7 @@ The project development was a great learning experience. We all improved several
 1. Framing the problem and designing the appropriate solution to it
 2. Integrating with the bot platform for our bot and developing the interaction component of it using mock data and services
 3. Implementing the internal logic required to actually perform the services/tasks via the bot, and
-4. Deploying the final version of our bot for use in Slack through Amazon Web Services EC2. 
+4. Deploying the final version of our bot for use in Slack through Ansible on Amazon Web Services EC2. 
 
 In the beginning of the project, with the slack of knowledge about the tools/technologies and experience with bot making, the development was a bit slow. After researching and gathering information about alternatives and technogies that are most suited to implement the bot, the process accerlerated steadily. The development process was agile, as we had to constantly change the requirements of our bot to solve the problem of task allocation. The team was flexible and ready to switch gears and change the approach of how the bot should process the commands and handle edge cases. In every team meeting, we would look at the current state of the bot and create a list of known bugs and new features that needed to be added. We would then prioritize and fix a deadline for a portion of the high priority tasks, evaluate the new functions of our bot, and then repeat the whole process again in an iterative fashion. When faced with difficult programming tasks that required lots of refactoring, the team engaged in pair programming, where the driver made the required changes and the navigator corrected mistakes and guided the driver.
 
