@@ -37,3 +37,11 @@ Our Service Milestone is demonstrated in this demo on youtube and can be accesse
 Our Deployment Milestone is demonstrated in two demos on youtube. The deployment demo can be accessed [here](https://youtu.be/fOz08XTs3x4) and the use case functionality demo can be accessed [here](https://youtu.be/DAl92mwnuR8).
 
 Our Report Milestone is demonstrated in this demo on youtube and can be accessed [here](https://youtu.be/BfQHd5WEjmw).
+
+### Contributors
+
+Mohamed Albashir (maalbash@ncsu.edu)
+Muhammad Ammar Ansari (mansari@ncsu.edu)
+Shaurya Garg (sgarg7@ncsu.edu)
+Nischal Shrestha (nshrest@ncsu.edu)
+Huy Tu (hqtu@ncsu.edu)
