@@ -33,7 +33,7 @@ The project was slow at the beginning because the team had to gather knowledge a
 
 ##Limitations And Future Work:
 
-With the scope of the project and the time restriction, even when our bot provides solutions to the problem we were trying to solve, can definitely be improved in term of technical performance and also the flexibility in different environmets. There are several limitations and potential enhancement aspects that should be considered for future work.
+With the scope of the project and the time constraints, even though our bot provides solutions to the task allocation problem, it can definitely be improved in terms of performance and flexibility in different environments. There are several limitations and potential enhancements that should be considered for future work.
 
 - One limitation is the inability to associate two issues if they have different names, labels and description. 
 - Issue matching algorithm can be improved by applying different machine learning algorithms so the results are more accurate which would need a bigger dataset for training the models and testing them.
