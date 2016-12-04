@@ -1,13 +1,13 @@
-FINAL REPORT CSC 510
-SOFTWARE ENGINEERING 
-TEAM - TRIAGE BOT
+#REPORT MILESTONE
 
-###The problem our bot solved:
+This report contains a description of the problem the bot solves. It also mentions its primary features and talks about some limitations and future work. 
+
+##The problem our bot solved:
 
 Assigning bugs to developers is a time consuming task which wastes precious and expensive developer hours. The ability to assign and suggest similar and suitable issues along with the ability to recommend experienced developer for help to user is an essential core of our bot. 
 
 
-###Primary features and screenshots:
+##Primary features and screenshots:
 
 - Fetch open issues that are matched to the developer based on experience of working with similar issues in the past.
 
@@ -21,7 +21,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
  <img src="../images/helpIssues_useCase3.png"/>
 
-###Development process and project:
+##Development process and project:
 
 It was a nice learning experience but one thing we lagged in was knowledge about tools and technologies that we were going 
 to use in the project. It would have been better if we knew about other alternatives and then decide which is best suite. 
@@ -31,7 +31,7 @@ commands and handle edge cases. In every team meeting we would look at the curre
 known bugs and new features that are to be added. We would then prioritize a fix a deadline for a portion of the high 
 priority tasks and then repeat the whole process again.
 
-###Any limitations and future work:
+##Any limitations and future work:
 
 - One limitation is the inability to associate two issues if they have different names, labels and description. 
 - Issue matching algorithm can be improved by using concepts of machine learning so the results are more accurate.
