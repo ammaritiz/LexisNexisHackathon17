@@ -1,6 +1,6 @@
 #REPORT MILESTONE
 
-This report contains a description of the problem the bot solves. It also mentions its primary features and talks about some limitations and future work. 
+This final report of our Triage bot project contains (1) a description of the problem the bot solves, (2) the bot's primary features, and (3) some limitations and future work for our bot. 
 
 ##The Problem:
 
@@ -22,7 +22,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
 ##Development Process:
 
-The project development was a great learning experience. The project was slow at the beginning because the team had to gather knowledge about all the tools and technologies that were needed for the bot. It would have been better if we knew about other alternatives and then decide which technologies were best suited to implement the bot. The development process was agile, as we had to constantly change the requirements of our bot to solve the problem of task allocation. The team was flexible and ready to switch gears and change the approach of how the bot should process the commands and handle edge cases. In every team meeting, we would look at the current state of the bot and create a list of known bugs and new features that needed to be added. We would then prioritize, fix a deadline for a portion of the high priority tasks and then repeat the whole process again in an iterative fashion.
+The project development was a great learning experience. The project was slow at the beginning because the team had to gather knowledge about all the tools and technologies that were needed for the bot. It would have been better if we knew about other alternatives and then decide which technologies were best suited to implement the bot. The development process was agile, as we had to constantly change the requirements of our bot to solve the problem of task allocation. The team was flexible and ready to switch gears and change the approach of how the bot should process the commands and handle edge cases. In every team meeting, we would look at the current state of the bot and create a list of known bugs and new features that needed to be added. We would then prioritize and fix a deadline for a portion of the high priority tasks, evaluate the new functions of our bot, and then repeat the whole process again in an iterative fashion.
 
 ##Limitations And Future Work:
 
