@@ -28,7 +28,7 @@ to use in the project. It would have been better if we knew about other alternat
 The development process was agile, as we had to constantly change the requirements of our bot to solve the problem of task 
 allocation. The team was flexible and ready to switch gears and change the approach of how the bot should process the 
 commands and handle edge cases. In every team meeting we would look at the current state of the bot and create a list of 
-known bugs and new features that are to be added. We would then prioritize a fix a deadline for a portion of the high 
+known bugs and new features that are to be added. We would then prioritize, fix a deadline for a portion of the high 
 priority tasks and then repeat the whole process again.
 
 ##Any limitations and future work:
@@ -38,3 +38,4 @@ priority tasks and then repeat the whole process again.
 - Factoring in some form of timesheet/calendar would be useful to know which developers are not assigned to any issue and will have free time in near future.
 - The bot could be more user friendly and seamless, for example improving the oboarding experience of entering the developer's name and github username to interact with the bot; in the future, we can map github names with actual names automatically. 
 - Currently, there is no way to reset or change the github username, this could be easily added for future iterations.
+- The bot only works with github it would be nice if we could make it work for other task tracking softwares like JIRA and many more.
