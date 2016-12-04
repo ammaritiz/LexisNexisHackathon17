@@ -44,7 +44,7 @@ Limitations:
 Future work:
 - Issue matching algorithm can be improved by applying different machine learning algorithms so the results are more accurate which would need a bigger dataset for training the models and testing them.
 - Factoring in some form of timesheet/calendar would be useful to know which developers are not assigned to any issue and will have free time in near future.
-- The bot could be more user friendly and seamless, for example improving the oboarding experience of entering the developer's name and github username to interact with the bot; in the future, we can map github names with actual names automatically. 
+- For interaction, the bot could be more user friendly and seamless through improving the oboarding experience of entering the developer's name and github username to interact with the bot; in the future, we can map github names with actual names automatically. 
 - For environment, possibly extend work assigning to other task tracking softwares like JIRA and many more.
 - For issue matching, extend it to look into crowd documentation or other relevant sources as well.
 
