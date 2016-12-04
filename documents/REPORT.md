@@ -2,12 +2,12 @@
 
 This report contains a description of the problem the bot solves. It also mentions its primary features and talks about some limitations and future work. 
 
-##The problem:
+##The Problem:
 
 Assigning bugs to developers is a time consuming task which wastes precious and expensive developer hours. The ability to assign and suggest similar and suitable issues along with the ability to recommend experienced developer for help to user is an essential core of our bot. 
 
 
-##Primary features and screenshots:
+##Primary Features And Screenshots:
 
 - Fetch open issues that are matched to the developer based on experience of working with similar issues in the past.
 
@@ -21,7 +21,7 @@ Assigning bugs to developers is a time consuming task which wastes precious and 
 
  <img src="../images/helpIssues_useCase3.png"/>
 
-##Development process:
+##Development Process:
 
 It was a nice learning experience but one thing we lagged in was knowledge about tools and technologies that we were going 
 to use in the project. It would have been better if we knew about other alternatives and then decide which is best suite. 
@@ -31,7 +31,7 @@ commands and handle edge cases. In every team meeting we would look at the curre
 known bugs and new features that are to be added. We would then prioritize, fix a deadline for a portion of the high 
 priority tasks and then repeat the whole process again.
 
-##Limitations and future work:
+##Limitations And Future Work:
 
 - One limitation is the inability to associate two issues if they have different names, labels and description. 
 - Issue matching algorithm can be improved by using concepts of machine learning so the results are more accurate.
@@ -39,3 +39,4 @@ priority tasks and then repeat the whole process again.
 - The bot could be more user friendly and seamless, for example improving the oboarding experience of entering the developer's name and github username to interact with the bot; in the future, we can map github names with actual names automatically. 
 - Currently, there is no way to reset or change the github username, this could be easily added for future iterations.
 - The bot only works with github it would be nice if we could make it work for other task tracking softwares like JIRA and many more.
+- Bot just compares past closed issues while trying to help a developer, we can extend it to look into crowd documentation or other relevant sources as well.
