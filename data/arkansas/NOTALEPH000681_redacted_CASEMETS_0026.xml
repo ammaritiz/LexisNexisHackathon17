@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000681_0026" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Richard v. State">Carl E. RICHARD v. STATE of Arkansas</name>
+          <docketnumber>CA CR 97-854</docketnumber>
+          <citation category="official" type="bluebook">64 Ark. App. 177</citation>
+          <citation category="parallel" type="bluebook">983 S.W.2d 438</citation>
+          <decisiondate>1998-12-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T23:55:18Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:29Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-21T11:43:04Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-21T11:43:57Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="84cc4873791834825dffa8e7c51fb53c" CHECKSUMTYPE="MD5" SIZE="7946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00100_0.tif"/>
+      </file>
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="1db827f81f40c2866e5fde191d6b6c8d" CHECKSUMTYPE="MD5" SIZE="34378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="3fd44d12b2be3c7854d5f18405be203b" CHECKSUMTYPE="MD5" SIZE="50502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="0183caf10a5630fe9a8626a28577963a" CHECKSUMTYPE="MD5" SIZE="54602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="42ce523c7f5ff7f0a3741e03a8814a1c" CHECKSUMTYPE="MD5" SIZE="14410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00102_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="98d4c26ff56bb860569f7775bf897ea8" CHECKSUMTYPE="MD5" SIZE="1363444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00100_0.jp2"/>
+      </file>
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="2288647a7586a427edeab34d5e1b14a4" CHECKSUMTYPE="MD5" SIZE="2051180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="38b827e7705f3d425e42d84ed2a01e9c" CHECKSUMTYPE="MD5" SIZE="2509528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="bf347cb95593f9c900d4b0dc96289066" CHECKSUMTYPE="MD5" SIZE="2562402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="7b682fb0699b7f01780ef258fc83b962" CHECKSUMTYPE="MD5" SIZE="1740722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00102_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="349daf47b8a188dd8cd8fcc634a1823c" CHECKSUMTYPE="MD5" SIZE="9010">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00100_0.xml"/>
+      </file>
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="07379ca10e4379dd9e596e4462b2bfe0" CHECKSUMTYPE="MD5" SIZE="52338">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="935173f8f2c8c8a8b87cc15feece86bb" CHECKSUMTYPE="MD5" SIZE="79871">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="8e71cfd17d835c4e6764a788b7e63bdf" CHECKSUMTYPE="MD5" SIZE="91095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="4bac5b1f91e36ee9187727ede1b23624" CHECKSUMTYPE="MD5" SIZE="19633">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00102_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="177" lastpage="181">
+              <court id="b199-6" pgmap="199">Court of Appeals of Arkansas Divisions I and II</court>
+              <docketnumber id="b199-4" pgmap="199">CA CR 97-854</docketnumber>
+              <citation id="b199-5" pgmap="199">983 S.W.2d 438</citation>
+              <parties id="b199-3" pgmap="199">Carl E. RICHARD v. STATE of Arkansas</parties>
+              <decisiondate id="b199-7" pgmap="199">Opinion delivered December 9, 1998</decisiondate>
+              <judges id="b203-6" pgmap="203">Pittman, Rogers, and Neal, JJ., agree.</judges>
+              <judges id="b203-7" pgmap="203">Griffen and Crabtree, JJ., dissent without opinion.</judges>
+              <attorneys id="b200-8" pgmap="200">John Wesley Hall, Jr., for appellant.</attorneys>
+              <attorneys id="b200-9" pgmap="200">Winston Bryant, Att’y Gen., by: Kelly K. Hill, Deputy Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b200-10" pgmap="200">D. Franklin Arey, III, Judge.</author>
+                <p id="Af7" pgmap="200">The appellant, Carl E. Richard, entered a conditional plea of guilty to a charge of possession of a controlled substance. The Lonoke County Circuit Court suspended imposition of a sentence for five years, placed appellant on probation for three years, and fined appellant $2,000. On appeal, appellant argues that the police made a warrantless entry into his cousin’s home without exigent circumstances, so that the evidence gained from their entry should have been suppressed. Because appellant failed to establish his standing to raise this Fourth Amendment challenge, we affirm.</p>
+                <p id="b200-12" pgmap="200(99) 201(19)">On the morning of November 7, 1996, a confidential informant notified officers at the England Police Department that he could purchase cocaine at 603 Southeast Second Street in England. After the informant was searched and provided with a previously photocopied $20 bill, Officer Andolina rode with the informant to the residence at 603 Southeast Second Street to make the purchase. As the officer watched from the car, the informant approached the residence, gave Johnnie Richard the $20 bill, and waited as Johnnie Richard entered the residence. Johnnie Richard then came back outside and delivered a substance to the inform­ant. The informant returned to Officer Andolina’s vehicle; the officer field-tested the substance, and it tested positive for cocaine.</p>
+                <p id="b201-5" pgmap="201">Officer Cook observed the transaction from a distance; he was in uniform in a marked car. Officer Andolina notified Officer Cook by radio that the substance had tested positive for cocaine. Officer Cook then approached the residence, entered the front door, identified himself as an officer with the England Police Department, and ordered everyone to the floor. At least two other individuals were present besides appellant and his cousin, Johnnie Richard. No other drugs were found inside the resi­dence, but appellant was found in possession of the $20 bill given to the informant.</p>
+                <p id="b201-6" pgmap="201">A hearing was held on appellant’s motion to suppress. Appellant argued that Officer Cook’s warrantless entry into the residence was unconstitutional, so that any evidence gained as a result of the police search should be suppressed. The State responded that exigent circumstances justified the warrantless entry into the residence.</p>
+                <p id="b201-7" pgmap="201">At the hearing on appellant’s motion, Officer Cook testified that he knew Johnnie Richard resided at 603 Southeast Second Street. He testified that appellant is Johnnie Richard’s cousin, and that appellant resided in Tucker, about five miles south of England. Officer Andolina also testified that Johnnie Richard was “staying there”; however, Officer Andolina was not positive that the resi­dence was Johnnie Richard’s “legal residence.” Appellant did not testify at the suppression hearing. At the conclusion of the hear­ing, the trial court denied the motion to suppress.</p>
+                <p id="b201-8" pgmap="201">On appeal, appellant challenges Officer Cook’s warrantless entry into the home. However, we affirm the trial court based upon appellant’s failure to establish his standing to raise a Fourth Amendment challenge.</p>
+                <p id="b201-9" pgmap="201(53) 202(78)">
+                   Rights secured by the Fourth Amendment are per­sonal in nature, and may not be vicariously asserted. Rakas v. Illi­nois, 439 U.S. 128 (1978). A person’s Fourth Amendment rights are not violated by the introduction of damaging evidence secured by a search of a third person’s premises or property. Id.; Rankin v. State, 57 Ark. App. 125, 942 S.W.2d 867 (1997). Thus, a defend­ant must have standing before he can challenge a search on Fourth Amendment grounds. Ramage v. State, 61 Ark. App. 174, 966 S.W.2d 267 (1998); Rankin, supra. The pertinent inquiry regard­ing standing to challenge a search is whether a defendant mani­fested a subjective expectation of privacy in the area searched and whether society is prepared to recognize that expectation as rea­sonable. Rankin, supra.</p>
+                <p id="b202-5" pgmap="202">
+                   It is well settled that the defendant, as the proponent of a motion to suppress, bears the burden of establishing that his Fourth Amendment rights have been violated. Ramage, supra; Rankin, supra. One is not entitled to automatic standing simply because he is present in the area or on the premises searched or because an element of the offense with which he is charged is possession of the thing discovered in the search. Ramage, supra. We will not reach the constitutionality of the search where the defendant has failed to show that he had a reasonable expectation of privacy in the object of the search. McCoy v. State, 325 Ark. 155, 925 S.W.2d 391 (1996); Rankin, supra.</p>
+                <p id="b202-6" pgmap="202">
+                   In this instance, appellant presented no evidence upon which we could base a finding that he had standing to contest the search. Appellant did not testify. Officer Cook testified that Johnnie Richard resided at 603 Southeast Second Street; further, he testified that appellant resided in a town five miles south of England. Thus, we have no indication that appellant had any pro­prietary or possessory interest in the residence, or that he was an overnight guest. See Marshall v. State, 316 Ark. 753, 875 S.W.2d 814 (1994); Rankin, supra. Appellant simply failed to meet his burden of establishing standing to raise a Fourth Amendment chal­lenge. Ramage, supra. Therefore, we do not reach the merits of appellant’s arguments on appeal. Id.; Rankin, supra.</p>
+                <p id="b202-7" pgmap="202(68) 203(29)">
+                   Appellant argues that this court must reach the merits of his challenge because the State questions appellant’s standing for the first time on appeal. However, as we explained in Ramage, an appellate court may affirm the result reached by the trial court, if correct, even though the reason given by the trial court may have been wrong. Ramage, 61 Ark. App. at 178 n.1; 966 S.W.2d at 269 n.1. Thus, it is appropriate for this court to affirm the trial court because appellant did not meet his burden of establishing standing to raise a Fourth Amendment challenge.</p>
+                <p id="b203-5" pgmap="203">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="199" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="200" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.2" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_202.1" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.5" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.7" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.6" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.4" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-3" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.9" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.13" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.5" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.6" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_203.1" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.4" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.8" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.10" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.11" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.12" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000699_0021" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Bristow v. State">Jeff BRISTOW and Dana Bradford v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-1109</docketnumber>
+          <citation category="official" type="bluebook">82 Ark. App. 145</citation>
+          <citation category="parallel" type="bluebook">119 S.W.3d 527</citation>
+          <decisiondate>2003-05-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:01:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:47Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T10:16:21Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T10:20:31Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="49f3a1677c9190fdefdf2cd061794519" CHECKSUMTYPE="MD5" SIZE="10380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00086_0.tif"/>
+      </file>
+      <file ID="tiff_00086_1" MIMETYPE="image/tiff" CHECKSUM="305f06c07a036f926353bc664e0d1898" CHECKSUMTYPE="MD5" SIZE="43910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00086_1.tif"/>
+      </file>
+      <file ID="tiff_00087_0" MIMETYPE="image/tiff" CHECKSUM="68fc0720a3df91624150cab577bcab77" CHECKSUMTYPE="MD5" SIZE="43818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00087_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="03864caf4fbf3fb5f95e405a95ed2184" CHECKSUMTYPE="MD5" SIZE="1638726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00086_0.jp2"/>
+      </file>
+      <file ID="jp2_00086_1" MIMETYPE="image/jp2" CHECKSUM="046d33724d1ae0fdbc062c15df58db9a" CHECKSUMTYPE="MD5" SIZE="2471226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00086_1.jp2"/>
+      </file>
+      <file ID="jp2_00087_0" MIMETYPE="image/jp2" CHECKSUM="f132eff3547496ddd6cc7f8d00224767" CHECKSUMTYPE="MD5" SIZE="2463177">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00087_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="1a31f5563a96f90070fe17090a3a55ad" CHECKSUMTYPE="MD5" SIZE="14037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00086_0.xml"/>
+      </file>
+      <file ID="alto_00086_1" MIMETYPE="text/xml" CHECKSUM="a93d4e33b5b9e78fb0ee96cafaaa2c94" CHECKSUMTYPE="MD5" SIZE="75371">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00086_1.xml"/>
+      </file>
+      <file ID="alto_00087_0" MIMETYPE="text/xml" CHECKSUM="6dfbe43c2b3287ba6d350a52ac4fa37f" CHECKSUMTYPE="MD5" SIZE="70693">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00087_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="147" firstpage="145">
+              <court id="b171-4" pgmap="171">Court of Appeals of Arkansas Division III</court>
+              <docketnumber id="A8A" pgmap="171">CA CR 02-1109</docketnumber>
+              <citation id="AW4" pgmap="171">119 S.W.3d 527</citation>
+              <parties id="b171-3" pgmap="171">Jeff BRISTOW and Dana Bradford v. STATE of Arkansas</parties>
+              <decisiondate id="b171-5" pgmap="171">Opinion delivered May 14, 2003</decisiondate>
+              <judges id="b173-8" pgmap="173">Robbins and Crabtree, JJ., agree.</judges>
+              <attorneys id="b171-9" pgmap="171">Wayne Emmons; and Bart Ziegenhom, for appellants.</attorneys>
+              <attorneys id="b171-10" pgmap="171">Mike Bebee, Att’y Gen., by; Clayton K. Hodges, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAij" pgmap="172">John F. Stroud, Jr., Chief Judge.</author>
+                <p id="AMa" pgmap="172">After the trial court’s denial of their motions to suppress, appellants, Jeff Bristow and Dana Bradford, purportedly entered conditional pleas of guilty pursuant to Rule 24.3(b) of the Arkansas Rules of Criminal Procedure. Bristow pleaded guilty to manufacture of a controlled substance, methamphetamine; he was sentenced to eight years in the Arkansas Department of Correction, to be followed by a ten-­year suspended imposition of sentence. Bradford pleaded guilty to possession of a controlled substance, methamphetamine, and she was sentenced to five years’ probation. Appellants’ sole point on appeal is that the trial court erred in denying their motions to suppress. We hold that the appeal must be dismissed because the appellants failed to properly preserve their right to appeal pursuant to a conditional plea under Rule 24.3(b), and this court therefore does not have jurisdiction to hear the appeal.</p>
+                <p id="b172-5" pgmap="172">Rule 24.3(b) of the Arkansas Rules of Criminal procedure provides:</p>
+                <blockquote id="b172-6" pgmap="172">With the approval of the court and the consent of the prosecuting attorney, a defendant may enter a conditional plea of guilty or nolo contendere, reserving in writing the right, on appeal from the judgment, to review of an adverse determination of a pretrial motion to suppress evidence. If the defendant prevails on appeal, he shall be allowed to withdraw his plea.</blockquote>
+                <p id="b172-7" pgmap="172">In McCormick v. State, 74 Ark. App. 349, 354, 48 S.W.3d 549, 552 (2001) (substituted opinion on grant ofreh’g), this court held:</p>
+                <blockquote id="b172-8" pgmap="172">When Rule 24.3(b) is not strictly complied with, this court lacks jurisdiction to hear an appeal, even when the record reveals that the trial court attempted to enter a conditional plea. It has previ­ously been held that Rule 24.3(b) requires a contemporaneous writing by the defendant, as well as proof that the conditional plea was approved by the trial court with the consent of the pros­ecuting attorney.</blockquote>
+                <p id="b172-9" pgmap="172">(Citations omitted.)</p>
+                <p id="b173-4" pgmap="173">The addendum contains documents signed by both appel­lants entitled “Guilty Plea Statement” with the word “Condi­tional” handwritten above those words. Their attorney also signed these documents; however, the prosecuting attorney’s office did not sign these documents. Both of the judgment and commitment orders also indicate a conditional plea of guilty, but there is no indication in those documents that the prosecutor approved of the conditional-plea agreements.</p>
+                <p id="b173-5" pgmap="173">
+                   In McCormick, supra, this court originally dismissed the appellant’s appeal for lack of jurisdiction on the basis that there was no consent from the prosecutor when her only involvement in the proceeding appeared to be her recommendation of a sentence and her opinion on an appeal bond. On grant of rehearing, this court held that assent was manifested by the prosecutor by appear­ing in court and acquiescing to the entry of the negotiated-plea agreement, and to hold otherwise “would be to give the State the benefit of the bargain while simultaneously relieving it of its obli­gation to consent.” Id. at 355, 48 S.W.3d at 552.</p>
+                <p id="b173-6" pgmap="173">
+                   The present case is distinguishable from McCormick. Here, the only hearing contained in the record is the one on the motions to suppress the evidence found pursuant to the search warrant. There is no transcript in the record of a sentencing hear­ing; therefore, unlike in McCormick, this court cannot know if the prosecutor was present at sentencing or not. Inasmuch as the con­ditional-guilty pleas are not signed by the prosecutor, and we have no record before us that indicates acquiescence by the prosecutor to a conditional plea, we must dismiss appellants’ appeal for lack of jurisdiction due to the precedent mandating that we strictly con­strue the requirements of Rule 24.3(b).</p>
+                <p id="b173-7" pgmap="173">Appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="171" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.2" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="172" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00086_1"/>
+        <fptr FILEID="jp2_00086_1"/>
+        <fptr FILEID="alto_00086_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.1" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="173" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00087_0"/>
+        <fptr FILEID="jp2_00087_0"/>
+        <fptr FILEID="alto_00087_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_173.2" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMa" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.4" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            <area BEGIN="BL_172.5" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            <area BEGIN="BL_172.6" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8A" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.4" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.10" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.11" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.7" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.8" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.9" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.7" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.5" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.13" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAij" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.3" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.7" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.3" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.6" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.5" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.4" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.12" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

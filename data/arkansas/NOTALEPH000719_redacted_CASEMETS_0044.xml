@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000719_0044" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wilson v. Countryside Casualty Co.">Walter E. WILSON v. COUNTRYSIDE CASUALTY COMPANY</name>
+          <docketnumber>CA 81-383</docketnumber>
+          <citation category="official" type="bluebook">5 Ark. App. 202</citation>
+          <citation category="parallel" type="bluebook">634 S.W.2d 398</citation>
+          <decisiondate>1982-06-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T19:04:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:25Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T14:36:31Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T14:37:19Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="425e436d707d6d3eba9d466c345cd134" CHECKSUMTYPE="MD5" SIZE="23268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00111_1.tif"/>
+      </file>
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="934235263007258e1c9943ea974aef18" CHECKSUMTYPE="MD5" SIZE="32282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00112_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="02e4d13fad21d78ca9e7067425db3f55" CHECKSUMTYPE="MD5" SIZE="2044857">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00111_1.jp2"/>
+      </file>
+      <file ID="jp2_00112_0" MIMETYPE="image/jp2" CHECKSUM="37b94a03b76bd273e5c1469900e845d2" CHECKSUMTYPE="MD5" SIZE="2231655">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00112_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="865472035edbc99a79620e0506c5cb39" CHECKSUMTYPE="MD5" SIZE="38645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00111_1.xml"/>
+      </file>
+      <file ID="alto_00112_0" MIMETYPE="text/xml" CHECKSUM="64810f68660d4aa436e5f4d245e67a0d" CHECKSUMTYPE="MD5" SIZE="52822">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00112_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0044" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="202" lastpage="203">
+              <court id="b222-5" pgmap="222">Court of Appeals of Arkansas</court>
+              <docketnumber id="b222-3" pgmap="222">CA 81-383</docketnumber>
+              <citation id="b222-4" pgmap="222">634 S.W.2d 398</citation>
+              <parties id="b222-2" pgmap="222">Walter E. WILSON v. COUNTRYSIDE CASUALTY COMPANY</parties>
+              <decisiondate id="Aqg" pgmap="222">Opinion delivered June 16, 1982</decisiondate>
+              <attorneys id="b222-10" pgmap="222">Larry W. Chandler, for appellant.</attorneys>
+              <attorneys id="b222-11" pgmap="222">Floyd M. Thomas, Jr. of Brown, Compton ir Prewett, Ltd., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b222-12" pgmap="222">Donald L. Corbin, Judge.</author>
+                <p id="AAC" pgmap="222">Appellant, Walter E. Wil­son, seeks to have a contract of insurance, insuring his dwelling against loss by fire, enforced. He appeals an adverse decision alleging that the policy terms were am­biguous and that the tender of a bad check for the premium was not a conditional payment. We affirm.</p>
+                <p id="b222-13" pgmap="222">The language in the policy which appellant claims is ambiguous reads:</p>
+                <blockquote id="b222-14" pgmap="222">The binder is effective only if signed by an authorized agent and if the effective date and time of the binder is inserted and binder of any policy issued therein are void if any check tendered in payment of the premium is not honored.</blockquote>
+                <p id="b223-3" pgmap="223">The foregoing language is not ambiguous but is very poor English usage. In order to be ambiguous, a term in an insurance policy must be susceptible to more than one equally reasonable construction. Union Life Insurance Commission v. Rhinehart, 229 Ark. 388, 315 S.W.2d 920. We believe this provision to have only one meaning: If the check tendered as premium payment is dishonored, the insurance coverage is null and void. In Appelman, In­surance Law and Practice, Section 7532, it clearly states that the binder language and the policy issued later must be considered together in order to determine the true intention of the parties. The binder language clearly indicates that any coverage is to be void if the check tendered in payment of the premiums is not honored. The specific language of the policy states that it is being issued in consideration of the payment of the premium. If the premium was not paid, the parties did not intend that the insurance would be effective. See Jones v. American Pioneer Life Insurance Co., 255 Ark. 474, 500 S.W.2d 748(1973).</p>
+                <p id="b223-4" pgmap="223">We affirm.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="222" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="223" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jp2_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.2" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-11" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.14" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-10" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.13" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-12" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.15" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-13" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.18" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAC" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.16" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            <area BEGIN="BL_222.17" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.4" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-3" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.4" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-2" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.3" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-5" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.6" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-4" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.5" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqg" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.7" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-3" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.3" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-14" BETYPE="IDREF" FILEID="casebody_0044"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.19" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

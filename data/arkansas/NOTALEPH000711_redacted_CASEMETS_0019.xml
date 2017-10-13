@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000711_0019" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Rudd v. State">Carl RUDD v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-431</docketnumber>
+          <citation category="official" type="bluebook">76 Ark. App. 121</citation>
+          <citation category="parallel" type="bluebook">61 S.W.3d 885</citation>
+          <decisiondate>2001-12-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T15:40:11Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:41Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-27T15:27:57Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-27T15:35:32Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="f1e0df230d2f17189f2ba284f9ee7408" CHECKSUMTYPE="MD5" SIZE="8022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="e459da380306f0a1618ce28d636d7a92" CHECKSUMTYPE="MD5" SIZE="17942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="4f33058305b5ae9ed287a97f7111dadb" CHECKSUMTYPE="MD5" SIZE="60826">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="1be4c2ca14f05837605f5ac3ba64dea2" CHECKSUMTYPE="MD5" SIZE="56590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="cf5520f98daa95582e65966f50e19e81" CHECKSUMTYPE="MD5" SIZE="57926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="46c5818d7b27a224d474ba21cd4117d7" CHECKSUMTYPE="MD5" SIZE="57866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="0eb9fc421fe436b17b870d1d599d267a" CHECKSUMTYPE="MD5" SIZE="32568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00083_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="1e3ad07a7f0fb52ffd2a2e8ec510defe" CHECKSUMTYPE="MD5" SIZE="1416627">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="f7c58cb0546a41ecd7c384977ce6ac28" CHECKSUMTYPE="MD5" SIZE="1588218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="3adc13bb5207816a190c7b482a41a027" CHECKSUMTYPE="MD5" SIZE="2730040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00081_0.jp2"/>
+      </file>
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="f6d0449a59f0e5da78b897ac3b5151af" CHECKSUMTYPE="MD5" SIZE="2607404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="ae54182c501fcc8b92f898d5c37e6c31" CHECKSUMTYPE="MD5" SIZE="2645590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="b57c331c171393f70fc6f6980e311ff3" CHECKSUMTYPE="MD5" SIZE="2651440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="b5039a9443e5116cb316e6dca070b6f0" CHECKSUMTYPE="MD5" SIZE="2341729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00083_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="bfd5597d091147780981b94229fd9ee7" CHECKSUMTYPE="MD5" SIZE="10161">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="3c8019c9f726a0888c13fed999b0842f" CHECKSUMTYPE="MD5" SIZE="26375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="12635bfed645eeff513188ce7b1baf70" CHECKSUMTYPE="MD5" SIZE="103205">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00081_0.xml"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="684ca2706ae061ed579e8fdebc5b395e" CHECKSUMTYPE="MD5" SIZE="98760">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="545862001538211fd4f51642cc8943f1" CHECKSUMTYPE="MD5" SIZE="101847">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="b3d6c9d731186257a6538cd1b06c606b" CHECKSUMTYPE="MD5" SIZE="104434">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="b5e8caaf4fcc17efcec1f574d1e75033" CHECKSUMTYPE="MD5" SIZE="54503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00083_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="121" lastpage="127">
+              <court id="b159-6" pgmap="159">Court of Appeals of Arkansas Division III</court>
+              <docketnumber id="b159-4" pgmap="159">CA CR 01-431</docketnumber>
+              <citation id="b159-5" pgmap="159">61 S.W.3d 885</citation>
+              <parties id="AZo" pgmap="159">Carl RUDD v. STATE of Arkansas</parties>
+              <decisiondate id="b159-7" pgmap="159">Opinion delivered December 5, 2001</decisiondate>
+              <otherdate id="ATY" pgmap="159">[Petition for rehearing denied January 9, 2002.]</otherdate>
+              <judges id="b165-8" pgmap="165">Neal and Crabtree, JJ., agree.</judges>
+              <attorneys id="b160-11" pgmap="160">Law offices of Charles Karr, P.A., by: Shane Roughley, for appellant.</attorneys>
+              <attorneys id="b160-12" pgmap="160">Mark Pryor, Att’y Gen., by: Valerie L. Kelly, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b160-13" pgmap="160">JOHN B. ROBBINS, Judge.</author>
+                <p id="AOx" pgmap="160">Appellant Carl Rudd appeals the J revocation of his suspended sentence by the Crawford County Circuit Court, for which he was sentenced to ten years in the Arkansas Department of Correction. Appellant argues on appeal that (1) the circuit court lacked subject-matter jurisdiction to revoke his suspended sentence due to the improper passage of a constitutional amendment, and (2) there was insufficient evidence upon which to support revocation. We disagree and affirm.</p>
+                <p id="b161-3" pgmap="161">Rudd pleaded nolo contendere to conspiracy to deliver metham­phetamine and agreed to ten years of suspended imposition of sentence with one year of supervised probation and payment of a $20 monthly probation fee. As part of his agreed conditions, Rudd was required to attend drug counseling that would be monitored by the adult probation office by weekly reports to his probation officer, his driver’s license was suspended for six months, and he was also subject to the condition of not violating any law punishable by imprisonment. The judgment and commitment order was filed of record on September 22, 2000. On January 5, 2001, the State petitioned to revoke Rudd’s suspended sentence, alleging that Rudd had failed to report to the adult probation office as required, had failed to pay his probation fees, and had committed a new offense, terroristic threatening, on or about November 21, 2000. After a hearing, the trial court found that appellant failed to comply with the orders, specifically regarding drug rehabilitation, perform­ing community service, and violating the law by forcibly taking money from the victim who was allegedly the subject of terroristic threatening.</p>
+                <p id="b161-4" pgmap="161">
+                   We consider sufficiency of the evidence before addressing other alleged trial errors. Williams v. State, 338 Ark. 97, 106, 991 S.W.2d 565 (1999). We do so in order to preserve a defendant’s right to freedom from double jeopardy. Rankin v. State, 329 Ark. 379, 948 S.W.2d 397 (1997); Williams v. State, 329 Ark. 8, 946 S.W.2d 678 (1997). See also Burris v. State, 330 Ark. 66, 70, 954 S.W.2d 209 (1997).</p>
+                <p id="b161-5" pgmap="161">
+                   We address the sufficiency of the evidence in support of the State’s petition for revocation, contrary to the State’s assertion that this issue is not preserved for appellate review. The State argues that because Rudd failed to move for directed verdict in compliance with Ark. R. Crim. P. 33.1, we cannot do so. We disagree. Our supreme court recendy decided in Barbee v. State, 346 Ark. 185, 56 S.W.3d 370 (2001), that a defendant in a revocation proceeding is not required to comply with Ark. R. Crim. P. 33.1 regarding motions for directed verdict in order to preserve the issue of the sufficiency of the evidence for review, overruling Miner v. State, 342 Ark. 283, 28 S.W.3d 280 (2000), which had held otherwise.</p>
+                <p id="b161-6" pgmap="161(55) 162(100)">
+                   To revoke probation or a suspension, the trial court must find by a preponderance of the evidence that the defendant inex­cusably violated a condition of that probation or suspension. Ark. Code Ann. § 5-4-309 (Repl. 1997); Brandon v. State, 300 Ark. 32, 776 S.W.2d 345 (1989). Of course, the State bears the burden of proof. Petty v. State, 31 Ark. App. 119, 788 S.W.2d 744 (1990). In order for appellant’s suspended sentence to be revoked, the State need only prove that the appellant committed one violation of the conditions. Ross v. State, 22 Ark. App. 232, 738 S.W.2d 112 (1987). When appealing a revocation, the appellant has the burden of show­ing that the trial court’s findings are clearly against the preponder­ance of the evidence. Ark. Code Ann. § 5-4-309(d) (Repl.1997); Tipton v. State, 47 Ark. App. 187, 887 S.W.2d 540 (1994); Russell v. State, 25 Ark. App. 181, 753 S.W.2d 298 (1988).</p>
+                <p id="b162-6" pgmap="162">With these enunciated rules to guide our review, we examine the evidence presented against appellant Rudd at the revocation hearing. Appellant’s probation officer, Jeffrey David Landers, testi­fied that appellant was supposed to report to him on a weekly basis but that appellant reported only twice between pronouncement of his sentence to probation, September 11, 2000, and the date of the revocation hearing, January 22, 2001. Mr. Landers further testified the appellant had failed to pay his probation fees as ordered.</p>
+                <p id="b162-7" pgmap="162">The alleged victim of the terroristic threat testified that appel­lant forcibly took $60 from her and asked her what she was going to do about it. A few days later, the victim saw appellant again and the two got into an argument, yelling at one another over the money, and appellant threatened to kill her.</p>
+                <p id="b162-8" pgmap="162">Appellant testified in his own defense. Appellant did not con­test that he had failed to report to his probation officer as required or that he had failed to pay his probation fees; he admitted as much. Appellant contested that he committed terroristic threatening. When appellant testified, he stated that he did take the victim’s $60 and spent it under the pretext that he was going to buy her mari­juana with it. Appellant stated that they saw each other again about five days later and argued about the money but that he had not ever threatened to kill her. The trial court announced that it was revok­ing appellant’s probation at the conclusion of the hearing.</p>
+                <p id="b162-9" pgmap="162">
+                   Appellant bases his argument on the sufficiency of the evidence as to the proof that he committed terroristic threatening. However, the State need prove only one violation of a condition of probation, which it accomplished and which was not contested but admitted. See Ramsey v. State, 60 Ark. App. 206, 209, 959 S.W.2d 765, 767 (1998). There was sufficient evidence upon which to revoke appellant’s probation.</p>
+                <p id="b163-5" pgmap="163">Appellant’s alternative argument on appeal is that the trial court lacked jurisdiction<footnotemark>1</footnotemark> to enter a sentence on his plea of nolo contendere to conspiracy to deliver methamphetamine, the underly­ing offense for his suspended sentence and probation that was later revoked. Appellant bases this argument on his assertion that Amendment 21 to the Arkansas Constitution was not adopted in compliance with constitutional requirements, and thus the trial court lacked the jurisdiction to prosecute him, as a defendant, upon an information filed by the prosecuting attorney, but could have only proceeded by a grand-jury indictment. Thus, appellant argues, because he was charged by information, an invalid means to be charged, the trial court lacked jurisdiction to convict him on his nolo contendere plea and, therefore, lacked jurisdiction to revoke any probation based upon that conviction.</p>
+                <p id="b163-6" pgmap="163">
+                   The State counters by pointing out that if appellant’s argu­ment is that Amendment 21 is unconstitutional, then his argument is barred for failure to raise it to the trial court. With this, we agree. See, e.g., Woods v. State, 342 Ark. 89, 27 S.W.3d 367 (2000); Nance v. State, 339 Ark. 192, 4 S.W.3d 501 (1999); Tabor v. State, 333 Ark. 429, 971 S.W.2d 227 (1998); Claiborne v. State, 319 Ark. 537, 893 S.W.2d 324 (1995). Even constitutional arguments are waived when they are not argued below. Jordan v. State, 327 Ark. 117, 939 S.W.2d 255 (1997).</p>
+                <p id="b163-7" pgmap="163">
+                   While it is true, as a general proposition, that the issue of subject-matter jurisdiction may be raised at any time, even for the first time on appeal, see Pike v. State, 344 Ark. 478, 40 S.W.3d 795 (2001), and Lambert v. State, 286 Ark. 408, 692 S.W.2d 238 (1985), appellant’s contention that the trial court lacked jurisdiction is premised entirely upon the unconstitutionality of Amendment 21. However, Amendment 21 has never been adjudged to be constitu­tionally deficient and, for the reasons stated above, appellant may not now raise the issue of its constitutionality. Consequently, appel­lant has no basis for challenging on appeal the jurisdiction of the trial court in the proceedings below.</p>
+                <p id="b164-5" pgmap="164">
+                   Moreover, even if the validity of Amendment 21 were properly before us, appellant is incorrect in his argument that it was not validly adopted. Section 22 of Article 19 of the Arkansas Con­stitution provides the manner in which proposals to amend the Constitution may be submitted to the people by the General Assembly. It reads as follows:</p>
+                <blockquote id="b164-6" pgmap="164">Sec. 22. Either branch of the General Assembly at a regular session thereof may propose amendments to this Constitution, and, if the same be agreed to by a majority of all members elected to each house, such proposed amendments shall be entered on the journals with the yeas and nays, and published in at least one newspaper in each county, where a newspaper is published, for six months immediately preceding the next general election for Senators and Representatives, at which time the same shall be submitted to the electors of the State for approval or rejection; and if a majority of the electors voting at such election adopt such amendments the same shall become a part of this Constitution; but no more than three amendments shall be proposed or submitted at the same time. They shall be so submitted as to enable the electors to vote on each amendment separately.</blockquote>
+                <p id="b164-7" pgmap="164">See also McCuen v. Harris, 321 Ark. 458, 902 S.W.2d 793 (1995). It is compliance with Article 19, § 22, in the adoption of Amendment 21 that appellant questions. His specific contention is that the General Assembly did not agree to the proposed amendment until after the regular session had ended. In our review, we must necessa­rily have in mind the universal rule that, whenever a constitutional amendment is attacked as not constitutionally adopted, the question presented is not whether it is possible to condemn, but whether it is possible to uphold; every reasonable presumption, both of law and fact, is to be indulged in favor of the legality of the amendment, which will not be overthrown, unless illegality appears beyond a reasonable doubt. Chaney v. Bryant, 259 Ark. 294, 532 S.W.2d 741(1976).</p>
+                <p id="b164-8" pgmap="164(103) 165(41)">Amendment 21 was proposed in the 1935 session of the Gen­eral Assembly, which ran from January 14, 1935 through March 14, 1935, as noted in the 1935 edition of the Journal of the House of Representatives. We are permitted to take judicial notice of such Journals. See McAdams v. Henley, 169 Ark. 97, 273 S.W. 355 (1925). Amendment 21 was first designated House Joint Resolution Num­ber 18, which was approved by the Arkansas House of Representa­tives on March 4, 1935, and the Arkansas Senate on March 13, 1935, as reflected in the Journal on page 1272. It is reflected again that both houses of the General Assembly passed this Joint Resolu­tion in another entry in the Journal also dated March 13, 1935. See id. These were accomplished within the session dates and follow the dictates of Article 19, § 22.</p>
+                <p id="b165-6" pgmap="165">
+                   Appellant asserts that the adoption of this constitu­tional amendment did not occur until March 20, 1935, outside the session dates, rendering it void. See id. at 995. We disagree because March 20 was the date that House Joint Resolution Number 18 was reported correctly enrolled and was delivered to the governor. See id. at 1440 and 1456. The governor’s approval is not necessary for a constitutional amendment to be submitted to the citizenry for approval. See Coulter v. Dodge, 197 Ark. 812, 125 S.W.2d 115 (1939). Because this amendment was approved by the General Assembly within the regular session, and later by vote of the people of this state, the State was not limited to prosecuting appellant only by means of a grand jury indictment.</p>
+                <p id="b165-7" pgmap="165">Affirmed.</p>
+                <footnote label="1">
+                  <p id="b163-8" pgmap="163">1 Although appellant characterizes the trial court proceeding in his original prosecu­tion, which was commenced by the prosecutor’s information, as one without jurisdiction, he does not contend that the Crawford County Circuit Court lacked jurisdiction over criminal prosecutions. Because of our disposition of this case, it makes no difference whether the issue should more accurately be characterized as an improper exercise of jurisdiction rather than a lack of jurisdiction, so we also will refer to the issue as one pertaining to a lack of jurisdiction.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="159" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.2" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.2" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.2" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOx" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.12" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_160.13" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.9" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.10" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-13" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.11" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.3" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZo" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATY" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.8" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000684_0019" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Watson v. Calvin">Tim WATSON and Rebecca Watson v. Blanche CALVIN</name>
+          <docketnumber>CA 99-705</docketnumber>
+          <citation category="official" type="bluebook">69 Ark. App. 109</citation>
+          <citation category="parallel" type="bluebook">9 S.W.3d 571</citation>
+          <decisiondate>2000-02-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:48:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:11:22Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:39:02Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:40:12Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00069_0" MIMETYPE="image/tiff" CHECKSUM="4e5a7b708c178bbd3bfb108fd52e1986" CHECKSUMTYPE="MD5" SIZE="10782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00069_0.tif"/>
+      </file>
+      <file ID="tiff_00069_1" MIMETYPE="image/tiff" CHECKSUM="c2dadd8183b50553ebee85814677f211" CHECKSUMTYPE="MD5" SIZE="19012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00069_1.tif"/>
+      </file>
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="80816ce68657a0e948b541dcfff5eb88" CHECKSUMTYPE="MD5" SIZE="54390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="4b91b988b9a381eed853a6ccf280f105" CHECKSUMTYPE="MD5" SIZE="56522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="2c99cb83665e09ad8ff4b12e01104d2e" CHECKSUMTYPE="MD5" SIZE="52900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="1398aefc4ac95468618fc77d8387a1ec" CHECKSUMTYPE="MD5" SIZE="20680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00071_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00069_0" MIMETYPE="image/jp2" CHECKSUM="892cbee957a2b1342e19308293fca672" CHECKSUMTYPE="MD5" SIZE="1709927">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00069_0.jp2"/>
+      </file>
+      <file ID="jp2_00069_1" MIMETYPE="image/jp2" CHECKSUM="c5fde3e2669fb8f3741fd2ec0d4d8368" CHECKSUMTYPE="MD5" SIZE="1627395">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00069_1.jp2"/>
+      </file>
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="a70ce17d39f460fdfc45d8d4b4a5b31c" CHECKSUMTYPE="MD5" SIZE="2669314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="e38547d3c614678e1f23abd21c7d3a9f" CHECKSUMTYPE="MD5" SIZE="2652435">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="f6a6ff49013f79186309261911c3527e" CHECKSUMTYPE="MD5" SIZE="2647443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="8d57f211700e00076992fb3d7f5cb78b" CHECKSUMTYPE="MD5" SIZE="2339991">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00071_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00069_0" MIMETYPE="text/xml" CHECKSUM="1205bd62ba8b590f33d7af7d472f0180" CHECKSUMTYPE="MD5" SIZE="14762">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00069_0.xml"/>
+      </file>
+      <file ID="alto_00069_1" MIMETYPE="text/xml" CHECKSUM="27856e9850c9f4f12e54946dc5566bc7" CHECKSUMTYPE="MD5" SIZE="27100">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00069_1.xml"/>
+      </file>
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="1651e299c451c187e5debd6a6c58343f" CHECKSUMTYPE="MD5" SIZE="89601">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="99274c58b3b7b14509d18c5d27717275" CHECKSUMTYPE="MD5" SIZE="94046">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="1397995d352e290e3ff8f3ea2e0235ea" CHECKSUMTYPE="MD5" SIZE="97917">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="ada9009f51d55cdd602a22c7a536e09b" CHECKSUMTYPE="MD5" SIZE="32771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00071_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="109" lastpage="114">
+              <court pgmap="137" id="b137-8">Court of Appeals of Arkansas Division III</court>
+              <docketnumber pgmap="137" id="AFB">CA 99-705</docketnumber>
+              <citation pgmap="137" id="A6v">9 S.W.3d 571</citation>
+              <parties pgmap="137" id="b137-7">Tim WATSON and Rebecca Watson v. Blanche CALVIN</parties>
+              <decisiondate pgmap="137" id="b137-9">Opinion delivered February 2, 2000</decisiondate>
+              <judges pgmap="141" id="b141-8">Robbins, C.J., agrees.</judges>
+              <judges pgmap="141" id="b141-9">Rogers, J., concurs.</judges>
+              <attorneys pgmap="138" id="b138-15">Michael E. Todd, for appellants.</attorneys>
+              <attorneys pgmap="138" id="b138-16">C. Joseph Calvin, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="138" id="b138-17">Margaret Meads, Judge.</author>
+                <p pgmap="138" id="ANk">In this appeal, appellants con­tend that the chancellor erred in granting summary-­judgment in favor of appellee Blanche Calvin. They argue that summary judgment should have been granted in their favor instead. We disagree and affirm.</p>
+                <p pgmap="138(53) 139(22)" id="b138-18">In March 1998, appellee executed a contract in which she agreed to buy a duplex and lot from appellants for $110,000. She deposited $11,000 in earnest money with the real estate agency, Time Realty, Inc. The contract provided that if appellee failed to close the transaction or otherwise failed to fulfill her contractual obligations, the earnest money could be retained by appellants as liquidated damages. Closing was scheduled for no later than August 7, 1998.</p>
+                <p pgmap="139" id="b139-6">On the scheduled date, appellee did not appear at closing and notified appellants that she did not intend to purchase the property. Appellants filed a declaratory-judgment action in Greene County Chancery Court seeking the $11,000 in earnest money. Appellee answered that the earnest money should be returned to her because appellants failed to fulfill the terms of the contract. She referred to the fact that, on the scheduled closing date, appellants’ tenants still occupied the duplex. According to her, this violated paragraph twelve of the contract which read as follows: “POSSESSION: Possession of the Property shall be delivered to Buyer ... [u]pon the closing (Seller’s delivery of executed and acknowledged Deed).”</p>
+                <p pgmap="139" id="b139-7">Appellants and appellee filed motions for summary judgment and agreed that there were no issues of fact to be decided. The only question was whether, by promising to deliver “possession” to appellee, appellants promised to deliver actual, physical possession of the premises to her or merely constructive possession. The chancel­lor ruled that the term “possession” in the contract meant that, upon closing, the property should be immediately available for appellee’s occupancy. He therefore found that the earnest money, less an attorney fee for the interpleader, Time Realty, must be returned to appellee.</p>
+                <p pgmap="139" id="b139-8">
+                   Ordinarily, upon reviewing a trial court’s grant of sum­mary judgment, we view the evidence in the fight most favorable to the party resisting the motion and resolve all doubts and inferences against the moving party. Earp v. Benton Fire Dep’t, 52 Ark. App. 66, 914 S.W.2d 781 (1996). However, in a case such as this one where there are no facts at issue, we must simply determine whether appellee was entitled to judgment as a matter of law. Id. We will not reverse the trial court’s ruling unless it is clearly erroneous. See Columbia Mut. Ins. Co. v. Estate of Baker, 65 Ark. App. 22, 984 S.W.2d 829 (1999).</p>
+                <p pgmap="139(41) 140(96)" id="b139-9">
+                   The law in general recognizes two kinds of possession — actual possession and constructive possession. Black’s Law Dictionary 1047 (5th ed. 1979). Actual possession exists where the thing is in the immediate occupancy and control of the party. Id. See also Johnson v. State, 306 Ark. 399, 814 S.W.2d 908 (1991), defining possession to mean the exercise of actual dominion, control, or management over a tangible object. Constructive possession exists where one claims to hold property by virtue of actual title without having the actual occupancy. Black’s Law Dictionary, supra. Appel­lants argue that, had they delivered a deed on the scheduled closing date, appellee would have received constructive possession of the property and the terms of the contract would have been fulfilled. Appellee argues that the contract with appellants promised her actual possession of the property.</p>
+                <p pgmap="140" id="b140-6">
+                   Given the fact that the contract referred only to appellee’s “possession” of the property, without limitation, we cannot say that the chancellor erred in interpreting the contract as he did. There is nothing in the contract to indicate that “possession” meant any­thing other than actual possession. We note that the property in question is a duplex, not a commercial office building or shopping center that a person buying as an investor would necessarily expect and hope to be occupied by tenants.</p>
+                <p pgmap="140" id="b140-7">
+                   Ordinarily, a delivery of possession is essential to a transfer of good title, and, unless the agreement provides otherwise, the buyer may reject a title not accompanied by immediate possession. See 92 C.J.S. Vendor &amp; Purchaser § 244 (1955). See also May v. Lathers, 257 Wis. 191, 43 N.W.2d 15 (1950); Matthews v. Gaubler, 49 So. 2d 11A (La. App. 1951); John S. Westervelt’s Sons v. Regency, Inc., 5 N.J. Super. 231, 68 A.2d 755 (1949). Although we have found no Arkansas case directly on point, in Worch v. Kelly, 276 Ark. 262, 633 S.W.2d 697 (1982), our supreme court upheld a chancellor’s finding that a seller breached a realty contract when he was unable to deliver actual possession of property to the seller by the agreed date.</p>
+                <p pgmap="140" id="b140-8">Appellants point out that a separate provision of the contract gave them the right to “receive all rent on the property until closing” and that this provision indicated appellee’s acquiescence in the tenancies, i.e., that, after closing, she would receive the rents on the property. While this provision shows that appellee was aware of the presence of tenants on the property, it does not necessarily show that she expected the tenants to still be on the property on the date of closing, which was approximately five months after the contract was executed.</p>
+                <p pgmap="141" id="b141-5">
+                   We also note that a tenant’s interest is a possessory interest. See generally 51C C.J.S. Landlord &amp; Tenant § 308 (1968); 49 Am. JUR. 2d Landlord and Tenant § 1 (2d ed. 1995). A tenant has a right of possession against the whole world, including the owner. 51C C.J.S. Landlord &amp; Tenant, supra. Thus, in the absence of any contractual provision to the contrary, it would be incongruous to say that a buyer obtains possession of property when the property is occupied by a tenant. Further, when a lessor sells property that is subject to an unfulfilled lease, the buyer takes the property subject to the terms of the lease. See Prince v. Alford, 173 Ark. 633, 293 S.W. 36 (1927). In this case, appellants have not shown us the terms of the tenants’ leases or whether the tenants had a right of possession on the closing date. It is an appellant’s burden to bring up a record to demonstrate error. Warnock v. Warnock, 336 Ark. 506, 988 S.W.2d 7 (1999). Finally, we note that, in the similar case of May v. Lathers, supra, a buyer was allowed to rescind a contract where the seller could not give immediate possession of the land upon closing, due to the presence of tenants.</p>
+                <p pgmap="141" id="b141-6">
+                   Based upon the foregoing, we cannot say that the chancel­lor clearly erred in granting summary judgment in favor of appellee.</p>
+                <p pgmap="141" id="b141-7">Affirmed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="141" id="b141-10">JUDITH ROGERS, Judge,</author>
+                <p pgmap="141(168) 142(31)" id="Axh">concurring. I concur with the majority in the result reached in this matter. However, I write separately because I do not believe that this Court should have addressed the merits of this case. The parties before this court have asked us to construe the meaning of the word “possession” in a contract for the sale of real estate. Yet, they have failed to provide an abstract of the contract in question for our review. Different clauses of a contract must be read together and the contract construed so that all of its parts harmonize, if that is at all possible. Boatmen’s Arkansas, Inc. v. Farmer, 66 Ark. App. 240, 242 (1999); Pate v. U.S. Fidelity and Guaranty Co., 14 Ark. App. 133, 685 S.W.2d 530 (1985). The intention of the parties is to be gathered not from particular words and phrases but from the whole context of the agreement. Farmer, supra. Although the parties have provided quo­tations of the most relevant provisions of the contract in their pleadings and briefs, without the full contract before us we cannot adequately determine whether the construction which we afford the terms in question will harmonize with the entirety of the contract.</p>
+                <p pgmap="142" id="b142-6">Parties have an affirmative obligation to abstract those portions of the record relevant to the points on appeal. Moncrief v. State, 325 Ark. 173, 925 S.W.2d 776 (1996). In the instant case, the parties have failed to abstract the most important piece of evidence before the court: the very contract which is at issue. When an abstract is deficient, the lower court’s judgment must be affirmed. Owens v. State, 325 Ark. 93, 924 S.W.2d 459 (1996). The abstract is deficient in this matter because of the failure to include the contract under construction. Therefore, I would affirm the judgment of the lower court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="137" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00069_0"/>
+        <fptr FILEID="jp2_00069_0"/>
+        <fptr FILEID="alto_00069_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.3" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="138" ORDERLABEL="110" TYPE="page">
+        <fptr FILEID="tiff_00069_1"/>
+        <fptr FILEID="jp2_00069_1"/>
+        <fptr FILEID="alto_00069_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.2" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="139" ORDERLABEL="111" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="112" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axh" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.9" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_141.10" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_141.11" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.6" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANk" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.15" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_138.16" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_138.17" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFB" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.7" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.6" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-18" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.18" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_139.1" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.7" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.6" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.10" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.9" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.6" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6v" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.8" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.5" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-15" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.12" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-16" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.13" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-17" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.14" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000728_0027" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Aldridge v. Aldridge">Marion ALDRIDGE v. Betty ALDRIDGE</name>
+          <docketnumber>CA 89-2</docketnumber>
+          <citation category="official" type="bluebook">28 Ark. App. 175</citation>
+          <citation category="parallel" type="bluebook">773 S.W.2d 103</citation>
+          <decisiondate>1989-06-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:46:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:53:24Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-20T01:28:00Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-20T01:28:58Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="fa6ffc92fe30d932c8de543e2ea3fa65" CHECKSUMTYPE="MD5" SIZE="7262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00100_0.tif"/>
+      </file>
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="2662aadbfdb6a0cc7494b1d3889561eb" CHECKSUMTYPE="MD5" SIZE="48810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="a096df5bd66dbfe7f480ac9d929af891" CHECKSUMTYPE="MD5" SIZE="56728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="05f3e6a3e668549c20a063bfa86d3aad" CHECKSUMTYPE="MD5" SIZE="56484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="9aeeb75cdb36e6f177cd72d0e3b47142" CHECKSUMTYPE="MD5" SIZE="36386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00102_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="fa42fcdac3fce30b889d8eb09e866aff" CHECKSUMTYPE="MD5" SIZE="1320902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00100_0.jp2"/>
+      </file>
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="0b51575033535877a6438a3e11795ce8" CHECKSUMTYPE="MD5" SIZE="2473025">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="104b0109006b4c3ce46de4f7b451da98" CHECKSUMTYPE="MD5" SIZE="2624892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="010df97f2edbf1af758072f325cafcc0" CHECKSUMTYPE="MD5" SIZE="2622297">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="a867adb45ccf64b9d68d3703c0969c09" CHECKSUMTYPE="MD5" SIZE="2457704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000728_00102_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="5b07ed1c5463b15423f8832cd8330801" CHECKSUMTYPE="MD5" SIZE="7766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000728_redacted_ALTO_00100_0.xml"/>
+      </file>
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="35a412a5274fbcd2640b0a1f26ab5fb6" CHECKSUMTYPE="MD5" SIZE="78193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000728_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="5f70d679a3adbe5306e1caa98e7ac5ad" CHECKSUMTYPE="MD5" SIZE="93495">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000728_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="f61be8fbb2ed86d640026a9d0e2e28e5" CHECKSUMTYPE="MD5" SIZE="91634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000728_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="4e391616c61a221da059d533a783202c" CHECKSUMTYPE="MD5" SIZE="56706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000728_redacted_ALTO_00102_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="175" lastpage="179">
+              <court id="b199-5" pgmap="199">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b199-4" pgmap="199">CA 89-2</docketnumber>
+              <citation id="Aoo" pgmap="199">773 S.W.2d 103</citation>
+              <parties id="b199-3" pgmap="199">Marion ALDRIDGE v. Betty ALDRIDGE</parties>
+              <decisiondate id="b199-6" pgmap="199">Opinion delivered June 14, 1989</decisiondate>
+              <judges id="b203-9" pgmap="203">Corbin, C.J., and Mayfield, J., agree.</judges>
+              <attorneys id="b200-7" pgmap="200">Dan Dane, for appellant.</attorneys>
+              <attorneys id="b200-8" pgmap="200">Butler, Hicky &amp; Long, by: Fletcher Long, Jr., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b200-9" pgmap="200">Judith Rogers, Judge.</author>
+                <p id="A2h" pgmap="200">The parties to this litigation were divorced by decree of October 25,1988, after seventeen years of marriage. The chancellor found that certain bank accounts were marital property, and thus equally divided the proceeds there­from between the parties. The chancellor also awarded appellee a portion, based on a percentage formula, of appellant’s retirement fund, as well as alimony in the amount of $350 per month. At a subsequent hearing on appellee’s motion for contempt alleging the non-payment of alimony, the chancellor found that the award of alimony had not been superseded by a previously entered order of supersedeas staying other provisions of the decree during the pendency of this appeal. In addition, the chancellor held, in any event, that an award of alimony could not be stayed pending appeal. From the decree of divorce with regard to the above-­mentioned dispositions, and the ruling of the chancellor as to his lack of authority to stay the award of alimony comes this appeal. We affirm with modification.</p>
+                <p id="b200-10" pgmap="200">As his first issue on appeal, the appellant contends that the chancellor erred in failing to consider the bank account of the appellant as premarital property. The appellant testified that the bank account in question was held in his name only, existed prior to the marriage, and that as of the time of the marriage the balance of the account was $18,317.20. The appellant maintains that these facts in conjunction with the appellee’s not having made any contributions to the account, required the chancellor to trace the funds and declare the account to be his separate, premarital property. We disagree.</p>
+                <p id="b200-11" pgmap="200(40) 201(111)">
+                   The chancellor found that over the seventeen year marriage that the accounts had been commingled. It is undis­puted that at the time of divorce, the account contained $ 12,086.79, and there was evidence that the balance could have at times dipped as low as $8,000. Presumably, the funds were used by the parties over the course.of the marriage, and marital funds were utilized to replace any amounts that had been withdrawn. The appellant argues that no facts were developed to support the chancellor’s finding that the funds withdrawn were intermingled with marital property. However, the converse of this argument is of equal import in that the appellant had failed to show that the funds maintained their separate character, perhaps because of the difficulty of tracing such funds over the course of a seventeen year marriage. In Canady v. Canady, 290 Ark. 551, 721 S.W.2d 650 (1986), the supreme court recognized:</p>
+                <blockquote id="b201-6" pgmap="201">Unquestionably the tracing of money or other property into different forms may be an important matter, but tracing is a tool, a means to an end, not an end in itself. . . . We have no doubt that the tracing of funds and even the acquisition of property before the marriage or by gift during the marriage might be inconsequential when considered at the dissolution of a marriage that had lasted for many years and had left the parties with decidedly unequal means for supporting themselves in the future.</blockquote>
+                <p id="b201-7" pgmap="201">See also, Jackson v. Jackson, 298 Ark. 60, 765 S.W.2d 561 (1989). It has also been stated “that where transactions result in great difficulty in tracing the manner in which nonmarital and marital property have been commingled, the property acquired in the final transaction may be declared marital property.” Boggs v. Boggs, 26 Ark. App. 188, 761 S.W.2d 956 (1988).</p>
+                <p id="b201-8" pgmap="201">
+                   The burden is on the party who asserts an interest in property to establish that it is in fact separate property not subject to division. Gorchik v. Gorchik, 10 Ark. App. 331, 663 S.W.2d 941 (1984). Chancery cases are tried de novo on appeal, but the trial court’s findings of fact will not be disturbed unless they are clearly against the preponderance of the evidence. Bone v. Bone, 12 Ark. App. 163, 671 S.W.2d 217 (1984); Ark. R. Civ. P. 52(a). We cannot say that the chancellor’s finding that the balance of the account at the time of divorce was marital property, and thus subject to equal division, was clearly against the preponderance of the evidence.</p>
+                <p id="b201-9" pgmap="201(21) 202(116)">The second issue raised by the appellant is his contention that the trial court erred in awarding appellee alimony. In the decree, the chancellor ordered the appellant to pay alimony in the amount of $350 per month until the appellee either reaches the age of 62 at which time she would be entitled to draw social security, or until she applies for and receives social security disability benefits. The evidence showed that appellee was 58 years of age and in ill-health, that she had not worked since the time of their marriage, and that she would have no means of providing for her own support since her poor health rendered her unable to seek employment. While on the other hand, the appellant, who was retired, and receiving disability benefits had a combined income of $1,162.55 per month.</p>
+                <p id="b202-4" pgmap="202">
+                   An award of alimony lies within the sound discretion of the chancellor, whose decision will not be reversed absent a clear abuse in the exercise of that discretion. Boggs v. Boggs, supra. There are numerous factors that have a bearing on the determination of whether to award alimony. See, Boyles v. Boyles, 268 Ark. 120, 594 S.W.2d 17 (1980); Weathers v. Weathers, 9 Ark. App. 300, 658 S.W.2d 427 (1983). The primary factors to be considered are the need of one spouse and the ability of the other spouse to pay. Harvey v. Harvey, 295 Ark. 102, 747 S.W.2d 89 (1988). When all the evidence in this case is consid­ered, we cannot say that the chancellor abused his discretion in awarding alimony, particularly in light of the contingencies placed on the award, which will cause it to terminate when the appellee begins to receive income from these independent sources.</p>
+                <p id="b202-5" pgmap="202">Although it is undisputed that the appellant’s interest in his retirement fund was vested and was currently distributable at the time of the divorce, and thus properly subject to division upon divorce, the appellant argues that the trial court made an error in calculating the monthly amount that the appellee was entitled to receive. We agree.</p>
+                <p id="b202-6" pgmap="202(67) 203(73)">The evidence was that appellant was receiving in monthly installments the sum of $453.55 in retirement from AP&amp;L, based upon twenty-seven years of employment. The parties were married for thirteen of the twenty-seven years that his benefits were accruing. The chancellor sought to divide the monthly retirement income based on a percentage formula which was approved of by the supreme court in Addis v. Addis, 288 Ark. 205, 703 S.W.2d 852 (1986). In doing so, he awarded appellee the sum of $271 per month, which is 13/27 of the total monthly amount. However, the chancellor failed to consider that the appellee should share in the distribution of this fractional amount if this asset were to be divided equally. Thus the chancellor misapplied the percentage formula in failing to further divide the 13/27 fractional amount by multiplying the fraction by one-half.</p>
+                <p id="b203-6" pgmap="203">
+                   Since we agree that the chancellor miscalculated the appellee’s interest in the retirement fund, we may enter here the order that should have been entered by the chancellor, since the record has been fully developed, making remand on this issue unnecessary. See Ferguson v. Green, 266 Ark. 556, 587 S.W.2d 18 (1979). Therefore, we modify the amount that appellee is entitled to receive monthly from appellant’s retirement fund to one-half of $271, or $135.50.</p>
+                <p id="b203-7" pgmap="203">As his final argument on appeal, the appellant challenges the chancellor’s conclusion that the award of alimony could not be stayed by an order of supersedeas during the pendency of the appeal. Inasmuch as we have affirmed the chancellor’s decision to award alimony to the appellee, the question raised by appellant is now moot. Therefore, we need not and decline to address this issue. See Arkansas Dep’t of Human Servs. v. M.D.M. Corp., 295 Ark. 549, 750 S.W.2d 57 (1988).</p>
+                <p id="b203-8" pgmap="203">AFFIRMED AS MODIFIED.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="199" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.2" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="200" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.2" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.6" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_203.1" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.5" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.4" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.13" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.12" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.9" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.8" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoo" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.5" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_202.1" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2h" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.10" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.11" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.6" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.7" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-3" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.3" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.4" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

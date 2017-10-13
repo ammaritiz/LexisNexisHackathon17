@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000665_0006" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Dust v. State">Ronald Frank DUST v. STATE of Arkansas</name>
+          <docketnumber>CA CR 88-79</docketnumber>
+          <citation category="official" type="bluebook">26 Ark. App. 34</citation>
+          <citation category="parallel" type="bluebook">759 S.W.2d 569</citation>
+          <decisiondate>1988-11-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:43:08Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:56:13Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:19:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:19:47Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00027_1" MIMETYPE="image/tiff" CHECKSUM="be33ae98167c899ca27a441a6f62acd8" CHECKSUMTYPE="MD5" SIZE="17666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00027_1.tif"/>
+      </file>
+      <file ID="tiff_00028_0" MIMETYPE="image/tiff" CHECKSUM="736fcfef3a00c95e1cb4d555f340439a" CHECKSUMTYPE="MD5" SIZE="55120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00028_0.tif"/>
+      </file>
+      <file ID="tiff_00028_1" MIMETYPE="image/tiff" CHECKSUM="1df7661f839cbcad3730c80a318986f2" CHECKSUMTYPE="MD5" SIZE="36882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00028_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00027_1" MIMETYPE="image/jp2" CHECKSUM="50964bbf0b64badb2362f8a98f6b84a2" CHECKSUMTYPE="MD5" SIZE="1714661">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00027_1.jp2"/>
+      </file>
+      <file ID="jp2_00028_0" MIMETYPE="image/jp2" CHECKSUM="006515be5091f9d949be7412d22e6cc2" CHECKSUMTYPE="MD5" SIZE="2761046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00028_0.jp2"/>
+      </file>
+      <file ID="jp2_00028_1" MIMETYPE="image/jp2" CHECKSUM="d0fba48500ad39b87e4029719149a19a" CHECKSUMTYPE="MD5" SIZE="2487868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00028_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00027_1" MIMETYPE="text/xml" CHECKSUM="3265db42023cd05ddaaad600102b71e3" CHECKSUMTYPE="MD5" SIZE="26057">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00027_1.xml"/>
+      </file>
+      <file ID="alto_00028_0" MIMETYPE="text/xml" CHECKSUM="8e16ee8c8d28df137f44b0fc2fce26e7" CHECKSUMTYPE="MD5" SIZE="91189">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00028_0.xml"/>
+      </file>
+      <file ID="alto_00028_1" MIMETYPE="text/xml" CHECKSUM="1dabb6ab82b002e22ca1f26a47649875" CHECKSUMTYPE="MD5" SIZE="58464">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00028_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="36" firstpage="34">
+              <court pgmap="54" id="b54-5">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="54" id="b54-4">CA CR 88-79</docketnumber>
+              <citation pgmap="54" id="AC">759 S.W.2d 569</citation>
+              <parties pgmap="54" id="b54-3">Ronald Frank DUST v. STATE of Arkansas</parties>
+              <decisiondate pgmap="54" id="b54-6">Opinion delivered November 2, 1988</decisiondate>
+              <judges pgmap="56" id="b56-9">Corbin, C.J., and Mayfield, J., agree.</judges>
+              <attorneys pgmap="54" id="b54-13">William R. Simpson, Jr., Public Defender, Jerry Sailings, Deputy Public Defender, by: Thomas B. Devine III, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="54" id="b54-14">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="54" id="b54-15">James R. Cooper, Judge.</author>
+                <p pgmap="54(35) 55(50)" id="Ah">The appellant in this criminal case was charged with class Y kidnapping. After plea negotia­tions, he pled nolo contendere to a charge of class B kidnapping, and requested sentencing under the Alternative Service Act, codified at Ark. Code Ann. § 16-93-501 et seq. (1987). At a hearing on this motion, the trial judge ruled that the appellant was not eligible for sentencing under the Act and that the facts did not warrant sentencing under the Alternative Service Act. From that decision, comes this appeal.</p>
+                <p pgmap="55" id="b55-6">
+                   For reversal, the appellant contends that the trial court erred in ruling that he was ineligible for sentencing under the Act. Arkansas Code Annotated § 16-93-502(6)(A) defines an “eligi­ble offender” as:</p>
+                <blockquote pgmap="55" id="b55-7">any person convicted of a felony offense other than a capital felony offense, or murder in the first degree, murder in the second degree, first degree rape or kidnapping, or aggravated robbery, and who has never been previously convicted of a felony offense, and whose interests, and the interests of the state, in the opinion of the sentencing court, could be better served by diversion under the provisions of this subchapter than by sentencing under other applicable penalty provisions established by law.</blockquote>
+                <p pgmap="55" id="b55-8">The Act provides a two-pronged test to be met in order for an offender to be “eligible.” First, he must not be excluded by the crime for which he was convicted, and second, the trial court must decide whether he believes that the interests of both the offender and the State would be best served by sentencing under the Act. Garrison v. State, 13 Ark. App. 245, 682 S.W.2d 772 (1985).</p>
+                <p pgmap="55(154) 56(17)" id="b55-9">At the hearing, the record showed that the appellant pled no contest to a charge of class B kidnapping which, the State proposed to show, resulted when the appellant enticed a young child into his automobile by representing that he was a police officer and attempted to drive into Camp Robinson through the back gates. After the hearing for sentencing under the Act, the trial court ruled that the appellant was ineligible under § 16-93-­502(6)(A) because he was convicted of kidnapping, and he further determined that sentencing under the Act would be improper because of the nature of the crime and the circum­stances of its commission. Concerning the latter determination, the trial judge expressed his opinion that the facts could have supported a conviction for a greater offense, and voiced his concern over the possibility of early parole if the appellant was sentenced under the Act. He also considered evidence relating to the appellant’s history of alcohol abuse, and concluded this evidence did not justify sentencing under the Act.</p>
+                <p pgmap="56" id="b56-6">
+                   In his brief, the appellant specifically concedes that he does not dispute the correctness of the trial court’s discretionary determination. Instead, he argues that § 16-93-502(6)(A) does not exclude offenders convicted of class B kidnapping from the definition of eligible offender, and he therefore contends that this part of the trial court’s ruling was in error. It is unnecessary to reach that issue, however, because the court’s finding that the appellant was ineligible under the Act is sufficiently supported by the trial judge’s discretionary determination. We hold that the trial court’s determination that the interests of the State would not be better served by sentencing under the Act, was clearly supported by the evidence, and the record fully demonstrates that the appellant was not an eligible offender. See Garrison v. State, supra.</p>
+                <p pgmap="56" id="b56-7">
+                   The appellant states that his statutory argument is brought to seek clarification with respect to the eligibility of offenders convicted of class B kidnapping. We are unable to provide such clarification, however, because to do so under these facts would be to declare a principle of law which cannot affect the matter in issue in the case at bar. See Saunders v. Kleier, 296 Ark. 25, 751 S.W.2d 343 (1988). We do not give advisory opinions. City of Springdale v. Jones, 295 Ark. 129, 747 S.W.2d 98 (1988).</p>
+                <p pgmap="56" id="b56-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="54" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00027_1"/>
+        <fptr FILEID="jp2_00027_1"/>
+        <fptr FILEID="alto_00027_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_54.1" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="55" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00028_0"/>
+        <fptr FILEID="jp2_00028_0"/>
+        <fptr FILEID="alto_00028_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_55.3" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="56" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00028_1"/>
+        <fptr FILEID="jp2_00028_1"/>
+        <fptr FILEID="alto_00028_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.2" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.7" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.6" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.5" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.6" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.4" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.13" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ah" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.16" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_54.17" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_55.1" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-15" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.15" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-14" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.14" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.4" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.5" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.3" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.6" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.7" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            <area BEGIN="BL_56.1" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.7" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.4" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AC" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.5" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

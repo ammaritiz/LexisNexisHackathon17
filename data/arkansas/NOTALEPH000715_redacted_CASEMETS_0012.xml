@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000715_0012" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Lindsey v. State">John LINDSEY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 99-558</docketnumber>
+          <citation category="official" type="bluebook">68 Ark. App. 70</citation>
+          <citation category="parallel" type="bluebook">3 S.W.3d 346</citation>
+          <decisiondate>1999-11-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:23:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:14Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-25T12:34:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-25T12:35:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="28571f901750f3e2a470722e4e4603b3" CHECKSUMTYPE="MD5" SIZE="14356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="e13277e9d7ce4dff565e3992f53618ae" CHECKSUMTYPE="MD5" SIZE="38900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="517cb891acb0c229b893c959eb2bf186" CHECKSUMTYPE="MD5" SIZE="50154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="2eefa2c028a6d4ece68f3bf9f1e972bf" CHECKSUMTYPE="MD5" SIZE="53756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00051_0.tif"/>
+      </file>
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="f690da583e8fc08a7e7f1ded757281d6" CHECKSUMTYPE="MD5" SIZE="14122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00051_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="6aa4d3c2b67505fb84a9eb6be185b4ac" CHECKSUMTYPE="MD5" SIZE="1738598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="b523d1fb74aef6add58f08da3953616f" CHECKSUMTYPE="MD5" SIZE="2561995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="202de2265fcae5bf7dfaae25be7e8fc8" CHECKSUMTYPE="MD5" SIZE="2519872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="128bf5d16d65b187b24d55d7bba07935" CHECKSUMTYPE="MD5" SIZE="2827311">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00051_0.jp2"/>
+      </file>
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="83e3c733b4f533507ba1675310e466c8" CHECKSUMTYPE="MD5" SIZE="1824153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00051_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="c00e9e2f1fa7fdf83dd0f0275990e4ce" CHECKSUMTYPE="MD5" SIZE="21824">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="2cb9ac5ecab2f34f1b317daa11d22773" CHECKSUMTYPE="MD5" SIZE="65442">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="9cdb5217ee85b624659618ccba9021f4" CHECKSUMTYPE="MD5" SIZE="91784">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="d3e9bac71182ca6a0851d11934a48ded" CHECKSUMTYPE="MD5" SIZE="98927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00051_0.xml"/>
+      </file>
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="d1cd4f5a252b0df3146ec0dca9941c42" CHECKSUMTYPE="MD5" SIZE="20750">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00051_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="70" lastpage="74">
+              <court pgmap="98" id="b98-9">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber pgmap="98" id="AFr">CA CR 99-558</docketnumber>
+              <citation pgmap="98" id="ART">3 S.W.3d 346</citation>
+              <parties pgmap="98" id="b98-8">John LINDSEY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="98" id="b98-10">Opinion delivered November 10, 1999</decisiondate>
+              <judges pgmap="102" id="b102-7">Pittman and Jennings, JJ., agree.</judges>
+              <attorneys pgmap="99" id="b99-7">William R. Simpson, Jr., Public Defender; Sandra S. Cordi, Deputy Public Defender, by: Deborah R. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="99" id="b99-8">Mark Pryor, Att’y Gen., by: James R. Gowen, Jr., Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="99" id="pA41">Andree Layton Roaf, Judge.</author>
+                <p pgmap="99" id="Ad7">John Lindsey was convicted in a bench trial of theft by receiving, for which he was sentenced as an habitual offender to 180 months in the Arkansas Department of Correction. On appeal, Lindsey argues that the evidence was insufficient to sustain his conviction because the State failed to prove that he was in possession of the stolen white van recovered near where he had been seen driving a white van, because it was reasonable that he could have been driving a white van other than the one that was stolen. We agree that the evidence was insufficient to sustain the conviction and reverse.</p>
+                <p pgmap="99" id="b99-10">The following evidence was introduced by the State at Lind­sey’s trial. Burt Park, chairman of the board of Democrat Printing and Lithographing Company, testified that in September of 1997, a 1997 white Ford van was stolen after working hours from Demo­crat Printing. The theft was discovered at 6:00 a.m. Later that morning, after the theft had been reported to police, the van was recovered. Police had found the vehicle at Ives Walk, a housing development off Roosevelt Road just west of the interstate.</p>
+                <p pgmap="99(45) 100(39)" id="b99-11">Dorothy Brown Walker, who lived at No. 4 Ives Walk, testi­fied that on September 9, 1997, at approximately 2:00 a.m., she observed Lindsey drive a white van behind the empty, boarded-up apartment next door at No. 2 Ives Walk, back up to the apartment, and then drive off. She described the van as “a white utility van” with “no windows on the side.” Walker said she recognized Lindsey from his previous visits to his sister who lived next door at No.6 Ives Walk.</p>
+                <p pgmap="100" id="b100-6">Sue Francis of the Little Rock Police Department testified that she was called to Ives Walk on September 9, 1997, to investigate a report that a van was in the development. According to Francis, she found the vehicle behind a duplex at No. 19 Ives Walk and later determined that it was the van that was stolen from Democrat Printing.</p>
+                <p pgmap="100" id="b100-7">Lindsey’s sole point on appeal is that the evidence was insuffi­cient to support his conviction. Fie argues that the State failed to prove that he was in possession of the stolen van. Lindsey contends that it was not sufficient that he was observed driving a white van at 2:30 a.m. and that the stolen white van was discovered in the same housing project later that morning. He asserts that white utility vans are not unique and it is not unreasonable that two white vans could be in the same housing development on the same day. We find Lindsey’s argument persuasive.</p>
+                <p pgmap="100" id="b100-8">
+                   In reviewing a challenge to the sufficiency of the evi­dence, this court must view the evidence in a light most favorable to the State and consider only that evidence which supports the verdict. Walker v. State, 330 Ark. 652, 955 S.W.2d 905 (1997). Evidence, whether direct or circumstantial, is sufficient to support a conviction if it is forceful enough to compel reasonable minds to reach a conclusion one way or the other. Id. Circumstantial evi­dence may constitute substantial evidence. Winters v. State, 41 Ark. App. 104, 848 S.W.2d 441 (1993). When circumstantial evidence alone is relied upon, it must indicate the accused’s guilt and exclude every other reasonable hypothesis. On review, it is our job to determine if the evidence excludes every other reasonable hypothe­sis. Carter v. State, 324 Ark. 395, 921 S.W.2d 924 (1996). It is only when circumstantial evidence leaves the finder of fact solely to speculation and conjecture that it is insufficient as a matter of law. Hutcherson v. State, 34 Ark. App. 113, 806 S.W.2d 29 (1991).</p>
+                <p pgmap="100" id="b100-9">Theft by receiving is codified under Ark. Code Ann. § 5-36-­106 (Repl. 1997) as follows:</p>
+                <blockquote pgmap="101" id="b101-5">(a) A person commits the offense of theft by receiving if he receives, retains, or disposes of stolen property of another person, knowing that it was stolen or having good reason to believe it was stolen.</blockquote>
+                <blockquote pgmap="101" id="b101-6">(b) For purposes of this section, “receiving” means acquiring possession, control, or tide or lending on the security of the property.</blockquote>
+                <blockquote pgmap="101" id="b101-7">(c)The unexplained possession or control by a person of recently stolen property or the acquisition by a person of property for a consideration known to be far below its reasonable value shall give rise to a presumption that he knows or believes that the property was stolen.</blockquote>
+                <p pgmap="101(315) 102(37)" id="b101-8">
+                   In the instant case, we cannot find sufficient evidence from which the trier of fact could conclude that Lindsey was in actual physical possession of the stolen utility van. Utility vans are not unique, so the possibility that Lindsey could be present in a white utility van similar to the stolen white utility van that was discovered nearby hours later is not so remote as to render that hypothesis unreasonable. Cf. Lancaster v. State, 204 Ark. 176, 161 S.W.2d 201 (1942). We have scoured the record to find sufficient detail in the testimony of the State’s other two witnesses to further correlate Dorothy Walker’s description of the van that Lindsey was in with the stolen vehicle, but our search has proved unavailing. As noted above, Walker described the van only as a “white utility van” with “no windows on the side.” Burt Parks’s testimony was silent about the absence of side windows, and while he provided the year and manufacturer of the stolen vehicle, those details are of no significance because Walker made no mention of either in her testimony. The testimony of the State’s only other witness, Officer Sue Francis, was even more vague about the physical description of the van, which she simply referred to as a “white utility van.” Like Parks, Officer Francis did not mention the only distinguishing char­acteristic provided by Walker’s testimony: the lack of side windows. Our case law is clear that when a case is made entirely on circum­stantial evidence, the circumstances relied upon by the State must be so connected and cogent as to show guilt to a moral certainty and must exclude every other reasonable hypothesis than that of the guilt of the accused. Green v. State, 269 Ark. 953, 601 S.W.2d 273 (Ark. App. 1980). We simply, cannot find a sufficiently strong connection between the white van that Lindsey was sighted in at 2:30 a.m., and the white van that was subsequently discovered at another part of the housing complex hours later. See Rolax v. State, 270 Ark. 197, 603 S.W.2d 903 (Ark. App. 1980). Accordingly, we reverse and dismiss.</p>
+                <p pgmap="102" id="b102-6">Reversed and dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="98" ORDERLABEL="70" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="71" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="73" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="102" ORDERLABEL="74" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFr" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.7" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.5" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            <area BEGIN="BL_102.1" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.14" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.15" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pA41" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.10" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.8" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ART" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.11" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_99.12" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_99.13" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.11" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

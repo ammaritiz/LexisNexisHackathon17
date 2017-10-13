@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0007" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Washington v. State">Tommy Lee WASHINGTON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 82-29</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 23</citation>
+          <citation category="parallel" type="bluebook">637 S.W.2d 614</citation>
+          <decisiondate>1982-08-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00025_0" MIMETYPE="image/tiff" CHECKSUM="942055cbbb561e0555f4f3b84db9326e" CHECKSUMTYPE="MD5" SIZE="17544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00025_0.tif"/>
+      </file>
+      <file ID="tiff_00025_1" MIMETYPE="image/tiff" CHECKSUM="2dc15ee4bbf75547b109c08cd14cc25c" CHECKSUMTYPE="MD5" SIZE="50222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00025_1.tif"/>
+      </file>
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="e92910c5a10abdb32294c04e37d78b4d" CHECKSUMTYPE="MD5" SIZE="45886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00026_0.tif"/>
+      </file>
+      <file ID="tiff_00026_1" MIMETYPE="image/tiff" CHECKSUM="9e81f2eba8fc8877884bc9a86b1787ff" CHECKSUMTYPE="MD5" SIZE="19942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00026_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00025_0" MIMETYPE="image/jp2" CHECKSUM="e45d61b48b3a1220ef5ab66893f9d1a8" CHECKSUMTYPE="MD5" SIZE="1900619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00025_0.jp2"/>
+      </file>
+      <file ID="jp2_00025_1" MIMETYPE="image/jp2" CHECKSUM="de9ea0649acdc4abf180b54b7a44e25f" CHECKSUMTYPE="MD5" SIZE="2729162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00025_1.jp2"/>
+      </file>
+      <file ID="jp2_00026_0" MIMETYPE="image/jp2" CHECKSUM="de893b360a3326dcbee8fe968760d736" CHECKSUMTYPE="MD5" SIZE="2683506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00026_0.jp2"/>
+      </file>
+      <file ID="jp2_00026_1" MIMETYPE="image/jp2" CHECKSUM="86e9585aec951705752dd33e71128259" CHECKSUMTYPE="MD5" SIZE="2000211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00026_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00025_0" MIMETYPE="text/xml" CHECKSUM="abe93ddfb06fc8bf9df92bc772efedb5" CHECKSUMTYPE="MD5" SIZE="28591">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00025_0.xml"/>
+      </file>
+      <file ID="alto_00025_1" MIMETYPE="text/xml" CHECKSUM="af2be0fc4d081d82473d321b68299488" CHECKSUMTYPE="MD5" SIZE="89992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00025_1.xml"/>
+      </file>
+      <file ID="alto_00026_0" MIMETYPE="text/xml" CHECKSUM="f19779f44420e875b447a991c07752dc" CHECKSUMTYPE="MD5" SIZE="80122">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00026_0.xml"/>
+      </file>
+      <file ID="alto_00026_1" MIMETYPE="text/xml" CHECKSUM="2009bd7eef9d0c73327f47e80a6b31ef" CHECKSUMTYPE="MD5" SIZE="30751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00026_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0007" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="26" firstpage="23">
+              <court pgmap="49" id="b49-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="49" id="A8Z">CA CR 82-29</docketnumber>
+              <citation pgmap="49" id="AHj">637 S.W.2d 614</citation>
+              <parties pgmap="49" id="b49-3">Tommy Lee WASHINGTON v. STATE of Arkansas</parties>
+              <decisiondate pgmap="49" id="Aph">Opinion delivered August 25, 1982</decisiondate>
+              <judges pgmap="52" id="b52-7">Glaze and Cooper, JJ., concur.</judges>
+              <attorneys pgmap="49" id="b49-10">James Clouette, for appellant.</attorneys>
+              <attorneys pgmap="49" id="b49-11">Steve Clark, Atty. Gen., by: Victra L. Fewell, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="49" id="b49-12">Lawson Cloninger, Judge.</author>
+                <p pgmap="49" id="Apf">Appellant received a jury sentence of thirty years imprisonment on a burglary charge and fifteen years on a charge of theft of property, the sentences to run concurrently. His only point for reversal is that the trial court erred in forcing appellant to stand trial in the prison uniform of the Pulaski County Jail, an orange jumpsuit. We do not find merit in appellant’s argument.</p>
+                <p pgmap="50" id="b50-3">In chambers before the trial, the trial judge discussed with appellant the possibility of appellant’s wearing the same clothes he wore on the day of his arrest. The judge stated that appellant had told the bailiff that he didn’t have any other clothes and didn’t want any. When asked by the judge whether he wanted to wear the clothes he wore to jail or wear the orange jumpsuit, appellant replied, “wear the jumpsuit.” At that point appellant’s attorney stated, “For the record, we object, Your Honor.”</p>
+                <p pgmap="50" id="b50-4">It is not clear from the record whether the orange jumpsuit was distinctive as prison clothing. In chambers, the judge advised appellant and his attorney that the judge would advise the jury that the reason appellant was wearing the orange jumpsuit was that appellant had been in jail since his arrest and had no other clothing he wished to wear. At trial, the judge did so advise the jury, and in addition stated that the orange jumpsuit was the regular uniform of the Pulaski County Jail. The judge also told the jury that appellant’s attire was not to be considered as being indica­tive in any way of guilt. No objection to the trial judge’s statement to the jury was made by appellant.</p>
+                <p pgmap="50" id="b50-5">The bailiff reported that the clothes appellant wore at the time of his arrest were in the jail, but were muddy and torn. Appellant was arraigned on the charges on May 27, 1981, at which time an attorney was appointed to defend him. He remained in jail until his trial on November 3,1981, and there is no evidence that appellant or his attorney made any effort to have appellant’s clothes cleaned and mended or to obtain other clothing. Significantly, there was no request for a continuance for the purpose of obtaining other clothing, and only a formal objection was made to the trial court’s action.</p>
+                <p pgmap="50" id="b50-6">In Miller v. State, 249 Ark. 3, 457 S.W.2d 848 (1970), the Arkansas Supreme Court adopted the rule that absent a waiver, the accused should not be forced to trial in prison garb. It cited the basic rule which is summarized in 21 Am. Jur. 2d Criminal Law § 239, which states:</p>
+                <blockquote pgmap="50(18) 51(77)" id="b50-7">Since the defendant, pending and during the trial, is still presumed innocent, he is entitled to be brought before the court with the appearance, dignity, and self-­respect of a free and innocent man, except as the necessary safety and decorum of the court may other­wise require. He is therefore entitled to wear civilian clothes rather than prison clothing at his trial. It is improper to bring him into the presence of the jury which is to try him, or the venire from which his trial jury will be drawn, clothed as a convict.</blockquote>
+                <p pgmap="51" id="b51-4">In Estelle v. Williams, 425 U.S. 501, (1976), the United States Supreme Court held that a criminal defendant had constitutional rights under the sixth and fourteenth amendments which were violated when he was compelled to wear identifiable prison clothing at his trial. The court stressed that such attire must be distinctive and identifiable.</p>
+                <p pgmap="51" id="b51-5">The rule in Estelle, supra, was adopted by the Arkansas Supreme Court in Holloway, Welch and Campbell v. State, 260 Ark. 250, 539 S. W.2d 435 (1976). In that case, however, it was found that appellants’ argument had no merit because they rejected twice the trial court’s offer to allow them to change clothes. The trial court gave appellants this oppor­tunity before the trial began and before the actual selection of a jury. Hence, it was held that appellants were deemed to have waived their right. In Holloway the record was not clear as to whether the prison garb was distinctive, it being shown only that the attire was matching blue trousers and shirts.</p>
+                <p pgmap="51" id="b51-6">In Estelle v. Williams, supra, the Court stated:</p>
+                <blockquote pgmap="51(88) 52(18)" id="b51-7">... the courts have refused to embrace a mechanical rule vitiating any conviction, regardless of the circum­stances, where the accused appeared before the jury in prison garb. Instead, they have recognized that the particular evil proscribed is compelling a defendant, against his will, to be tried in jail attire. The reason for this judicial focus upon compulsion is simple; in­stances frequently arise where a defendant prefers to stand trial before his peers in prison garments. The cases show, for example, that it is not an uncommon defense tactic to produce the defendant in jail clothes in the hope of eliciting sympathy from the jury.</blockquote>
+                <p pgmap="52" id="b52-5">Nothing in the record of this case warrants a conclusion that appellant was compelled, against his will, to stand trial in prison attire, or that the trial judge would not have granted a continuance for the purpose of obtaining other clothing if a request had been made. We hold that under the circumstances of this case, appellant waived his right to be tried in civilian clothing.</p>
+                <p pgmap="52" id="b52-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="49" ORDERLABEL="23" TYPE="page">
+        <fptr FILEID="tiff_00025_0"/>
+        <fptr FILEID="jp2_00025_0"/>
+        <fptr FILEID="alto_00025_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_49.2" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="50" ORDERLABEL="24" TYPE="page">
+        <fptr FILEID="tiff_00025_1"/>
+        <fptr FILEID="jp2_00025_1"/>
+        <fptr FILEID="alto_00025_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.1" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="51" ORDERLABEL="25" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jp2_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.3" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="52" ORDERLABEL="26" TYPE="page">
+        <fptr FILEID="tiff_00026_1"/>
+        <fptr FILEID="jp2_00026_1"/>
+        <fptr FILEID="alto_00026_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.2" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.6" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.3" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.6" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.4" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.5" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8Z" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.4" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.7" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.8" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_51.1" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.6" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.7" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.5" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.5" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.6" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-12" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.16" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.15" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.14" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aph" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.7" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.7" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.8" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_52.1" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apf" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.17" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            <area BEGIN="BL_49.18" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHj" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.5" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

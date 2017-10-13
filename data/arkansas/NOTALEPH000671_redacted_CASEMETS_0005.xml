@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000671_0005" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Terry v. State">Jessie James TERRY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 83-24</docketnumber>
+          <citation category="official" type="bluebook">9 Ark. App. 38</citation>
+          <citation category="parallel" type="bluebook">652 S.W.2d 634</citation>
+          <decisiondate>1983-06-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:29:49Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:01:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:57:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:58:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="fa831c82bcc7b29c946b371b868dcaf8" CHECKSUMTYPE="MD5" SIZE="16490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="b2eeac7ff52cab0a9421b7399251bf95" CHECKSUMTYPE="MD5" SIZE="40744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="d6e83aea5cf4ff49741dd193aeeb5a4a" CHECKSUMTYPE="MD5" SIZE="48934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="c97d0405a0b953d4da7304dfc69bcaa4" CHECKSUMTYPE="MD5" SIZE="22810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00033_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="ede151ae597ef8d8fbd37f5c80a272d0" CHECKSUMTYPE="MD5" SIZE="2048342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00031_1.jp2"/>
+      </file>
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="b05eb8ae08ec71c2c315e57d78fcfafa" CHECKSUMTYPE="MD5" SIZE="2472554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="794c913df40eff8db63602a880209e47" CHECKSUMTYPE="MD5" SIZE="2658132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="cf4d17d9cdefa1748781e3f855ac07e0" CHECKSUMTYPE="MD5" SIZE="1967170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00033_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="f76bb5fa09d6addf726ea071f9379cc0" CHECKSUMTYPE="MD5" SIZE="24437">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00031_1.xml"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="11b3713daeb358935c5043bff29e5861" CHECKSUMTYPE="MD5" SIZE="70420">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="23a8f8e5153e7a28e99214d2cdacd37b" CHECKSUMTYPE="MD5" SIZE="85731">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="8ca0cc843d650ec72b7e8fab301a00da" CHECKSUMTYPE="MD5" SIZE="34288">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00033_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0005" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="41" firstpage="38">
+              <court id="b62-7" pgmap="62">Court of Appeals of Arkansas</court>
+              <docketnumber id="Aq8" pgmap="62">CA CR 83-24</docketnumber>
+              <citation id="AZq" pgmap="62">652 S.W.2d 634</citation>
+              <parties id="b62-6" pgmap="62">Jessie James TERRY v. STATE of Arkansas</parties>
+              <decisiondate id="A0k" pgmap="62">Opinion delivered June 22, 1983</decisiondate>
+              <attorneys id="b63-6" pgmap="63">Roberts, Harrell, Lindsey ir Foster, P.A., by: Phillip J. Foster, for appellant.</attorneys>
+              <attorneys id="b63-7" pgmap="63">Steve Clark, Atty. Gen., by: Alice Ann Burns, Dep. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b63-8" pgmap="63">James R. Cooper, Judge.</author>
+                <p id="AB3" pgmap="63">In this criminal case, the appellant, Jessie James Terry, was charged with being a felon in possession of a firearm in violation of Ark. Stat. Ann. § 41-3103 (Repl. 1977). After a trial by jury, the appellant was convicted and sentenced to a term of six years in the Arkansas Department of Correction. From that decision, comes this appeal.</p>
+                <p id="b63-9" pgmap="63">For his only point for reversal, the appellant contends that the trial court erred in allowing the State to introduce into evidence the appellant’s judgment of conviction and copies of pertinent docket sheets which reflected the appel­lant’s prior convictions. The appellant argues that since he filed a proper and timely request for these documents, but was not provided copies or advised that the documents would be introduced at trial, the State failed to comply with Rule 17.1 of the Arkansas Rules of Criminal Procedure.</p>
+                <p id="b63-10" pgmap="63">Rule 17.1 of the Arkansas Rules of Criminal Procedure provides that, when a timely request is made, the prose­cuting attorney has a duty to disclose certain information to defense counsel. This duty of disclosure has been interpreted as requiring that the defendant have the opportunity to discover the State’s evidence prior to trial, Renton v. State, 274 Ark. 87, 622 S.W.2d 171 (1981), in order to have sufficient time to allow him to make beneficial use of it. Williamson v. State, 263 Ark. 401, 565 S.W.2d 415 (1978). See also Dupree v. State, 271 Ark. 50, 607 S.W.2d 356 (1980).</p>
+                <p id="b63-11" pgmap="63(20) 64(87)">In Robinson v. State, 7 Ark. App. 209, 646 S.W.2d 714 (1983), the defendant filed a discovery motion which in-­eluded a request for the State to furnish any written statements made by the defendant which the State intended to use at trial. The State agreed to comply with the request. At the trial, which was approximately six months later, the State sought to admit certain exhibits, including a written statement signed by the defendant, none of which had been furnished to the defendant. This Court found no error in the admission of this evidence. In affirming the trial court’s ruling on the written statement, we stated:</p>
+                <blockquote id="Axi" pgmap="64">With regard to the statement, the appellant’s argument is based on the fact that the state agreed to furnish it but never did. The state’s answer is that it had no affirmative duty to furnish — mail or deliver — the statement, but that it was available in the prosecutor’s office from Febraury 17, 1981, to date of trial, Septem­ber 2, 1981. We find no reversible error in the trial court’s allowance of the statement into evidence. Ark. Stat. Ann. § 43-2011.2 (Repl. 1977) provides that upon motion the court may order the prosecuting attorney to permit the defendant to inspect' and copy certain things, and provides authority for the court to exercise the control necessary to carry out its orders, but it does not require that the prosecutor furnish those things to defendant or his counsel. Neither do we find any specific duty to furnish set out in the rules regulating the prosecuting attorney’s obligations in discovery matters. See Criminal Procedure Rules 17.1 and 17.2.</blockquote>
+                <p id="b64-6" pgmap="64">In the case at bar, the State sought to introduce certain documents concerning the appellant’s prior felony con­victions. It is clear that the very nature of the crime charged, i.e., felon in possession of a firearm, would necessarily place the appellant on notice that the State would be required to prove that the appellant was a felon. See Plummer v. State, 270 Ark. 11, 603 S.W.2d 402 (1980). It is also clear that the appellant’s attorney was aware of and had reviewed the documents with the prosecuting attorney, although there is some dispute whether this occurred while the attorney was representing the appellant on other charges which were nolle prossed.</p>
+                <p id="b65-3" pgmap="65">Under the circumstances of this case, we do not find an abuse of discretion in allowing the documents concerning the appellant’s prior felony convictions into evidence. The appellant had the opportunity to discover the information prior to trial. There is no evidence that the State hindered the appellant in reviewing the information in the prosecuting attorney’s files. The State was not required to physically deliver copies of these documents to the appellant. Where the State makes the evidence available to the defendant for inspection, the discovery rules have been properly complied with by the State. Thomerson v. State, 274 Ark. 17, 621 S.W.2d 690 (1981).</p>
+                <p id="b65-4" pgmap="65">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="62" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.2" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq8" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.9" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB3" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.11" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            <area BEGIN="BL_63.12" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-11" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.15" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-4" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.10" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axi" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0k" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.12" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.8" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.9" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-3" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.11" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.8" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZq" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.10" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-9" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.13" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-10" BETYPE="IDREF" FILEID="casebody_0005"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.14" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

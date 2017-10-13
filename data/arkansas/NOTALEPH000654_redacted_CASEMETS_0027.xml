@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000654_0027" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Green v. State">James Earl GREEN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-320</docketnumber>
+          <citation category="official" type="bluebook">80 Ark. App. 199</citation>
+          <citation category="parallel" type="bluebook">92 S.W.3d 687</citation>
+          <decisiondate>2002-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:41:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:30:45Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:33:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="ab3c34c24853c622f6cb44914100bb52" CHECKSUMTYPE="MD5" SIZE="9944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00113_0.tif"/>
+      </file>
+      <file ID="tiff_00113_1" MIMETYPE="image/tiff" CHECKSUM="4699492687ee7bd9328a4aa1e3f1f080" CHECKSUMTYPE="MD5" SIZE="17188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00113_1.tif"/>
+      </file>
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="ef908c7b689b648277f9b431f208ecf6" CHECKSUMTYPE="MD5" SIZE="54674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00114_0.tif"/>
+      </file>
+      <file ID="tiff_00114_1" MIMETYPE="image/tiff" CHECKSUM="36204e5e92fab84d29666a249c45b91f" CHECKSUMTYPE="MD5" SIZE="54916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00114_1.tif"/>
+      </file>
+      <file ID="tiff_00115_0" MIMETYPE="image/tiff" CHECKSUM="064f8203f0128558f78d9abe346a6853" CHECKSUMTYPE="MD5" SIZE="43538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00115_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="8d184c010d6d3144b58ddac9c71f6171" CHECKSUMTYPE="MD5" SIZE="1646656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00113_0.jp2"/>
+      </file>
+      <file ID="jp2_00113_1" MIMETYPE="image/jp2" CHECKSUM="a0c7d696eed67700da599236f4d75e87" CHECKSUMTYPE="MD5" SIZE="1718124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00113_1.jp2"/>
+      </file>
+      <file ID="jp2_00114_0" MIMETYPE="image/jp2" CHECKSUM="0f8b0155577ae8503e83df068fc24f83" CHECKSUMTYPE="MD5" SIZE="2601161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00114_0.jp2"/>
+      </file>
+      <file ID="jp2_00114_1" MIMETYPE="image/jp2" CHECKSUM="54d42cd5ccb65643edae8fc1181ada3f" CHECKSUMTYPE="MD5" SIZE="2597440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00114_1.jp2"/>
+      </file>
+      <file ID="jp2_00115_0" MIMETYPE="image/jp2" CHECKSUM="2c32b4b659e20816726e1155abac1872" CHECKSUMTYPE="MD5" SIZE="2490982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00115_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="76da9c739db3faa2b53531c31b76def5" CHECKSUMTYPE="MD5" SIZE="14151">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00113_0.xml"/>
+      </file>
+      <file ID="alto_00113_1" MIMETYPE="text/xml" CHECKSUM="94a412f826face479bf8a8021343f7ae" CHECKSUMTYPE="MD5" SIZE="27898">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00113_1.xml"/>
+      </file>
+      <file ID="alto_00114_0" MIMETYPE="text/xml" CHECKSUM="b2773f0451d34f007fe973733c3d04b1" CHECKSUMTYPE="MD5" SIZE="91510">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00114_0.xml"/>
+      </file>
+      <file ID="alto_00114_1" MIMETYPE="text/xml" CHECKSUM="0a6e64a546387b1254352fc42682cb3f" CHECKSUMTYPE="MD5" SIZE="93650">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00114_1.xml"/>
+      </file>
+      <file ID="alto_00115_0" MIMETYPE="text/xml" CHECKSUM="b4aa5dc27d212b0d41fa21f924fe50b4" CHECKSUMTYPE="MD5" SIZE="74997">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00115_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="199" lastpage="203">
+              <court pgmap="225" id="b225-9">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber pgmap="225" id="b225-7">CA CR 02-320</docketnumber>
+              <citation pgmap="225" id="b225-8">92 S.W.3d 687</citation>
+              <parties pgmap="225" id="b225-6">James Earl GREEN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="225" id="b225-10">Opinion delivered December 18, 2002</decisiondate>
+              <judges pgmap="229" id="b229-7">Stroud, C.J., and Neal, J., agree.</judges>
+              <attorneys pgmap="226" id="b226-10">Julie Jackson, by: Knutson Law Firm, by: Gregg A. Knutson, for appellant.</attorneys>
+              <attorneys pgmap="226" id="b226-11">Mark Pryor, Att’y Gen., by: Lauren Elizabeth Heil, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="226" id="pAv7">Karen R. Baker, Judge.</author>
+                <p pgmap="226(79) 227(23)" id="Ayq">A Pulaski County jury con­victed James Earl Green of aggravated robbery and mis­demeanor theft of property and sentenced him as a habitual offender to twenty years in the Arkansas Department of Correc­tion. Prior to trial, he moved to suppress his custodial confession, alleging that it was taken in violation of his right to a prompt first appearance pursuant to Ark. R. Crim. P. 8.1 (2002). Mr. Green argues that the suppression was warranted because the police obtained his confession during an unnecessary delay between his arrest and his first appearance. We find no merit to this argument and affirm.</p>
+                <p pgmap="227" id="b227-5">Mr. Green was arrested after midnight in the early morning hours of November 30, 2000. He was scheduled for a video arraignment at 9:00 a.m. that morning. Records indicate he was being held in the waiting area of the Pulaski County Regional Detention Center, where he would remain until the video arraignment, as early as 5:56 a.m. that morning. At approximately 7:08 a.m., Mr. Green was transported to the North Little Rock Police Department for an interview with Detective Armstrong. Detective Armstrong began the Miranda rights waiver of process at 7:35 a.m., and at 7:38 a.m. Mr. Green waived his rights. Mr. Green then gave his preliminary statement to Detective Arm­strong. This process took approximately thirty minutes, and at 8:10 a.m. the preliminary statement had been completed, but not yet taped. Detective Armstrong then left the interview room to watch another detective interview Mr. Green’s accomplice, and then returned to record the appellant’s statement. This recording began at 9:50 a.m. and concluded at 10:01 a.m. After the taped statements were taken from Mr. Green and the co-defendant, the detective walked the two back to the courtroom to see if they could be placed on the docket for arraignment. However, Mr. Green had missed his video arraignment that had been scheduled for 9:00 a.m. that morning. In Mr. Green’s absence, the munici­pal judge determined that there was probable cause for the arrest, set bond, and passed the video arraignment for “that next Tues­day” which was five days after the first scheduled arraignment.</p>
+                <p pgmap="227(110) 228(28)" id="b227-6">
+                   Arkansas Rule of Criminal Procedure 8.1 (2002), pro­vides that “an arrested person who is not released by citation or by other lawful manner shall be taken before a judicial officer without unnecessary delay.” See also Ark. Code Ann. § 16-85-201 (a) (1987) (“[w]here an arrest is made without a warrant . . . the defendant shall be forthwith taken before the most convenient magistrate of the county in which the arrest is made, and the grounds on which the arrest was made shall be stated to the magis­trate.”). When a suspect’s first appearance is delayed, incriminat­ing statements taken during the delay will be suppressed only if the delay is unnecessary, the statement is prejudicial, and the statement is reasonably related to the delay. Duncan v. State, 291 Ark. 521, 529-30, 726 S.W.2d 653, 657 (1987).</p>
+                <p pgmap="228" id="b228-5">
+                   Examples of unreasonable delay are delays for the pur­pose of gathering additional evidence to justify the arrest, a delay motivated by ill will against the arrested individual, or delay for delay’s sake. See Clay v. State, 318 Ark. 122, 883 S.W.2d 822 (1994). An unnecessary delay may include a deliberate postpone­ment of a first appearance to allow more time to gather evidence, or to obtain an incriminating statement after a series of exculpa­tory ones. In Duncan, supra, the accused was held incommunicado for three days after giving an exculpatory statement, during which time he could have been taken for a first appearance, before giving an incriminating statement. Similarly in Clay v. State, 318 Ark. 122, 883 S.W.2d 822, the court found an unnecessary delay where the only reason the accused was not taken by an officer to a first appearance was that the deputy prosecutor instructed him that the first appearance was to be continued to the next court date for further evidence involving this case after the accused gave a series of exculpatory statements. A delay has even been found to be unnecessary where the officers admitted that they did not take the accused for the first appearance because they were collecting evi­dence, and because they were tired. Britt v. State, 334 Ark. 142, 155-57, 974 S.W.2d 436, 442-43 (1998) (discussing Duncan and Clay).</p>
+                <p pgmap="228(140) 229(35)" id="b228-6">
+                   In contrast to these cases, there is no evidence that the delay in this case was deliberate or for the purpose of obtaining an incriminating statement by evading the protections afforded by a first appearance. At the suppression hearing, Detective Armstrong testified that due to the late hour of Mr. Green’s arrest, he pre­sumed that Mr. Green was not on the docket for that morning. Mr. Green argues that the detective’s representation is suspect because he was a twelve-year veteran of the North Little Rock Police Department and was probably aware of the normal practice of the court to schedule a first appearance the morning following the arrest. A knowledge of the normal practice would in no way contradict the detective’s subjective belief that the paperwork from the arrest of the accused would not have been completed in time for him to be on the docket for that morning. In fact, when the statements were finished, the detective took Mr. Green to inquire whether he could be placed on the docket at that time.</p>
+                <p pgmap="229" id="b229-5">
+                   Mr. Green was informed of his right to an attorney and his right to remain silent before the statement was taken. He could have requested an attorney or refused to answer questions at any time during his questioning. Yet, he continued to speak volunta­rily with the law enforcement officers and never requested coun­sel. Speculation that he might not have been as forthcoming and cooperative had he first appeared before a judicial officer is not persuasive. See Arnett v. State, 342 Ark. 66, 27 S.W.3d 721 (2000).</p>
+                <p pgmap="229" id="b229-6">
+                   Furthermore, the delay in this case was necessary to record the preliminary confession that Mr. Green had completed almost an hour before his first appearance was scheduled. We find persuasive the reasoning of a Tenth Circuit case where a suspect missed an opportunity to go before a magistrate while his prelimi­nary confession was typewritten. See Walton v. United States, 334 F.2d 343, 346-47 (10th Cir. 1964). The court concluded that the delay was “not for the purpose of exacting admissions from him, but to give him an opportunity to complete his voluntary state­ment.” Id. at 347. The court added that “[w]e do not believe, under the circumstances which existed here, that investigating officers are required to refuse to permit a detained or arrested per­son to continue his statement for the purpose of rushing him before a committing magistrate.” Id. In this case, because Mr. Green had already provided a statement before any delay in appearing before the judge, the delay did not render the statement involuntary. Accordingly, we find no error in the trial court’s refusal to suppress the statement, and affirm.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="225" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.3" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="226" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00113_1"/>
+        <fptr FILEID="jp2_00113_1"/>
+        <fptr FILEID="alto_00113_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.2" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="227" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jp2_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="228" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00114_1"/>
+        <fptr FILEID="jp2_00114_1"/>
+        <fptr FILEID="alto_00114_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_228.2" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="229" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00115_0"/>
+        <fptr FILEID="jp2_00115_0"/>
+        <fptr FILEID="alto_00115_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_229.3" BETYPE="IDREF" FILEID="alto_00115_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayq" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.13" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_226.14" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_226.15" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_227.1" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.5" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAv7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.12" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.10" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.9" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.8" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.9" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.6" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.7" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.4" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.4" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.5" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            <area BEGIN="BL_228.1" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.6" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.5" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            <area BEGIN="BL_229.1" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b229-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_229.4" BETYPE="IDREF" FILEID="alto_00115_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.10" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

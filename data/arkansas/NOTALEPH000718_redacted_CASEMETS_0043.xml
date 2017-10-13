@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000718_0043" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Carson v. State">David Samuel CARSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-2</docketnumber>
+          <citation category="official" type="bluebook">21 Ark. App. 249</citation>
+          <citation category="parallel" type="bluebook">731 S.W.2d 237</citation>
+          <decisiondate>1987-06-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:58:19Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:58:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:59:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00145_0" MIMETYPE="image/tiff" CHECKSUM="dfc3a6a28cbaa9da0db9545e33e430d3" CHECKSUMTYPE="MD5" SIZE="15598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00145_0.tif"/>
+      </file>
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="f0580ca872612bda07e7e327c670d5d0" CHECKSUMTYPE="MD5" SIZE="50170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00145_1.tif"/>
+      </file>
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="eea8d28870a86c553a85b962aabddf8a" CHECKSUMTYPE="MD5" SIZE="34770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00146_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00145_0" MIMETYPE="image/jp2" CHECKSUM="a8cf4d7d91483743e36254069c7cc48f" CHECKSUMTYPE="MD5" SIZE="1776717">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00145_0.jp2"/>
+      </file>
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="18994d99539850d6a7a88a5f82e67b7e" CHECKSUMTYPE="MD5" SIZE="2554239">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00145_1.jp2"/>
+      </file>
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="7ed982802c9bb87cbe88cab47de2cdc8" CHECKSUMTYPE="MD5" SIZE="2422167">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00146_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00145_0" MIMETYPE="text/xml" CHECKSUM="efcf6f1867f06888027f4e2b153d8a1f" CHECKSUMTYPE="MD5" SIZE="24715">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00145_0.xml"/>
+      </file>
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="e9caeab84c9f8d214a37fa0930fbbcc5" CHECKSUMTYPE="MD5" SIZE="83859">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00145_1.xml"/>
+      </file>
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="235727218ae6366e44a5c0a453e47896" CHECKSUMTYPE="MD5" SIZE="56907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00146_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0043" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="251" firstpage="249">
+              <court pgmap="289" id="b289-5">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="289" id="A-O">CA CR 87-2</docketnumber>
+              <citation pgmap="289" id="Ayk">731 S.W.2d 237</citation>
+              <parties pgmap="289" id="b289-4">David Samuel CARSON v. STATE of Arkansas</parties>
+              <decisiondate pgmap="289" id="b289-6">Opinion delivered June 17, 1987</decisiondate>
+              <judges pgmap="291" id="b291-6">Mayfield and Jennings, JJ., agree.</judges>
+              <attorneys pgmap="289" id="b289-13">Joel W. Price, for appellant.</attorneys>
+              <attorneys pgmap="289" id="b289-14">Steve Clark, Att’y Gen., by: J. Blake Hendrix, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="289" id="b289-15">Beth Gladden Coulson, Judge.</author>
+                <p pgmap="289(38) 290(89)" id="AtE">On July 17, 1985, the appellant, David Samuel Carson, entered a plea of nolo con-­tendere to the charge of battery in the second degree. The trial court suspended the imposition of sentence for a period of five years subject to certain conditions, including the requirement that the appellant not violate any federal, state, or municipal law. The State filed a petition to revoke on July 8,1986, alleging that the appellant had committed the offenses of manufacturing a controlled substance, possession of marijuana with intent to deliver, and possession of drug paraphernalia. The appellant filed a motion to suppress certain evidence on the grounds that the search warrant and underlying affidavit were defective because they contained no facts bearing upon the reliability of the State’s confidential informant.</p>
+                <p pgmap="290" id="b290-6">The trial court ruled that the exclusionary rule did not apply to revocation proceedings and that, even if the warrant was deficient, those executing the search in question had acted in “good faith” reliance upon the facial validity of the warrant. The appellant was found to be in violation of the terms and conditions of his suspended imposition of sentence and was sentenced to five years imprisonment with two years suspended. We find that the trial court’s ruling was in accord with the prevailing law and affirm.</p>
+                <p pgmap="290" id="b290-7">
+                   It is now settled in this jurisdiction that the exclusion­ary rule does not apply in revocation proceedings, at least where there has been a good faith effort to comply with the law. In Harris v. State, 270 Ark. 634, 606 S.W.2d 93 (Ark. App. 1980), we stated:</p>
+                <blockquote pgmap="290" id="b290-8">[W]e adopt the rule which we consider to be consistent with Ark. Stat. Ann. § 41 -1209(3)(b) (Repl. 1977) and with the holding in Morrissey v. Brewer, 408 U.S. 471 (1972), that the trial court may permit the introduction of any relevant evidence of an alleged violation of the condi­tions of probation, including evidence that might be subject to a motion to suppress under the doctrine of Mapp v. Ohio, at least where there has been a good-faith effort to comply with the law. This is the rule of the great majority of jurisdictions.</blockquote>
+                <p pgmap="290" id="b290-9">270 Ark. at 638.</p>
+                <p pgmap="290(30) 291(126)" id="b290-10">
+                   The refusal to apply the exclusionary rule in cases where the search was conducted in good faith reliance upon a warrant later proven defective serves as an accommodation of the societal interests in requiring strict compliance with conditions of probation and in deterring illegal police action. Schneider v. State, 269 Ark. 245, 599 S.W.2d 730 (1980), cert. denied, 449 U.S. 1124 (1981). See Queen v. State, 271 Ark. 929, 612 S.W.2d 95, cert. denied, 454 U.S. 963 (1981); Lockett v. State, 271 Ark. 860, 611 S.W.2d 500 (1981). The good faith exception, as adopted in McFarland v. State, 284 Ark. 533, 684 S.W.2d 233 (1985), applies to those situations where the warrant and under­lying affidavit fail to set forth those facts which would establish the reliability of the informant who provided the hearsay infor­mation which prompted the State’s decision to obtain the war­rant. Jackson v. State, 291 Ark. 98, 722 S.W.2d 831 (1987).</p>
+                <p pgmap="291" id="b291-4">
+                   In a hearing on a petition to revoke, the burden is upon the State to prove the violation of a condition of the suspended sentence, and, on appellate review, the trial court’s findings are upheld unless they are clearly against a preponderance of the evidence. Felix v. State, 20 Ark. App. 44, 723 S.W.2d 839 (1987). The trial court’s findings as to the application of the good faith exception in this case are not clearly against a preponder­ance of the evidence. For the foregoing reasons, we find no merit in the appellant’s contention that the court erred in denying the motion to suppress, and we affirm.</p>
+                <p pgmap="291" id="b291-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="289" ORDERLABEL="249" TYPE="page">
+        <fptr FILEID="tiff_00145_0"/>
+        <fptr FILEID="jp2_00145_0"/>
+        <fptr FILEID="alto_00145_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_289.2" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="290" ORDERLABEL="250" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.2" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="291" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.3" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtE" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.19" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            <area BEGIN="BL_289.20" BETYPE="IDREF" FILEID="alto_00145_0"/>
+            <area BEGIN="BL_290.1" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.5" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.9" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayk" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.7" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-8" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.5" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-10" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.8" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_291.1" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-4" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.4" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-O" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.6" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-9" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.7" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-4" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.5" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.8" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-13" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.16" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-14" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.17" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b289-15" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_289.18" BETYPE="IDREF" FILEID="alto_00145_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

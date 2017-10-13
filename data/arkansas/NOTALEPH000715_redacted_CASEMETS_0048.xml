@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000715_0048" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Clark v. Sbarro, Inc.">Christopher CLARK (Deceased) v. SBARRO, INC.</name>
+          <docketnumber>CA 99-383</docketnumber>
+          <citation category="official" type="bluebook">68 Ark. App. 350</citation>
+          <citation category="parallel" type="bluebook">8 S.W.3d 36</citation>
+          <decisiondate>1999-12-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:23:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:14Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-25T12:34:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-25T12:35:40Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="fafdc04bf5b4c4af90bdbb90c000aa5f" CHECKSUMTYPE="MD5" SIZE="39256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00189_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00189_1" MIMETYPE="image/jp2" CHECKSUM="1412e2740ba2d5a335db3d6c6ce60147" CHECKSUMTYPE="MD5" SIZE="2427020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00189_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00189_1" MIMETYPE="text/xml" CHECKSUM="1c89ffd3c327d46fca5cb2818c2e25f7" CHECKSUMTYPE="MD5" SIZE="67086">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00189_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0048" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="350" lastpage="350">
+              <court pgmap="378" id="b378-5">Court of Appeals of Arkansas Divisions II and III</court>
+              <docketnumber pgmap="378" id="b378-4">CA 99-383</docketnumber>
+              <citation pgmap="378" id="A5">8 S.W. 3d 36</citation>
+              <parties pgmap="378" id="b378-3">Christopher CLARK (Deceased) v. SBARRO, INC.</parties>
+              <decisiondate pgmap="378" id="b378-6">Petition for rehearing denied December 22, 1999 
+              </decisiondate>
+              <otherdate pgmap="378" id="A-I">Dissenting opinion delivered December 22, 1999</otherdate>
+              <opinion type="majority">
+                <author pgmap="378" id="pAd_">John Mauzy Pittman, Judge,</author>
+                <p pgmap="378" id="Anc">dissenting. I would grant rehearing in this case. The deceased had a blood-alcohol content of .21 percent at the time of his death, i.e., more than double the percentage required for him to be found guilty of driving while intoxicated. Arkansas Code Annotated § 11-9-­102(5)(B)(iv) (Supp. 1997) provides that the use of alcohol creates a rebuttable presumption that the accident was caused by the use of alcohol. Nevertheless, our opinion in this case held that the Com­mission was required to find that the presumption was rebutted because the other driver crossed the center line, and “[t]here was no evidence from which the Commission could have concluded ... that [Clark] could have avoided the accident.” This reasoning is faulty. First, it ignores the statutory presumption that the accident was caused by the use of alcohol. Second, it erroneously places the burden on the appellee to present evidence in addition to the statutory pre­sumption of causation. See Ester v. National Home Centers, Inc., 335 Ark. 356, 981 S.W.2d 91 (1998); Garcia v. State, 333 Ark. 26, 969 S.W.2d 591 (1998); Kilpatrick v. State, 322 S.W.2d 728, 912 S.W.2d 917 (1995). Third, it ignores the possibility, suggested by reason and common sense, that the decedent might have avoided the accident by driving defensively had he not been intoxicated. See Garcia v. State, 333 Ark. at 33.</p>
+                <p pgmap="378" id="b378-8">I respectfully dissent from the denial of rehearing.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="378" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jp2_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.1" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.15" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.5" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-3" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.3" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAd_" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.11" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anc" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.12" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            <area BEGIN="BL_378.13" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            <area BEGIN="BL_378.14" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-I" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.9" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-6" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.7" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.6" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-4" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.4" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

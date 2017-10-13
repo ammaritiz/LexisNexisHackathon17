@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000637_0013" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Haynes v. Director of Labor">Larry HAYNES v. DIRECTOR OF LABOR</name>
+          <docketnumber>E 86-8</docketnumber>
+          <citation category="official" type="bluebook">19 Ark. App. 71</citation>
+          <citation category="parallel" type="bluebook">719 S.W.2d 437</citation>
+          <decisiondate>1986-10-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T19:39:30Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:59:44Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T18:42:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T18:43:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="20a12f3972d9651777f7dfb75e9d3942" CHECKSUMTYPE="MD5" SIZE="20420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="6d81c2bb732ac71377142a949320822b" CHECKSUMTYPE="MD5" SIZE="32140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="603d433039a43dd235f960e8cd253286" CHECKSUMTYPE="MD5" SIZE="56550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="a756f2442b0db6959a9a2b53ea8569bc" CHECKSUMTYPE="MD5" SIZE="43530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00050_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="8c64baddb085c89259f1c275d4c02088" CHECKSUMTYPE="MD5" SIZE="1870880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="07d6f43960ebe3c016d9a543a2bda0d2" CHECKSUMTYPE="MD5" SIZE="1925347">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="7b8ccddc565503108566133299e812b9" CHECKSUMTYPE="MD5" SIZE="2648403">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="a8fbe873e443be11fb59ed22e35b437f" CHECKSUMTYPE="MD5" SIZE="2494643">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000637_00050_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="b6c3c8f16fa16f15d72224064cb7567c" CHECKSUMTYPE="MD5" SIZE="29085">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000637_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="698f17bfcba73e48ecff00699716b3bb" CHECKSUMTYPE="MD5" SIZE="49576">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000637_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="cedfbcd0f8b81e94568114f9f36721ee" CHECKSUMTYPE="MD5" SIZE="90206">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000637_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="5a2fd26a9bed6297e6c472639c56f536" CHECKSUMTYPE="MD5" SIZE="70278">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000637_redacted_ALTO_00050_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="74" firstpage="71">
+              <court pgmap="97" id="b97-10">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="97" id="b97-9">E 86-8</docketnumber>
+              <citation pgmap="97" id="AFx">719 S.W.2d 437</citation>
+              <parties pgmap="97" id="b97-8">Larry HAYNES v. DIRECTOR OF LABOR</parties>
+              <decisiondate pgmap="97" id="b97-11">Opinion delivered October 1, 1986</decisiondate>
+              <judges pgmap="100" id="b100-8">Cracraft, C.J., and Glaze, J., agree.</judges>
+              <attorneys pgmap="98" id="AtO">Kirby Riffel, for appellant.</attorneys>
+              <attorneys pgmap="98" id="b98-12">Gary Williams, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="98" id="b98-13">Melvin Mayfield, Judge.</author>
+                <p pgmap="98" id="AvE">Larry Haynes has appealed from the Board of Review’s denial of unemployment benefits. The denial was made pursuant to Section 5(a) of the Arkansas Employment Security Law, Ark. Stat. Ann. § 81-1106(a)(Supp. 1985), based upon a finding that appellant voluntarily left his last work without good cause connected with the work.</p>
+                <p pgmap="98(140) 99(38)" id="b98-14">The appellant had been employed at Food-4-Less in Gid-­dings, Texas, for several months when he quit about September 15,1985, and moved to Arkansas. Upon arriving in Arkansas, he applied for unemployment compensation by filing a form, which he signed, containing a statement that he had been living with friends in Texas who moved, and he was not making enough to get out on his own, so he was forced to quit work. Later, he signed another form, also filed with the agency, which contained a statement that he quit work because he was moving back to Arkansas where he had acquired a better paying job, but when he got here the manager had changed his mind about hiring him. The appellant’s employer responded with a statement signed by its manager. It stated that the manager found out the appellant’s friends were moving and he asked the appellant if he was moving also; that the appellant said he was staying there to work; but that appellant did not show up for work the next Monday and never called.</p>
+                <p pgmap="99" id="b99-4">The employment security agency denied appellant’s appli­cation for benefits and he appealed to the appeal tribunal. At the hearing before the tribunal, the appellant testified that his reason for quitting the job was that his brother, who had been taking care of their disabled father, had called and said he was getting married and was leaving Arkansas, so appellant had felt it necessary to return to Arkansas to care for their father. He also testified that he had explained this to his manager and was told that he could go back to work anytime he could come back to Texas. This testimony was taken by telephone, as the referee was in Little Rock and the claimant was then in Pocahontas.</p>
+                <p pgmap="99" id="b99-5">The appeal tribunal and the Arkansas Board of Review affirmed the agency’s denial of benefits. On appeal to this court, the appellant argues that there is no competent evidence in the record to contradict his testimony that his leaving work was the result of a personal emergency and that he made reasonable efforts to preserve his job rights. Therefore, appellant claims, he was entitled to benefits under Ark. Stat. Ann. § 81-1106(a) (Supp. 1985).</p>
+                <p pgmap="99(153) 100(13)" id="b99-6">
+                   We must affirm the Board’s decision if it is supported by substantial evidence. Harris v. Daniels, 263 Ark. 897, 567 S.W.2d 954 (1978). Neither the appeal tribunal nor the Board of Review is bound by common law or statutory rules of evidence. Ark. Stat. Ann. § 81-1107(d)(4)(Supp. 1985); see also Bockman v. Ark. State Medical Board, 229 Ark. 143, 313 S.W.2d 826 (1958). Hearsay evidence can constitute substantial evidence in unemployment compensation cases, but the claimant must be given the opportunity to subpoena and cross-examine adverse witnesses at some stage of the proceedings. Leardis Smith v. Everett, Director, 276 Ark. 430, 637 S.W.2d 537 (1982). However, when the claimant does not request another hearing in order to cross-examine witnesses whose hearsay statements have been received in evidence, he effectively waives his right of cross-­examination and due process requirements are not violated. Farmer v. Everett, Director, 8 Ark. App. 23, 648 S.W.2d 513 (1983); Swan v. Stiles, Director, 16 Ark. App. 27, 696 S.W.2d 765 (1985).</p>
+                <p pgmap="100" id="b100-4">
+                   The record in this case contains three conflicting statements made by appellant himself and a fourth version of the facts made by the manager of the grocery store where appellant was employed. One of the statements made by appellant was made in the sworn testimony taken by the appeals referee. The other two statements by the appellant were signed by him and furnished to the employment security agency in the course of applying for unemployment compensation. These were clearly admissible, even in a court of law, as admissions by a party. Unif. R. Evid. 801 (d)(2)(i); see First National Bank of Brinkley v. Nash, 2 Ark. App. 135, 140, 617 S.W.2d 24 (1981); accord Roberson v. State Dept, of Employment Security, 295 So. 2d 190 (La. App. 1974).</p>
+                <p pgmap="100" id="b100-5">
+                   As to the statement signed by the appellee’s manager and filed with the employment security agency, the record shows that it was read to the appellant by the appeals referee when appellant’s testimony was taken by telephone. Thus, appellant was aware of this statement but made no request to cross-examine the manager. Therefore, under the Farmer and Swan cases, supra, the statement was properly before the referee for consider­ation. See also, Brunello v. Mill City Auto Body, 348 N.W.2d 409 (Minn. App. 1984)(holding written statements by both sides admissible in unemployment compensation cases).</p>
+                <p pgmap="100" id="b100-6">
+                   Resolving the conflicts in the evidence was for the Board of Review and it is not required to accept a party’s testimony as undisputed. Butlerv. Director of Labor, 3 Ark. App. 229, 624 S. W.2d 448 (1981). We find that the Board’s decision in this case is supported by substantial evidence.</p>
+                <p pgmap="100" id="b100-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="97" ORDERLABEL="71" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="73" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.3" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="74" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.1" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.13" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.12" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvE" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.12" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_98.13" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-13" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.11" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-14" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.14" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_99.1" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.8" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFx" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.11" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.6" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.10" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.9" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtO" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

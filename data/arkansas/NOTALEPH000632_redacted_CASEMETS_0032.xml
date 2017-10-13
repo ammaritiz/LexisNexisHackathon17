@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000632_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Spencer v. State">Danny Franklin SPENCER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 85-179</docketnumber>
+          <citation category="official" type="bluebook">17 Ark. App. 149</citation>
+          <citation category="parallel" type="bluebook">705 S.W.2d 454</citation>
+          <decisiondate>1986-03-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:25:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:51:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T13:46:49Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T13:47:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00091_0" MIMETYPE="image/tiff" CHECKSUM="6bf88418394274414edfc4709f2a694e" CHECKSUMTYPE="MD5" SIZE="26182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000632_00091_0.tif"/>
+      </file>
+      <file ID="tiff_00091_1" MIMETYPE="image/tiff" CHECKSUM="e3bf624802c06057ef50bcb17a0e35f1" CHECKSUMTYPE="MD5" SIZE="46374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000632_00091_1.tif"/>
+      </file>
+      <file ID="tiff_00092_0" MIMETYPE="image/tiff" CHECKSUM="5d3f0936ade6aa85537d29317a5bd1d7" CHECKSUMTYPE="MD5" SIZE="40102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000632_00092_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00091_0" MIMETYPE="image/jp2" CHECKSUM="6ae82f07bf0977af3ce3359b0ab732d7" CHECKSUMTYPE="MD5" SIZE="1934888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000632_00091_0.jp2"/>
+      </file>
+      <file ID="jp2_00091_1" MIMETYPE="image/jp2" CHECKSUM="d51d434f3195ba1ec21a4dfc30774cba" CHECKSUMTYPE="MD5" SIZE="2340550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000632_00091_1.jp2"/>
+      </file>
+      <file ID="jp2_00092_0" MIMETYPE="image/jp2" CHECKSUM="48272013d60f71ea20f4297cb18ab5f9" CHECKSUMTYPE="MD5" SIZE="2410066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000632_00092_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00091_0" MIMETYPE="text/xml" CHECKSUM="31d3543eb6ec43cff01013177d15a1a3" CHECKSUMTYPE="MD5" SIZE="41109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000632_redacted_ALTO_00091_0.xml"/>
+      </file>
+      <file ID="alto_00091_1" MIMETYPE="text/xml" CHECKSUM="972d5b92cab9c68a4be6690ca2e03129" CHECKSUMTYPE="MD5" SIZE="73720">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000632_redacted_ALTO_00091_1.xml"/>
+      </file>
+      <file ID="alto_00092_0" MIMETYPE="text/xml" CHECKSUM="dade070456fbf2e976adc1e99ba90b7d" CHECKSUMTYPE="MD5" SIZE="67649">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000632_redacted_ALTO_00092_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="151" firstpage="149">
+              <court id="b181-11" pgmap="181">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b181-10" pgmap="181">CA CR 85-179</docketnumber>
+              <citation id="Ap_" pgmap="181">705 S.W.2d 454</citation>
+              <parties id="b181-9" pgmap="181">Danny Franklin SPENCER v. STATE of Arkansas</parties>
+              <decisiondate id="b181-12" pgmap="181">Opinion delivered March 12, 1986</decisiondate>
+              <judges id="b183-7" pgmap="183">Cloninger and Corbin, JJ., agree.</judges>
+              <attorneys id="b182-7" pgmap="182">John W. Settle, by: J. Fred Hart, Jr., for appellant.</attorneys>
+              <attorneys id="b182-8" pgmap="182">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b182-9" pgmap="182">Melvin Mayfield, Judge.</author>
+                <p id="AOjQ" pgmap="182">Appellant Danny Spencer was convicted by a jury of battery in the third degree. He was sentenced to one year in jail and fined $1,000.</p>
+                <p id="b182-10" pgmap="182">The charge against appellant involved his girl friend’s two- and-a-half-year-old daughter, Nikki, and arose after a babysitter noticed what appeared to be bite marks on the child’s buttocks, and pinch marks and apparent fingerprints on the child’s face. Upon being questioned, the child said that Danny had bitten and hurt her. The babysitter contacted SCAN and an investigation by the Barling Police Department ensued.</p>
+                <p id="b182-11" pgmap="182">
+                   Appellant’s sole argument for reversal is that the state failed to prove the existence of a physical injury. Battery in the third degree is committed if a person purposely or recklessly causes physical injury to another person. Ark. Stat. Ann. §41-­1603(1) (Repl. 1977). Physical injury is defined as the impair­ment of physical condition or the infliction of substantial pain. Ark. Stat. Ann. § 41-115(14) (Repl. 1977). Appellant contends the state has produced no evidence that Nikki suffered an impaired physical condition or substantial pain.</p>
+                <p id="b182-12" pgmap="182">The appellant relies on Kelley v. State, 7 Ark. App. 130, 644 S.W.2d 638 (1983), where the majority concluded that the victim’s testimony that he believed the cut he received went through his clothes but was not sure because it had been so long ago, and the testimony of a witness that the injury was like a “fingernail scratch” did not constitute enough evidence of sub­stantial pain to support a conviction of third degree battery. Appellant contends that bite marks on the child’s buttocks and pinch marks on her face are not sufficient to constitute physical injury as interpreted by controlling case law.</p>
+                <p id="b183-3" pgmap="183">
+                   We do not agree. We think this case falls in a category with Middleton v. State, 14 Ark. App. 92, 685 S.W.2d 182(1985), and Hall v. State, 11 Ark. App. 53, 666 S.W.2d 408 (1984), which the appellant tries to distinguish. In both of those cases, as here, only bruises were shown, but it was held that there was evidence of the infliction of substantial pain. In Hall, that evidence was testimony that the appellant had hit a six-year-old child, knocking him down, and in Middleton, it was a statement that the appellant had grabbed and squeezed a baby’s chin and left bruises on her. Here, there is testimony by the babysitter, Mrs. Crowson, that Nikki appeared to be terrified of appellant; that there were occasions when the child reacted strongly to his presence; and that once, when Danny and Mrs. Crowson’s husband were alone with Nikki in the Crowson house, Nikki started screaming and ran to Mrs. Crowson’s husband and would not let go of him. The jury could reasonably find from this testimony that the infliction of the bruises was accompanied by the infliction of substantial pain.</p>
+                <p id="b183-4" pgmap="183">Our criminal code scales battery in degrees of first, second, and third, with the severity of punishment based in part on the harm done to the victim. Harmon v. State, 260 Ark. 665, 543 S.W.2d 43 (1976), Hall v. State, supra. We think there is a distinct difference between the pain sustained by a man who couldn’t remember the incident and a child who showed fear of an adult who had bitten her.</p>
+                <p id="b183-5" pgmap="183">We find no merit in appellant’s argument that the state failed to show substantial pain.</p>
+                <p id="b183-6" pgmap="183">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="181" ORDERLABEL="149" TYPE="page">
+        <fptr FILEID="tiff_00091_0"/>
+        <fptr FILEID="jp2_00091_0"/>
+        <fptr FILEID="alto_00091_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_181.3" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="182" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00091_1"/>
+        <fptr FILEID="jp2_00091_1"/>
+        <fptr FILEID="alto_00091_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.2" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="183" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00092_0"/>
+        <fptr FILEID="jp2_00092_0"/>
+        <fptr FILEID="alto_00092_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.2" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.12" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.9" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.11" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOjQ" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.9" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_182.10" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap_" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.10" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.8" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.6" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.8" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.7" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.13" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.12" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.11" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.6" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.7" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.4" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.5" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.3" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

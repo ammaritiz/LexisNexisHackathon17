@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000725_0021" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Snowden v. Benton">Danny SNOWDEN v. Joe T. BENTON, III, Russell A. Benton and Mountain Pine Timber, Inc.</name>
+          <docketnumber>CA 94-513</docketnumber>
+          <citation category="official" type="bluebook">49 Ark. App. 75</citation>
+          <citation category="parallel" type="bluebook">896 S.W.2d 451</citation>
+          <decisiondate>1995-04-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T22:57:19Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:27Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:10:50Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="b6acefb0e1045f53b6992d89c6a70f0f" CHECKSUMTYPE="MD5" SIZE="25632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="21aa9f592a9f767e0072602e00117c9d" CHECKSUMTYPE="MD5" SIZE="15938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00052_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="479595585a0ac64f3b3169561e909240" CHECKSUMTYPE="MD5" SIZE="2068091">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="120ebb110392e77696241d591e254335" CHECKSUMTYPE="MD5" SIZE="1756161">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00052_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="4c93430611d0eeb070ecf70bb76ad2ea" CHECKSUMTYPE="MD5" SIZE="47683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="502ba24d1ef44e7e4046ac21d73afdef" CHECKSUMTYPE="MD5" SIZE="24662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00052_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="75" lastpage="76">
+              <court pgmap="103" id="b103-6">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="103" id="b103-5">CA 94-513</docketnumber>
+              <citation pgmap="103" id="A-K">896 S.W.2d 451</citation>
+              <parties pgmap="103" id="b103-3">Danny SNOWDEN v. Joe T. BENTON, III, Russell A. Benton and Mountain Pine Timber, Inc.</parties>
+              <decisiondate pgmap="103" id="b103-7">Opinion delivered April 12, 1995</decisiondate>
+              <judges pgmap="104" id="b104-7">Pittman and Robbins, JJ., agree.</judges>
+              <attorneys pgmap="103" id="b103-12">M. Edward Morgan, for appellant.</attorneys>
+              <attorneys pgmap="103" id="b103-13">Graddy &amp; Adkisson, P.A., by: Larry E. Graddy, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="103" id="b103-14">James R. Cooper, Judge.</author>
+                <p pgmap="103" id="ABJ">The appellant in this civil case sought an appeal from an order of the Faulkner County Circuit Court entered December 20, 1993. The appellant filed a motion for a new trial on December 22, 1993. No ruling was ever made on the new trial motion. The appellant filed a notice of appeal on January 20, 1994, from the circuit court’s order of December 20, 1993. We are constrained to dismiss this appeal because the notice of appeal was untimely.</p>
+                <p pgmap="103(60) 104(62)" id="b103-15">
+                   A notice of appeal filed prior to the disposition of a motion for a new trial is without effect under Ark. R. App. R 4(c). The Rule provides that, when such a post-trial motion has been filed, a new notice of appeal must be filed within the pre­scribed time from the entry of the order dealing with the post-­trial motion or from the expiration of the thirty days allowed in the absence of a ruling. Lawrence Brothers, Inc. v. R.J. “Bob” Jones Excavating Contractor, Inc., 318 Ark. 328, 884 S.W.2d 620 (1994). Because the appellant’s notice of appeal was filed before the expiration of the thirty-day period, it was without effect under Rule 4(c) and we must dismiss the appeal.</p>
+                <p pgmap="104" id="b104-6">Appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="103" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABJ" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.15" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.16" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-K" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.4" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-13" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.13" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.12" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-15" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.17" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-14" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.14" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

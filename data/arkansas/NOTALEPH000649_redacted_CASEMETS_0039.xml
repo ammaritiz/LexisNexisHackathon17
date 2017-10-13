@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000649_0039" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Johnson v. State">Sylvia JOHNSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 88-143</docketnumber>
+          <citation category="official" type="bluebook">27 Ark. App. 217</citation>
+          <citation category="parallel" type="bluebook">769 S.W.2d 37</citation>
+          <decisiondate>1989-04-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T00:26:24Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:19:12Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:14:36Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:15:56Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="728a5f2a3178f24e8013f124f5be8a90" CHECKSUMTYPE="MD5" SIZE="27794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="fe10491f470b82cb13b9b859e74dbc93" CHECKSUMTYPE="MD5" SIZE="18976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00129_1.tif"/>
+      </file>
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="e434f3e0b4b67fc191bdca1fea98163a" CHECKSUMTYPE="MD5" SIZE="54696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="fb624120cfe782b269b22f20c32c3a4a" CHECKSUMTYPE="MD5" SIZE="60452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00130_1.tif"/>
+      </file>
+      <file ID="tiff_00131_0" MIMETYPE="image/tiff" CHECKSUM="17ba7aae05d672e1b8dbb9856c55c6c1" CHECKSUMTYPE="MD5" SIZE="59642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00131_0.tif"/>
+      </file>
+      <file ID="tiff_00131_1" MIMETYPE="image/tiff" CHECKSUM="f8828550a5ceccf37bc3ea0b77592aad" CHECKSUMTYPE="MD5" SIZE="15886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00131_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00129_0" MIMETYPE="image/jp2" CHECKSUM="9fad50c1393b4385dd0b805ddf807422" CHECKSUMTYPE="MD5" SIZE="2033417">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00129_0.jp2"/>
+      </file>
+      <file ID="jp2_00129_1" MIMETYPE="image/jp2" CHECKSUM="d1afa248678a0037714e43a6cbc8344a" CHECKSUMTYPE="MD5" SIZE="1642634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00129_1.jp2"/>
+      </file>
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="cd2462931bfa8a4f79713fc0ed158dc9" CHECKSUMTYPE="MD5" SIZE="2580989">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00130_0.jp2"/>
+      </file>
+      <file ID="jp2_00130_1" MIMETYPE="image/jp2" CHECKSUM="337f163fc51f27bd222ec5f0615a26f9" CHECKSUMTYPE="MD5" SIZE="2649073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00130_1.jp2"/>
+      </file>
+      <file ID="jp2_00131_0" MIMETYPE="image/jp2" CHECKSUM="f4cacbd49813fa1c00c66bcc53a9611f" CHECKSUMTYPE="MD5" SIZE="2632715">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00131_0.jp2"/>
+      </file>
+      <file ID="jp2_00131_1" MIMETYPE="image/jp2" CHECKSUM="282c346fdec6985e60d102d7f42af170" CHECKSUMTYPE="MD5" SIZE="1759730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00131_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00129_0" MIMETYPE="text/xml" CHECKSUM="e70f06543f77bbb4738fd24fe9b29d4c" CHECKSUMTYPE="MD5" SIZE="46234">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00129_0.xml"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml" CHECKSUM="2557cf3249863c187d8dc33ac0ff5bab" CHECKSUMTYPE="MD5" SIZE="30610">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00129_1.xml"/>
+      </file>
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="432fe1c867b659ed0d2f05d191bb1d67" CHECKSUMTYPE="MD5" SIZE="93061">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00130_0.xml"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml" CHECKSUM="e32f5506257711ac7ddeeba5189c35e4" CHECKSUMTYPE="MD5" SIZE="100540">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00130_1.xml"/>
+      </file>
+      <file ID="alto_00131_0" MIMETYPE="text/xml" CHECKSUM="8eaf23b924259c8862b515f0675f0b31" CHECKSUMTYPE="MD5" SIZE="98278">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00131_0.xml"/>
+      </file>
+      <file ID="alto_00131_1" MIMETYPE="text/xml" CHECKSUM="032bb516b854724ba773eea398f6344b" CHECKSUMTYPE="MD5" SIZE="23514">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00131_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0039" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="222" firstpage="217">
+              <court id="b257-10" pgmap="257">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="Al-" pgmap="257">CA CR 88-143</docketnumber>
+              <citation id="Ae5" pgmap="257">769 S.W.2d 37</citation>
+              <parties id="b257-9" pgmap="257">Sylvia JOHNSON v. STATE of Arkansas</parties>
+              <decisiondate id="b257-11" pgmap="257">Opinion delivered April 26, 1989</decisiondate>
+              <judges id="b262-5" pgmap="262">Cracraft and Rogers, JJ., agree.</judges>
+              <attorneys id="b258-16" pgmap="258">Law Offices of Ronald L. Griggs, by: Ronald L. Griggs, for appellant.</attorneys>
+              <attorneys id="b258-17" pgmap="258">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b258-18" pgmap="258">Melvin Mayfield, Judge.</author>
+                <p id="ABZ" pgmap="258">
+                   Appellant, Sylvia Johnson, appeals from her conviction of criminal solicitation to commit capital murder. She was charged on July 1, 1986, and tried on March 10, 1988. She contends the charge should have been dismissed for failure to grant her a speedy trial. Ark. R. Crim. P. 28.1(c) was amended by a Per Curiam issued July 13, 1987, but as it existed at the time of appellant’s arrest it provided:</p>
+                <blockquote id="b258-19" pgmap="258(22) 259(30)">Any defendant charged with an offense in circuit court and held to bail, or otherwise lawfully set at liberty,. . . shall be entitled to have the charge dismissed with an absolute bar to prosecution if not brought to trial within eighteen (18) months from the time provided in Rule 28.2 ....</blockquote>
+                <p id="b259-4" pgmap="259">Under Rule 28.2(a) the time for trial begins to run from the date the charge is filed except, if prior to that time the defendant has been continuously held in custody or on bail, the time begins to run from the date of arrest. Here, the trial court found the date of arrest to have been June 19,1986, and it is agreed that appellant was on bail from that date until trial on March 10, 1988. This period of time is obviously more than 18 months, but the state contends there were two periods excluded under Rule 28.3(a) which provides:</p>
+                <blockquote id="b259-5" pgmap="259">The period of delay resulting from other proceedings concerning the defendant, including but not limited to an examination and hearing on the competency of the defend­ant and the period during which he is incompetent to stand trial, hearings on pretrial motions, interlocutory appeals, and trials of other charges against the defendant. No pretrial motion shall be held under advisement for more than thirty (30) days, and the period of time in excess of thirty (30) days during which any such motion is held under advisement shall not be considered an excluded period. [Emphasis added.]</blockquote>
+                <p id="b259-6" pgmap="259">The state argues there were two periods excluded under the above rule. One period relates to a continuation granted because a witness was unavailable, and the other period relates to the time for examination and hearing on the competency of the defendant to stand trial. Although the appellee contends that the language in Rule 28.3(a) providing that “no pretrial motion shall be held under advisement for more than thirty (30) days” means that the period of time to be excluded from pretrial proceedings is limited to only 30 days, no authority is cited to support that contention, and we think appellant is clearly wrong in that regard.</p>
+                <p id="b259-7" pgmap="259(66) 260(33)">
+                   However, once the defendant has made a prima facie showing that the speedy trial rule has been violated, the burden shifts to the prosecution to show the delay was legally justified. Horn v. State, 294 Ark. 464, 743 S.W.2d 814 (1988); Duncan v. State, 294 Ark. 105, 740 S.W.2d 923 (1987); Harwood v. Lofton, 288 Ark. 173, 702 S.W.2d 805 (1986); Glover v. State, 287 Ark. 19, 695 S.W.2d 829 (1985); and Williams v. State, 275 Ark. 8, 627 S.W.2d 4 (1982). We find the state has made that showing in this case and we affirm the appellant’s conviction.</p>
+                <p id="b260-6" pgmap="260">The record shows that on October 2, 1986, in response to a letter dated September 16, 1986, from defense counsel stating that he intended to defend on the basis of mental disease or defect, the prosecution filed a motion asking that appellant be committed to the Arkansas State Hospital for mental examination. A response to this motion was filed on October 7, 1986, admitting that appellant had notified the prosecution that she would raise a mental defense and pointing out that under Ark. Stat. Ann. § 41-­605(2) [now codified as Ark. Code Ann. § 5-2-305(b) (1987)] the court had four alternatives: (1) direct a mental examination at a regional mental health center, (2) appoint a qualified psychiatrist to examine appellant and make a report to the court, (3) direct the Arkansas State Hospital to examine appellant and make a report, or (4) commit the appellant to the Arkansas State Hospital for a period of thirty days or longer. Appellant’s response also stated that either of the first three alternatives would be satisfactory but she would strenuously object to any commitment to the Arkansas State Hospital. The transcript of the hearing on appellant’s motion to dismiss reveals that appellant’s attorney mailed a copy of the appellant’s response to the deputy prosecuting attorney and stated in the cover letter that appellant’s attorney thought they should get in touch with the judge for a hearing on the motion for mental examination. That letter concluded, “I assume that at this point in time a continuance is likely.” At that time, the case was set for trial on November 13, 1986.</p>
+                <p id="b260-7" pgmap="260(127) 261(35)">The record shows that on November 10, 1986, the court issued an order committing the appellant to the Southeast Arkansas Mental Health Center at Pine Bluff, Arkansas, for a period not to exceed 30 days and directing the center to report back to the court in writing. The transcript of the hearing on the motion to dismiss further reveals that two appointments were made at the Southeast Arkansas Mental Center for appellant, but she did not keep either appointment and the Center wrote the judge stating that it preferred not to reschedule an examination. The discussion at the hearing also revealed that defense counsel wrote the Center apologizing for the failure of his client to appear for the examinations and asking that the decision not to evaluate his client be reconsidered. The next pertinent date referred to in the hearing is December 29, 1986, the date of a letter the court received containing the result of the Center’s mental examination of appellant.</p>
+                <p id="b261-6" pgmap="261">
+                   Under Ark. R. Crim. P. 28.3(a), the period of time required for the examination and evaluation of the defendant’s competency to stand trial is excluded. In Nelson v. State, 297 Ark. 58, 759 S.W.2d 215 (1988), the court excluded a 223-day period for mental examination. See also Scott v. State, 286 Ark. 339, 691 S.W.2d 859 (1985), where 32 days were excluded. At the hearing in the instant case, appellant’s attorney conceded that the period from the date of the order for the examination, November 10, 1986, to the date of the examination, December 15,1986, should be excluded. The trial court, however, excluded the period from September 16, 1986, the date of the letter from appellant’s counsel requesting mental examination, to December 29, 1986, the date the court received the Center’s report of its examination. Under the circumstances in this case, we do not believe the court erred. The examination at the Pine Bluff facility was ordered at the appellant’s request. It is clear that appellant’s counsel thought this request would result in a hearing and a continuance. Then, it was appellant’s failure to keep the appoint­ments that caused the examination to be delayed until December 15, 1986, and the report was not received by the court until December 29, 1986. Thus, we think the trial court properly excluded the period from September 16, 1986, to December 29, 1986. This is slightly more than three months. Eighteen months from the date of arrest on June 19,1986, would be December 19, 1987. When we add the excluded period of three months, the eighteen months for- trial is extended to March 19, 1988. Appellant was tried on March 10, 1988, and therefore, her right to a speedy trial was not denied. Thus, we see no need to discuss the continuation granted because of witness unavailability.</p>
+                <p id="b261-9" pgmap="261(78) 262(16)">
+                   In her brief to this court, the appellant argues that there was no written order entered setting out the excluded period as required by Ark. R. Crim. P. 28.3(i). However, we have found no place in the transcript where this matter was called to the trial court’s attention. This same situation was before the Arkansas Supreme Court in Gooden v. State, 295 Ark. 385, 749 S.W.2d 657 (1988), and the court said the point would not be considered on appeal since it was not presented to the trial court. See 295 Ark. at 390.</p>
+                <p id="b262-4" pgmap="262">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="257" ORDERLABEL="217" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jp2_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.5" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="218" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jp2_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.2" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="259" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jp2_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.2" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="261" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00131_0"/>
+        <fptr FILEID="jp2_00131_0"/>
+        <fptr FILEID="alto_00131_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.5" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="262" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00131_1"/>
+        <fptr FILEID="jp2_00131_1"/>
+        <fptr FILEID="alto_00131_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_262.2" BETYPE="IDREF" FILEID="alto_00131_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.7" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            <area BEGIN="BL_262.1" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.10" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.5" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b262-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_262.6" BETYPE="IDREF" FILEID="alto_00131_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al-" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.11" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.7" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.8" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_260.1" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.6" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-7" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.7" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            <area BEGIN="BL_261.1" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae5" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.12" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-10" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.13" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-11" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.14" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABZ" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.15" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            <area BEGIN="BL_258.16" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-17" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.13" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-16" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.12" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-19" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.17" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            <area BEGIN="BL_259.1" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-18" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.14" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.6" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

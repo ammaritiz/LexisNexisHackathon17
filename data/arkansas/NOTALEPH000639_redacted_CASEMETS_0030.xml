@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000639_0030" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jones v. Jones">Christine M. JONES v. Jerry A. JONES</name>
+          <docketnumber>CA 93-91</docketnumber>
+          <citation category="official" type="bluebook">41 Ark. App. 146</citation>
+          <citation category="parallel" type="bluebook">852 S.W.2d 325</citation>
+          <decisiondate>1993-03-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:54:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:59:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T18:42:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T18:43:09Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00085_1" MIMETYPE="image/tiff" CHECKSUM="e2279feb7098b0d83a17247a20f29442" CHECKSUMTYPE="MD5" SIZE="24256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00085_1.tif"/>
+      </file>
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="0d2db60014f6c6c5164884cad8a203a2" CHECKSUMTYPE="MD5" SIZE="51904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00086_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00085_1" MIMETYPE="image/jp2" CHECKSUM="992612c697f64463547f3786e8ce82d1" CHECKSUMTYPE="MD5" SIZE="2061258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00085_1.jp2"/>
+      </file>
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="909b0f2e387a1c5d1f6a47fdacc3a8ab" CHECKSUMTYPE="MD5" SIZE="2607453">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00086_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00085_1" MIMETYPE="text/xml" CHECKSUM="fbed9a15d410cc8392fc14db384a0f5d" CHECKSUMTYPE="MD5" SIZE="38728">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00085_1.xml"/>
+      </file>
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="88c574b7307fa4a892be58da2f18ed78" CHECKSUMTYPE="MD5" SIZE="81617">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00086_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0030" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="146" lastpage="147">
+              <court pgmap="170" id="b170-10">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="170" id="b170-9">CA 93-91</docketnumber>
+              <citation pgmap="170" id="ARR">852 S.W.2d 325</citation>
+              <parties pgmap="170" id="b170-8">Christine M. JONES v. Jerry A. JONES</parties>
+              <decisiondate pgmap="170" id="AI2">Opinion delivered March 17, 1993</decisiondate>
+              <attorneys pgmap="170" id="b170-14">Samuel Perroni, for appellant.</attorneys>
+              <attorneys pgmap="170" id="b170-15">Helen Rice Grinder, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="170" id="b170-16">Per Curiam.</author>
+                <p pgmap="170(29) 171(62)" id="A9o">The appellee in this child custody case filed a petition for permanent change of custody and for temporary emergency ex parte relief alleging that a change of custody was required because the mental health and stability of the minor child was being jeopardized while he resided with his mother, the appellant. On December 13, 1992, the chancellor entered an order granting the relief and indicating that an emergency hearing would be scheduled on the matter. After a hearing on December 16,1992, the chancellor entered a “temporary order of change of custody.”</p>
+                <p pgmap="171" id="b171-6">The appellant has filed in this court a motion to expedite appeal, requesting that the briefing schedule in this case be accelerated and alleging, among other things, that the appellant received insufficient notice of the hearing on the ex parte motion to change custody to adequately prepare or obtain witnesses and evidence to support a continuation of custody in her. She further alleges in her motion that the chancellor chánged custody from the appellant to the appellee without making an adequate investigation into the merits of that action.</p>
+                <p pgmap="171" id="b171-7">The appellee, in response to the appellant’s motion to expedite, has moved to dismiss the appeal on the theory that the temporary custody order is nonappealable for lack of finality. We agree with the appellee’s argument. In Chancellor v. Chancellor, 282 Ark. 227, 667 S.W.2d 950 (1984), the Arkansas Supreme Court clarified the law regarding appealability of temporary child custody orders by holding that a mere temporary award of custody pending trial on the merits is not appealable, but an award of custody, even if expressly stated to be temporary, is final for purposes of appeal if the issue of custody was decided on the merits and the parties have completed their proof. In the case at bar, the appellant’s motion to expedite is grounded on her assertions that she had not yet completed her proof in this case. Therefore, the decree in this case is a temporary award pending trial on the merits, and is nonappealable pursuant to Chancellor v. Chancellor, supra.</p>
+                <p pgmap="171" id="b171-8">The appellee’s motion to dismiss is granted. Given our resolution of this issue, the appellant’s motion to expedite the appeal is moot, and we do not address it.</p>
+                <p pgmap="171" id="b171-9">Appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="170" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00085_1"/>
+        <fptr FILEID="jp2_00085_1"/>
+        <fptr FILEID="alto_00085_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.2" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="171" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.5" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9o" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.19" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            <area BEGIN="BL_170.20" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            <area BEGIN="BL_171.1" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.10" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-16" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.18" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-15" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.17" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-14" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.16" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.8" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b170-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.7" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.7" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARR" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.9" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.4" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI2" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_170.11" BETYPE="IDREF" FILEID="alto_00085_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

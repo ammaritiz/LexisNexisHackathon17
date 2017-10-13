@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000693_0012" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Reap v. Automation Systems, Inc.">David REAP v. AUTOMATION SYSTEMS, INC., and American National Insurance Company</name>
+          <docketnumber>CA 03-229</docketnumber>
+          <citation category="official" type="bluebook">83 Ark. App. 83</citation>
+          <citation category="parallel" type="bluebook">117 S.W.3d 642</citation>
+          <decisiondate>2003-09-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T22:26:39Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:18:02Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T10:06:25Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T10:08:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="9a3404ea9873932e935e6dcece4f5298" CHECKSUMTYPE="MD5" SIZE="29646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="641894f61ec534c9e27a56a8d315bd88" CHECKSUMTYPE="MD5" SIZE="34986">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00055_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="66f9b76597a3f6283a0a46ae467d5c1f" CHECKSUMTYPE="MD5" SIZE="2272869">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="232399c8dea74f452fb25e52fa690c46" CHECKSUMTYPE="MD5" SIZE="2550522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00055_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="1dbda11dc4c921e94e25008fbe5faa90" CHECKSUMTYPE="MD5" SIZE="47950">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="4d3299eb0d2b4bf95486273fa3c676e9" CHECKSUMTYPE="MD5" SIZE="54968">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00055_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="83" lastpage="84">
+              <court id="b109-6" pgmap="109">Court of Appeals of Arkansas</court>
+              <docketnumber id="b109-4" pgmap="109">CA 03-229</docketnumber>
+              <citation id="b109-5" pgmap="109">117 S.W.3d 642</citation>
+              <parties id="b109-3" pgmap="109">David REAP v. AUTOMATION SYSTEMS, INC., and American National Insurance Company</parties>
+              <decisiondate id="Ape" pgmap="109">Opinion delivered September 10, 2003</decisiondate>
+              <attorneys id="b109-11" pgmap="109">Roberts Law Firm, P.A., by: John D. Webster, for appellees.</attorneys>
+              <attorneys id="b109-12" pgmap="109">No response.</attorneys>
+              <opinion type="majority">
+                <author id="pAR9" pgmap="109">Curiam.</author>
+                <p id="AD1" pgmap="109">In this appeal of a workers’ compensation case, appellees initially filed with this court motions for remand and for an enlargement of the briefing schedule. Appellees alleged that the record that they had finally received from appellant was in extremely poor physical condition with its binding separated, and with pages loose and out of order; and that it was unclear whether all pages were included. Appellant did not respond to the motion. By order of July 30, 2003, we denied appellees’ motion to remand but granted their motion for an enlargement of the briefing schedule.</p>
+                <p id="b109-14" pgmap="109">Appellees have now filed a motion to supplement the record with pages that they allege are unaccounted for. Appellees specifi­cally allege:</p>
+                <blockquote id="b109-15" pgmap="109(34) 110(20)">That, when [appellees] placed the pages of the record in order, after having held it in the same condition in which it was received from [appellant], it was discovered that approximately ninety (90) pages of the record were missing, specificaUy’pages 1 through 48, 129, 141, 197-98, 203 through 232, 324 through 331 and 334....</blockquote>
+                <p id="b110-6" pgmap="110">Appellees further allege that although they have made repeated attempts to secure cooperation from appellant’s counsel in correcting deficiencies in the record and in replacing missing pages, they have received minimal assistance from counsel. Appellant, again, has not responded to appellees’ motion.</p>
+                <p id="b110-7" pgmap="110">
+                   Upon a party’s filing in the office of the Workers’ Compensation Commission a notice of appeal of the commission’s order or award, “the commission under its certificate shall send to [this] court all pertinent documents and papers, together with a transcript of evidence and the findings and orders, which shall become the record of the cause.” Ark. Code Arm. § 11-9-­711(b) (A) (Repl. 2002). Because appellees have alleged in their motion that pages are missing from the record, we remand to the Commission so that the record can be settled. The settled record shall be filed in the clerk’s office within thirty days. Expenses incurred by the Commission in settling the record shall be paid to the commission by appellant.</p>
+                <p id="b110-8" pgmap="110">
+                   Appellees have also moved for an enlargement of the briefing schedule, which we grant. Appellees’ brief shall be due within thirty days after the settled record has been filed.</p>
+                <p id="b110-9" pgmap="110">Remanded for settling of the record. Motion for an enlarge­ment of the briefing schedule granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="109" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.2" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.6" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ape" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.7" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.8" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.7" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-14" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.18" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-15" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.19" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.14" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.13" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAR9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.15" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.9" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.6" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD1" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.16" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            <area BEGIN="BL_109.17" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

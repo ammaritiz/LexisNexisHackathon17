@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000654_0024" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Harris v. State">Danny HARRIS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-377</docketnumber>
+          <citation category="official" type="bluebook">80 Ark. App. 181</citation>
+          <citation category="parallel" type="bluebook">92 S.W.3d 690</citation>
+          <decisiondate>2002-12-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:41:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:30:45Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:33:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="c474320dabe25f1999fec6fef969da7f" CHECKSUMTYPE="MD5" SIZE="7450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="8e5cbefea6cb77a74eedc44683c93679" CHECKSUMTYPE="MD5" SIZE="48330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="cc06ddf34d5bd62dfdc526e963f8aee1" CHECKSUMTYPE="MD5" SIZE="53458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="d90c0b980d442cf9e735d7a8ae10207e" CHECKSUMTYPE="MD5" SIZE="39960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00105_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="50caebfe6fd38ca2e7ca1d436050f354" CHECKSUMTYPE="MD5" SIZE="1478832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="5865a6656ebab774147a45fdb670f562" CHECKSUMTYPE="MD5" SIZE="2473741">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="5c9c8fb7b5f173d56b93342116605bf6" CHECKSUMTYPE="MD5" SIZE="2649483">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00105_0.jp2"/>
+      </file>
+      <file ID="jp2_00105_1" MIMETYPE="image/jp2" CHECKSUM="fcc75dad3a8966be54a7cc2271973b53" CHECKSUMTYPE="MD5" SIZE="2492917">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00105_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="9fa12970ae6fb0b4ced4a5f2e20b3c37" CHECKSUMTYPE="MD5" SIZE="8343">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="4cc2db01e6991e8a40a302981dd9929a" CHECKSUMTYPE="MD5" SIZE="79230">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="3aee24a428c355955be8a8bd3c7595cb" CHECKSUMTYPE="MD5" SIZE="90355">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00105_0.xml"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml" CHECKSUM="bb795b056d04ee1b0a8e8656ea12c1d9" CHECKSUMTYPE="MD5" SIZE="66924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00105_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0024" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="181" lastpage="184">
+              <court pgmap="207" id="b207-6">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="207" id="b207-4">CA CR 02-377</docketnumber>
+              <citation pgmap="207" id="b207-5">92 S.W.3d 690</citation>
+              <parties pgmap="207" id="b207-3">Danny HARRIS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="207" id="b207-7">Opinion delivered December 18, 2002</decisiondate>
+              <judges pgmap="210" id="b210-8">Robbins and Bird, JJ., agree.</judges>
+              <opinion type="majority">
+                <author pgmap="208" id="pAZB">Wendell L. Griffen, Judge.</author>
+                <p pgmap="208" id="Aeq">This appeal arises from a probation-revocation hearing in Crittenden County, Arkansas. Appellant argues that the trial court did not have juris­diction to revoke his probation where the revocation occurred after the probationary term had expired and where, according to appellant, he had not been arrested during the probation period for matters relating to his probation. Alternatively, appellant argues that the trial court erred in denying his motion to dismiss where the revocation hearing did not take place within a reasona­ble time. We reverse and dismiss on the first point of error.</p>
+                <p pgmap="208" id="b208-7">On December 4, 1996, appellant pleaded guilty to possessing cocaine and received a sentence of five years’ supervised proba­tion, costs, fines, and probation fees. The probation had a number of standard conditions, among others that appellant (1) not violate any state, federal, or municipal law, and, in summary, (2) cooper­ate with probation officers and law enforcement agents. On July 22, 1997, the State filed a revocation petition, alleging failure to report to the probation officer and failure to pay probation fees, fines, and costs. The State sent a notice of hearing for August 18, 1997, to appellant. Appellant did not appear at that hearing. The trial court issued an alias warrant for his arrest, citing possession of a controlled substance. However, appellant was not arrested until September 19, 2000.</p>
+                <p pgmap="208(102) 209(105)" id="b208-8">On September 28, 2000, the State filed an amended petition to revoke appellant’s probation, again alleging failure to report to his probation officer, failure to pay probation fees, failure to pay fines and costs, but also adding new violations, namely theft by receiving, driving while license suspended, driving with no liabil­ity insurance, and failure to appear. A preliminary hearing occurred on October 2, 2000, at which appellant appeared before the trial court. The court set the revocation hearing for October 9, 2000, and released appellant on bond. However, the October 9 hearing never took place, for reasons unbeknown to us. Subse­quently, the State filed a second amended petition to revoke appellant’s probation on December 19, 2001, alleging the same violations as in the previous petitions, but adding one new viola­tion, interference with law officer. The court set the hearing for December 31, 2001. At that hearing, appellant moved to dismiss the petition alleging lack of jurisdiction and a speedy-trial viola­tion. The trial court denied both motions and revoked appellant’s probation on the grounds that he failed to report to his probation officer, failed to pay probation fees, fines, and costs, and failed to appear at the August 18, 1997, hearing. This appeal followed.</p>
+                <p pgmap="209" id="b209-5">Jurisdiction to Revoke Probation</p>
+                <p pgmap="209" id="b209-6">Appellant chiefly asserts that the trial court did not have jurisdiction to revoke his probation because the revocation occurred after the end of the probationary term and there were no circumstances allowing for revocation after the end of the proba­tionary term. The recent Arkansas Supreme Court case, Carter v. State, 350 Ark. 229, 85 S.W.3d 914 (2002), governs appellant’s argument. In that case, Susie Carter received five years of proba­tion. Id. The State filed a series of petitions to revoke probation. Id. Carter failed to appear for her probation revocation hearing, and the trial court issued an alias bench warrant for her arrest. Id. However, unlike the instant case, the trial court in Carter set aside the bench warrant. Id. Afterwards, the revocation hearing was postponed two times upon the request of Carter. Id. Conse­quently, the order revoking probation did not occur until five years and twenty-four days after entry of the probation order. Id.</p>
+                <p pgmap="209(115) 210(137)" id="b209-7">
+                   The Arkansas Supreme Court decided that the issue of whether a circuit court can revoke probation after expiration of the probation period is one of jurisdiction. Id. The court further extensively discussed the relevant section of the Arkansas Code, namely Ark. Code Ann. § 5-4-309 (Supp. 2001) (in relevant parts unchanged from the Repl. 1993 version of the section relied upon by the State in the instant case). Specifically, a trial court can revoke probation “subsequent to the expiration of the period of suspension or probation, provided the defendant is arrested for violation of. . . probation, or a warrant is issued for his arrest for violation of suspension or probation, before expiration of the period.” Ark. Code Ann. § 5-4-309(e). However, in a less recent case, the Arkansas Supreme Court held a warrant for arrest suffi­cient for probation revocation purposes where the warrant was issued within the probationary period. Richmond v. State, 326 Ark. 728, 934 S.W.2d 214 (1996). The Carter opinion distin­guished Richmond from the case before it by pointing out that Richmond was arrested for violation of probation, but Carter merely was arrested for failure to appear. Carter v. State, supra. In summary of the Carter case, the supreme court held that the circuit court lost jurisdiction to revoke Carter’s probation under Ark. Code Ann. § 5-4-309 (e) when her probation period expired without her having been arrested for a probation violation and without an arrest warrant having been issued for violation of pro­bation. Carter, supra.</p>
+                <p pgmap="210" id="b210-5">
+                   In the case at bar, we hold that appellant was not arrested for a violation of his probation conditions within the meaning of Carter and its interpretation of Arkansas Code Ann. § 5-4-309 (e). It is true that appellant was arrested pursuant to an alias warrant issued during his probationary period and that the warrant was issued on August 18, 1997, well within the probation period ending December 4, 2001. It is also true that appellant was arrested during the probationary period, on September 19, 2000. However, the alias warrant cited as reason for the arrest possession of a controlled substance, and not probation violation. Therefore, we must reverse and dismiss on this point.</p>
+                <p pgmap="210" id="b210-6">In light of our disposition of appellant’s first assignment of error, we do not need to reach appellant’s second argument.</p>
+                <p pgmap="210" id="b210-7">Reversed and dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="207" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.2" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jp2_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.12" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.6" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.11" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aeq" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.8" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_208.9" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_208.10" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAZB" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.7" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.6" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-6" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-4" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-5" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-3" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-8" BETYPE="IDREF" FILEID="casebody_0024"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.7" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

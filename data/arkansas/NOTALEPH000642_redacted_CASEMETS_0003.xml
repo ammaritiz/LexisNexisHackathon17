@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0003" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jones v. State">Michael DeWayne JONES v. STATE of Arkansas</name>
+          <docketnumber>CA CR 82-28</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 7</citation>
+          <citation category="parallel" type="bluebook">636 S.W.2d 880</citation>
+          <decisiondate>1982-08-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00017_0" MIMETYPE="image/tiff" CHECKSUM="17c156ab75245df870c3e7d4ec8ad5dc" CHECKSUMTYPE="MD5" SIZE="11648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00017_0.tif"/>
+      </file>
+      <file ID="tiff_00017_1" MIMETYPE="image/tiff" CHECKSUM="50d38a97a8c888b4417c35e7633fd1db" CHECKSUMTYPE="MD5" SIZE="48756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00017_1.tif"/>
+      </file>
+      <file ID="tiff_00018_0" MIMETYPE="image/tiff" CHECKSUM="995f17f1cdafeeb7b14019bf69d007a7" CHECKSUMTYPE="MD5" SIZE="51928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00018_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00017_0" MIMETYPE="image/jp2" CHECKSUM="908b52e8ff9b0a58c6d39bcf584fdb31" CHECKSUMTYPE="MD5" SIZE="1658606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00017_0.jp2"/>
+      </file>
+      <file ID="jp2_00017_1" MIMETYPE="image/jp2" CHECKSUM="0a9f02e7eae6e297f73038a9b856e650" CHECKSUMTYPE="MD5" SIZE="2676464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00017_1.jp2"/>
+      </file>
+      <file ID="jp2_00018_0" MIMETYPE="image/jp2" CHECKSUM="9b00fb187afb09c3d3a165c748a43532" CHECKSUMTYPE="MD5" SIZE="2743305">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00018_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00017_0" MIMETYPE="text/xml" CHECKSUM="306b2c0dbf53055b34d54299ed02dc55" CHECKSUMTYPE="MD5" SIZE="17237">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00017_0.xml"/>
+      </file>
+      <file ID="alto_00017_1" MIMETYPE="text/xml" CHECKSUM="8cff1b4e2ddee2c8c1dddd6cd8c705a0" CHECKSUMTYPE="MD5" SIZE="88391">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00017_1.xml"/>
+      </file>
+      <file ID="alto_00018_0" MIMETYPE="text/xml" CHECKSUM="2c9ddda575072b4dbdcd198f2dd5f178" CHECKSUMTYPE="MD5" SIZE="92723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00018_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="9" firstpage="7">
+              <court pgmap="33" id="b33-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="33" id="Ay">CA CR 82-28</docketnumber>
+              <citation pgmap="33" id="Ag">636 S.W.2d 880</citation>
+              <parties pgmap="33" id="b33-3">Michael DeWayne JONES v. STATE of Arkansas</parties>
+              <decisiondate pgmap="33" id="A5">Opinion delivered August 18, 1982</decisiondate>
+              <judges pgmap="35" id="b35-5">Glaze, J., not participating.</judges>
+              <attorneys pgmap="33" id="b33-13">James Michael Hankins, for appellant.</attorneys>
+              <attorneys pgmap="33" id="b33-14">Steve Clark, Atty. Gen., by: Victra L. Fewell, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="33" id="b33-16">George K. Cracraft, Judge.</author>
+                <p pgmap="33(14) 34(52)" id="AT">Michael DeWayne Jones appeals from his conviction of theft by receiving, a class “C” felony, and of having been convicted of two prior felonies. Pursuant to the Habitual Criminal Act he was sentenced to ten years in the Department of Correction. On this appeal he contends that the testimony was insufficient to establish guilt of a class “C” felony upon which the enhanced sentence was based.</p>
+                <p pgmap="34" id="b34-4">Ark. Stat. Ann. § 41-2206 (5) (b) (i) (Repl. 1977) provides that theft by receiving is a class “C” felony if the value of the property received is less than $2500 but more than $100. Ark. Stat. Ann. § 41-2201 (11) (a) (Repl. 1977) defines “value” as “the market value of the property at the time and place of the offense.” Appellant contends that the testimony was insuf­ficient to prove that the value of the stolen articles exceeded $100. We do not agree.</p>
+                <p pgmap="34" id="b34-5">Steve Roberson testified that in February 1981 while he was employed by American Gold and Silver Exchange, appellant attempted to sell him three gold rings. Two of the rings were subsequently determined to have been stolen from Samuel Jackson earlier that day. The true owner of the third ring was never found. The appellant was charged with theft by receiving only of the two rings identified as stolen property. Roberson testified that at the time the rings were offered to him by appellant he weighed them and offered $115 for all three rings. He stated that his offering price did not represent the full market value as he had intended to make a substantial profit. He testified that he could not, without weighing the rings and checking the gold market as of the date of the theft, give an exact estimate of their value on the date of the crime. He testified, however, that without that data he could state that the value of the two rings on that date was “in excess of $125.”</p>
+                <p pgmap="34" id="b34-6">This was a positive statement of value by one qualified as an expert. The fact that he had not accurately weighed the rings nor refreshed his memory as to market quotations affects only the weight to be given his testimony and not its admissibility. Mathis v. State, 267 Ark. 904, 591 S.W.2d 679 (Ark. App. 1979).</p>
+                <p pgmap="34(10) 35(391)" id="b34-7">The owner of the two rings testified that he had purchased one in 1971 and the other in 1974. Over appel­lant’s objection he was permitted to state the price paid for each ring. The appellant contends that this was error as the original purchase price was not evidence of market value because it was too remote in time. Appellant relies on Cannon v. State, 265 Ark. 270, 578 S.W.2d 20 (1979), which held that it was error to permit the owner of a stolen automobile to testify as to the purchase price paid twelve years before trial. The court reasoned that under those circumstances original cost in no way reflected the present market value. On the other hand in Williams v. State, 252 Ark. 1289, 482 S.W.2d 810 (1972) the owner of the stolen property testified that it was “new.” The court held that the owner’s original cost is admissible so long as it is not too remote in time and bears a reasonable relation to the present value. In the more recent case of Jones v. State, 276 Ark. 116, 627 S.W.2d 6 (1982) the court again recognized that the original cost of property is a factor the jury may consider in determining value, if it is not too remote in time. In that case the owner testified as to the original cost of C.B. radio equipment purchased two years earlier. The test applied by the court was whether or not the purchase price bore a reasonable relation to the present value. Tillman v. State, 271 Ark. 552, 609 S.W.2d 340 (1980). In determining re­moteness and relevance of original purchase price on present market value, the nature and characteristics of the article must be considered on a case by case basis. We conclude that the trial court correctly determined that the testimony of this owner was relevant because the purchase price was not too remote and bore a reasonable relation to present value. There is a difference in the rate of depreciation of automobiles and other consumer goods and that of gold. While the jury may not substitute its knowledge for evi­dence, they are not required to set aside their common knowledge and may consider the evidence presented them in accordance with their own observation and experience in the affairs of life. Polk v. State, 252 Ark. 320, 478 SW.2d 738 (1972). The jury was so instructed.</p>
+                <p pgmap="35" id="b35-4">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="33" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00017_0"/>
+        <fptr FILEID="jp2_00017_0"/>
+        <fptr FILEID="alto_00017_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.2" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="34" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00017_1"/>
+        <fptr FILEID="jp2_00017_1"/>
+        <fptr FILEID="alto_00017_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.2" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="35" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00018_0"/>
+        <fptr FILEID="jp2_00018_0"/>
+        <fptr FILEID="alto_00018_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.3" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.4" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.7" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-13" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.17" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-16" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.19" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-14" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.18" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.5" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.7" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.6" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.5" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.8" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            <area BEGIN="BL_35.1" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.5" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.6" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.20" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_33.21" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_34.1" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.6" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.3" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

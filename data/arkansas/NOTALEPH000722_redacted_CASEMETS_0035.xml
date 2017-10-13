@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000722_0035" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Keys v. State">Lonnie KEYS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-139</docketnumber>
+          <citation category="official" type="bluebook">23 Ark. App. 219</citation>
+          <citation category="parallel" type="bluebook">745 S.W.2d 628</citation>
+          <decisiondate>1988-03-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:12:55Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T08:27:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T08:27:57Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00122_0" MIMETYPE="image/tiff" CHECKSUM="c713d68494d1f4f4973691752ab60582" CHECKSUMTYPE="MD5" SIZE="13554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00122_0.tif"/>
+      </file>
+      <file ID="tiff_00122_1" MIMETYPE="image/tiff" CHECKSUM="cfecf2d32d04d22d7430fbfc0cd4d893" CHECKSUMTYPE="MD5" SIZE="53700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00122_1.tif"/>
+      </file>
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="676a3302ceab10b1d38156729b92b2ba" CHECKSUMTYPE="MD5" SIZE="56890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00123_0.tif"/>
+      </file>
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="570093c9d0d595858069b2a4b67a97a5" CHECKSUMTYPE="MD5" SIZE="50660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00123_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00122_0" MIMETYPE="image/jp2" CHECKSUM="1d448373d6230cd537c66796ec8281b2" CHECKSUMTYPE="MD5" SIZE="1642289">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00122_0.jp2"/>
+      </file>
+      <file ID="jp2_00122_1" MIMETYPE="image/jp2" CHECKSUM="2d9fe39986ad2a6578df02f6d6e67498" CHECKSUMTYPE="MD5" SIZE="2625157">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00122_1.jp2"/>
+      </file>
+      <file ID="jp2_00123_0" MIMETYPE="image/jp2" CHECKSUM="496b1df1b4661cc7942a421d2d6ec576" CHECKSUMTYPE="MD5" SIZE="2708926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00123_0.jp2"/>
+      </file>
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="8a853b63238c831369302cc11d423258" CHECKSUMTYPE="MD5" SIZE="2666926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00123_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00122_0" MIMETYPE="text/xml" CHECKSUM="6878cd7e97d97fd3afec9b6ab302c054" CHECKSUMTYPE="MD5" SIZE="20580">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00122_0.xml"/>
+      </file>
+      <file ID="alto_00122_1" MIMETYPE="text/xml" CHECKSUM="ff8278221dadee3ab56f712e48f48198" CHECKSUMTYPE="MD5" SIZE="91371">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00122_1.xml"/>
+      </file>
+      <file ID="alto_00123_0" MIMETYPE="text/xml" CHECKSUM="7a0fc67b43ae1d0ee2af38981b506027" CHECKSUMTYPE="MD5" SIZE="92513">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00123_0.xml"/>
+      </file>
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="fbebf3b05d01105fd249d2cac3db458e" CHECKSUMTYPE="MD5" SIZE="82207">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00123_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="222" firstpage="219">
+              <court id="b243-8" pgmap="243">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b243-7" pgmap="243">CA CR 87-139</docketnumber>
+              <citation id="A07" pgmap="243">745 S.W.2d 628</citation>
+              <parties id="b243-6" pgmap="243">Lonnie KEYS v. STATE of Arkansas</parties>
+              <decisiondate id="b243-9" pgmap="243">Opinion delivered March 2, 1988</decisiondate>
+              <judges id="b246-9" pgmap="246">Cooper and Jennings, JJ., agree.</judges>
+              <attorneys id="b244-6" pgmap="244">Clark &amp; Adkisson, by: John J. Clark, for appellant.</attorneys>
+              <attorneys id="b244-7" pgmap="244">Steve Clark, Att’y Gen., by: J. Blake Hendrix, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b244-8" pgmap="244">Beth Gladden Coulson, Judge.</author>
+                <p id="AP1" pgmap="244">A jury convicted appel­lant, Lonnie Keys, of two counts of sexual abuse and he was sentenced to six years in prison for each offense to be served consecutively. On appeal, he argues that his case should have been dismissed for lack of a speedy trial. We find his arguments unpersuasive and affirm.</p>
+                <p id="b244-9" pgmap="244">On January 26, 1984, appellant was a guest in the home of a couple who had two boys, ages five and eight. When the children were ready for bed, appellant said he wanted to tuck them in and spent several minutes alone with them. Three days later the boys told their parents that appellant had had sexual contact with them. They said he had threatened them the night of the incident, and they had been afraid to tell anyone. The boys’ stepfather immediately took the children to the Faulkner County Sheriff’s Office, where statements were taken from them. The next day the stepfather went to the appellant’s residence looking for him, but he was told that appellant had moved. The prosecuting attorney filed felony informations against appellant on March 21, 1984, and a bench warrant was issued for appellant’s arrest. He was not located until October 1986, when the victims’ mother learned that appellant was working at a mission in Saline County. She contacted the Faulkner County Sheriff’s Office, and appellant was arrested on October 15, 1986. He was tried on March 30, 1987 — three years and nine days after charges were filed against him and five and one-half months after his arrest.</p>
+                <p id="b244-10" pgmap="244(99) 245(205)">In a pretrial hearing, appellant contended that the charges against him should be discharged under Ark. R. Crim. P. Rules 27-30 because he was not brought to trial within eighteen months from the date charges were filed against him. Appellant con­tended he had never been “on the run” from authorities and that the sheriff’s office had failed to diligently try to locate him and he gave an account of his whereabouts. The day after the incident, he had gone to the state hospital at Benton, then been transferred to the Fort Roots Veterans Administration Hospital at North Little Rock where he was treated for alcohol abuse. On release, he spent time at a halfway house, then underwent eye surgery at the Veterans Administration Hospital. Following that, he lived at the Union Rescue Mission in Little Rock until June 1985, when he went to the Evangel Community Church in Little Rock as superintendent. In August 1985, appellant started a weekly radio ministry which eventually was picked up by a large Little Rock radio station, and used his own name over the airways. At this point, appellant left Little Rock to work as superintendent of the New Pathway Mission in Benton. Advertisements for the mission were run in the local newspaper, some using appellant’s photo­graph for promotion. For the state, deputies testified that they had tried to locate appellant and expected him to “surface” eventually in Faulkner County. They did not question his former wife because they did not know she was living in the county. The prosecutor argued that even if the 18-month rule applied, Ark. R. Crim. P. Rule 28.3 excludes from the calculations the time when a defendant’s whereabouts are unknown. The circuit judge denied appellant’s motion for absolute discharge of the charges against him. From that decision, this appeal arises.</p>
+                <p id="b245-6" pgmap="245">
+                   Appellant argues he was denied his right to a speedy trial on the charges of sexual abuse. On October 1, 1987, certain changes became effective concerning the rules on speedy trials. In the Matter of Amendment of Arkansas Rules of Criminal Procedure, 293 Ark. 612. Those changes, however, do not affect this appeal. Speedy trial rules are procedural, so those in effect at the time of appellant’s trial will apply. See Jennings v. State, 276 Ark. 217, 633 S.W.2d 273 (1982). In appellant’s case, Rule 28.1(c) provides that a defendant charged in circuit court and released must be tried within eighteen months from the time provided in Rule 28.2. The date the charges are filed is the beginning for the calculation of the time for a speedy trial. Allen v. State, 294 Ark. 209, 742 S.W.2d 886 (1988). Once the accused has shown that the trial was held after the speedy trial period expired, the burden rests upon the state to show the delay was legally justified. Allen, supra. Ark. R. Crim. P. Rule 28.3 provides:</p>
+                <blockquote id="b245-7" pgmap="245">The following periods shall be excluded in computing the time for trial:</blockquote>
+                <blockquote id="b246-5" pgmap="246">(e) The period of delay resulting from the absence or unavailability of the defendant. A defendant shall be considered absent whenever his whereabouts are un­known. . .</blockquote>
+                <p id="b246-6" pgmap="246">In the present case, we agree with the state that appellant’s whereabouts were unknown. Furthermore, we find appellant’s arguments unpersuasive that the deputies failed to use due diligence in their investigation. Although it is unclear whether appellant’s name was entered in a nationwide law enforcement computer network, the record indicated that standard procedures were followed. As to the public nature of appellant’s ministry, it would be unreasonable to require law enforcement officers to monitor all radio programs and publications in the off chance that a missing suspect might be among the hosts of people employing those media. Appellant also cannot rely on Chandler v. State, 284 Ark. 560, 683 S.W.2d 928 (1985), in which the state failed to make a diligent effort to bring a defendant to trial. Chandler is a decision in which the delay was solely the fault of the state, and the case involved a defendant who had been arrested, released on bond, and whose new address was not properly relayed to circuit court. The present case differs. Appellant’s whereabouts could not be determined because he left Faulkner County, was treated at several institutions, and lived at several addresses. He could not be found by either the sheriff’s deputies or the family of the victims, but as soon as his whereabouts became known, he was arrested.</p>
+                <p id="b246-7" pgmap="246">
+                   For his final point for reversal, appellant contends that since the trial court did not set forth the excluded periods in a written order or docket entry pursuant to Ark. R. Crim. P. 28.3(i), those periods cannot be used against him. We find that argument unconvincing. Appellant relies on Shaw v. State, 18 Ark. App. 243, 712 S.W.2d 338 (1986). However, since appellant did not raise this issue below, he may not raise it on appeal. See Dean v. State, 293 Ark. 75, 732 S.W.2d 855 (1987). Accordingly, we affirm the judgment of the circuit court.</p>
+                <p id="b246-8" pgmap="246">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="243" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00122_0"/>
+        <fptr FILEID="jp2_00122_0"/>
+        <fptr FILEID="alto_00122_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.3" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="244" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00122_1"/>
+        <fptr FILEID="jp2_00122_1"/>
+        <fptr FILEID="alto_00122_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.2" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="245" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jp2_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="246" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.6" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.6" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.5" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.5" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.8" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP1" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.8" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_244.9" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.11" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_245.1" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.7" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.10" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.6" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.7" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.5" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.4" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A07" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.7" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.4" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.5" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.3" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.9" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

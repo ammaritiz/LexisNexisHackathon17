@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000674_0015" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wortham v. State">Clay WORTHAM v. STATE of Arkansas</name>
+          <docketnumber>CA CR 98-651</docketnumber>
+          <citation category="official" type="bluebook">65 Ark. App. 81</citation>
+          <citation category="parallel" type="bluebook">985 S.W.2d 329</citation>
+          <decisiondate>1999-02-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:03:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:01:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-26T13:11:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-26T13:12:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="ed2bacfbad84430353699ef9ff465a33" CHECKSUMTYPE="MD5" SIZE="8208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="a6b14f1754e4064a59ed73934f6f3fa8" CHECKSUMTYPE="MD5" SIZE="48504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="acf9ea5483cae4c2b45ff320470b0c1f" CHECKSUMTYPE="MD5" SIZE="47252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00053_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="12c0f3ba3e718d1896312d38b019f910" CHECKSUMTYPE="MD5" SIZE="1364487">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="18ab00dfcaac23f0aea16e7e957a1044" CHECKSUMTYPE="MD5" SIZE="2418602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="5206a0914af339e1b498b6bce5e0fdac" CHECKSUMTYPE="MD5" SIZE="2422802">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00053_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="1fb10da481eb5db2a602610548c7a201" CHECKSUMTYPE="MD5" SIZE="8231">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="8f6377b0462bf33b10a2fc34fbee594b" CHECKSUMTYPE="MD5" SIZE="77683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="0ec09336f28e3d2db039f8483b7ccf22" CHECKSUMTYPE="MD5" SIZE="79924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00053_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0015" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="81" lastpage="83">
+              <court pgmap="103" id="b103-4">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="103" id="Aqk">CA CR 98-651</docketnumber>
+              <citation pgmap="103" id="AWl">985 S.W.2d 329</citation>
+              <parties pgmap="103" id="b103-3">Clay WORTHAM v. STATE of Arkansas</parties>
+              <decisiondate pgmap="103" id="b103-5">Opinion delivered February 3, 1999</decisiondate>
+              <judges pgmap="105" id="b105-7">Rogers and Roaf, JJ., agree.</judges>
+              <attorneys pgmap="104" id="b104-4">L. Howard Schwander III, for appellant.</attorneys>
+              <attorneys pgmap="104" id="b104-5">Winston Bryant, Att’y Gen., by: Mac Golden, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="104" id="Axj">Terry Crabtree, Judge.</author>
+                <p pgmap="104" id="A8f">The Pulaski County Circuit Court found the appellant, Clay Wortham, guilty of driving while intoxicated, third offense, speeding, and driving on a license suspended for DWI. Appellant received a sentence of 180 days’ incarceration, a $2,000 fine, and a driver’s license sus­pension of thirty months. On appeal, appellant challenges the suf­ficiency of the evidence supporting his DWI conviction. We affirm.</p>
+                <p pgmap="104" id="b104-7">
+                   The test in determining the sufficiency of the evidence is whether there is substantial evidence to support the verdict. Sanford v. State, 331 Ark. 334, 962 S.W.2d335 (1998). Substantial evidence is direct or circumstantial evidence that is forceful enough to compel a conclusion one way or another and which goes beyond mere speculation or conjecture. Britt v. State, 334 Ark. 142, 974 S.W.2d 436 (1998). In making this determination, we review the evidence in the light most favorable to the State, and consider evidence both properly and improperly admitted. Id.</p>
+                <p pgmap="104" id="b104-8">Substantial evidence supports appellant’s conviction for DWI, third offense. At trial, two police officers testified in detail about appellant’s behavior, and both indicated that they believed that appellant was intoxicated. Appellant argues that because the police faded to administer a chemical analysis or field sobriety test, the state could not meet its burden of proof demonstrating that appellant was intoxicated.</p>
+                <p pgmap="104" id="b104-9">Police officers’ observations may constitute competent evi­dence supporting a DWI charge. State v. Johnson, 326 Ark. 189, 931 S.W.2d 760 (1996); Gavin v. State, 309 Ark. 158, 827 S.W.2d 161 (1992). While the officers’ observations are “subjective” evi­dence, it was the province of the trial court to determine the weight and credibility of this evidence. Jones v. State, 305 Ark. 95, 805 S.W.2d 642 (1991).</p>
+                <p pgmap="104(22) 105(175)" id="b104-10">
+                   We find it necessary to distinguish the present case from Stivers v. State, 64 Ark. App. 113, 978 S.W.2d 749 (1998). In Stivers, our court reversed a trial court’s conviction for a fourth-­offense DWI and held that the only evidence to support the con­viction was the fact that a one car accident had occurred and that the defendant smelled of intoxicants. In that decision, the court noted that while the defendant was unresponsive to police officers, it was reasonable for the trial court to infer that the defendant’s injuries, and not intoxication, caused his impaired response. In Ryan v. State, 30 Ark. App. 196, 786 S.W.2d 835 (1990), this court upheld a DWI conviction where the evidence included not only the defendant’s strong odor of intoxicants, but also the defendant’s slurred speech. In the case at bar, the police officers testified about their firsthand observations that appellant smelled of intoxicants, slurred his speech, periodically lost his balance, and weaved in and out of traffic, almost rear-ending another vehicle. Furthermore, these events did not take place in the aftermath of an automobile accident, and injuries could not explain away appellant’s slurred speech or loss of balance.</p>
+                <p pgmap="105" id="b105-5">
+                   A DWI conviction is not dependent upon evidence of blood-alcohol content in view of sufficient other evidence of intoxication. Tauber v. State, 324 Ark. 47, 919 S.W.2d 196 (1996). Our legislature has provided two different ways of proving a DWI violation. See Ark. Code Ann. § 5-65-103 (a) and (b) (Repl. 1997). A person can be found guilty of the offense if he or she (1) operates a motor vehicle while intoxicated; or (2) operates a motor vehicle while having a blood-alcohol content of .10 percent or more. Tauber, supra. Here, the trial court relied on the officers’ testimony. On matters of credibility of witnesses, our supreme court has repeatedly held that the determination of those issues is left to the trier of fact. Galvin v. State, 323 Ark. 125, 912 S.W.2d 932 (1996); Wilson v. State, 320 Ark. 707, 898 S.W.2d 469 (1995). In this instance, the State offered sufficient proof of appellant’s intoxication.</p>
+                <p pgmap="105" id="b105-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="103" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-10" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.11" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqk" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.4" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWl" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-3" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.3" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.8" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.10" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.9" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8f" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.6" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_104.7" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axj" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

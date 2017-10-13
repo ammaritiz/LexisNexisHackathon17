@@ -1,0 +1,642 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000721_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Holloway v. State">Curtis Lee HOLLOWAY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 85-200</docketnumber>
+          <citation category="official" type="bluebook">18 Ark. App. 136</citation>
+          <citation category="parallel" type="bluebook">711 S.W.2d 484</citation>
+          <decisiondate>1986-06-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:14:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:50:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:34:36Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:35:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="2ff6bd0b8355ebba3d29c835f207891f" CHECKSUMTYPE="MD5" SIZE="7308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="2425b198ede2bf65a171894c944a5e71" CHECKSUMTYPE="MD5" SIZE="28344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="6a09f2d63ee750d9408fa1dde7d589df" CHECKSUMTYPE="MD5" SIZE="52214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00079_1.tif"/>
+      </file>
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="761b4876195248024009404c7dc4ff62" CHECKSUMTYPE="MD5" SIZE="52078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="896811b8732b6078173540fed81b31f1" CHECKSUMTYPE="MD5" SIZE="57604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="aa899a2243150baf5c212a8f7d4c8ae8" CHECKSUMTYPE="MD5" SIZE="49372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00081_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="8617292c3ffa057cf4c0d5c0f76ca4ed" CHECKSUMTYPE="MD5" SIZE="1284178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="ee3262697955dc762065a0dd64415b4b" CHECKSUMTYPE="MD5" SIZE="1848597">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00079_0.jp2"/>
+      </file>
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="335141f45fc905f819b3d1550f311791" CHECKSUMTYPE="MD5" SIZE="2572952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00079_1.jp2"/>
+      </file>
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="6919aaff8ee6e24b97841a179baa99fe" CHECKSUMTYPE="MD5" SIZE="2593052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="a5ec98ba6f3b56b0705f60c8fac8dc75" CHECKSUMTYPE="MD5" SIZE="2666860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="49ea5caf322c5d0d42ec7e9f632a68aa" CHECKSUMTYPE="MD5" SIZE="2608873">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00081_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="8ef8b94e15b5cd59bf37d41279df55e1" CHECKSUMTYPE="MD5" SIZE="8415">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="5584fd7db8dde04aa2a8e28929255938" CHECKSUMTYPE="MD5" SIZE="45814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00079_0.xml"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="cd17875d3383c8cd7f76e410f055233c" CHECKSUMTYPE="MD5" SIZE="87037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00079_1.xml"/>
+      </file>
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="c437f8077fbe41c2eb7cb83140458a29" CHECKSUMTYPE="MD5" SIZE="83244">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="6139768450050d06978bd8f931a5dd85" CHECKSUMTYPE="MD5" SIZE="97872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="acef6cfe0144c7799b03eb4480e4f961" CHECKSUMTYPE="MD5" SIZE="87042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00081_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="136" lastpage="141">
+              <court pgmap="156" id="b156-5">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber pgmap="156" id="b156-4">CA CR 85-200</docketnumber>
+              <citation pgmap="156" id="AYj">711 S.W.2d 484</citation>
+              <parties pgmap="156" id="b156-3">Curtis Lee HOLLOWAY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="156" id="b156-6">Opinion delivered June 25, 1986</decisiondate>
+              <judges pgmap="161" id="b161-7">Corbin, J., concurs.</judges>
+              <judges pgmap="161" id="b161-8">Cracraft, C.J., and Glaze, J., dissent.</judges>
+              <attorneys pgmap="157" id="b157-10">William R. Simpson, Jr., Public Defender, and Thomas J. O’Hern, Deputy Public Defender, by: Thomas B. Devine, III, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="157" id="b157-11">Steve Clark, Att’y Gen., by: Connie Griffin, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="157" id="b157-12">Melvin Mayfield, Judge.</author>
+                <p pgmap="157" id="ALQ">Appellant was convicted of aggravated assault and sentenced to a term of five years in the Arkansas Department of Correction. On appeal, he argues that the trial court committed reversible error in refusing to instruct the jury on the lesser included offenses of assault.</p>
+                <p pgmap="157(103) 158(78)" id="b157-13">On July 2, 1984, Mary Hatfield and Cheryl Bolin were working in North Little Rock at the Showbiz Pizza Place, across the highway from McCain Mall. At approximately 1:30 p.m., they came out of their place of employment to go to the bank. Mary, who was driving Cheryl’s car because Cheryl had hurt her back, came out first to start the car and turn on the air conditioner. As she reached over to roll down the window on the passenger’s side, a man approached on that side and asked for a ride to McCain Mall. Mary refused and he stepped aside to let Cheryl enter the car, but again asked for a ride to McCain Mall. When Cheryl said she was sorry but “I don’t give anyone a ride,” the man pulled a gun and stuck it in the car through the open window. Cheryl grabbed the man’s arm and started beating it against the window. As Mary began to scream, Cheryl quickly opened the car door knocking the man down on one knee, but he jumped up and ran away.</p>
+                <p pgmap="158" id="b158-6">The police were called and were given a description of the man. About two weeks later, Mary and Cheryl recognized the appellant sitting in a car in a Jacksonville shopping center. They took the license number of the car and notified the police. Later that evening, the appellant was arrested at his home.</p>
+                <p pgmap="158" id="b158-7">At trial, the appellant’s defense was that he had been mowing his mother’s yard at the time this assault had occurred, and had then mowed a neighbor’s yard. He testified he could remember the specific date because they were having a family reunion on July 4 and were cleaning the house and yard in preparation for expected out-of-town company. Appellant’s mother, sister, and brother corroborated his alibi.</p>
+                <p pgmap="158" id="b158-8">
+                   The appellant’s only argument on appeal is that the trial judge erred in refusing to give the requested jury instructions on first, second, and third degree assault as lesser included offenses of aggravated assault. A lesser included offense is one that is established by proof of the same or less than all the elements required to establish the commission of the offense charged. Ark. Stat. Ann. § 41-105(2)(a) (Repl. 1977). Aggra­vated assault is defined by Ark. Stat. Ann. § 41-1604 (Repl. 1977) as follows:</p>
+                <blockquote pgmap="158" id="b158-9">(1) A person commits aggravated assault if, under circum­stances manifesting extreme indifference to the value of human life, he purposely engages in conduct that creates a substantial danger of death or serious physical injury to another person.</blockquote>
+                <p pgmap="158" id="b158-10">Arkansas Stat. Ann. § 41 -1605 (Repl. 1977) defines assault in the first degree in this language:</p>
+                <blockquote pgmap="158" id="b158-11">(1) A person commits assault in the first degree if he recklessly engages in conduct which creates a substantial risk of death or serious physical injury to another person.</blockquote>
+                <p pgmap="159" id="b159-5">Ark. Stat. Ann. § 41-1606 (Repl. 1977) defines assault in the second degree in these words:</p>
+                <blockquote pgmap="159" id="b159-6">(1) A person commits assault in the second degree if he recklessly engages in conduct which creates a substantial risk of physical injury to another person.</blockquote>
+                <p pgmap="159" id="b159-7">and, Ark. Stat. Ann. § 41-1607 (Repl. 1977) provides:</p>
+                <blockquote pgmap="159" id="b159-8">(1) A person commits assault in the third degree if he purposely creates apprehension of imminent physical in­jury in another person.</blockquote>
+                <p pgmap="159" id="b159-9">
+                   The Arkansas appellate courts have consistently held that a trial court commits reversible error when it refuses to give a correct instruction on a lesser included offense when there is evidence furnishing a reasonable or rational basis on which the defendant might be found guilty of the lesser offense rather than the greater offense. Moore &amp; Jones v. State, 280 Ark. 222, 656 S.W.2d 698 (1983); CatOn &amp; Headley v. State, 252 Ark. 420, 479 S.W.2d 537 (1972); and Bongfeldt v. State, 6 Ark. App. 102, 639 S.W.2d 70 (1982).</p>
+                <p pgmap="159" id="b159-10">
+                   It can readily be seen from the above definitions of the various degrees of assault that first and second degree assault is committed by engaging in reckless conduct. We do not think there is any reasonable or rational basis on which the assailant’s conduct in this case could be considered reckless. If the State’s witnesses established an assault, their testimony also established that it was purposely committed. However, the statute on third degree assault requires purposeful conduct. Thus, we believe the court was correct in refusing to instruct on first and second degree assault, but we think it was error to refuse to instruct on assault in the third degree.</p>
+                <p pgmap="159" id="b159-11">The State argues that the trial court was correct in refusing to instruct on any lesser degree of assault. Pointing out that the appellant’s defense was an alibi, the State cites Roberts v. State, 281 Ark. 218, 663 S.W.2d 178 (1984), and contends that it is authority for the State’s contention that no lesser included offense was involved because the appellant offered no evidence to disprove any of the elements of the charge of aggravated assault. This presents two considerations.</p>
+                <p pgmap="160" id="b160-5">
+                   In the first place, there was no direct evidence that the gun used in the assault was loaded. The statute defining aggra­vated assault requires that the accused engage in conduct “that creates a substantial danger of death or serious physical injury to another person.” The commentary to the statute states that it is unique to the Arkansas Criminal Code. It is not based upon the use of a deadly weapon or the creation of fear, but requires the creation of substantial danger. However, we think the jury could have found, under the evidence in this case, that an aggravated assault was committed even though there was no direct evidence that the gun was loaded. In a recent case, the Supreme Court of the United States said:</p>
+                <blockquote pgmap="160" id="b160-6">In addition, the display of a gun instills fear in the average citizen; as a consequence, it creates an immediate danger that a violent response will ensue. Finally, a gun can cause harm when used as a bludgeon.</blockquote>
+                <p pgmap="160" id="b160-7">McLaughlin v. United States, 106 S. Ct. 1677 (1986). Further­more, although the Due Process Clause of the Fourteenth Amendment requires that the prosecution prove beyond a reason­able doubt every element of the crime charged, Norton v. State, 271 Ark. 451, 609 S.W.2d 1 (1980), a permissive inference does not violate the clause if it is one that reason and common sense justify in light of the evidence before the jury. Francis v. Franklin, 105 S. Ct. 1965 (1985); see also Ward v. State, 8 Ark. App. 209, 649 S.W.2d 849 (1983); cf. Mason v. State, 285 Ark. 479, 688 S.W.2d 299 (1985). Thus, we think it was permissible for the jury to infer, from the evidence in the instant case, that the gun was loaded. See Randall v. United States, 215 F.2d 587 (9th Cir. 1954); Gilbert v. State, 347 So. 2d 1087 (Fla. App. 1977).</p>
+                <p pgmap="160(104) 161(117)" id="b160-8">
+                   Therefore, we think there was evidence from which the jury could find the appellant guilty of aggravated assault; however, our second consideration requires us to hold that the court erred in failing to give appellant’s requested jury instruction on the lesser included offense of assault in the third degree. In Caton &amp; Headley v. State, supra, the court said: “We have consistently held that a trial court commits reversible error when it refuses to give a correct instruction defining a lesser included offense and its punishment when there is testimony on which the defendant might be found guilty of the lesser rather than the greater offense.” 252 Ark. at 425. If the jury in the present case could have found that the gun was loaded, it could have also found the gun was not loaded. And if the jury could have found that the display of the gun created an immediate danger that a violent response would ensue and result in the use of the gun as a bludgeon, the jury could have found that the appellant created a substantial danger of death or serious physical injury so as to constitute aggravated assault or the jury could have found that the display of the gun only created apprehension of immediate physical injury so as to constitute assault in the third degree.</p>
+                <p pgmap="161" id="b161-6">The judgment of conviction is reversed and the case is remanded for a new trial.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="161" id="b161-9">George K. Cracraft, Chief Judge,</author>
+                <p pgmap="161" id="AgO">dissenting. I respect­fully dissent. I agree that the trial court commits error if it refuses to give a correct instruction on a lesser included offense where there is evidence furnishing a reasonable or rational basis on which the defendant might be found guilty of the lesser offense rather than the greater one. It is obvious from the facts in this case that the appellant’s motivation in pulling the gun on the occu­pants of the vehicle was to steal the money being taken to the bank, the vehicle, or both. A jury is not required to set aside its common knowledge but may consider the evidence presented in the light of its own observations, common sense, and experiences in everyday life. Rogers v. Stillman, 223 Ark. 779, 268 S.W.2d 614 (1954); AMCI 103. In reaching its verdict the jury can consider not only the evidence presented but all reasonable inferences flowing from it. Under the circumstances of this case there was more than a reasonable and rational basis for an inference that the pistol was loaded. In the absence of any evidence even suggesting that the pistol was not loaded I cannot perceive any rational basis for a finding that it was not. I would affirm.</p>
+                <p pgmap="161" id="b161-10">I am authorized to state that Glaze, J., joins in this dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="156" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.2" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.2" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="159" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.2" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.1" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-13" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.13" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_158.1" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-12" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.10" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.9" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.8" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYj" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgO" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.8" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_161.9" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALQ" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.11" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_157.12" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.5" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.3" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.6" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.7" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.5" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.7" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.6" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.7" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.3" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.4" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.9" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.8" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.10" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.6" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.8" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.9" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000701_0013" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Gardner v. Robinson">Robert L. GARDNER and Betty Ann Gardner v. Joe ROBINSON, Sr.</name>
+          <docketnumber>CA 92-885</docketnumber>
+          <citation category="official" type="bluebook">42 Ark. App. 90</citation>
+          <citation category="parallel" type="bluebook">854 S.W.2d 356</citation>
+          <decisiondate>1993-05-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:20:01Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-20T08:30:17Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-20T08:31:05Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="cf7f8e510b281c3635e977c429d9346f" CHECKSUMTYPE="MD5" SIZE="7418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00056_1.tif"/>
+      </file>
+      <file ID="tiff_00057_0" MIMETYPE="image/tiff" CHECKSUM="59728e21006c999947950ea043718fe2" CHECKSUMTYPE="MD5" SIZE="45308">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00057_0.tif"/>
+      </file>
+      <file ID="tiff_00057_1" MIMETYPE="image/tiff" CHECKSUM="059b665fa35bbb3ed05ad08e9a8d7d7b" CHECKSUMTYPE="MD5" SIZE="56816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00057_1.tif"/>
+      </file>
+      <file ID="tiff_00058_0" MIMETYPE="image/tiff" CHECKSUM="34d15b75a4c0d749cbd9b1da46d4d881" CHECKSUMTYPE="MD5" SIZE="55230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00058_0.tif"/>
+      </file>
+      <file ID="tiff_00058_1" MIMETYPE="image/tiff" CHECKSUM="a99b997cab6fc9015e45b8e91501083c" CHECKSUMTYPE="MD5" SIZE="31832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00058_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="9ea7a3ff1f3855dbf11087c5ee104650" CHECKSUMTYPE="MD5" SIZE="1347845">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00056_1.jp2"/>
+      </file>
+      <file ID="jp2_00057_0" MIMETYPE="image/jp2" CHECKSUM="341943ddd7323a73c33598eac2261f07" CHECKSUMTYPE="MD5" SIZE="2487417">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00057_0.jp2"/>
+      </file>
+      <file ID="jp2_00057_1" MIMETYPE="image/jp2" CHECKSUM="b7ac9146d36bc3779740d9ba0e637578" CHECKSUMTYPE="MD5" SIZE="2680258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00057_1.jp2"/>
+      </file>
+      <file ID="jp2_00058_0" MIMETYPE="image/jp2" CHECKSUM="b34fa65e7e896c8452afb753dd2fc776" CHECKSUMTYPE="MD5" SIZE="2696875">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00058_0.jp2"/>
+      </file>
+      <file ID="jp2_00058_1" MIMETYPE="image/jp2" CHECKSUM="31194e10aeadf0bc48de7cc426dbee0d" CHECKSUMTYPE="MD5" SIZE="2446533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00058_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="684979f5447828bf84b769b0a99a39da" CHECKSUMTYPE="MD5" SIZE="9057">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00056_1.xml"/>
+      </file>
+      <file ID="alto_00057_0" MIMETYPE="text/xml" CHECKSUM="63ddf892395661942f2ddea4e846f827" CHECKSUMTYPE="MD5" SIZE="70005">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00057_0.xml"/>
+      </file>
+      <file ID="alto_00057_1" MIMETYPE="text/xml" CHECKSUM="83194a4d24ea899a5e1fe31b236b6a51" CHECKSUMTYPE="MD5" SIZE="92705">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00057_1.xml"/>
+      </file>
+      <file ID="alto_00058_0" MIMETYPE="text/xml" CHECKSUM="1a254efdb3a0bf54c433386d9c5a6623" CHECKSUMTYPE="MD5" SIZE="87448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00058_0.xml"/>
+      </file>
+      <file ID="alto_00058_1" MIMETYPE="text/xml" CHECKSUM="44344fbe11a1b35a074eefbe29949a92" CHECKSUMTYPE="MD5" SIZE="51901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00058_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="94" firstpage="90">
+              <court pgmap="112" id="b112-5">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="112" id="b112-4">CA 92-885</docketnumber>
+              <citation pgmap="112" id="A6L">854 S.W.2d 356</citation>
+              <parties pgmap="112" id="b112-3">Robert L. GARDNER and Betty Ann Gardner v. Joe ROBINSON, Sr.</parties>
+              <decisiondate pgmap="112" id="b112-6">Opinion delivered May 26, 1993</decisiondate>
+              <judges pgmap="116" id="b116-7">Pittman, J., agrees.</judges>
+              <judges pgmap="116" id="b116-8">Robbins, J., concurs.</judges>
+              <attorneys pgmap="113" id="b113-7">Hartsfield, Mixon, Almand &amp; Grisham, by: Audrianna Grisham, for appellants.</attorneys>
+              <attorneys pgmap="113" id="b113-8">Gerald W. Carlyle, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="113" id="b113-9">Judith Rogers, Judge.</author>
+                <p pgmap="113" id="AzC">Robert and Betty Ann Gardner appeal from a decree granting their request for quiet title but denying their claim for damages for conversion. On appeal, appellants contend that the chancellor erred in refusing to award damages for conversion. We find merit in their argument and reverse.</p>
+                <p pgmap="113" id="b113-10">On June 12, 1991, appellants filed a complaint in the chancery court seeking to quiet title in certain property located in Jackson County. Appellants alleged ownership of the described property by virtue of a warranty deed which was attached as an exhibit to the complaint. Appellants also averred that appellee claimed ownership of this property and that he had removed valuable stone from the land. For the extraction of the stone, appellants claimed entitlement to damages in conversion and also treble damages pursuant to Ark. Code Ann. § 18-60-102(a) (1987). Appellee filed an untimely answer to the complaint.</p>
+                <p pgmap="113" id="b113-11">At the outset of the hearing, appellants’ counsel informed the chancellor that appellee was in default due to the lateness of his answer, and asserted that the only matter at issue was the amount of damages to be awarded appellants for the conversion of the stone. Appellee acknowledged that his response to the complaint was untimely and no excuse was offered for the lateness of his answer.</p>
+                <p pgmap="113(60) 114(94)" id="b113-12">On the question of damages, appellant presented the testi­mony of Arno Shuman. Mr. Shuman testified that in the spring of 1991, appellee approached him with the idea of removing stone from the property. According to Shuman, it was agreed that Shuman and his sons would provide the labor, while appellee would supply the fuel and necessary equipment. Shuman stated that he and his sons removed ten truckloads of stone, which was sold to a man in Mississippi at $200 a load, for a total of $2,000. He said that he and appellee split the profits. Shuman further testified that the land had the appearance of a mining company having gone through it and that appellee related that he had removed twenty-five to thirty loads of stone from the land on previous occasions. Shuman also said that appellee advised him that there existed a controversy with appellants over the owner­ship of the land.</p>
+                <p pgmap="114" id="b114-6">In his testimony, appellee stated that Mr. Shuman ap­proached him about removing stone from land owned by one of Shuman’s relatives. He testified that he did provide equipment for a share of the proceeds, but he denied having directed Shuman to the location from which the stone was to be taken.</p>
+                <p pgmap="114" id="b114-7">Over appellants’ objection, the chancellor allowed appellee’s witness, Dewayne Jones, to testify that he owned the land from which the stone was removed. In overruling appellants’ objection, the chancellor commented that “[d]amages goes to what was taken from the land, and they’re entitled to have a defense whether it was taken from this land or somebody else’s land.” At the conclusion of the hearing, the chancellor took the case under advisement, and later issued an order quieting title to the described property in appellants, but declining to award damages for conversion of the stone.</p>
+                <p pgmap="114" id="b114-8">In this appeal, appellants argue that the chancellor erred in considering the testimony which was offered to circumvent the allegations in the complaint. They contend that the averments in the complaint were admitted by the default and thus were not open for contest. Based on the allegations in the complaint and the proof submitted, appellants maintain that they were entitled to recover damages for the conversion of the stone.</p>
+                <p pgmap="114(85) 115(84)" id="b114-9">
+                   The general rule is that in an inquiry of damages upon default, all of the plaintiffs material allegations are to be taken as true, and the determination of the amount of the damages to be awarded is all that remains to be done. Clark v. Collins, 213 Ark. 386, 210 S.W.2d 505 (1948). The plaintiff, of course, must introduce evidence to support any judgment for damages, in excess of nominal damages. Kohlenberger v. Tyson’s Foods, Inc., 256 Ark. 584, 510 S.W.2d 555 (1974). Although he is entitled to offer proof in mitigation of damages, a defaulting defendant may not controvert the plaintiffs right to recover as the default fixes the defendant’s liability on the plaintiffs cause of action. See id. See also e.g. Ferri v. Braun, 236 Ark. 329, 366 S.W.2d 286 (1963); Mizell v. McDonald, 25 Ark. 38 (1867); Thompson v. Haislip, 14 Ark. 220 (1853). As was more recently said by our supreme court in B&amp;F Engineering, Inc. v. Controneo, 309 Ark. 175, 830 S.W.2d 835 (1992):</p>
+                <blockquote pgmap="115" id="b115-4">Under the Arkansas Rules of Civil Procedure a default judgment establishes liability but not the extent of dam­ages. Proof is still required to establish the amount of damages except in suits in which a verified account has been submitted. After default the defendant has the right to cross-examine the plaintiffs witnesses, to introduce evidence in mitigation of damages, and to question on appeal the sufficiency of the evidence to support the amount of damages awarded. The defaulting defendant may not introduce evidence to defeat the plaintiff’s cause of action.</blockquote>
+                <p pgmap="115" id="b115-5">Id. at 181, 830 S.W.2d at 838-39 (citation omitted).</p>
+                <p pgmap="115" id="b115-6">
+                   Conversion is a common law tort action for the wrongful possession or disposition of another’s property. France v. Nelson, 292 Ark. 219, 729 S.W.2d 161 (1987). In order to maintain an action to recover damages for the conversion of property, the plaintiff must show title in the property so wrong­fully taken or converted. Passwater Chevrolet Co. v. Whitten, 178 Ark. 136, 9 S.W. 1057 (1928). Here, the appellee’s liability for conversion was settled by the default. By failing to submit a timely answer, the appellee admitted the allegations in the complaint that appellants owned the property and that the stone was removed from the land in question. Under the authorities, proof to the contrary was not competent to defeat appellant’s cause of action. From the record, it appears that the chancellor was influenced by the testimony which was designed to avoid appellee’s liability. We, therefore, remand this case to the chancery court for the chancellor to determine the issue of damages on the record already made.</p>
+                <p pgmap="115(20) 116(62)" id="b115-7">
+                   For purposes of remanding, however, we point out that we do not agree with appellants’ contention that they may recover treble damages for the removal of the stone pursuant to Ark. Code Ann. § 18-60-102(a) (1987). By proceeding in equity, rather than at law, appellants waived the consideration of an award of treble damages under the statute, as courts of equity will not aid in the enforcement of penalties. See Augusta Cooperage Co. v. Bloch, 153 Ark. 133, 239 S.W. 760 (1922).</p>
+                <p pgmap="116" id="b116-6">Reversed and remanded.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="116" id="b116-9">John B. Robbins, Judge,</author>
+                <p pgmap="116" id="Aq9">concurring. I concur with the majority’s decision and the rationale set forth in its opinion. I would add, however, that except in a case involving a verified statement of account as provided in Ark. Code Ann. § 16-45-104 (1987), a plaintiff who is entitled to judgment by default must prove his damages with no less certainty than a plaintiff who contends against a non-defaulting defendant. See Ark. R. Civ. P. 55(b) and Rice v. Kroeck, 2 Ark. App. 223, 619 S.W.2d 691 (1981). I do not understand this reversal and remand to constitute a determination by this court that appellants have proven their damages with sufficient certainty, only that the trial court must make such determination without regard to the testimony of Dewayne Jones, who testified that he owned the land from which the stone was removed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="112" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.1" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="113" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00057_0"/>
+        <fptr FILEID="jp2_00057_0"/>
+        <fptr FILEID="alto_00057_0"/>
+      </div>
+      <div ORDER="114" ORDERLABEL="92" TYPE="page">
+        <fptr FILEID="tiff_00057_1"/>
+        <fptr FILEID="jp2_00057_1"/>
+        <fptr FILEID="alto_00057_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.2" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="115" ORDERLABEL="93" TYPE="page">
+        <fptr FILEID="tiff_00058_0"/>
+        <fptr FILEID="jp2_00058_0"/>
+        <fptr FILEID="alto_00058_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.3" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="116" ORDERLABEL="94" TYPE="page">
+        <fptr FILEID="tiff_00058_1"/>
+        <fptr FILEID="jp2_00058_1"/>
+        <fptr FILEID="alto_00058_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.2" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.14" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_114.1" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.13" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.12" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.8" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            <area BEGIN="BL_116.9" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.7" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-3" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.3" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.6" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.7" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.6" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.7" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            <area BEGIN="BL_115.1" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.9" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.8" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.5" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.7" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            <area BEGIN="BL_116.1" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.6" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.5" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.4" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzC" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.10" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_113.11" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.4" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.7" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6L" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.5" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.4" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.6" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.5" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

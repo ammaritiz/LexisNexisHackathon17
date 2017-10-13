@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000703_0018" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hutcherson v. State">Willie HUTCHERSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 90-191</docketnumber>
+          <citation category="official" type="bluebook">34 Ark. App. 113</citation>
+          <citation category="parallel" type="bluebook">806 S.W.2d 29</citation>
+          <decisiondate>1991-03-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:59:44Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:32:18Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:33:15Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="4e5b2a9477f6833ac03f2bdfdbbe9874" CHECKSUMTYPE="MD5" SIZE="34344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="64ea00d7b98be88b004eab7b12f1900c" CHECKSUMTYPE="MD5" SIZE="57934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="7598501827e8dd95e84d597613cbd949" CHECKSUMTYPE="MD5" SIZE="60264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="a6a4f8b4e21fd1994761c84d51eb389e" CHECKSUMTYPE="MD5" SIZE="55208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="b2de357c93358b8a944665b4bc1e5d10" CHECKSUMTYPE="MD5" SIZE="55180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="77a4d9b5e8b346fb1fc92ded93473ad2" CHECKSUMTYPE="MD5" SIZE="12796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00072_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="0dd10ee5cc33d0401b9987814ecf0334" CHECKSUMTYPE="MD5" SIZE="2180175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="37aa0b821d3ad09aac50c33865e855ba" CHECKSUMTYPE="MD5" SIZE="2640336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="8ace04315bdf4e8816897ffff3e5172f" CHECKSUMTYPE="MD5" SIZE="2695813">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="edc768729f7993e6051263820bf012fd" CHECKSUMTYPE="MD5" SIZE="2646562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="73ba56e5d720ca3953660afd8e0bd113" CHECKSUMTYPE="MD5" SIZE="2641818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="bd122fb5aa14a5f50a2151fef0e44495" CHECKSUMTYPE="MD5" SIZE="1704833">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000703_00072_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="5781ccbe957e2bf20ef5edb2a552422c" CHECKSUMTYPE="MD5" SIZE="53339">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000703_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="98d4626d150fb38ba47d5625057d5d00" CHECKSUMTYPE="MD5" SIZE="91295">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000703_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="339f25423ff58be5518bfea4b438c815" CHECKSUMTYPE="MD5" SIZE="99698">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000703_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="6093566a714f4c629578e22caa0ac4be" CHECKSUMTYPE="MD5" SIZE="92089">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000703_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="e365321e408094f1d06d94892d6a4ab1" CHECKSUMTYPE="MD5" SIZE="91157">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000703_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="a7c0e9c476e0483496658ec502a4f785" CHECKSUMTYPE="MD5" SIZE="18052">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000703_redacted_ALTO_00072_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="118" firstpage="113">
+              <court pgmap="139" id="b139-4">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="139" id="Apk">CA CR 90-191</docketnumber>
+              <citation pgmap="139" id="Aoz">806 S.W.2d 29</citation>
+              <parties pgmap="139" id="b139-3">Willie HUTCHERSON v. STATE of Arkansas</parties>
+              <decisiondate pgmap="139" id="b139-5">Opinion delivered March 27, 1991</decisiondate>
+              <judges pgmap="144" id="b144-7">Mayfield and Cooper, JJ., agree.</judges>
+              <attorneys pgmap="139" id="b139-8">William R. Simpson, Jr., Public Defender, Thomas B. Devine III, Deputy Public Defender, by: Didi H. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="139" id="b139-9">Steve Clark, Att’y Gen., by: R.B. Friedlander, Solicitor Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="139" id="b139-10">Judith Rogers, Judge.</author>
+                <p pgmap="139(153) 140(12)" id="AGJ">This appeal arose from an incident occurring at Central High School in Little Rock, Arkansas. The appellant was charged by felony information on February 1, 1990, with the following offenses: battery in the first degree, Ark. Code Ann. § 5-13-201 (Supp. 1989); burglary, Ark. Code Ann. § 5-39-201 (1987); possession of a controlled substance (co­caine), Ark. Code Ann. § 5-64-401 (1987); and carrying a weapon, Ark. Code Ann. § 5-73-120 (Supp. 1989). By agreement of the parties and upon approval of the court at an omnibus hearing, the battery and burglary offenses, which are the subject of this appeal, were severed from the other charges. At trial on March 21,1990, the jury returned verdicts of guilt for first degree battery and burglary, imposing sentences of twenty and ten years, respectively. As his sole point for reversal, the appellant argues that the trial court erred in failing to grant his motions for a directed verdict. Finding no error in the trial court’s decision, we affirm.</p>
+                <p pgmap="140" id="b140-6">A motion for a directed verdict is a challenge to the sufficiency of the evidence. Salley v. State, 303 Ark. 278, 796 S.W.2d 335 (1990). In a challenge to the sufficiency of the evidence, the appellate court reviews the evidence in the light most favorable to the appellee and sustains the conviction if there is any substantial evidence to support it. See Abdullah v. State, 301 Ark. 235, 783 S.W.2d 58 (1990). Evidence is substantial if it is of sufficient force and character to compel reasonable minds to reach a conclusion and pass beyond suspicion and conjecture. Williams v. State, 298 Ark. 484, 768 S.W.2d 539 (1989). In reviewing the sufficiency of the evidence, we need only consider evidence in support of the conviction. Id. The fact that evidence is circumstantial does not render it insubstantial. Small v. State, 5 Ark. App. 87, 632 S.W.2d 448 (1982). When circumstantial evidence alone is relied upon, it must indicate the accused’s guilt and exclude every other reasonable hypothesis; whether circum­stantial evidence excludes every other reasonable hypothesis is usually a question of fact for the jury. Murry v. State, 276 Ark. 372, 635 S.W.2d 237 (1982). It is only when circumstantial evidence leaves the jury solely to speculation and conjecture that it is insufficient as a matter of law. Deviney v. State, 14 Ark. App. 70, 685 S.W.2d 179 (1985).</p>
+                <p pgmap="140" id="b140-7">On appeal, the appellant posits error in the trial court’s denial of the motions for a directed verdict only with regard to the burglary conviction. Arkansas Code Annotated § 5-39-201 (1987) provides that“[A] person commits burglary ifheenters or remains unlawfully in an occupiable structure of another person with the purpose of committing therein any offense punishable by imprisonment.” Since specific intent, as well as illegal entry, are both elements of the crime of burglary, the appellant argues that independent proof of each is required and that the existence of one cannot be presumed from the other. The appellant does not present an argument on appeal with regard to the illegality of his entry into the school, but contends that there is no evidence other than that of his entry into Central High School which establishes his intent to commit an offense punishable by imprisonment. We cannot agree.</p>
+                <p pgmap="141" id="b141-5">The evidence discloses that at approximately 7:45 a.m. on the morning of January 2, 1990, Ellen Linton, an assistant principal at Central High School, sustained serious physical injuries as a result of a stabbing incident that occurred in her office. January 2nd was the first day of classes after the Christmas break and Linton testified that she arrived at the school at around 7:30 a.m. for “zero hour,” otherwise known as advanced place­ment classes. Linton entered the school from Fourteenth Street by the library, the entrance designated as open for zero hour classes. She related that the only other entrance into the school at this hour was through the teachers’ parking lot. Linton explained that there were signs affixed to the doors directing persons seeking admittance to the building to enter through the main entrance. Linton stated that other than school personnel, the only persons authorized to be in the school at that time were students attending zero hour classes.</p>
+                <p pgmap="141" id="b141-6">Linton testified that she was on her way to the library for coffee when the appellant approached her, a modern biology book in hand, and asked for help in finding the definition of physiology. She related that the appellant also asked her to write it down on a piece of paper he provided, but before she could finish, the appellant approached her and said, “Don’t make a sound!” Linton recalled that when she turned around she observed a knife in the appellant’s right hand. Linton described the knife as “a bread knife, about a twelve inch blade with a wood handle that angles down to a point in the end.” Linton remembered that the appellant pushed the door to, made her sit down and grimaced the entire time he was talking to her.</p>
+                <p pgmap="141" id="b141-7">Linton testified that the appellant was jabbing her in the hand, and that as he got more irritated, she offered him money from her purse, but he was not interested. Linton determined that her only option to get out of the ordeal alive was to scream and possibly draw attention to herself from the students passing by her office. As she began to scream, the appellant came at her with the knife and stabbed her on the side of the head and face, while also beating and hitting her. Linton also related how the appellant got down on the floor on top of her and continued to stab her, this time in the back and left shoulder. When the appellant left her office she crawled to the phone and called for help.</p>
+                <p pgmap="142" id="b142-5">Linton stated that after this incident she had an occasion to review the records of the students enrolled at Central High School. She explained that the appellant was not a student on this date. In fact, the appellant was withdrawn for nonattendance in November of 1989, and was supposed to re-register at Hall High School, but that he failed to do so. Linton concluded by stating that the appellant had no authority to be in the school on January 2nd at 7:45 a.m.</p>
+                <p pgmap="142" id="b142-6">Maliaka Turner, an honor student, testified that she arrived at school early for an advanced placement class when she heard screaming, yelling and banging going on in Linton’s office. Turner recalled that after trying to open the door several times, a man stepped outside Linton’s office and attempted to shut it preventing her entrance. According to Turner, the man stated, “There’s a lady in there — There’s someone in there trying to hurt that lady.” Turner said that she shoved the man away and the door opened, whereupon she observed hair and blood all over Linton’s face. Turner stated that she had never seen the man before and that no other man was in the office other than the appellant. Turner identified the appellant at trial as the man leaving Linton’s office.</p>
+                <p pgmap="142" id="b142-7">The appellant relies on the decision in Norton v. State, 271 Ark. 451, 609 S.W.2d 1 (1980), in arguing that there is no evidence that he intended to commit a crime punishable by imprisonment when he entered the school. In Norton, a burglary conviction was reversed where the appellant was found standing inside the doorway of an office building, which he had illegally entered and from which nothing was taken, speaking to his friends passing by. In Cristee v. State, 25 Ark. App. 303, 757 S.W.2d 565 (1988), we observed:</p>
+                <blockquote pgmap="142(91) 143(36)" id="b142-8">In Norton v. State, 271 Ark. 451, 609 S.W.2d 1 (1980), the court said that the United States Supreme Court’s deci­sions in Mullaney v. Wilbur, 421 U.S. 684 (1975), and Patterson v. New York, 432 U.S. 197 (1977), held that due process requires the prosecution to prove beyond a reason­able doubt every element of the crime charged. The Norton opinion also stated that specific criminal intent and illegal entry are both elements of the crime of burglary and that existence of the intent cannot be presumed from a mere showing of the illegal entry. . . . The existence of crimi­nal intent or purpose is a question of fact for the jury when the evidence shows facts from which it may reasonably be inferred.</blockquote>
+                <p pgmap="143" id="b143-6">Id. at 307-09, 757 S.W.2d at 567-68. In Cristee, we affirmed the appellant’s burglary conviction as there was other evidence, such as his flight from the scene, from which the jury could have found that the appellant intended to commit a crime.</p>
+                <p pgmap="143" id="b143-7">We are not unmindful of decisions in which burglary convictions have been reversed on the specific issue before us. See Wortham v. State, 5 Ark. App. 161, 634 S.W.2d 141 (1982); Norton v. State, supra. However, in those cases, there was no evidence other than the appellant’s illegal entry to sustain a conclusion that the entry was for the purpose of committing a punishable offense. In Wortham, the appellant was discovered standing in a doorway, but there was no proof offered that he had attempted to harm anyone, take anything or commit any other crime.</p>
+                <p pgmap="143" id="b143-8">On the other hand, we have affirmed such convictions when there was evidence other than the appellant’s illegal entry that supported a finding of the requisite intent. For instance, in Oliver v. State, 14 Ark. App. 240, 687 S.W.2d 850 (198 5), we noted that the appellant had entered a building through a window that had been broken, wires had been cut and the appellant’s bicycle was found near the broken window. See also Cristee v. State, supra; Jimenez v. State, 12 Ark. App. 315, 675 S.W.2d 853 (1984); Golden v. State, 10 Ark. App. 362, 664 S.W.2d 496 (1984).</p>
+                <p pgmap="143" id="b143-9">
+                   Here, the appellant entered Central High School at a time when only zero hour classes were being held; he entered carrying a biology book and seeking help from the victim upon the pretense that he was a properly enrolled student; and, he was armed. Since intent is a state of mind which is not ordinarily capable of proof by direct evidence and may be inferred from the circumstances, it was permissible for the trier of fact to conclude that the appellant’s entry in the school was for the purpose of committing a punishable offense. See Henry v. State, 18 Ark. App. 115, 710 S.W.2d 849 (1986).</p>
+                <p pgmap="143(9) 144(33)" id="b143-10">Adhering to the proof requirements set forth in Norton, supra, and considering the above testimony, there was substan­tial evidence from which the jury could have found that the appellant possessed a specific intent to commit an offense punish­able by imprisonment.</p>
+                <p pgmap="144" id="b144-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="139" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.2" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGJ" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.15" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_139.16" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.7" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.5" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.14" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.12" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.13" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.3" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-3" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.6" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.7" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apk" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoz" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.5" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.8" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

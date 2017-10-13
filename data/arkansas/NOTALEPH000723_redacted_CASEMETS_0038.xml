@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000723_0038" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Kennedy v. State">Craig KENNEDY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 89-258</docketnumber>
+          <citation category="official" type="bluebook">31 Ark. App. 196</citation>
+          <citation category="parallel" type="bluebook">789 S.W.2d 746</citation>
+          <decisiondate>1990-06-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:47:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:35:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:37:08Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="5faf9cf31ffa2a9a4c9b026675b3d9d1" CHECKSUMTYPE="MD5" SIZE="16322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00111_1.tif"/>
+      </file>
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="0e74bc96b6a79bbf04b72e4488e96fdc" CHECKSUMTYPE="MD5" SIZE="43250">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00112_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="01c970f4165e71840685681353777091" CHECKSUMTYPE="MD5" SIZE="1805129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00111_1.jp2"/>
+      </file>
+      <file ID="jp2_00112_0" MIMETYPE="image/jp2" CHECKSUM="ef1723ac7444e0c099151e3f3b9e50f1" CHECKSUMTYPE="MD5" SIZE="2498493">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00112_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="0ba59717ee91b48876d05a9a7fd62ace" CHECKSUMTYPE="MD5" SIZE="26260">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00111_1.xml"/>
+      </file>
+      <file ID="alto_00112_0" MIMETYPE="text/xml" CHECKSUM="f182d5037e44132427bab6ed827d14e3" CHECKSUMTYPE="MD5" SIZE="73106">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00112_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0038" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="197" firstpage="196">
+              <court id="b222-9" pgmap="222">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber id="b222-8" pgmap="222">CA CR 89-258</docketnumber>
+              <citation id="ABq" pgmap="222">789 S.W.2d 746</citation>
+              <parties id="b222-7" pgmap="222">Craig KENNEDY v. STATE of Arkansas</parties>
+              <decisiondate id="b222-10" pgmap="222">Opinion delivered June 20, 1990</decisiondate>
+              <attorneys id="b222-15" pgmap="222">Larry Horton, for appellant.</attorneys>
+              <attorneys id="b222-16" pgmap="222">No response.</attorneys>
+              <opinion type="majority">
+                <author id="b222-17" pgmap="222">Per Curiam.</author>
+                <p id="Afx" pgmap="222">Appellant’s brief was due to be filed in this Court on November 14, 1989. On November 21, 1989, we granted appellant a 30-day extension to file his brief. As of this date, June 20, 1990, appellant has not filed a brief with this Court.</p>
+                <p id="b223-5" pgmap="223">On January 11, 1990, the Clerk of this Court wrote a letter to appellant’s counsel of record, Mr. Larry Horton, Route One, Bismarck, Arkansas, 71929, inquiring as to the status of this case and requesting a response within seven days. No response by Mr. Horton was received. On April 20, 1990, the Clerk of this Court again wrote Mr. Horton to inquire of the status of the case and to advise him of possible sanctions if he did not respond within seven days. This Court has not received a response to this inquiry.</p>
+                <p id="b223-6" pgmap="223">According to our records, appellant’s counsel, Larry Horton, was apparently retained by appellant rather than appointed by the Court. Mr. Horton has neither responded to any of this Court’s written inquiries, nor has he filed a brief on behalf of the appellant. No further motions for extensions of time for the filing of a belated brief have been filed.</p>
+                <p id="b223-7" pgmap="223">
+                   Although Ark. Sup. Ct. Rule 10 provides for dismis­sal of civil cases where no brief is filed, there is no corresponding rule in criminal cases. Therefore, we allow appellant until July 5, 1990, to file a brief. Appellant may retain new counsel if he wishes, or, if appellant now believes himself to be indigent and therefore unable to afford retained counsel, he may apply for appointment of counsel by filing the appropriate documents with the Clerk of this Court. If no brief is filed within the period allowed by this per curiam, either by present counsel, new counsel, or by the appellant pro se, this appeal will be dismissed.</p>
+                <p id="b223-8" pgmap="223">The Clerk of this Court is directed to serve a copy of this per curiam on appellant; appellee; the sureties on the appellant’s bond, Sidney and Minóla Kennedy, 410 S. New Orleans Street, Brinkley, Arkansas, 72021; and the Arkansas Supreme Court Committee on Professional Conduct.</p>
+                <p id="b223-9" pgmap="223">Motion denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="222" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.2" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="223" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jp2_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.2" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.3" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.7" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.9" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABq" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.8" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.6" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.4" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.7" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.6" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.5" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Afx" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.18" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            <area BEGIN="BL_222.19" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-15" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.15" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-16" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.16" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-17" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.17" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.10" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

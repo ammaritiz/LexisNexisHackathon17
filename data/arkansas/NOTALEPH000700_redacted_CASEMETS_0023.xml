@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000700_0023" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Stultz v. State">Patricia STULTZ v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-1297</docketnumber>
+          <citation category="official" type="bluebook">92 Ark. App. 204</citation>
+          <citation category="parallel" type="bluebook">212 S.W.3d 42</citation>
+          <decisiondate>2005-09-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:19:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:39:48Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:40:54Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00115_1" MIMETYPE="image/tiff" CHECKSUM="76eff0e3bdcd62cd702de9977c26e016" CHECKSUMTYPE="MD5" SIZE="20528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00115_1.tif"/>
+      </file>
+      <file ID="tiff_00116_0" MIMETYPE="image/tiff" CHECKSUM="ac5ab12d80449eeccfd615e8b56107fd" CHECKSUMTYPE="MD5" SIZE="3646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00116_0.tif"/>
+      </file>
+      <file ID="tiff_00116_1" MIMETYPE="image/tiff" CHECKSUM="6137a12ae8565b25fc2be8e154261355" CHECKSUMTYPE="MD5" SIZE="24658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00116_1.tif"/>
+      </file>
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="9f236f99f2a10a07c4f3a1cd626a6b85" CHECKSUMTYPE="MD5" SIZE="54974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00117_0.tif"/>
+      </file>
+      <file ID="tiff_00117_1" MIMETYPE="image/tiff" CHECKSUM="a954174b23b19b73537803bc26a98d02" CHECKSUMTYPE="MD5" SIZE="55634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00117_1.tif"/>
+      </file>
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="33dbefb86f2b389496467a24d8c88562" CHECKSUMTYPE="MD5" SIZE="52852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00118_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00115_1" MIMETYPE="image/jp2" CHECKSUM="f71a30bd35cc74054313a65a33992e21" CHECKSUMTYPE="MD5" SIZE="1792968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00115_1.jp2"/>
+      </file>
+      <file ID="jp2_00116_0" MIMETYPE="image/jp2" CHECKSUM="0906108aff332889484f019c20f0f201" CHECKSUMTYPE="MD5" SIZE="1103113">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00116_0.jp2"/>
+      </file>
+      <file ID="jp2_00116_1" MIMETYPE="image/jp2" CHECKSUM="5448ccec40452f47fc79a7a20851e1da" CHECKSUMTYPE="MD5" SIZE="1693701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00116_1.jp2"/>
+      </file>
+      <file ID="jp2_00117_0" MIMETYPE="image/jp2" CHECKSUM="166b51caa8694fd4c72de996be100c65" CHECKSUMTYPE="MD5" SIZE="2487581">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00117_0.jp2"/>
+      </file>
+      <file ID="jp2_00117_1" MIMETYPE="image/jp2" CHECKSUM="05b516e1b467542a043f553a75d0a913" CHECKSUMTYPE="MD5" SIZE="2514749">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00117_1.jp2"/>
+      </file>
+      <file ID="jp2_00118_0" MIMETYPE="image/jp2" CHECKSUM="3a81f409981655877a4b778b2b701a68" CHECKSUMTYPE="MD5" SIZE="2516935">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00118_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00115_1" MIMETYPE="text/xml" CHECKSUM="aaa1ab9d8ccfc8d29ad6bc98f2050904" CHECKSUMTYPE="MD5" SIZE="33124">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00115_1.xml"/>
+      </file>
+      <file ID="alto_00116_0" MIMETYPE="text/xml" CHECKSUM="64a934cfb3db9dbef5c5ee0cb3259b5a" CHECKSUMTYPE="MD5" SIZE="1685">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00116_0.xml"/>
+      </file>
+      <file ID="alto_00116_1" MIMETYPE="text/xml" CHECKSUM="07f3088e52ee78f8598b5e1b43ee4704" CHECKSUMTYPE="MD5" SIZE="39230">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00116_1.xml"/>
+      </file>
+      <file ID="alto_00117_0" MIMETYPE="text/xml" CHECKSUM="c05a0c72eb7615e1f775da57ef23cb51" CHECKSUMTYPE="MD5" SIZE="98135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00117_0.xml"/>
+      </file>
+      <file ID="alto_00117_1" MIMETYPE="text/xml" CHECKSUM="bc8890b4732dde7d979f7ba5df087b12" CHECKSUMTYPE="MD5" SIZE="98203">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00117_1.xml"/>
+      </file>
+      <file ID="alto_00118_0" MIMETYPE="text/xml" CHECKSUM="77bd661dc767f5dc1f502f34f18bd5fe" CHECKSUMTYPE="MD5" SIZE="90857">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00118_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0023" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="209" firstpage="204">
+              <court id="b230-10" pgmap="230">Court of Appeals of Arkansas</court>
+              <docketnumber id="b230-8" pgmap="230">CA CR 04-1297</docketnumber>
+              <citation id="b230-9" pgmap="230">212 S.W.3d 42</citation>
+              <parties id="b230-7" pgmap="230">Patricia STULTZ v. STATE of Arkansas</parties>
+              <decisiondate id="A0a" pgmap="230">Opinion delivered September 7, 2005</decisiondate>
+              <judges id="b235-9" pgmap="235">Pittman, C.J., and Vaught, J., agree.</judges>
+              <attorneys id="b232-12" pgmap="232">David L. Dunagin, for appellant.</attorneys>
+              <attorneys id="b232-13" pgmap="232">Mike Beebe, Att’y Gen., by: Misty Wilson Borkowski, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b232-14" pgmap="232">ohn B. Robbins, Judge.</author>
+                <p id="Aty" pgmap="232(134) 233(64)">Appellant Patricia Stultz pleaded J guilty to possession of methamphetamine and possession of drug paraphernalia and was given a four-year suspended imposition of sentence on March 14, 2003. On March 31, 2004, the trial court entered a judgment and commitment order sentencing Ms. Stultz to three years in prison with an additional seven-year suspended impo­sition of sentence, which was pursuant to Ms. Stultz’s plea of guilty to conspiracy to deliver methamphetamine, which she entered on March 24, 2004. On April 6, 2004, the State filed a petition to revoke all of the suspended sentences on the grounds that Ms. Stultz violated her conditions on March 31, 2004, by committing several criminal offenses. After a hearing, the trial court announced that it was revoking the suspended sentences, and on August 13, 2004, an order was entered sentencing Ms. Stultz to a ten-year suspended imposition of sentence for possession of methamphetamine and for possession of drug paraphernalia, as well as a twenty-year prison term for conspiracy to deliver methamphetamine. Ms. Stultz now appeals from the order revoking her suspended sentences, arguing that there was insufficient evidence that she violated her conditions. We affirm in part and reverse in part.</p>
+                <p id="b233-5" pgmap="233">
+                   In a hearing to revoke, the burden is on the State to prove a violation of a condition of the suspended sentence by a preponderance of the evidence. Hyde v. State, 59 Ark. App. 131, 953 S.W.2d 911 (1997). On appellate review, the trial court’s findings are upheld unless they are clearly against the preponder­ance of the evidence. Id. Because a determination of the prepon­derance of the evidence turns on questions of credibility and weight to be given testimony, we defer to the trial court’s superior position in this regard. Id.</p>
+                <p id="b233-6" pgmap="233">At the revocation hearing, Stan Ames testified that Ms. Stultz came to his residence at around noon on March 31, 2004. Donnie and James Kramer were already there when she arrived. According to Mr. Ames, he was in his garage when he heard his truck windows being busted out, and Donnie and James contained him in the garage. Mr. Ames stated that “Donnie busted me in the mouth,” and that Ms. Stultz started beating him with a steel pipe while accusing him of burning her house down and stealing from her. Mr. Ames indicated that Ms. Stultz hit him multiple times with the pipe, first hitting his leg and then hitting him in the face when he fell to the floor. Ms. Stultz then threw gasoline on Mr. Ames, and he managed to run into his house and call the police before “they followed and tackled me again and went to beating me again.”</p>
+                <p id="b233-7" pgmap="233">By the time Officer Roger Green arrived at the scene, Donnie and James had fled, but Ms. Stultz was still there attempt­ing to leave the driveway in a pickup truck. Officer Green stopped her, and noticed she had blood on her hands. Mr. Ames emerged from the garage and was bleeding from his mouth and nose. Officer Green observed a puddle of blood in the garage, and upon inspecting the interior of the house he found it to be “total destruction.” Mr. Ames advised Officer Green that Ms. Stultz had taken some items from his residence, including some knives that were found in Ms. Stultz’s purse.</p>
+                <p id="b234-4" pgmap="234">Mr. Ames testified that he was afraid he was going to be killed that day and that Ms. Stultz threatened him the entire time she was beating him. After the episode ended, Mr. Ames went to the hospital to make sure that no bones were broken, and he was examined but not admitted. However, he testified that his face and nose were “pretty busted up.”</p>
+                <p id="b234-5" pgmap="234">At the conclusion of the revocation hearing, the trial court found that Ms. Stultz violated her conditions by committing second-degree battery, attempted first-degree battery, and bur­glary. Ms. Stultz argues on appeal that these findings were clearly against the preponderance of the evidence. She contends that the evidence presented by the State was circumstantial and did not support the trial court’s decision to revoke.</p>
+                <p id="b234-6" pgmap="234">
+                   We hold that the trial court’s finding that Ms. Stultz violated a condition of her suspended sentences was not clearly against the preponderance of the evidence. In order to revoke a suspended sentence, the State need only prove one violation. Ramsey v. State, 60 Ark. App. 206, 959 S.W.2d 765 (1998). Contrary to Ms. Stultz’s argument, there was direct evidence that she violated a condition by committing second-degree battery.</p>
+                <p id="b234-7" pgmap="234">
+                   Pursuant to Ark. Code Ann. § 5-13-202(a) (2) (Supp. 2003), a person commits battery in the second degree if, with the purpose of causing physical injury to another person, he or she causes physical injury to any person by means of a deadly weapon other than a firearm. A steel pipe is considered a deadly weapon. See Releford v. State, 59 Ark. App. 136, 954 S.W.2d 295 (1997). The victim testified that Ms. Stultz beat him repeatedly with a steel pipe, resulting in his face and nose being “busted up” as well as considerable facial bleeding. “Physical injury” is defined as “infliction of substantial pain,” see Ark. Code Ann. § 5-1-­102(14)(B) (Supp. 2003), and in deciding whether this has been proved the trier of fact may consider the sensitivity of the area of the body to which the injury is inflicted and the severity of the attack. See Holmes v. State, 15 Ark. App. 163, 690 S.W.2d 738 (1985). We conclude that the trial court committed no error in finding that Ms. Stultz’s purpose was to inflict substantial pain with the pipe and that this was accomplished.</p>
+                <p id="b234-8" pgmap="234(30) 235(173)">
+                   While we disagree with the only issue raised in Ms. Stultz’s brief, we nonetheless reverse the revocation and twenty-­year prison sentence related to the March 31, 2004, conviction for conspiracy to deliver methamphetamine. In Harness v. State, 352 Ark. 335, 101 S.W.3d 235 (2003), the supreme court held that a trial court does not have the authority to revoke a suspended sentence before the commencement of the period of suspension, and that in such instances the resulting sentence is void. That is exactly what happened in the present case. As in Harness v. State, supra, Ms. Stultz was sentenced to prison and a suspended imposi­tion of sentence for an additional term, but the violation of her condition occurred before she served any of her prison sentence. Because Ms. Stultz had not been lawfully set at liberty from the imprisonment, her period of suspension had not yet commenced to run. See Ark. Code Ann. § 5-4-307(c) (Repl. 1997); Harness v. State, supra. Although Ms. Stultz does not challenge the legality of her sentence on appeal, we review problems involving void or illegal sentences even if not raised on appeal and not objected to in the trial court. See Harness v. State, supra.</p>
+                <p id="b235-5" pgmap="235">
+                   However, we affirm the trial court’s revocation of Ms. Stultz’s suspended sentences, and resulting ten-year impositions of suspended sentences, as relates to her guilty pleas for possession of methamphetamine and possession of drug paraphernalia as re­flected on the March 14, 2003, judgment. This is because she committed a violation during the period of those suspensions.</p>
+                <p id="b235-6" pgmap="235">
+                   The State notes in its brief that the trial court pro­nounced ten years’ imprisonment from the bench, but the judg­ment being appealed from reflects a ten-year suspended imposition of sentence for each offense. This discrepancy is resolved by Bradford v. State, 351 Ark. 394, 94 S.W.3d 904 (2003), where our supreme court held that judgment and commitment orders are effective upon entry of record, and that the trial court is within its authority to modify the sentence pronounced in open court prior to entry of judgment so long as it complies with other pertinent criminal rules.</p>
+                <p id="b235-7" pgmap="235">The August 13, 2004, order being appealed from reflects ten-year suspended impositions of sentences, which were autho­rized by law and are hereby affirmed. However, that portion of the order that imposed the unauthorized twenty-year prison term is reversed and dismissed.</p>
+                <p id="b235-8" pgmap="235">Affirmed in part; reversed and dismissed in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="230" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00115_1"/>
+        <fptr FILEID="jp2_00115_1"/>
+        <fptr FILEID="alto_00115_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_230.2" BETYPE="IDREF" FILEID="alto_00115_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="231" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00116_0"/>
+        <fptr FILEID="jp2_00116_0"/>
+        <fptr FILEID="alto_00116_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_231.3" BETYPE="IDREF" FILEID="alto_00116_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="232" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00116_1"/>
+        <fptr FILEID="jp2_00116_1"/>
+        <fptr FILEID="alto_00116_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.2" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="233" ORDERLABEL="207" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jp2_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.3" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="234" ORDERLABEL="208" TYPE="page">
+        <fptr FILEID="tiff_00117_1"/>
+        <fptr FILEID="jp2_00117_1"/>
+        <fptr FILEID="alto_00117_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.1" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="235" ORDERLABEL="209" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jp2_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.3" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.7" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-14" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.11" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-13" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.10" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-12" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.9" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.3" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aty" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.12" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            <area BEGIN="BL_232.13" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            <area BEGIN="BL_233.1" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.7" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.7" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            <area BEGIN="BL_235.1" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.6" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.4" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.5" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.6" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.6" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.5" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.9" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.5" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.8" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.4" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.8" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0a" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.11" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b230-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_230.10" BETYPE="IDREF" FILEID="alto_00115_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

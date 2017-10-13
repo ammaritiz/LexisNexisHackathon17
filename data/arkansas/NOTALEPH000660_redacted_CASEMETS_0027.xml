@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000660_0027" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Mann v. State">Johnny MANN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-1012</docketnumber>
+          <citation category="official" type="bluebook">84 Ark. App. 225</citation>
+          <citation category="parallel" type="bluebook">137 S.W.3d 411</citation>
+          <decisiondate>2003-12-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:50:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:52:14Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:38:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:39:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="78c38bee9589151f7288c4f358921e12" CHECKSUMTYPE="MD5" SIZE="31616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="9711163c0ff6b4af080a123d7290cf50" CHECKSUMTYPE="MD5" SIZE="4530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00125_1.tif"/>
+      </file>
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="a01df22b39090b22f69d715d97c3e099" CHECKSUMTYPE="MD5" SIZE="53780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="111fa9116b01f27016aece9c9e6b7ecd" CHECKSUMTYPE="MD5" SIZE="58118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00126_1.tif"/>
+      </file>
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="e86d0d4db6b39d3e2612e76a61bb0acb" CHECKSUMTYPE="MD5" SIZE="56898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="da944c19cd6672fe529397f907b72e1b" CHECKSUMTYPE="MD5" SIZE="54568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00127_1.tif"/>
+      </file>
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="c083113f54f317d5e17c6a8270a9c104" CHECKSUMTYPE="MD5" SIZE="34692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00128_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="1f543a46177dda540f7d8face98e8b98" CHECKSUMTYPE="MD5" SIZE="2188894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="d42d9ee574be2eaf4dce283e6a868859" CHECKSUMTYPE="MD5" SIZE="1124489">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00125_1.jp2"/>
+      </file>
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="62562595d47a80ec337cc67ee4633526" CHECKSUMTYPE="MD5" SIZE="2569944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00126_0.jp2"/>
+      </file>
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="760db49912926ed303c3f8114d281ead" CHECKSUMTYPE="MD5" SIZE="2614986">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00126_1.jp2"/>
+      </file>
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="9f0d1d2daf935427fc3a4d6034b41969" CHECKSUMTYPE="MD5" SIZE="2546849">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00127_0.jp2"/>
+      </file>
+      <file ID="jp2_00127_1" MIMETYPE="image/jp2" CHECKSUM="bc82349a6e5e963ec572e9014e702097" CHECKSUMTYPE="MD5" SIZE="2554073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00127_1.jp2"/>
+      </file>
+      <file ID="jp2_00128_0" MIMETYPE="image/jp2" CHECKSUM="6112ee8369ef5e74101986ffa134a761" CHECKSUMTYPE="MD5" SIZE="2277676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00128_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="fa2926897506c99f2b9f9bc4630f2503" CHECKSUMTYPE="MD5" SIZE="51949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="cba9b3228fe7aa07b78a044832a40ea4" CHECKSUMTYPE="MD5" SIZE="1765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00125_1.xml"/>
+      </file>
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="123aedfccfd71bc2c4c788c43f558629" CHECKSUMTYPE="MD5" SIZE="85453">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00126_0.xml"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="e4c0dd9e8fee61493f1dbf5f9ce9bf3b" CHECKSUMTYPE="MD5" SIZE="93584">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00126_1.xml"/>
+      </file>
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="23315171da9e5b4757afbf27dddc0dbd" CHECKSUMTYPE="MD5" SIZE="93872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00127_0.xml"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml" CHECKSUM="fb6e777a736e5747a00b6fed728642a8" CHECKSUMTYPE="MD5" SIZE="87347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00127_1.xml"/>
+      </file>
+      <file ID="alto_00128_0" MIMETYPE="text/xml" CHECKSUM="9f0aba518fd5c879f2c472a291d7455c" CHECKSUMTYPE="MD5" SIZE="56939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00128_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="231" firstpage="225">
+              <court pgmap="249" id="b249-10">Court of Appeals of Arkansas Divisions I and II</court>
+              <docketnumber pgmap="249" id="b249-8">CA CR 02-1012</docketnumber>
+              <citation pgmap="249" id="b249-9">137 S.W.3d 411</citation>
+              <parties pgmap="249" id="b249-7">Johnny MANN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="249" id="b249-11">Opinion delivered December 10, 2003</decisiondate>
+              <judges pgmap="254" id="b254-6">Pittman, Hart, and Roaf, JJ., agree.</judges>
+              <judges pgmap="254" id="b254-7">Gladwin and Crabtree, JJ., dissent.</judges>
+              <attorneys pgmap="251" id="b251-3">G.B. “Bing” Colvin, III, Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="251" id="b251-4">Mike Beebe, Att’y Gen., by: Laura Shue, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="251" id="Ay5">Karen R. Baker, Judge.</author>
+                <p pgmap="251" id="Anqj">A jury in Ashley County Circuit Court convicted appellant, Johnny Mann, of possession of methamphetamine with intent to manufacture and possession of drug paraphernalia and sentenced him to twenty years’ imprisonment in the Arkansas Department of Correction. Appellant has two arguments on appeal. First, appellant argues that the trial court erred in denying his motion to suppress. Second, appellant argues that the trial court erred during the trial of this cause by allowing the State to refer to his criminal history both during testimony in fhe guilt or innocence phase of the trial and during closing argument in that phase. We reverse and remand.</p>
+                <p pgmap="251" id="b251-6">Postal Inspector Mitchell Webb advised Officer Dennis Roberts that pursuant to a federal warrant he had intercepted a package addressed to Clark Nuss in Hamburg that contained eighteen grams of methamphetamine. On appeal, appellant does not challenge the validity of this federal warrant. The return address on the package showed that it had been sent from Crescent City, California. Officer Roberts checked out the receiver’s ad­dress on the package and discovered that the residence at that address belonged to appellant. Roberts further discovered that both appellant and Nuss were former residents of Crescent City. The law enforcement agents decided to perform a controlled delivery.</p>
+                <p pgmap="251" id="b251-7">Prior to the controlled delivery, appellant had approached his regular postal carrier and inquired about a package. Later, posing as a postal carrier, Inspector Webb advised appellant that he had packages too big for his mailbox and asked specifically whether the package from Crescent City belonged there. Appellant said that it did.</p>
+                <p pgmap="251(70) 252(81)" id="b251-8">After appellant accepted the package and went back inside his residence, the officers waited five to six minutes to give appellant time to open the package. The officers then went through the door on the screened-porch addition and approached the front door to the trailer, which was already open. They heard someone running down the hallway on a wooden floor. They announced that they were police officers and continued further into the residence. Officer Roberts testified that after they entered the residence, they saw the package that had been torn open sitting on the kitchen bar. The officers pursued appellant down the hallway and found appellant in the bathroom sitting on a com­mode that had just been flushed. Appellant was taken into custody, and Officer Roberts read him his Miranda rights. Appellant then signed a consent to search form. The officers recovered the methamphetamine from the drain of the commode.</p>
+                <p pgmap="252" id="b252-5">Following the suppression hearing, the trial court found that the officers had probable cause to believe that appellant was in possession of methamphetamine. The trial court also found that the officers could reasonably conclude by the fact that they heard running that appellant was about to destroy evidence. The trial court thus found that exigent circumstances existed to justify the officers’ warrantless entry into appellant’s residence. The trial court denied appellant’s motion to suppress his consent to search and the resulting evidence. The trial court also denied his motion to suppress his statement because the court found that the state­ment was voluntarily made with full knowledge of his rights.</p>
+                <p pgmap="252" id="b252-6">
+                   Appellant argues that the trial court erred in denying appellant’s motion to suppress. When reviewing a denial of a motion to suppress evidence, we conduct a de novo review based on the totality of the circumstances, reviewing findings of historical facts for clear error and determining whether those facts give rise to reasonable suspicion or probable cause, giving due weight to inferences drawn by the trial court. See Davis v. State, 351 Ark. 406, 94 S.W.3d 892 (2003).</p>
+                <p pgmap="252(126) 253(155)" id="b252-7">
+                   Before agents of the government may invade the sanctity of the home, the burden is on the government to demon­strate exigent circumstances that overcome the presumption of unreasonableness that attaches to all warrantless home entries. See Norris v. State, 338 Ark. 397, 993 S.W.2d 918 (1999) (citing Welsh v. Wisconsin, 466 U.S. 740 (1984)). However, the Eighth Circuit has recognized that when police officers themselves create the situation of urgency generally protected by the exigent circum­stances exception, those same exigent circumstances cannot justify their warrantless entry. United States v. Duchi, 906 F.2d 1278, 1283-85 (8th Cir. 1990). This fact situation is very similar to the facts in Duchi. In Duchi, the warrantless entry into the defendant’s residence was not supported by exigent circumstances even though the officers knew that the defendant had picked up a package containing what the officers knew to be cocaine, and the defendant had removed contraband from his residence prior to a previous search. See also United States v. Templeman, 938 F.2d 122 (8th Cir. 1991) (finding that exigent circumstances did not support police officers’ warrantless entry into defendant’s home where an informant delivered a package of cocaine to the defendant at his, home the defendant opened the package, the trailer home was under surveillance so that it was unlikely that defendant would escape, and there was no indication that the informant was in danger or that the defendant was about to destroy the contents of the package). The court further relied on the ease with which the officers could have started the warrant application process or even completed it by radio or phone when the package was taken to the defendant’s home. Duchi, supra.</p>
+                <p pgmap="253" id="b253-5">
+                   Although the opportunity of an officer to obtain a warrant is not determinative, it is certainly relevant when exigent circumstances are claimed to be present. See Templeman, supra. If the independent evidence shows the delivery of contraband will or is likely to occur, an anticipatory search warrant can be obtained conditioned upon the delivery of the contraband. See Sims v. State, 333 Ark. 405, 969 S.W.2d 657 (1998) (citing U.S. v. Bieri, 21 F.3d 811 (8th Cir.1994)).</p>
+                <p pgmap="253" id="b253-6">
+                   Instead, the officers in this case first entered a screened-in porch area that was under construction, through a closed screened door, and then proceeded through an open door into the trailer. It was not until after the officers had entered the screened-in porch that they heard “running.” The fact that the officers themselves created the sense of urgency in this case does not justify their warrantless entry into appellant’s home. The officers decided upon this investigative strategy, and they are responsible for its likely result. See United States v. Munoz-Guerra, 788 F.2d 295, 298-99 (5th Cir. 1986). We hold that this is a case of exigent circumstances manufactured by law-enforcement agents. Thus, the trial court erred in denying appellant’s motion to suppress.</p>
+                <p pgmap="253(42) 254(55)" id="b253-7">Appellant’s second argument is that the trial court erred in failing to grant his motion for mistrial when the State elicited testimony concerning his prior criminal history during the guilt or innocence phase of the trial, and again referred to his criminal history during closing argument. Appellant argues that because his criminal history had no independent relevance, had no probative value, and was highly prejudicial a mistrial should have been granted. We do not address whether the trial court erred in failing to grant a mistrial, as we do not expect this mistake to recur on retrial.</p>
+                <p pgmap="254" id="b254-5">We reverse and remand.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="254" id="ARnA">Robert J. Gladwin, Judge,</author>
+                <p pgmap="254" id="A5I">dissenting. I dissent because appellant created the exigent circumstances himself. The majority opinion correctly states the facts surrounding the controlled delivery of the methamphetamine to appellant’s residence. The exi­gent circumstances occurred when appellant continued to run away from the officers after he was made aware of their presence.</p>
+                <p pgmap="254" id="b254-9">Police may make a warrantless felony arrest in the home if they act on probable cause and exigent circumstances. See Norris v. State, 338 Ark. 397, 993 S.W.2d 918 (1999). Probable cause exists where there is a reasonable ground of suspicion supported by circumstances sufficiently strong in themselves to warrant a cau­tious person to believe that a crime has been committed by the person suspected. Humphrey v. State, 327 Ark. 753, 940 S.W.2d 860 (1997). Before agents of the government may invade the sanctity of the home, the burden is on the government to demonstrate exigent circumstances that overcome the presumption of unrea­sonableness that attaches to all warrantless home entries. Norris, supra, citing Welsh v. Wisconsin, 466 U.S. 740 (1984). Exigent circumstances are those requiring immediate aid or action, and while there is no definite list of what constitutes exigent circum­stances, the risk of removal or destruction of evidence is one. See Humphrey, supra.</p>
+                <p pgmap="254(81) 255(83)" id="b254-10">Appellant had questioned his postal carrier about a package prior to the controlled delivery. The package containing the methamphetamine with appellant’s address on it was delivered to and accepted by him. The officers could reasonably conclude that appellant would open the package. Officer Roberts testified at the suppression hearing that he saw the package, which had been tom open, sitting on the kitchen bar. He later testified that “Immedi­ately, immediately after I heard running and I can’t tell you where I was, whether I was in the screened-in area or the doorway where I could see the package, I, when I heard the running, I stated, ‘state police.’ ” In addition, Officer Jim Culp testified that he heard the commode being flushed when the officers announced their pres­ence. Although Officer Roberts was not certain of exactly where he was standing, it is clear that he saw the open package and heard appellant running before he or the other officers entered the home.</p>
+                <p pgmap="255" id="b255-5">The majority opinion states that the officers decided upon this strategy and that they are responsible for its likely result. If, when the police approached appellant’s home and announced themselves, appellant had declined to talk with the officers and refused entry, but they then entered anyway, I would join the majority. However, after the officers’ presence was made known to appellant, he chose to run, thus creating the exigent circum­stances.</p>
+                <p pgmap="255" id="b255-6">It is clear that the contraband was in the house and that both the police and appellant knew this. The police could reasonably conclude that appellant was about to destroy the evidence when they heard him running. Under these specific facts and considering the totality of the circumstances, the trial court did not err.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="249" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="251" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.2" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="253" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jp2_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="255" ORDERLABEL="231" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jp2_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.11" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.6" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            <area BEGIN="BL_253.1" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.4" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.4" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.5" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.6" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.12" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_255.1" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.11" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.8" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.9" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.6" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_254.1" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.7" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-3" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.4" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.10" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.9" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARnA" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.7" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.4" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.10" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.11" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.5" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5I" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.8" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_254.9" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_254.10" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anqj" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.6" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_251.7" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_251.8" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.5" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.5" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

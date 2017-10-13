@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0035" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Bailey v. Simmons">Richard D. BAILEY and Henry WRIGHT v. Doug SIMMONS and Brooks GRIFFIN</name>
+          <docketnumber>CA 82-218</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 193</citation>
+          <citation category="parallel" type="bluebook">639 S.W.2d 526</citation>
+          <decisiondate>1982-10-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:40Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00111_0" MIMETYPE="image/tiff" CHECKSUM="f682aec900490569964ed3235769fa25" CHECKSUMTYPE="MD5" SIZE="16470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00111_0.tif"/>
+      </file>
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="ac129c046a611794f9483199ec12499b" CHECKSUMTYPE="MD5" SIZE="42996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00111_1.tif"/>
+      </file>
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="56bea46853ca13be60cb7dd7d752037a" CHECKSUMTYPE="MD5" SIZE="51470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00112_0.tif"/>
+      </file>
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="da3dcf7fe5513b39aa46f8283b476b1f" CHECKSUMTYPE="MD5" SIZE="37528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="42dc07b6d87acbea7f213c6543dd0c20" CHECKSUMTYPE="MD5" SIZE="47924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00113_0.tif"/>
+      </file>
+      <file ID="tiff_00113_1" MIMETYPE="image/tiff" CHECKSUM="28f386458a764d9472270da7033132dc" CHECKSUMTYPE="MD5" SIZE="24588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00113_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00111_0" MIMETYPE="image/jp2" CHECKSUM="a43413226014f3d72312dffe93437084" CHECKSUMTYPE="MD5" SIZE="1793837">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00111_0.jp2"/>
+      </file>
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="2a0d7d905c535721abc4e6ea425396de" CHECKSUMTYPE="MD5" SIZE="2618291">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00111_1.jp2"/>
+      </file>
+      <file ID="jp2_00112_0" MIMETYPE="image/jp2" CHECKSUM="51393c18cda40b75ec51bbf77041a49e" CHECKSUMTYPE="MD5" SIZE="2806733">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00112_0.jp2"/>
+      </file>
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="9278aae2a353e070b0f1c1c18959c652" CHECKSUMTYPE="MD5" SIZE="2507618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00112_1.jp2"/>
+      </file>
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="cee7818299601fbf184924fb9177d3b1" CHECKSUMTYPE="MD5" SIZE="2695520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00113_0.jp2"/>
+      </file>
+      <file ID="jp2_00113_1" MIMETYPE="image/jp2" CHECKSUM="4c676e852502ec1e39503c0a10e15cad" CHECKSUMTYPE="MD5" SIZE="2131952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00113_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00111_0" MIMETYPE="text/xml" CHECKSUM="c1646c0bd36d0168ee3b81c032b289c1" CHECKSUMTYPE="MD5" SIZE="24741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00111_0.xml"/>
+      </file>
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="a7b33897b5615f483b9e3e11b29337a4" CHECKSUMTYPE="MD5" SIZE="73524">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00111_1.xml"/>
+      </file>
+      <file ID="alto_00112_0" MIMETYPE="text/xml" CHECKSUM="a4faeabfcd7142191f2f6e63ed359f47" CHECKSUMTYPE="MD5" SIZE="89837">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00112_0.xml"/>
+      </file>
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="ccbca5bacd030b083d699041a6c34836" CHECKSUMTYPE="MD5" SIZE="62666">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00112_1.xml"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="b91a6b6814c20bb5c591918e61cbe9cb" CHECKSUMTYPE="MD5" SIZE="80221">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00113_0.xml"/>
+      </file>
+      <file ID="alto_00113_1" MIMETYPE="text/xml" CHECKSUM="518418ac7a9cba2111501fc0c7b32271" CHECKSUMTYPE="MD5" SIZE="38209">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00113_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="198" firstpage="193">
+              <court pgmap="221" id="b221-8">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="221" id="b221-7">CA 82-218</docketnumber>
+              <citation pgmap="221" id="AGCk">639 S.W.2d 526</citation>
+              <parties pgmap="221" id="b221-5">Richard D. BAILEY and Henry WRIGHT v. Doug SIMMONS and Brooks GRIFFIN</parties>
+              <decisiondate pgmap="221" id="ATV">Opinion delivered October 6, 1982</decisiondate>
+              <attorneys pgmap="222" id="b222-4">Porter &amp; King, by: Durwood W. King, for appellant Bailey.</attorneys>
+              <attorneys pgmap="222" id="b222-5">Garland Q. Ridenour, Ltd., by: Garland Q. Ridenour, for appellant Wright.</attorneys>
+              <attorneys pgmap="222" id="b222-6">Daggett, Daggett &amp; Van Dover, by: Robert J. Donovan, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="222" id="b222-7">George K. Cracraft, Judge.</author>
+                <p pgmap="222" id="Atf">Richard D. Bailey received a compensable injury while working as a carpenter for Henry Wright in the construction of a dwelling on lands owned by Doug Simmons and Brooks Griffin. He contended that at the time of his injury Wright was an uninsured subcontractor of the appellees and that the appellees were therefore liable to him under the provisions of Ark. Stat. Ann. § 81-1306 (Repl. 1976). The Full Commission, re­versing the findings of the Administrative Law Judge, found that Wright was not a subcontractor of the appellees but was an independent contractor and solely liable to the appellant under the Act. In reaching this conclusion the Commission ruled that before an independent contractor could be found a “subcontractor” within the meaning of § 81-1306, it must first be established that the one sought to be held liable as “prime contractor” was contractually obligated to a third person for the work being performed by the independent contractor. Appellants Bailey and Wright do not seriously contend that Wright was not an independent contractor. The main thrust of their argument is that the Commission did not apply the correct rule in determining that he was not also a “subcontractor.” We do not agree.</p>
+                <p pgmap="222" id="b222-8">In determining whether one is an independent con­tractor there are many factors to be considered. Whether or not one stands in that status is a question of fact to be determined by the trier of fact. We cannot say that the findings of the Commission are not supported by substan­tial evidence or that reasonable minds could not have reached that same conclusion.</p>
+                <p pgmap="223" id="b223-3">The evidence was not seriously disputed. The appellee Simmons is a banker and Griffin is a farmer. They jointly purchased a tract of open land and developed it into a subdivision known as Brookwood in the City of West Helena. All of the lots but two had been sold to other individuals. Houses were built on some lots by their owners and other lots were still vacant. Appellees then determined to build houses on the two remaining lots for sale. They contracted with Henry Wright to build and paint the houses. Appellant Bailey was working for Wright on one of the houses when he was injured. The house had not been sold when the injury was sustained.</p>
+                <p pgmap="223" id="b223-4">Under the contract Wright was to supply the labor and, although he selected the materials to be used, they were paid for by appellees. Wright was to be paid an agreed price based on square footage. The price was fixed in the contract and the time taken in completion would not affect it. Wright determined the hours and days that he and his employees would work and he hired and paid all of his employees. Each week he would collect a draw on his contract in order to pay his workers. He and his employees supplied all of their own tools. Wright was free to leave the job at any time and was permitted to have other jobs in progress. He testified that Griffin would come to the site on occasion and could have made recommendations as to changes in the plans but there was no evidence that Griffin attempted to supervise Wright or his employees in any manner.</p>
+                <p pgmap="223" id="b223-5">Bailey testified that he was employed and paid by Wright who also furnished his tools. He had seen Simmons and Griffin at the site but they never gave him any instructions. The testimony of Bailey’s father, also an employee of Wright, was substantially the same.</p>
+                <p pgmap="223(60) 224(17)" id="b223-6">These facts would amply support the finding of the Commission that Wright was an independent contractor rather than a subcontractor unless, as appellant contends, the Commission applied an erroneous rule of law. In reaching its conclusion the Commission stated that under our decisions, in order to have a subcontractor arrangement, the person sought to be charged as “prime contractor” must have been contractually obligated to another for the work being done at the time of the injury.</p>
+                <p pgmap="224" id="b224-4">Ark. Stat. Ann. § 81-1306 (Repl. 1976) in partinent part is as follows:</p>
+                <blockquote pgmap="224" id="b224-5">Subcontractor. — Where a subcontractor fails to secure compensation required by this Act . . . the prime contractor shall be liable for compensation to the employees of the subcontractor.</blockquote>
+                <p pgmap="224" id="b224-6">The Supreme Court in Hollingsworth &amp; Rockwood Ins. v. Evans, 255 Ark. 387, 500 S.W.2d 382 (1973) recognized the distinction between a subcontractor and an independent contractor:</p>
+                <blockquote pgmap="224" id="b224-7">There is, of course, a considerable difference between a subcontractor and an independent contractor. In Black’s Law Dictionary a subcontractor is defined as:</blockquote>
+                <blockquote pgmap="224" id="b224-8">“One who takes portion of a contract from principal contractor or another subcontractor. # # * One who has entered into a contract, express or implied, for the performance of an act with the person who has already contracted for its performance.”</blockquote>
+                <blockquote pgmap="224" id="b224-9">In Gaydos v. Packanack Wood Dev. Co., 166 A.2d 182, at page 184, the New Jersey Court defined a subcontractor in a workmen’s compensation case as follows:</blockquote>
+                <blockquote pgmap="224" id="b224-10">“A subcontractor is one who enters into a contract with a person for the performance of work which such person has already contracted to perform. In other words, subcontracting is merely ‘farming out’ to others all or part of work contracted to be performed by the original contractor.”</blockquote>
+                <p pgmap="224(29) 225(77)" id="b224-11">In the case now under review the Commission found that the appellees were constructing these houses to offer them for sale. It also found that at the time appellees contracted with Wright they were under no contractual obligation to deliver to a buyer a home which conformed to agreed plans and specifications. They were not farming out to Wright any part of work they were contractually obligated to perform. Had they contracted with Wright pursuant to a developer-vendor contract with a third person to erect a specific house the issue would be quite different. Clendening v. London Assurance Co., 206 Tenn. 601, 336 S.W.2d 535 (1960).</p>
+                <p pgmap="225" id="b225-4">We conclude that this is the distinction made by the Supreme Court in its supplemental opinion on rehearing in Lofton v. Bryan, 237 Ark. 376, 373 S.W.2d 145 (1963) (Supplemental Opinion on rehearing in 237 Ark. 642, 375 S.W.2d 221 [1964]). In the Lofton case Dierks Forrest, Inc. contracted with Bryan to cut and deliver pulpwood from certain lands owned by Dierks. Bryan was paid a stipulated price per cord, was expected to furnish his own labor and equipment and was permitted to perform the contract without any supervision or control by Dierks. Lofton, an employee of Bryan, was injured while cutting the pulp­wood. The Supreme Court affirmed the decision of the Commission, finding that Bryan was an independent con­tractor and not a subcontractor of Dierks. On motion for rehearing it was contended that the case was controlled by Huffstettler v. Lion Oil Company, 208 Fed.2d 549. The court in its opinion on rehearing made the following distinction between the two cases:</p>
+                <blockquote pgmap="225" id="b225-5">There it was held that the operator of a bulk plant who distributed Lion products to retailers who had contracted with Lion to sell the company’s products, was not an independent contractor but a subcontractor</blockquote>
+                <blockquote pgmap="225" id="b225-6">In the case at bar it is not shown that Dierks had any contract with a third person in connection with the timber, and therefore, it cannot be said that one who is getting out the timber for Dierks is a subcontractor.</blockquote>
+                <p pgmap="225(19) 226(57)" id="b225-7">In its discussion of Huffstettler the court referred to its earlier decisions of Hobbs-Western Co. v. Craig, 209 Ark. 630, 192 S.W.2d 116 (1946) and Brothers v. Dierks, 217 Ark. 632, 232 S.W.2d 646 (1950), pointing out that in both those cases on which Huffstettler was based the court had found the “prime contractor” to be contractually bound to perform the work in which the subcontractor’s employee was en­gaged at the time of the injury.</p>
+                <p pgmap="226" id="b226-4">The Commission found that Simmons and Griffin were not contractually bound to any third person in connection with the work being done by Wright and his injured employee and exercised no control over either of them. We conclude that both findings are supported by substantial evidence and that the Commission properly applied the law as previously declared by our Supreme Court to those facts.</p>
+                <p pgmap="226" id="b226-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="221" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00111_0"/>
+        <fptr FILEID="jp2_00111_0"/>
+        <fptr FILEID="alto_00111_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.2" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="222" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="223" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jp2_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.2" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="224" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.2" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.3" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="226" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00113_1"/>
+        <fptr FILEID="jp2_00113_1"/>
+        <fptr FILEID="alto_00113_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.2" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.10" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.5" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.6" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.10" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.9" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.8" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.7" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGCk" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.9" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.11" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.7" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.13" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.7" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.8" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.6" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.5" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.8" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_226.1" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-3" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.4" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Atf" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.11" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            <area BEGIN="BL_222.12" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.5" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.7" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            <area BEGIN="BL_224.1" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-4" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.5" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.8" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-6" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.7" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.9" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-11" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.12" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_225.1" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.10" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATV" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.11" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.6" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.6" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

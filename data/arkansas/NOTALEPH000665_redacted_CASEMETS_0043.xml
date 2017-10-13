@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000665_0043" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="State v. Harvest">STATE of Arkansas v. Levi HARVEST</name>
+          <docketnumber>CA CR 88-162</docketnumber>
+          <citation category="official" type="bluebook">26 Ark. App. 241</citation>
+          <citation category="parallel" type="bluebook">762 S.W.2d 806</citation>
+          <decisiondate>1989-01-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:43:08Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:56:13Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:19:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:19:48Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="c8fd3ba6f3df4ded0cf4a86786bcbb4a" CHECKSUMTYPE="MD5" SIZE="24532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00134_0.tif"/>
+      </file>
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="15204352317fdc77a19b448e560cf2c6" CHECKSUMTYPE="MD5" SIZE="55752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="b762626054aa3b2270b601d712c55ea7" CHECKSUMTYPE="MD5" SIZE="38996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00135_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="b156f5757aa0bdd115740cb3d5b8a213" CHECKSUMTYPE="MD5" SIZE="1950846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00134_0.jp2"/>
+      </file>
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="99bc3892785b838da5ac54e3848f9798" CHECKSUMTYPE="MD5" SIZE="2618491">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00134_1.jp2"/>
+      </file>
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="d975ed254490c7ffb0873b122895eda3" CHECKSUMTYPE="MD5" SIZE="2414650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00135_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="5a724fae44a7906692c8210dbebcec7c" CHECKSUMTYPE="MD5" SIZE="39692">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00134_0.xml"/>
+      </file>
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="aacde96327ebd099bc599e278535ab3a" CHECKSUMTYPE="MD5" SIZE="93493">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00134_1.xml"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="98e6c8616e25868eeccee533358f9b44" CHECKSUMTYPE="MD5" SIZE="68095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00135_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0043" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="243" firstpage="241">
+              <court pgmap="267" id="b267-5">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="267" id="b267-4">CA CR 88-162</docketnumber>
+              <citation pgmap="267" id="AUh">762 S.W.2d 806</citation>
+              <parties pgmap="267" id="b267-3">STATE of Arkansas v. Levi HARVEST</parties>
+              <decisiondate pgmap="267" id="b267-6">Opinion delivered January 18, 1989</decisiondate>
+              <judges pgmap="269" id="b269-7">Jennings and Mayfield, JJ., agree.</judges>
+              <attorneys pgmap="267" id="b267-11">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellant.</attorneys>
+              <attorneys pgmap="267" id="b267-12">No brief filed.</attorneys>
+              <opinion type="majority">
+                <author pgmap="267" id="b267-13">James R. Cooper, Judge.</author>
+                <p pgmap="267(112) 268(24)" id="AZR">In this criminal case the appellee, Levi Harvest, was charged with delivery of a controlled sub­stance. At the close of the State’s case, the trial court granted the appellee’s motion for a directed verdict. The State appeals, arguing three points: that the trial court erred in ruling that Dale Arnold’s in-court repetition of Frederick Swopes’ statements, made in the course of the drug deal, was accomplice testimony; that the trial court erred in ruling that the appellee could not be convicted as an accomplice because his alleged accomplice, Frederick Swopes, had been acquitted of the charge; and that the trial court erred in ruling that the State’s case against the appellee for delivery of a controlled substance and the lesser included offense of delivery of a controlled substance was not sufficient. We dismiss the appeal.</p>
+                <p pgmap="268" id="b268-6">The record reveals that Dale Arnold, a narcotics officer with the Arkansas State Police, entered the appellee’s pawn shop and inquired about the purchase of illegal drugs. According to Arnold, the appellee told him he would send someone to take care of him. Approximately fifteen minutes later, Arnold was ap­proached by Frederick Swopes. Swopes offered to sell Meperidine capsules to Arnold for $20.00 a capsule. Arnold objected to the price and according to Arnold, Swopes stated that he had to check with the appéllee. The only other testimony was that of Swopes: he stated that he got the capsules from the appellee, that he gave the capsules to Arnold, and that he did not receive any money. Swopes denied that he gave any money to the appellee and stated that he did not say that he had to check with the appellee about the price of the capsules.</p>
+                <p pgmap="268" id="b268-7">
+                   In criminal cases involving a felony, the State may appeal after the attorney general has inspected the record and determined that the trial court has committed an error, correction of which is essential to the proper and uniform administration of the criminal laws of the state. A.R.Cr.P. Rule 36.10(c). In all such cases, regardless of the decision in this court, the trial had below is a bar to any subsequent trial of the accused for the same offense, the only possible result of the appeal being a ruling by us on questions of law that might serve as a guide in future trials. See State v. Dixon, 209 Ark. 155, 189 S.W.2d 787 (1945); Ark. Code Ann. § 16-91-114 (1987); A.R.Cr.P. Rule 36.10. Usually such issues involve a question as to the sufficiency of the information, the admissibility of testimony, the competency of witnesses, the correctness of instructions, or any other question, the determina­tion of which might furnish a precedent which would be “impor­tant to the correct and uniform administration of the criminal law.” Dixon at 159, 189 S.W.2d at 789. Furthermore, where the appeal by the State presents only the question of the sufficiency of corroborating testimony of the appellee’s accomplices in the commission of the crime charged, it will be denied, since that is a question of fact. State v. Massey, 194 Ark. 439, 107 S.W.2d 527 (1937).</p>
+                <p pgmap="269" id="b269-5">In the case at bar, all of the issues raised by the State involve the sufficiency of the evidence or the sufficiency of the corroborat­ing evidence. Although the trial court commented on the fact that he did not think Swopes’ statement that he had to check with the appellee about the price of the drugs was in fact accomplice testimony, it is clear from the written order that the trial court based its decision for directing the verdict on the absence of sufficient evidence. The same is true, for the State’s second point: the trial court expressed concern that Swopes was acquitted of delivery and convicted by a jury of the lesser included offense of possession and stated that in all good conscience it could not give the instruction for delivery to the jury. However, in spite of the trial court’s statement, in the written order, the trial court’s basis for the directed verdict was the insufficiency of the evidence. The State’s third point is again a challenge to the sufficiency of the evidence, and the State concedes this in its brief. We simply cannot base an opinion on the trial court’s concerns and specula­tions, and as in the case of the State’s second point, a trial court’s expression of what it might do. The trial court clearly and unambiguously directed the verdict because it found that the State had not proven that the appellee was connected to either the drugs or the money exchanged for the drugs.</p>
+                <p pgmap="269" id="b269-6">Appeal dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="267" ORDERLABEL="241" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.2" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="268" ORDERLABEL="242" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.2" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="243" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.2" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUh" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.5" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.5" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-6" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.7" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-4" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.4" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.6" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-3" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-12" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.14" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-13" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.15" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZR" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.16" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_267.17" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-7" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-11" BETYPE="IDREF" FILEID="casebody_0043"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.13" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

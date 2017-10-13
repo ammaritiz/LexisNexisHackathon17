@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000712_0012" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. State">Patrick William SMITH v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-1323</docketnumber>
+          <citation category="official" type="bluebook">79 Ark. App. 79</citation>
+          <citation category="parallel" type="bluebook">84 S.W.3d 59</citation>
+          <decisiondate>2002-09-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T02:12:41Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:41:47Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T12:54:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T12:57:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="93541f7c4766fd14612b080841c6ec14" CHECKSUMTYPE="MD5" SIZE="7102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="1fbc481ea82e4edb4ff349147b60b312" CHECKSUMTYPE="MD5" SIZE="39900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="cd54013c69e654d718c075f3bb739d97" CHECKSUMTYPE="MD5" SIZE="51246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00054_0.tif"/>
+      </file>
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="d5a46b7af096908bdf2985061700cbf6" CHECKSUMTYPE="MD5" SIZE="54238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="d9d8912384e43ca413c5b2456ea272e3" CHECKSUMTYPE="MD5" SIZE="54604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="c4791c7c3d6fc1d36d54b1542cf40ccb" CHECKSUMTYPE="MD5" SIZE="13338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00055_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="51cb892404984413b68a332815bac9a7" CHECKSUMTYPE="MD5" SIZE="1413441">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="678eb98785b242613bc55ec625a6c0b8" CHECKSUMTYPE="MD5" SIZE="2267446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="5ab0a1c8617b451b274daa21213b8195" CHECKSUMTYPE="MD5" SIZE="2497128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00054_0.jp2"/>
+      </file>
+      <file ID="jp2_00054_1" MIMETYPE="image/jp2" CHECKSUM="70aae47d8bfe55b5028dcb56def53e97" CHECKSUMTYPE="MD5" SIZE="2576189">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00054_1.jp2"/>
+      </file>
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="c82a99c933728678209ed6a81bf9c15a" CHECKSUMTYPE="MD5" SIZE="2589201">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="6d61b06c25911eca76ff7e5954cf3421" CHECKSUMTYPE="MD5" SIZE="1716139">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00055_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="94874b59be2b1fab412cd7eb9fdce7ec" CHECKSUMTYPE="MD5" SIZE="8472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="d97761d3be7cb65d05bf1de3be274bed" CHECKSUMTYPE="MD5" SIZE="64438">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="ca5c22ab486744dbce9eb8df3eaf38c8" CHECKSUMTYPE="MD5" SIZE="88821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00054_0.xml"/>
+      </file>
+      <file ID="alto_00054_1" MIMETYPE="text/xml" CHECKSUM="7eecd36e2ec5337c4de6b4fa2168b60f" CHECKSUMTYPE="MD5" SIZE="96170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00054_1.xml"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="a370c2d791e700ce364d7ed5576dae59" CHECKSUMTYPE="MD5" SIZE="91294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="670736d751f405d5c5c367f7963216b2" CHECKSUMTYPE="MD5" SIZE="20169">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00055_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="79" lastpage="84">
+              <court pgmap="105" id="b105-4">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber pgmap="105" id="A38">CA CR 01-1323</docketnumber>
+              <citation pgmap="105" id="A3q">84 S.W.3d 59</citation>
+              <parties pgmap="105" id="b105-3">Patrick William SMITH v. STATE of Arkansas</parties>
+              <decisiondate pgmap="105" id="b105-5">Opinion delivered September 11, 2002</decisiondate>
+              <judges pgmap="110" id="b110-6">Stroud, C.J., and Robbins, J., agree.</judges>
+              <attorneys pgmap="106" id="b106-8">Stephen E. Morely, for appellant.</attorneys>
+              <attorneys pgmap="106" id="b106-9">Katherine Adams, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="106" id="b106-10">Josephine Linker Hart, Judge.</author>
+                <p pgmap="106" id="A_-">Appellant, Patrick Wil­liam Smith, pleaded guilty to being a felon in possession of a firearm, possession of methamphetamine, possession of drug par­aphernalia, and possession of marijuana, and was sentenced as a habitual offender to a total sentence of fifty-four months’ impris­onment in the Arkansas Department of Correction. He, however, preserved his right to appeal from the trial court’s denial of his motion to suppress evidence, and he argues on appeal, as he did below, that items seized from his residence should have been sup­pressed because the search-warrant affidavit did not provide a time-frame for the events described in the affidavit. We reverse and remand.</p>
+                <p pgmap="106(142) 107(119)" id="b106-13">The following averments were presented to the issuing mag­istrate: The affiant, Deputy Steve Rich, stated in the affidavit’s first paragraph that he was “currently assisting” Detective Jim Kulesa in a case involving appellant’s two children who were resid­ing in appellant’s home. According to Rich, the children were removed from the home because of physical abuse by appellant. He noted that the juveniles reported to Detective Kulesa that they had seen marijuana and scales in appellant’s bedroom on “the day of the interview.” Rich also stated that affidavits were obtained for appellant’s arrest on second-degree battery. In the second par­agraph, Rich stated that he had spoken with a confidential informant who stated that appellant was providing drugs to the informant’s son. The informant also stated that appellant had “sold marijuana for years and continued to do so.” Rich noted in the third paragraph that a confidential informant had told Rich that he had used and bought marijuana from appellant at his resi­dence “on numerous occasions.” The fourth paragraph provided that Rich had arrested two persons at appellant’s address for deliv­ery of a controlled substance. They told Rich that they were bringing appellant “something.” Rich also stated that other per­sons who were nearby were also arrested for offenses related to controlled substances. These persons were also seen at appellant’s address “on several occasions.” In the fifth paragraph, Rich noted that appellant is a convicted felon and “has” been arrested on vari­ous charges. Informants also stated that appellant “has” guns in his residence and “has” surveillance equipment.</p>
+                <p pgmap="107" id="b107-5">On the basis of the affidavit, the magistrate issued a search warrant covering appellant’s property. Ultimately, appellant sought to suppress various items seized during the search. Appel­lant argued to the trial judge, who was also the issuing magistrate, that the items should be suppressed because nothing in the affida­vit indicated when the events described in the affidavit occurred. The judge disagreed, noting that he also served as the trial judge in a case involving the removal of the children from the home. The judge stated:</p>
+                <blockquote pgmap="107" id="b107-6">This Court was the judge involving the removal of those children from that home. That was in the close proximity of time to this affidavit and search warrant. Having that knowledge, the Court has no choice but to deny your motion to suppress.</blockquote>
+                <p pgmap="107" id="b107-7">When asked whether the court was basing its denial of the motion to suppress on his familiarity with the removal of the children from the home, the court further stated:</p>
+                <blockquote pgmap="107" id="b107-8">Yes. Not knowing their father, not knowing anything about the background, but also knowing that they — that these chil­dren are the ones who gave the initial information to the other officers and to the Department of Human Services for their removal. The children were removed for abuse, not for — but that information arose out of the removal of those children.</blockquote>
+                <blockquote pgmap="107" id="b107-9">Now, whether or not Deputy Rich was — had an ongoing investigation of Mr. Smith at that time, I don’t know, other than the fact that he said that in his affidavit.</blockquote>
+                <blockquote pgmap="108" id="b108-4">But the information from the children that there were drugs in the house and paraphernalia in the house was in close proxim­ity, which was fresh information. And a current investigation would indicate to the Court — and any judge would look at that with a view that an investigation was perhaps not of longstanding, but ongoing at that current time.</blockquote>
+                <blockquote pgmap="108" id="b108-5">And, so, I think that the law has been sufficiently satisfied.</blockquote>
+                <p pgmap="108" id="b108-6">Appellant argues on appeal that the court erred in so ruling because the affidavit did not provide a time-frame for the events described in the affidavit. He further argues that the court erred in looking beyond the affidavit to establish the time of events dis­cussed in the affidavit. The State counters by arguing that a time-­frame may be inferred because the affidavit provided that Deputy Rich was “currently assisting” Detective Kulesa, which indicates that the information contained in the affidavit was fresh. Further, the State urges that the absence of a reference to time in an affida­vit does not make the warrant automatically defective if the reviewing court can establish good-faith reliance on the search warrant by the police.</p>
+                <p pgmap="108(214) 109(27)" id="b108-7">
+                   When reviewing a trial court’s denial of a motion to suppress, we reverse only if the trial court’s decision was clearly against the preponderance of the evidence. Heaslet v. State, 77 Ark. App. 333, 339, 74 S.W.3d 242, 245 (2002). The Arkansas Supreme Court has held that the absence of a reference to time in a search warrant affidavit will not render the warrant defective if we can look to the four corners of the affidavit and infer the time during which the observations were made. Herrington v. State, 287 Ark. 228, 232, 697 S.W.2d 899, 900-01 (1985). Further, citing United States v. Leon, 468 U.S. 897 (1984), our court has noted that we will not exclude evidence obtained by the police acting in reasonable reliance on a search warrant that is ultimately found to be invalid. Heaslet, 77 Ark. App. at 341, 74 S.W.3d at 247. In Herrington, however, the Arkansas Supreme Court held that when the omission of any reference of time is so complete that none can be inferred, a police officer’s reliance on the search warrant is unreasonable. Herrington, at 232-33, 697 S.W.2d at 901. See Henry v. State, 29 Ark. App. 5, 11, 775 S.W.2d 911, 914-15 (1989); Ulrich v. State, 19 Ark. App. 62, 66-71, 716 S.W.2d 777, 779-82 (1986); see also Heaslet, 77 Ark. App. at 344-45, 74 S.W.3d at 248-49; Hartsfield v. State, 76 Ark. App. 18, 21-22, 61 S.W.3d 190, 192-93 (2001).</p>
+                <p pgmap="109" id="b109-5">The affidavit does not contain a reference to time, and a time element cannot be inferred from the four corners of the affidavit. While the affidavit provides that Rich was “currently assisting” Detective Kulesa in a case involving two juveniles residing in appellant’s home, the affidavit does not indicate when the juveniles saw the marijuana and scales in appellant’s bedroom other than to note it was on “the day of the interview,” which is not further described. The information from one informant that appellant had “sold marijuana for years and continued to do so” and from an informant that he had used and bought marijuana from appellant at his residence “on numerous occasions,” fails to specify when the information was obtained from the informants or when the described events occurred. The descriptions of the arrest of two persons at appellant’s address for delivery of a con­trolled substance and the arrest of persons nearby for offenses related to controlled substances also lack any reference to time, as does the description of the presence of these other persons at the residence. Finally, Rich’s information that appellant is a felon and “has” been arrested, and information from informants that appellant “has” guns and surveillance equipment fails to indicate a time-frame for the dates of the arrests and when the information was obtained from the informants.</p>
+                <p pgmap="109(136) 110(16)" id="b109-6">
+                   Thus, we conclude that no time-frame may be inferred from the affidavit. And as previously noted, the Arkansas Supreme Court has proscribed the application of a good-faith analysis to cases in which there is no reference to time in the affi­davit and none may be inferred, as reliance on the warrant by the police is unreasonable. Furthermore, it was inappropriate for the trial court to consider evidence from other proceedings. The court’s observations were to matters outside the search-warrant affidavit, and we cannot look to facts outside of the affidavit to determine probable cause. Sims v. State, 333 Ark. 405, 410, 969 S.W.2d 657, 660 (1998), cert. denied, 525 U.S. 1073 (1999). Moreover, the Arkansas Supreme Court has stated that judicial notice may not be taken of the record in a separate case. Smith v. State, 307 Ark. 223, 228-29, 818 S.W.2d 945, 948 (1991). Con­sequently, we reverse and remand.<footnotemark>1</footnotemark>
+                </p>
+                <p pgmap="110" id="b110-5">Reversed and remanded.</p>
+                <footnote label="1">
+                  <p pgmap="110" id="b110-15">1 Because this issue is dispositive of the case, we do not address appellant’s other objections to the search-warrant affidavit.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="105" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.2" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="108" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jp2_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.1" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-15" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.6" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.8" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.9" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.7" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-13" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.13" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.10" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.3" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.5" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.6" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_109.1" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_-" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.11" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_106.12" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.8" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.7" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.5" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.4" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A38" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3q" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000631_0016" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Warren v. Warren">Oliver WARREN v. Linda WARREN</name>
+          <docketnumber>CA 90-171</docketnumber>
+          <citation category="official" type="bluebook">33 Ark. App. 63</citation>
+          <citation category="parallel" type="bluebook">800 S.W.2d 730</citation>
+          <decisiondate>1990-12-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T21:40:11Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:51:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T13:44:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T13:44:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="f7eced0b9d1a64d808647bec847f98be" CHECKSUMTYPE="MD5" SIZE="19030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00043_0.tif"/>
+      </file>
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="d3010c8aa758af8826a7af576e0b62c6" CHECKSUMTYPE="MD5" SIZE="53648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="8d49502b26282fb8d362051f2d1181a1" CHECKSUMTYPE="MD5" SIZE="46028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00044_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="5c9bf91f76fce2ef97c12d98d08b733a" CHECKSUMTYPE="MD5" SIZE="1895443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00043_0.jp2"/>
+      </file>
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="0a2aaebbd45ccacb35c450df43f6d71a" CHECKSUMTYPE="MD5" SIZE="2530382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="654c880817a60fa964b0545bc684e5cb" CHECKSUMTYPE="MD5" SIZE="2477546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00044_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="3aa6e4408360e7db18a96d625aff941d" CHECKSUMTYPE="MD5" SIZE="30062">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00043_0.xml"/>
+      </file>
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="1348c8cb0fa436d642f4185c5a504ba3" CHECKSUMTYPE="MD5" SIZE="90393">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="114fb0524f9a5b07566aec6a0e0b109f" CHECKSUMTYPE="MD5" SIZE="78643">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00044_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="65" firstpage="63">
+              <court id="b85-11" pgmap="85">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b85-10" pgmap="85">CA 90-171</docketnumber>
+              <citation id="A8l" pgmap="85">800 S.W.2d 730</citation>
+              <parties id="b85-9" pgmap="85">Oliver WARREN v. Linda WARREN</parties>
+              <decisiondate id="b85-12" pgmap="85">Opinion delivered December 26, 1990</decisiondate>
+              <judges id="b87-12" pgmap="87">Corbin, C.J., and Cooper, J., agree.</judges>
+              <attorneys id="b85-19" pgmap="85">Butler, Hicky &amp; Long, by: Fletcher Long, Jr., for appellant.</attorneys>
+              <attorneys id="b85-20" pgmap="85">Easley &amp; Hicky, by: B. Michael Easley, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b85-21" pgmap="85">John E. Jennings, Judge.</author>
+                <p id="AdU" pgmap="85(27) 86(68)">Linda and Oliver Warren were married on August 31, 1986, and separated on August 31, 1989. While married they lived in the wife’s home in Hughes, Arkansas. They apparently accumulated no marital property and had no children. The chancellor granted Mrs. Warren a divorce on the grounds of general indignities and returned the parties’ non-­marital property to them. The court also directed Mr. Warren to pay part of two credit card bills and to reimburse her for half of the money she borrowed to pay one-half of joint federal and state income tax liabilities.</p>
+                <p id="b86-6" pgmap="86">On appeal, Mr. Warren contends that the chancellor had no authority to “divide marital debts.” The leading case in this state regarding the responsibilities and powers of the chancellor relating to debts in a divorce case is Hackett v. Hackett, 278 Ark. 82, 643 S.W.2d 560 (1982). In Hackett the court said:</p>
+                <blockquote id="b86-7" pgmap="86">The only aspect of the case that is troublesome is the fact the chancellor found Act 714 did not require him to divide the debts. The parties offered evidence that their outstanding debts, besides mortgage payments on real estate, were about $13,555. The list totalled over thirty different debts and in most instances it is not clear who incurred the debts. The chancellor was not required by Act 714 to divide the debts, that is, to consider each debt and assign a party to pay it. But he was obligated to consider those debts in deciding the questions of alimony, support for the children, and perhaps the division of the property, and the chancellor may well have done so. Debts of the parties have always been a circumstance to be considered in divorce cases in awarding alimony. Debts incurred on behalf of minor children can be ordered paid. Debts incurred by the parties regarding marital property can be ordered to be settled as between the parties. Parties can be enjoined from incurring debts that will encumber prop­erty. Obligations jointly made by the parties can be ordered to be settled, as between the parties. An award of realty to the wife, silent as to who shall pay the mortgage, is an award subject to the mortgage.</blockquote>
+                <blockquote id="b86-8" pgmap="86(50) 87(20)">Indeed it would be unrealistic for a chancellor to refuse to consider the debts of the parties in deciding a divorce case. But that does not mean the chancellor must divide the debts. He may leave the parties as he found them, obligated individually or jointly to the creditor who is not ordinarily a party to a divorce and cannot therefore be bound by an order regarding the parties’ debts.</blockquote>
+                <p id="b87-6" pgmap="87">278 Ark. at 85 (citations omitted).</p>
+                <p id="b87-7" pgmap="87">
+                   While it is true, as appellant contends, that the code does not expressly give the chancellor the power to allocate marital debts as between the parties, the clear implication from Hackett is that he does possess such power. See also McMurtray v. McMurtray, 275 Ark. 303, 629 S.W.2d 285 (1982). The reasons for so holding were expressed in Srock v. Srock, 11 Ariz. App. 483, 466 P.2d 34 (1970):</p>
+                <blockquote id="b87-8" pgmap="87">We particularly are compelled to affirm the trial court’s discretion to allocate community liabilities because to do otherwise would nullify divorce effectiveness. If the debts already owed by the community, as distinct from the wife’s attorneys fees, cannot be allocated between the parties then an essential item of divorce dispute remains unresolved.</blockquote>
+                <p id="b87-9" pgmap="87">11 Ariz. App. at 484, 466 P.2d at 34. See also Cadwell v. Cadwell, 126 Ariz. 460, 616 P.2d 920 (Ariz. Ct. App. 1980) (court has jurisdiction and inherent authority to allocate debts). We hold that the chancellor had the power to adjust the marital debts as between the parties.</p>
+                <p id="b87-10" pgmap="87">
+                   Appellant also contends that the appellee’s payment of the joint tax liability and the credit card bills were a gift from her to him. Whether the elements of an effective inter vivos gift have been proven is a question of fact. See McCune v. Brown, 8 Ark. App. 51, 648 S.W.2d 811 (1983). The elements, including an intention on the part of the donor to make a gift, must be established by clear and convincing evidence. McCune, supra. On appeal, our standard of review is whether the chancellor’s finding in this regard is clearly erroneous. See Freeman v. Freeman, 20 Ark. App. 12, 722 S.W.2d 877 (1987). In the case at bar we cannot say that the chancellor’s finding that no gift was intended is clearly erroneous.</p>
+                <p id="b87-11" pgmap="87">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="85" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.3" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="86" ORDERLABEL="64" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.3" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.4" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.5" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.6" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.7" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.8" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8l" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.10" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.6" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_87.1" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.5" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.4" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.12" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.9" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.11" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-19" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.20" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-11" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.9" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.8" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-21" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.22" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-12" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.10" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdU" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.23" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            <area BEGIN="BL_85.24" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            <area BEGIN="BL_86.1" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-20" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.21" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000662_0016" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Willingham v. State">O.C. WILLINGHAM v. STATE of Arkansas</name>
+          <docketnumber>CA CR 96-1222</docketnumber>
+          <citation category="official" type="bluebook">60 Ark. App. 132</citation>
+          <citation category="parallel" type="bluebook">959 S.W.2d 74</citation>
+          <decisiondate>1998-01-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T23:59:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:55:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:32:16Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:32:59Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00077_1" MIMETYPE="image/tiff" CHECKSUM="f75f6668c51813e08aeabffa529e93f8" CHECKSUMTYPE="MD5" SIZE="6796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00077_1.tif"/>
+      </file>
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="721505fd97090afbade86b2a1c555985" CHECKSUMTYPE="MD5" SIZE="35744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="41875c43f4af29955acc0350e21d7bc8" CHECKSUMTYPE="MD5" SIZE="54646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="ea660e6a4b2f0454a5bb358f5df7e484" CHECKSUMTYPE="MD5" SIZE="11078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00079_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00077_1" MIMETYPE="image/jp2" CHECKSUM="157b00608bac39e9dacb06a15db5306b" CHECKSUMTYPE="MD5" SIZE="1348154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00077_1.jp2"/>
+      </file>
+      <file ID="jp2_00078_0" MIMETYPE="image/jp2" CHECKSUM="4d76edf2885d61f9c2bd5be028b40664" CHECKSUMTYPE="MD5" SIZE="2236653">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00078_0.jp2"/>
+      </file>
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="824a9aaf8751b0f6d9dc58d70c7de199" CHECKSUMTYPE="MD5" SIZE="2556674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="cc36b632677f0e161415c0ffad48726e" CHECKSUMTYPE="MD5" SIZE="1682743">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00079_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00077_1" MIMETYPE="text/xml" CHECKSUM="9bc679bac007eafb037799b51f563893" CHECKSUMTYPE="MD5" SIZE="8239">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00077_1.xml"/>
+      </file>
+      <file ID="alto_00078_0" MIMETYPE="text/xml" CHECKSUM="4526e2c1a9d497598f155c033f7f6d30" CHECKSUMTYPE="MD5" SIZE="58348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00078_0.xml"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="7d486e43d9842ab2bc71294189a993a0" CHECKSUMTYPE="MD5" SIZE="99178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="16a84a5f2ae5507b69acb9965e4b9505" CHECKSUMTYPE="MD5" SIZE="15507">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00079_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="135" firstpage="132">
+              <court id="AZq" pgmap="154">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber id="AOBt" pgmap="154">CA CR 96-1222</docketnumber>
+              <citation id="AND" pgmap="154">959 S.W.2d 74</citation>
+              <parties id="b154-3" pgmap="154">O.C. WILLINGHAM v. STATE of Arkansas</parties>
+              <decisiondate id="AAD" pgmap="154">Opinion delivered January 21, 1998</decisiondate>
+              <judges id="b157-5" pgmap="157">Arey and Roaf, JJ., agree.</judges>
+              <attorneys id="b155-6" pgmap="155">Honey &amp; Honey, P.A., for appellant.</attorneys>
+              <attorneys id="b155-7" pgmap="155">Winston Bryant, Att’y Gen., by: Kent G. Holt, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b155-8" pgmap="155">John Mauzy Pittman, Judge.</author>
+                <p id="Avk" pgmap="155">The appellant in this crimi­nal case was charged with delivery of cocaine. After a jury trial, he was convicted of that offense and sentenced to ten years in the Arkansas Department of Correction. From that conviction, comes this appeal.</p>
+                <p id="b155-9" pgmap="155">For reversal, appellant contends that there is insufficient evi­dence to support his conviction for delivery of cocaine. He argues that an audiotape played for the jury and a witness’s testimony based on that audiotape should not have been admitted into evi­dence, and asks us to disregard those items of evidence and hold that the remaining evidence is insufficient to sustain his conviction.</p>
+                <p id="b155-10" pgmap="155(110) 156(20)">
+                   Appellant’s argument misconstrues our review of the sufficiency of the evidence. We consider sufficiency questions before we consider any alleged trial errors. In determining whether a finding of guilt is supported by substantial evidence, we review the evidence, including any that may have been erroneously admitted, in the fight most favorable to the verdict. Davis v. State, 318 Ark. 212, 885 S.W.2d 292 (1994); Harris v. State, 284 Ark. 247, 681 S.W.2d 334 (1984). Here the evidence, including that alleged to have been erroneously admitted, shows that a confiden­tial informant arrived at appellant’s home on the day in question, told appellant that he wanted a “five-oh,” gave appellant $50.00, and received two rocks of crack cocaine. This evidence is suffi­cient to support the jury’s finding of appellant’s guilt.</p>
+                <p id="b156-5" pgmap="156">
+                   Nor do we think that the evidence in question was improperly admitted.<footnotemark>1</footnotemark> Appellant contends that the audiotaped conversation of the transaction between himself and the informant should not have been considered by the jury because it was inau­dible and, therefore, was untrustworthy. However, such record­ings are admissible unless the inaudible portions are so substantial as to render the recording as a whole untrustworthy. Loy v. State, 310 Ark. 33, 832 S.W.2d 499 (1992). This is a matter within the trial court’s discretion, and we will not reverse absent an abuse of that discretion. Id. According to the appellant’s abstract in the case at bar, approximately half of the audiotape that was played for the jury was audible, including the question “what do you need now” and the response “I need a five-oh.” The circuit court did not believe that the tape was so deficient as to be of no assistance to the jury, and we cannot say that the circuit court abused its discretion on this point.</p>
+                <p id="b156-6" pgmap="156(124) 157(21)">
+                   Appellant also argues that the trial court erred in allowing Agent Richard Wiggins to “interpret” the audiotape. We do not agree. Although Agent Wiggins testified concerning what was said on the tape, this was in response to a question regarding what he had heard while auditing the conversation as it took place. Furthermore, Agent Wiggins’s testimony was limited to those parts of the conversation that were audible on the audi­otape. Finally, while Agent Wiggins was allowed to testify that “five-oh” was a term meaning fifty dollars worth of illegal drugs, this testimony was based on his specialized training and experience as a police officer engaged in drug task force assignments. Because Agent Wiggins could have qualified as an expert in this area under Ark. R. Evid. 702, his testimony was not improperly admitted. See Martin v. State, 328 Ark. 420, 944 S.W.2d 512 (1997).</p>
+                <p id="b157-4" pgmap="157">Affirmed.</p>
+                <footnote label="1">
+                  <p id="b156-7" pgmap="156">1 Appellant asserts on appeal that the audiotape was never formally introduced into evidence, although the tape was played for the jury and the jury was permitted, without objection, to take the tape to the jury room during deliberation. Although appellant, after the close of all the evidence, raised questions concerning the formalities of the audiotape’s introduction, no objection was made, no relief was requested, and no ruling was obtained. Under these circumstances, no issue relating to the formalities of the audiotape’s introduction is before us. See Burton v. State, 327 Ark. 65, 937 S.W.2d 634 (1997); Jones v. State, 326 Ark. 61, 931 S.W.2d 83 (1996).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="154" ORDERLABEL="132" TYPE="page">
+        <fptr FILEID="tiff_00077_1"/>
+        <fptr FILEID="jp2_00077_1"/>
+        <fptr FILEID="alto_00077_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.1" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="155" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jp2_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.2" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.8" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.11" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-4" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.4" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-5" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.5" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.6" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.7" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AND" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.5" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.6" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_157.1" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-3" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.3" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAD" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.7" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZq" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.6" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOBt" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.4" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.12" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avk" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.9" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_155.10" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

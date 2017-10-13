@@ -1,0 +1,811 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000715_0017" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. State">Chris SMITH v. STATE of Arkansas</name>
+          <docketnumber>CA CR 98-1353</docketnumber>
+          <citation category="official" type="bluebook">68 Ark. App. 106</citation>
+          <citation category="parallel" type="bluebook">3 S.W.3d 712</citation>
+          <decisiondate>1999-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:23:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:14Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-25T12:34:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-25T12:35:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="284158a27caedd5df4d7116ff5a9750e" CHECKSUMTYPE="MD5" SIZE="7650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="301a435a51f298d996cbddc6a0392d60" CHECKSUMTYPE="MD5" SIZE="3982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00068_0.tif"/>
+      </file>
+      <file ID="tiff_00068_1" MIMETYPE="image/tiff" CHECKSUM="9d24de078677d95a5bbcdd7ec2818e94" CHECKSUMTYPE="MD5" SIZE="41418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00068_1.tif"/>
+      </file>
+      <file ID="tiff_00069_0" MIMETYPE="image/tiff" CHECKSUM="4b252d28ef2638111e2627a1ca771e02" CHECKSUMTYPE="MD5" SIZE="56746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00069_0.tif"/>
+      </file>
+      <file ID="tiff_00069_1" MIMETYPE="image/tiff" CHECKSUM="63f9298dbc91e251e06d72e289faf02d" CHECKSUMTYPE="MD5" SIZE="55700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00069_1.tif"/>
+      </file>
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="21c1939be89bf1d8429eb14bc49f44d8" CHECKSUMTYPE="MD5" SIZE="57612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="7446b93780bb73c2a318114df261cb65" CHECKSUMTYPE="MD5" SIZE="57644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="f948c18fb000044ce5c2b326ab5b9944" CHECKSUMTYPE="MD5" SIZE="49288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="07b398b707717f165ba1fcc16a0d54f2" CHECKSUMTYPE="MD5" SIZE="50618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="0b9189bfecdd70a34a2ffd43aae857b7" CHECKSUMTYPE="MD5" SIZE="19262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00072_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="7f9354476c90dfff2d5f0430c74a967a" CHECKSUMTYPE="MD5" SIZE="1277080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00067_1.jp2"/>
+      </file>
+      <file ID="jp2_00068_0" MIMETYPE="image/jp2" CHECKSUM="25c631a27d6ef29c08b31a43596b559a" CHECKSUMTYPE="MD5" SIZE="1066427">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00068_0.jp2"/>
+      </file>
+      <file ID="jp2_00068_1" MIMETYPE="image/jp2" CHECKSUM="97301d495bda9d19956b415e84e5237f" CHECKSUMTYPE="MD5" SIZE="2278065">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00068_1.jp2"/>
+      </file>
+      <file ID="jp2_00069_0" MIMETYPE="image/jp2" CHECKSUM="2914e2c9e6e31722df7b7e15b2dd0572" CHECKSUMTYPE="MD5" SIZE="2642457">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00069_0.jp2"/>
+      </file>
+      <file ID="jp2_00069_1" MIMETYPE="image/jp2" CHECKSUM="e44620d2e69366a822dd7c75d9033e8c" CHECKSUMTYPE="MD5" SIZE="2548679">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00069_1.jp2"/>
+      </file>
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="1293a543e5e68f209f6affc5d829d9fc" CHECKSUMTYPE="MD5" SIZE="2636129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="0a1275fe150fb5dd35e9b4dc4a91127f" CHECKSUMTYPE="MD5" SIZE="2605630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="c6de429686cbcc11a44aa5043a9f81fb" CHECKSUMTYPE="MD5" SIZE="2838135">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="00e6082281dfba51dd5d70956e7b03c9" CHECKSUMTYPE="MD5" SIZE="2533183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="73cb9ef1ec7f0e2e1f72d116f6b26345" CHECKSUMTYPE="MD5" SIZE="1971092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000715_00072_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="fa1580857918f41ab73f53db4bbf7b55" CHECKSUMTYPE="MD5" SIZE="8247">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00067_1.xml"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml" CHECKSUM="1915d76d1dc7066b7fe2d0e0ed3b1b39" CHECKSUMTYPE="MD5" SIZE="1687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00068_0.xml"/>
+      </file>
+      <file ID="alto_00068_1" MIMETYPE="text/xml" CHECKSUM="0604d119bafe057d650654978b50315d" CHECKSUMTYPE="MD5" SIZE="70681">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00068_1.xml"/>
+      </file>
+      <file ID="alto_00069_0" MIMETYPE="text/xml" CHECKSUM="69105cc49dcafa8d89c92139383e2375" CHECKSUMTYPE="MD5" SIZE="92825">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00069_0.xml"/>
+      </file>
+      <file ID="alto_00069_1" MIMETYPE="text/xml" CHECKSUM="ed35af98f0130cfe508f45bc4697af7b" CHECKSUMTYPE="MD5" SIZE="97501">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00069_1.xml"/>
+      </file>
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="2fc66236ae7a078eb7d0da40e6f6a156" CHECKSUMTYPE="MD5" SIZE="96679">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="04aefd70543fbe1e5b07c1d025d2a2cc" CHECKSUMTYPE="MD5" SIZE="95892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="6bdd2f6c698c91708227037670cb797d" CHECKSUMTYPE="MD5" SIZE="81319">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="8b27780cb9876d5deb7d35f813fd89e9" CHECKSUMTYPE="MD5" SIZE="80280">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="db55944ea0eee24bd7feb213f6e84848" CHECKSUMTYPE="MD5" SIZE="31454">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000715_redacted_ALTO_00072_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="106" lastpage="115">
+              <court pgmap="134" id="b134-4">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber pgmap="134" id="b134-3">CA CR 98-1353</docketnumber>
+              <citation pgmap="134" id="ANP">3 S.W.3d 712</citation>
+              <parties pgmap="134" id="b134-2">Chris SMITH v. STATE of Arkansas</parties>
+              <decisiondate pgmap="134" id="b134-5">Opinion delivered November 17, 1999</decisiondate>
+              <judges pgmap="143" id="b143-7">Robbins, C.J., and Jennings, J., agree.</judges>
+              <attorneys pgmap="136" id="b136-7">C. Scott Nance, for appellant.</attorneys>
+              <attorneys pgmap="136" id="b136-8">Mark Pryor, Att’y Gen., by: Sandy Moll, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="136" id="b136-10">J­ohn F. Stroud, Jr., Judge.</author>
+                <p pgmap="136" id="Ay-">Chris Smith was charged with manufacturing a controlled substance and possessing drug paraphernalia, the charges being brought after the Third judicial</p>
+                <p pgmap="136" id="AA3">Drug Task Force executed a search warrant upon his home. He was convicted by a jury and sentenced to respective terms of one hun­dred forty-four months and twenty months in the Arkansas Depart­ment of Correction, the terms to run consecutively. On appeal he contends that the trial court erred 1) by denying his right to choose his own counsel or to proceed pro se, 2) by denying his motion to exclude his inculpatory statements, 3) by denying his motion for a directed verdict, and 4) by failing to give his proffered jury instruc­tion. We first address the trial court’s denial of the motion for a directed verdict. Finding no error on this or the remaining points, we affirm the conviction.</p>
+                <p pgmap="136" id="b136-11">Í. Whether the trial court erred in denying appellant’s motion for a directed verdict.</p>
+                <p pgmap="136(107) 137(23)" id="b136-12">
+                   A motion for a directed verdict is a challenge to the sufficiency of the evidence, which we consider before any other points on appeal. Goins v. State, 318 Ark. 689, 890 S.W.2d 602 (1995). The test for determining the sufficiency of the evidence is whether the verdict is supported by substantial evidence, direct or circumstantial. Thomas v. State, 312 Ark. 158, 847 S.W.2d 695 (1993). In determining whether a finding of guilt is supported by substantial evidence, we review the evidence, including any that may have been erroneously admitted, in the light most favorable to the verdict. Willingham v. State, 60 Ark. App. 132, 959 S.W.2d 74 (1998). Substantial evidence is evidence forceful enough to compel a conclusion one way or the other without resort to suspicion or conjecture. Id.</p>
+                <p pgmap="137" id="b137-6">At the close of the State’s case and again at the close of all the evidence, appellant moved for a directed verdict on the charge of manufacturing a controlled substance. The basis of his motion was that the State had not shown that methamphetamine had actually been manufactured, nor could it have been manufactured from the components found in the trailer where he allegedly did the manu­facturing. Arkansas Code Annotated section 5-64-101 (m) (Repl. 1997) defines “manufacture” in pertinent part as follows:</p>
+                <blockquote pgmap="137" id="b137-7">“Manufacture” means the production, preparation, propaga­tion, compounding, conversion, or processing of a controlled sub­stance, either direcdy or indirecdy by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis.</blockquote>
+                <p pgmap="137" id="b137-8">Appellant relies upon Lee v. State, 297 Ark. 421, 762 S.W.2d 790 (1989), for the proposition that the State is required to prove that the substance found must be “identifiable as the controlled substance the State charged appellant was manufacturing.” He points out that the only identifiable methamphetamine seized from his residence was found in syringes located in an area of the home separate from the area where he allegedly manufactured the sub­stance. He notes especially the testimony by State’s witnesses who had seen appellant’s home and conceded that not all of the compo­nents necessary to the manufacture of methamphetamine were pres­ent. Marvin Poe, coordinator of the judicial drug task force, testi­fied that the inventory lacked the necessary component anhydrous ammonia; chemist Linda Burdict of the state crime laboratory agreed that appellant could not manufacture methamphetamine with what he had in the house; and Officer Mike Steel stated that not everything necessary to make the substance was present.</p>
+                <p pgmap="137(80) 138(163)" id="b137-9">The State points to further testimony that among items found in the home were a bag of plastic bottles, a blue bag with filters and pill powder, two jugs of liquid with a drain opener, a potpourri heater, filters, a metal lid, a gallon jug with liquid residue, and a plastic bag with empty ephedrine boxes. Both Officer Poe and investigator John Beaver stated their opinions as experienced police officers that the items they observed constituted the makings of a methamphetamine lab. Officer Poe additionally stated that ephe­drine pills, when broken down, contain a substance needed in the manufacturing of methamphetamine; he testified that when the police officers arrived, appellant said that he was “filtering the pill powder” and “getting ready to cook,” that he was in a secret operation with the police agency to lure someone else in and make a case, and that the ether smell in the bathroom was alcohol mixed with pill powder. Ms. Burdict testified that cooking and filtering pill powder are first steps in the manufacturing process. She also said that 24.902 grams of white powder in a plastic sandwich bag was found to be seven percent pseudoephedrine, which, like ephedrine, is a precursor for the manufacture of methamphetamine. Finally, in its response to the motion for directed verdict the State noted appellant’s confession stating that an acquaintance was supposed to have brought to the house that night the ammonia needed “to finish off the cook.”</p>
+                <p pgmap="138" id="b138-6">
+                   The evidence viewed in the fight most favorable to the verdict of guilt shows that appellant’s home contained the makings of a methamphetamine laboratory and all but one component nec­essary for manufacturing methamphetamine,<footnotemark>1</footnotemark> that appellant had expected the arrival of the missing ingredient, and that he had begun the cooking process. We find that this evidence constitutes substantial evidence to sustain the verdict of guilt.</p>
+                <p pgmap="138" id="b138-7">2. Whether the trial court erred in denying appellant the right to choose his own counsel or to proceed pro se at trial.</p>
+                <p pgmap="138(53) 139(18)" id="b138-8">Appellant points out that he was forced to use his court-­appointed counsel despite repeated statements that it was against his wishes. He argues that a functioning relationship between a defend­ant and his attorney is fundamental, and that it is clear from the dialogue in chambers that appellant and his court-appointed coun­sel “lacked communication.” He concludes that the inability to aid in his own defense unfairly prejudiced his case.</p>
+                <p pgmap="139" id="b139-6">At the courthouse on the morning of his trial, appellant informed his court-appointed counsel and the court that he no longer wished to retain counsel’s services. The matter was discussed in chambers, with appellant’s sister in attendance at his request. Appellant stated, “I just fired this man.” When asked why counsel should not try the case, appellant replied that counsel would not bring forth all the evidence, had done things appellant did not want him to do, and wanted appellant “to take the stand and say I made meth and I haven’t.” Appellant concluded that “the man ain’t right,” and he told the court that he needed a reasonable bail so that he could hire a lawyer of his choice.</p>
+                <p pgmap="139" id="b139-7">Appellant’s counsel responded that he had discussed the evi­dence with appellant and devised a trial strategy based upon what counsel believed the jury would understand and what would result in the outcome most beneficial to appellant. Counsel told the court he had fully reviewed the evidence, including statements of appel­lant, statements of police officers, the crime lab report, and the search warrant, and that he had advised appellant that pleading directly to the court would be better if, in fact, appellant was guilty. Counsel also said that he told appellant they would go to the jury if that was what appellant wanted, but that appellant disagreed with counsel’s trial strategy. The trial court ruled that it did not think counsel was incompetent or acting against appellant’s interests, and that the trial would proceed with court-appointed counsel repre­senting appellant.</p>
+                <p pgmap="139(130) 140(88)" id="b139-8">
+                   The right to counsel of one’s choice is not absolute and may not be used to frustrate the inherent power of the court to command an orderly, efficient and effective administration of jus­tice. Edwards v. State, 321 Ark. 610, 906 S.W.2d 310 (1995) (citing Leggins v. State, 271 Ark. 616, 609 S.W.2d 76 (1980)). In Morris v. Slappy, 461 U.S. 1 (1982), the Court made it clear that the Sixth Amendment does not guarantee that an appointed attorney establish an exemplary rapport with the accused, nor does it guarantee an accused a “meaningful attorney-client relationship.” Burns v. State, 300 Ark. 469, 780 S.W.2d 23 (1989). Once competent counsel has been obtained, the delay involved in changing counsel must be balanced against the public’s interest in the prompt dispensation of justice. Harrison v. State, 303 Ark. 247, 796 S.W.2d 329 (1990). If change of counsel would require the postponement of trial because of inadequate time for a new attorney to properly prepare a defend­ant’s case, the court may consider such factors as the reasons for the change, whether other counsel has already been identified, whether the defendant has acted diligently in seeking the change, and whether the denial is likely to result in any prejudice to defendant. Edwards v. State, 321 Ark. 610, 906 S.W.2d 310 (1995).</p>
+                <p pgmap="140" id="b140-6">
+                   A change of attorneys close to trial would require the granting of a motion for a continuance. Leggins v. State, 271 Ark. 616, 609 S.W.2d 76 (1980). The refusal to grant a continuance in order for the defendant to change attorneys rests within the discre­tion of the trial judge, and the decision will not be overturned absent a showing of abuse of that discretion. Cooper v. State, 317 Ark. 485, 879 S.W.2d 405 (1994).</p>
+                <p pgmap="140" id="b140-7">In Burns v. State, 300 Ark. 469, 780 S.W.2d 23 (1989), and Caswell v. State, 63 Ark. App. 59, 973 S.W.2d 832 (1998), the appellate court affirmed the denial of a request for a new attorney. Counsel in Burns, after considering the charges and evidence against the defendant, frankly advised him to accept the State’s plea bargain; the Burns court held that neither the general complaint that the defendant and his attorney did not get along nor counsel’s recom­mendation to accept the plea constituted good cause to discharge appointed counsel. In Caswell, the defendant asserted his displea­sure that counsel had told him “nothin’” and requested a new attorney on the day of his revocation hearing, the defendant referred to a “tremendous breakdown” in the relationship with his attorney, and new counsel was unidentified although the defend­ant’s father told the trial court that he could borrow money to retain private counsel.</p>
+                <p pgmap="140(90) 141(36)" id="b140-8">
+                   Here, after considering the State’s charges and the evi­dence against appellant, counsel gave him frank advice to plead guilty if he was, indeed, guilty. Although counsel had been appointed over two months earlier and had represented appellant at a pretrial hearing one day before trial, appellant did not complain about counsel’s representation until the morning of trial. We note that appellant had already been granted one continuance, and a change of counsel would undoubtedly have resulted in delaying trial to allow additional time for preparation. Further, we view appel­lant’s complaints about counsel not bringing forth the evidence appellant wanted introduced as a general disagreement with trial strategy. We cannot say that the trial court abused its discretion in refusing appellant’s request for new counsel.</p>
+                <p pgmap="141" id="b141-6">3. Whether the trial court erred in denying appellant’s motion to exclude his inculpatory statement.</p>
+                <p pgmap="141" id="b141-7">Appellant contends that the State violated Rule 17.1 of the Arkansas Rules of Criminal Procedure by waiting until the last weekday before trial to inform defense counsel of statements made by appellant to the State. He states in his brief that on the following Monday he orally moved to exclude the evidence, making argu­ments based upon the State’s representations during discovery; that the trial court denied the motion to exclude; that the court failed to offer a continuance; and that the court relied upon the statements as a primary reason for denying appellant’s motion for a directed verdict. He alleges that he was prejudiced in having to go forward after the trial court failed to exclude the statements or grant other appropriate sanctions allowed by Rule 19.7 of the Arkansas Rules of Criminal Procedure.</p>
+                <p pgmap="141" id="b141-8">
+                   Arguments made to the trial court and the trial court’s ruling are vital to a review by the appellate court. Moncrief v. State, 325 Ark. 173, 925 S.W.2d 776 (1996). Here, the abstract does not include appellant’s discovery request, the State’s response to discov­ery, the statements about which appellant complains, the motion to exclude, or the trial court’s ruling on the motion. Thus, we will not address this point.</p>
+                <p pgmap="141" id="b141-9">4. Whether the trial court erred in failing to give appellant’s proffered jury instruction.</p>
+                <p pgmap="141(71) 142(19)" id="b141-10">Appellant contends on appeal, as he did below, that the jury should have been instructed on ephedrine possession with intent to manufacture methamphetamine as a lesser-included offense of man­ufacturing methamphetamine. The trial court denied the instruc­tion, ruling that “it is not a crime.” We disagree with the trial court’s ruling in light of Ark. Code Ann. § 5-64-1102 (Repl.1997), which states that possession of ephedrine with intent to manufac­ture methamphetamine is a Class D felony. The instruction was correctly refused, however, for the reasons set forth below.</p>
+                <p pgmap="142" id="b142-6">
+                   Arkansas Code Annotated section 5-64-1102 (Repl. 1997) states that it shall be unlawful for a person to possess ephe­drine, pseudoephedrine or phenylpropanolamine, or their salts, optical isomers or salts of. optical isomers with intent to manufac­ture methamphetamine. Appellant contends that the jury should have been instructed on this crime as a lesser-included offense of the manufacturing of methamphetamine, found at Ark. Code Ann. § 5-64-401 (Supp. 1999), which states that, subject to specific statutory authorization, it is unlawful for a person to manufacture, deliver, or possess with intent to manufacture or deliver a controlled substance. The State contends that the offense for which appellant requested an instruction is not a lesser-included offense of the offense with which he was charged because it contains an element of proof not required in the “greater offense,” namely, that a person possess ephedrine, pseudoephedrine or phenylpropanolamine, or their salts, optical isomers or salts of optical isomers. Our supreme court has stated that all of the elements of the lesser offense must be included in the greater offense, that the two crimes must be of the same generic class, and that the differences between the offenses must be based upon the degree of risk or risk of injury to person or property or else upon grades of intent or degrees of culpability. Thompson v. State, 284 Ark. 403, 682 S.W.2d 742 (1985).</p>
+                <p pgmap="142" id="b142-7">The first sentence of appellant’s proffered instruction, entitled “Ephedrine Possession with Intent to Manufacture Methamphetamine,” is a correct statement of the offense set forth in the code at section 5-64-1102 (Repl. 1997). However, the instruction adds the following:</p>
+                <blockquote pgmap="142" id="b142-8">To sustain the charge of Ephedrine Possession, the State must prove beyond a reasonable doubt:</blockquote>
+                <blockquote pgmap="142" id="b142-9">First: That Chris Smith intended to commit the offense of Ephe­drine Possession;</blockquote>
+                <blockquote pgmap="142" id="b142-10">and;</blockquote>
+                <blockquote pgmap="142" id="b142-11">Second: That Chris Smith recklessly engaged in the conduct of Ephedrine Possession with the intent to manufacture methamphetamine.</blockquote>
+                <p pgmap="143" id="b143-5">
+                   The proffered instruction is an incorrect statement of the law for it adds a level of culpability, recklessness, not found in the definition of the offense, and it refers to the separate offense of ephedrine possession, a crime found in the code at section 5-64-­1101 (Repl. 1997). Because the proffered instruction is an incorrect statement of the law, we need not address the issue of lesser-­included offense. The trial court’s refusal to give the instruction was not an abuse of discretion.</p>
+                <p pgmap="143" id="b143-6">Affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="138" id="b138-9">1 This issue has not been decided by the Arkansas appellate courts, but in Harris v. State, 284 Ark. 247, 681 S.W.2d 334 (1984), a van in a self-storage unit contained most of the chemicals and equipment used in the manufacture of methamphetamine, and a trace of the substance was found in containers. The conviction of manufacturing a controlled substance was reversed because the supreme court held that the evidence did not sufficiently link the defendants to the van, to the components of manufacturing the substance, or to the process of manufacturing, nor was it shown that the manufacturing process had taken place in the van.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="134" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="107" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jp2_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.3" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="136" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00068_1"/>
+        <fptr FILEID="jp2_00068_1"/>
+        <fptr FILEID="alto_00068_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_136.2" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="137" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00069_0"/>
+        <fptr FILEID="jp2_00069_0"/>
+        <fptr FILEID="alto_00069_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_137.3" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="138" ORDERLABEL="110" TYPE="page">
+        <fptr FILEID="tiff_00069_1"/>
+        <fptr FILEID="jp2_00069_1"/>
+        <fptr FILEID="alto_00069_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.2" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="139" ORDERLABEL="111" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.3" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="112" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.2" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-2" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.3" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.7" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.4" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.6" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.5" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.7" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.6" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.7" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.6" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            <area BEGIN="BL_139.1" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.4" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b139-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_139.5" BETYPE="IDREF" FILEID="alto_00070_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.6" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.9" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.7" BETYPE="IDREF" FILEID="alto_00069_0"/>
+            <area BEGIN="BL_138.1" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANP" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.6" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.14" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.8" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            <area BEGIN="BL_136.9" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b136-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.15" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            <area BEGIN="BL_137.1" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.13" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.7" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.8" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.4" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay-" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_136.10" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            <area BEGIN="BL_136.11" BETYPE="IDREF" FILEID="alto_00068_1"/>
+            <area BEGIN="BL_136.12" BETYPE="IDREF" FILEID="alto_00068_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b137-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_137.5" BETYPE="IDREF" FILEID="alto_00069_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.6" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_141.1" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

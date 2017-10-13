@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000682_0002" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Leonard v. Stidham">Leslie N. DeMoss LEONARD v. Gregory L. STIDHAM</name>
+          <docketnumber/>
+          <citation category="official" type="bluebook">59 Ark. App. 5</citation>
+          <citation category="parallel" type="bluebook">952 S.W.2d 189</citation>
+          <decisiondate>1997-10-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T23:20:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:11:05Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-25T13:10:58Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-25T13:11:56Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00017_0" MIMETYPE="image/tiff" CHECKSUM="aee5a277b1b171e962a30613cb33fb54" CHECKSUMTYPE="MD5" SIZE="30226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000682_00017_0.tif"/>
+      </file>
+      <file ID="tiff_00017_1" MIMETYPE="image/tiff" CHECKSUM="8d64ff697126144971b147f84a5b6f4d" CHECKSUMTYPE="MD5" SIZE="29024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000682_00017_1.tif"/>
+      </file>
+      <file ID="tiff_00018_0" MIMETYPE="image/tiff" CHECKSUM="aa71363f29d42bf58045cc5d7be3a2d6" CHECKSUMTYPE="MD5" SIZE="31442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000682_00018_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00017_0" MIMETYPE="image/jp2" CHECKSUM="7263612ec09c55ac89e8fa0a7b34c6db" CHECKSUMTYPE="MD5" SIZE="2300277">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000682_00017_0.jp2"/>
+      </file>
+      <file ID="jp2_00017_1" MIMETYPE="image/jp2" CHECKSUM="c0cde3390703475e34fcecf265906dbd" CHECKSUMTYPE="MD5" SIZE="2006950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000682_00017_1.jp2"/>
+      </file>
+      <file ID="jp2_00018_0" MIMETYPE="image/jp2" CHECKSUM="610dabece3da681a3d2d30e9e08eea27" CHECKSUMTYPE="MD5" SIZE="2499012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000682_00018_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00017_0" MIMETYPE="text/xml" CHECKSUM="cacd5fd1d2318c2ff210a3a7ed5ee6c3" CHECKSUMTYPE="MD5" SIZE="49993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000682_redacted_ALTO_00017_0.xml"/>
+      </file>
+      <file ID="alto_00017_1" MIMETYPE="text/xml" CHECKSUM="8c837bdc0b7cea3581b526babe0b08b8" CHECKSUMTYPE="MD5" SIZE="46587">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000682_redacted_ALTO_00017_1.xml"/>
+      </file>
+      <file ID="alto_00018_0" MIMETYPE="text/xml" CHECKSUM="e3c59aff7b43f6b97adc05eeba5451b3" CHECKSUMTYPE="MD5" SIZE="49901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000682_redacted_ALTO_00018_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="7" firstpage="5">
+              <court pgmap="33" id="b33-10">Court of Appeals of Arkansas Division II</court>
+              <citation pgmap="33" id="A4">952 S.W.2d 189</citation>
+              <parties pgmap="33" id="b33-9">Leslie N. DeMoss LEONARD v. Gregory L. STIDHAM</parties>
+              <decisiondate pgmap="33" id="b33-11">Opinion delivered October 1, 1997</decisiondate>
+              <judges pgmap="35" id="b35-8">Stroud and Neal, JJ., agree.</judges>
+              <attorneys pgmap="34" id="b34-11">Clark Law Firm, by: Greg Clark, for appellant.</attorneys>
+              <attorneys pgmap="34" id="b34-12">Xollie Duncan, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="34" id="b34-13">John Mauzy Pittman, Judge.</author>
+                <p pgmap="34" id="AWZ">The parties are the parents ofJ.D., a minor child. When J.D. was approximately one year of age, an order was entered establishing appellee’s paternity and vesting custody ofJ.D. in appellant. This custody order was made subject to detailed provisions setting out the specific time, date, and manner in which appellee’s visitation would be exercised. Shortly after J.D.’s second birthday, an order was entered altering the visitation schedule to conform with the chancellor’s opinion “that each parent is entitled [to] up to one-half of the child’s free time.” This appeal followed.</p>
+                <p pgmap="34" id="b34-14">For reversal, appellant contends that the chancellor erred in ordering a modification of visitation absent a finding that there had been a material change of circumstances since the entry of the prior order. We agree, and we reverse and remand.</p>
+                <p pgmap="34(42) 35(49)" id="b34-15">
+                   Modification of visitation rights is not permitted unless there is a sufficient change in circumstances pertinent to visitation. Harris v. Tarvin, 246 Ark. 690, 439 S.W.2d 653 (1969). In the case at bar, the chancellor candidly stated that no such change in circumstances had taken place. Instead, stating that he was clarify­ing his earlier decree by defining the meaning of a clause allowing for visitation at “other reasonable times arranged by the parties,” the chancellor radically altered the visitation schedule to allow each parent one-half of the child’s free time.</p>
+                <p pgmap="35" id="b35-5">
+                   Although disagreements between the parties concern­ing the extent of visitation authorized by an indefinite decree may be resolved by setting out definite visitation rights, Haller v. Haller, 234 Ark. 984, 356 S.W.2d 9 (1962), the original decree in the case at bar was neither indefinite nor ambiguous. To the contrary, the visitation provisions of the prior order, consisting of over two typewritten pages, were much more definite and clear than were the provisions contained in the order appealed from.</p>
+                <p pgmap="35" id="b35-6">
+                   We are not bound by the terminology used by the chancehor to describe his order. See Kennedy v. Kennedy, 19 Ark. App. 1, 715 S.W.2d 460 (1986). Although characterized as a clar­ification of the prior order, the order appealed from is clearly a significant modification of visitation rights in the absence of a material change in circumstances. Consequently, we reverse and remand with directions to reinstate the original decree.</p>
+                <p pgmap="35" id="b35-7">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="33" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00017_0"/>
+        <fptr FILEID="jp2_00017_0"/>
+        <fptr FILEID="alto_00017_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.2" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="34" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00017_1"/>
+        <fptr FILEID="jp2_00017_1"/>
+        <fptr FILEID="alto_00017_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.1" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="35" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00018_0"/>
+        <fptr FILEID="jp2_00018_0"/>
+        <fptr FILEID="alto_00018_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.3" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.14" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.15" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWZ" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.11" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            <area BEGIN="BL_34.12" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-14" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.13" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.4" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.5" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.6" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.10" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.13" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.8" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.11" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.7" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.9" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-15" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.14" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            <area BEGIN="BL_35.1" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

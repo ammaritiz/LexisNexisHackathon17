@@ -1,0 +1,531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000723_0004" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jones v. State">Deborah Darlene JONES v. STATE of Arkansas</name>
+          <docketnumber>CA CR 89-213</docketnumber>
+          <citation category="official" type="bluebook">31 Ark. App. 23</citation>
+          <citation category="parallel" type="bluebook">786 S.W.2d 851</citation>
+          <decisiondate>1990-04-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:47:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:35:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:37:08Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00024_0" MIMETYPE="image/tiff" CHECKSUM="fc4e9efd2a3299db9c676311f28ed429" CHECKSUMTYPE="MD5" SIZE="7458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00024_0.tif"/>
+      </file>
+      <file ID="tiff_00024_1" MIMETYPE="image/tiff" CHECKSUM="e501366bd8e5ea55c8d0114d99da9f08" CHECKSUMTYPE="MD5" SIZE="25592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00024_1.tif"/>
+      </file>
+      <file ID="tiff_00025_0" MIMETYPE="image/tiff" CHECKSUM="36ba456aa609165fea7976b7302a09cf" CHECKSUMTYPE="MD5" SIZE="60172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00025_0.tif"/>
+      </file>
+      <file ID="tiff_00025_1" MIMETYPE="image/tiff" CHECKSUM="28013b3721b0981ed975cf9127c89dd7" CHECKSUMTYPE="MD5" SIZE="51980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00025_1.tif"/>
+      </file>
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="bbf4c01be4dec5b2b396bad053253df1" CHECKSUMTYPE="MD5" SIZE="44384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00026_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00024_0" MIMETYPE="image/jp2" CHECKSUM="cce72846e17554e82349424511686be9" CHECKSUMTYPE="MD5" SIZE="1278289">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00024_0.jp2"/>
+      </file>
+      <file ID="jp2_00024_1" MIMETYPE="image/jp2" CHECKSUM="a3a49193e76362693aafec2462e305a5" CHECKSUMTYPE="MD5" SIZE="1763584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00024_1.jp2"/>
+      </file>
+      <file ID="jp2_00025_0" MIMETYPE="image/jp2" CHECKSUM="bb0866f05b883b1976f57cb525ddde2c" CHECKSUMTYPE="MD5" SIZE="2702088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00025_0.jp2"/>
+      </file>
+      <file ID="jp2_00025_1" MIMETYPE="image/jp2" CHECKSUM="6e303bead920d41bce6595b7c3ca1433" CHECKSUMTYPE="MD5" SIZE="2591110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00025_1.jp2"/>
+      </file>
+      <file ID="jp2_00026_0" MIMETYPE="image/jp2" CHECKSUM="22e551e7a5dcfcd3de14f27fa74cf75e" CHECKSUMTYPE="MD5" SIZE="2542176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00026_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00024_0" MIMETYPE="text/xml" CHECKSUM="21df59d711720839e7ce33d769f413ee" CHECKSUMTYPE="MD5" SIZE="8373">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00024_0.xml"/>
+      </file>
+      <file ID="alto_00024_1" MIMETYPE="text/xml" CHECKSUM="b238de49661055ccae80c2c2542ce1fc" CHECKSUMTYPE="MD5" SIZE="37882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00024_1.xml"/>
+      </file>
+      <file ID="alto_00025_0" MIMETYPE="text/xml" CHECKSUM="87b0afeaf8f73bbdbdab838c58c3c46e" CHECKSUMTYPE="MD5" SIZE="99175">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00025_0.xml"/>
+      </file>
+      <file ID="alto_00025_1" MIMETYPE="text/xml" CHECKSUM="9e1344ccdf99e302091a1020fbe8c95b" CHECKSUMTYPE="MD5" SIZE="83861">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00025_1.xml"/>
+      </file>
+      <file ID="alto_00026_0" MIMETYPE="text/xml" CHECKSUM="e2e031708f96bec7a0e6cb4b431bcc7c" CHECKSUMTYPE="MD5" SIZE="74544">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00026_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="27" firstpage="23">
+              <court id="b47-5" pgmap="47">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b47-4" pgmap="47">CA CR 89-213</docketnumber>
+              <citation id="Ao" pgmap="47">786 S.W.2d 851</citation>
+              <parties id="b47-3" pgmap="47">Deborah Darlene JONES v. STATE of Arkansas</parties>
+              <decisiondate id="b47-6" pgmap="47">Opinion delivered April 4, 1990</decisiondate>
+              <judges id="b51-12" pgmap="51">Cracraft and Cooper, JJ., agree.</judges>
+              <attorneys id="b48-9" pgmap="48">R. Paul Hughes III, for appellant.</attorneys>
+              <attorneys id="b48-10" pgmap="48">Steve Clark, Att’y Gen., by: Lynley Arnett, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b48-11" pgmap="48">John E. Jennings, Judge.</author>
+                <p id="At-" pgmap="48">In 1985 Deborah Jones pled guilty to possession of cocaine and drug paraphernalia and received a five-year suspended sentence conditioned on good behavior. In August 1988, the State filed a petition to revoke her suspended sentence, charging that she had committed burglary and theft. After a hearing in February 1989, the circuit judge revoked her suspended sentence and sentenced her to five years imprisonment with three and one-half years suspended. On appeal it is argued that the evidence was insufficient to support the trial court’s decision to revoke appellant’s suspended sentence and that the court erred in refusing to exclude certain evidence. We find no error and affirm.</p>
+                <p id="b48-12" pgmap="48(21) 49(253)">
+                   In a revocation proceeding, the State must prove its case by a preponderance of the evidence. Smith v. State, 9 Ark. App. 55, 652 S.W.2d 641 (1983). On appeal we do not reverse the trial court’s decision to revoke unless it is clearly against the preponderance of the evidence. Brewer v. State, 274 Ark. 38, 621 S.W.2d 698 (1981). In testing the sufficiency of the evidence, we view the evidence in the light most favorable to the State. Phillips v. State, 17 Ark. App. 86, 703 S.W.2d 471 (1986). In the case at bar there was evidence that appellant and another woman, Lamone Harris, dropped off two men, Terry Lester and John Anderson, at the home of Mrs. Howard Campbell in Barling, Arkansas. A neighbor had seen the car driving through the area and had called the police. The police arrived in time to find Lester and Anderson coming out of the house, carrying stolen property. The men dropped what they were carrying and fled on foot. While the officers were picking up the property, appellant drove back by the house slowly. As appellant neared the police car, she speeded up and the officers gave chase. There was testimony that they followed Jones’ car for up to a mile and a half with the lights and siren on before it stopped. We have said a number of times that flight is a circumstance from which criminal intent may be inferred. Christee v. State, 25 Ark. App. 303, 756 S.W.2d 565 (1988). We hold that the trial court’s finding that appellant participated in the burglary is not clearly against the preponder­ance of the evidence.</p>
+                <p id="b49-4" pgmap="49">
+                   Appellant also contends that the court erred in admit­ting the testimony of police officers as to statements made by Mr. Capalina, a neighbor, and Ms. Campbell, the victim. No objec­tion was made in either instance and appellant has therefore waived the right to raise these issues on appeal. Hill v. State, 285 Ark. 77, 685 S.W.2d 495 (1985).</p>
+                <p id="b49-5" pgmap="49(114) 50(30)">
+                   Appellant finally contends that the trial court erred in permitting James Hamilton, an officer with the Barling Police Department, to testify as to his discussions with Lamone Harris. In this instance appellant did make a timely objection on the basis that she would not be able to cross-examine Lamone Harris, who was not present at the hearing. We consider this objection adequate to raise the issue of the confrontation clause. Although the rules of evidence, including the hearsay rule, are not strictly applicable in revocation proceedings, Ark. R. Evid. 1101(b)(3) see also Felix v. State, 20 Ark. App. 44, 723 S.W.2d 839 (1987), the right to confront the witnesses is. Gagnon v. Scarpelli, 411 U.S. 778 (1973); Goforth v. State, 27 Ark. App. 150, 767 S.W.2d 537 (1989). In Goforth, relying on United States v. Bell, 785 F.2d 640 (8th Cir. 1986), we held:</p>
+                <blockquote id="b50-6" pgmap="50">In a probation revocation proceeding the trial court must balance the probationer’s right to confront witnesses against grounds asserted by the State for not requiring confrontation. First, the court should assess the explana­tion the State offers of why confrontation is undesirable or impractical. A second factor that must be considered, and one that has been focused on by a number of courts, is the reliability of the evidence which the government offers in place of live testimony.</blockquote>
+                <p id="b50-7" pgmap="50">
+                   In the case at bar the State gave no reason for Harris’s absence and there is no contention that the trial court followed the procedure established by Goforth. We conclude that the trial court erred in admitting the evidence, but also conclude that the error was harmless under the circumstances. In Dela­ware v. Van Arsdall, 475 U.S. 673 (1986), the United States Supreme Court held that a denial of the right to confront the witness may be harmless error. The Court said:</p>
+                <blockquote id="b50-8" pgmap="50">Whether such an error is harmless in a particular case depends upon a host of factors, all readily accessible to reviewing courts. These factors include the importance of the witness’ testimony in the prosecution’s case, whether the testimony was cumulative, the presence or absence of evidence corroborating or contradicting the testimony of the witness on material points, the extent of cross-exami­nation otherwise permitted, and, of course, the overall strength of the prosecution’s case.</blockquote>
+                <p id="b50-9" pgmap="50">Van Arsdall, 475 U.S. at 684.</p>
+                <p id="b50-10" pgmap="50">In the case at bar, Hamilton testified that Harris said they had been driving and had gone to the Campbell residence prior to dropping the two men off. He testified that Harris said they then drove down toward Lock and Dam 13 and came back, and that’s when they were pursued and stopped. Finally, he testified that she said the two men would be looking for them to pick them up.</p>
+                <p id="b50-11" pgmap="50(17) 51(63)">Subsequently David Dunagin, an attorney with the public defender’s officer in Fort Smith, testified without objection that Anderson and Lester pled guilty in connection with the burglary and were sentenced to imprisonment, but that Lamone Harris received a suspended sentence. He testified that both Harris and Jones had said “they let men off and drove around and that they were going to Fort Smith.” He said that one of the girls had said that they had stopped at the house.</p>
+                <p id="b51-6" pgmap="51">The appellant herself testified that she, Harris, Anderson, and Lester went to Barling. She said they stopped at the house and knocked on the door, but no one was home. She testified that they then let the men out because, according to her testimony, they were “having words.” She testified that she came back by the house within about fifteen minutes, but that she had not come back to pick the men up.</p>
+                <p id="b51-7" pgmap="51">
+                   Under the test enunciated in Van Arsdall we hold that the error here was harmless. The statement made by Harris to Hamilton was not “crucial,” see Davis v. Alaska, 415 U.S. 308 (1974), and the testimony was largely cumulative. It is true that Harris told Hamilton that the men would be looking to be picked up, but that inference was readily available from other evidence in the case.</p>
+                <p id="b51-8" pgmap="51">As the Supreme Court said in Dutton v. Evans, 400 U.S. 74 (1970), quoting from a statement made by Mr. Justice Cardozo in an earlier opinion,</p>
+                <blockquote id="b51-9" pgmap="51">There is danger that the criminal law will be brought into contempt — that discredit will even touch the great immu­nities assured by the Fourteenth Amendment — if gossa­mer possibilities of prejudice to a defendant are to nullify a sentence pronounced by a court of competent jurisdiction in obedience to local law and set the guilty free.</blockquote>
+                <p id="b51-10" pgmap="51">We hold that any error in the admission of Mr. Hamilton’s testimony was harmless under the circumstances presented here.</p>
+                <p id="b51-11" pgmap="51">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="47" ORDERLABEL="23" TYPE="page">
+        <fptr FILEID="tiff_00024_0"/>
+        <fptr FILEID="jp2_00024_0"/>
+        <fptr FILEID="alto_00024_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.2" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="48" ORDERLABEL="24" TYPE="page">
+        <fptr FILEID="tiff_00024_1"/>
+        <fptr FILEID="jp2_00024_1"/>
+        <fptr FILEID="alto_00024_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_48.2" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="49" ORDERLABEL="25" TYPE="page">
+        <fptr FILEID="tiff_00025_0"/>
+        <fptr FILEID="jp2_00025_0"/>
+        <fptr FILEID="alto_00025_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_49.3" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="50" ORDERLABEL="26" TYPE="page">
+        <fptr FILEID="tiff_00025_1"/>
+        <fptr FILEID="jp2_00025_1"/>
+        <fptr FILEID="alto_00025_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.2" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="51" ORDERLABEL="27" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jp2_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.3" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.7" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ao" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.5" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.6" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.8" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.9" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.8" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.5" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.5" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-12" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.10" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.7" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.8" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.9" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_51.1" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.4" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.5" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            <area BEGIN="BL_50.1" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.7" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.4" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.6" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.4" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.3" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At-" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.11" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            <area BEGIN="BL_48.12" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.4" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.10" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.9" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.6" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-12" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.13" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            <area BEGIN="BL_49.1" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

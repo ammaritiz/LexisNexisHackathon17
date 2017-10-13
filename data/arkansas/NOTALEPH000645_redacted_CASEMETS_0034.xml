@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000645_0034" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Clinkscale v. State">Robert Earl CLINKSCALE v. STATE of Arkansas</name>
+          <docketnumber>CA CR 85-11</docketnumber>
+          <citation category="official" type="bluebook">15 Ark. App. 166</citation>
+          <citation category="parallel" type="bluebook">690 S.W.2d 740</citation>
+          <decisiondate>1985-06-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:38:47Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:37:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:39:04Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="097bb1838ccf0be40cdc91c32e6a9070" CHECKSUMTYPE="MD5" SIZE="27628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00094_1.tif"/>
+      </file>
+      <file ID="tiff_00095_0" MIMETYPE="image/tiff" CHECKSUM="ac257a175eeeddae685efba6f431ab91" CHECKSUMTYPE="MD5" SIZE="48924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00095_0.tif"/>
+      </file>
+      <file ID="tiff_00095_1" MIMETYPE="image/tiff" CHECKSUM="5077734febf34f9331aa0b3100c80b76" CHECKSUMTYPE="MD5" SIZE="41356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00095_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00094_1" MIMETYPE="image/jp2" CHECKSUM="d04f5870812e0fcafb27d59c6a5f6251" CHECKSUMTYPE="MD5" SIZE="1972669">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00094_1.jp2"/>
+      </file>
+      <file ID="jp2_00095_0" MIMETYPE="image/jp2" CHECKSUM="f4d38511f94db7af44507c308e3359e7" CHECKSUMTYPE="MD5" SIZE="2571957">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00095_0.jp2"/>
+      </file>
+      <file ID="jp2_00095_1" MIMETYPE="image/jp2" CHECKSUM="c3d83bc32134217d797efaf7685d93c9" CHECKSUMTYPE="MD5" SIZE="2506957">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00095_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00094_1" MIMETYPE="text/xml" CHECKSUM="4084ec38595aa40d862e537934e5bb78" CHECKSUMTYPE="MD5" SIZE="48488">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00094_1.xml"/>
+      </file>
+      <file ID="alto_00095_0" MIMETYPE="text/xml" CHECKSUM="72ee85d48523f7a9b035e190e4f81a47" CHECKSUMTYPE="MD5" SIZE="84375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00095_0.xml"/>
+      </file>
+      <file ID="alto_00095_1" MIMETYPE="text/xml" CHECKSUM="83596492aa4487bbecda0caf82c62173" CHECKSUMTYPE="MD5" SIZE="72910">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00095_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="168" firstpage="166">
+              <court pgmap="188" id="b188-11">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="188" id="b188-10">CA CR 85-11</docketnumber>
+              <citation pgmap="188" id="AfI">690 S.W.2d 740</citation>
+              <parties pgmap="188" id="b188-9">Robert Earl CLINKSCALE v. STATE of Arkansas</parties>
+              <decisiondate pgmap="188" id="b188-12">Opinion delivered June 12, 1985</decisiondate>
+              <judges pgmap="190" id="b190-8">Glaze, J., agrees.</judges>
+              <judges pgmap="190" id="b190-9">Mayfield, J., concurs.</judges>
+              <attorneys pgmap="189" id="b189-6">Wilson, Hays, O’Hare &amp; Myers, for appellant.</attorneys>
+              <attorneys pgmap="189" id="b189-7">Steve Clark, Att’y Gen., by: Connie C. Griffin, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="189" id="b189-8">Lawson Cloninger, Judge.</author>
+                <p pgmap="189" id="Ajp">Appellant’s sole argument for reversal in this criminal appeal is that the trial court erred in admitting evidence of his prior conviction for delivery of heroin in order to establish the elements of the offense of felon in possession of a firearm under Ark. Stat. Ann. § 41-3103 (Repl. 1977). We do not agree, and we accordingly affirm the judgment of the lower court.</p>
+                <p pgmap="189" id="b189-9">Appellant was arrested on the charge of felon in possession of a firearm on October 15,1983, after police found that he had used a weapon to apprehend one of two men who were attempting to steal a cassette tape player from his wife’s car. Testimony revealed that appellant pointed a gun at the man and at one point struck him above the mouth with it. The State proffered appel­lant’s Department of Correction file at trial and introduced a copy of the record of his 1973 conviction for delivery of heroin to prove his prior felony conviction. The trial court admitted the evidence over appellant’s objection, and he was convicted. In the second phase of the bifurcated trial, appellant was sentenced to eight years in prison as an habitual offender.</p>
+                <p pgmap="189" id="b189-10">Appellant contends that the probative value of the evidence of his conviction for delivery of heroin was substantially out­weighed by the danger of unfair prejudice. Rule 403, Ark. Uniform Rules of Evidence. He insists that the danger of prejudice would have been considerably less had the court admitted as evidence one of the “numerous convictions” recorded in the file. As an example he points to a 1965 grand larceny conviction which, appellant argues, would not have inflamed the jury.</p>
+                <p pgmap="189(54) 190(104)" id="b189-11">In Combs v. State, 270 Ark. 496, 606 S.W.2d 61 (1980), the Arkansas Supreme Court upheld a lower court’s denial of an appellant’s motion in limine to exclude evidence of the nature of his prior felony conviction. The appellant in that felon in possession case argued that the specific nature of the crime for which he had been previously convicted, second degree murder, was irrelevant and its introduction obviously prejudicial. The court responded that the conviction of a prior felony is one of the elements of the offense charged and that the prosecuting attorney has not only the right but the duty to attempt to prove every element of the offense. Further, the court said that the nature of the prior felony and the facts in the Combs case, in which the appellant was disarmed by police after making a threatening motion, reflected on the seriousness of the crime and were relevant in the determination of the sentence.</p>
+                <p pgmap="190" id="b190-6">
+                   Appellant in the instant case concedes the relevance of the conviction for delivery of heroin but urges reversal strictly on the basis of unfair prejudice. Naturally, evidence offered by the State is likely to be prejudicial to an accused; otherwise, it probably would not be offered. See Beed v. State, 271 Ark. 526, 609 S.W.2d 898 (1980). A trial court has a great deal of discretion in determining whether the probative value of a prior conviction outweighs its prejudicial effect, and the decision of the trial court will not be reversed in the absence of an abuse of discretion. See Brewer v. State, 271 Ark. 254, 608 S.W.2d 363 (1980); Washington v. State, 6 Ark. App. 85, 638 S.W.2d 690 (1982). A prior felony conviction was relevant evidence in that it was an element of the crime, and the trial court’s decision that the State could elect to introduce evidence of a 1973 conviction for delivery of heroin rather than a 1965 conviction for grand larceny was not an abuse of discretion. Appellant’s contention that he should be permitted to select the prior conviction to be introduced by the State is not tenable.</p>
+                <p pgmap="190" id="b190-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="188" ORDERLABEL="166" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jp2_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.2" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="189" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00095_0"/>
+        <fptr FILEID="jp2_00095_0"/>
+        <fptr FILEID="alto_00095_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.4" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="190" ORDERLABEL="168" TYPE="page">
+        <fptr FILEID="tiff_00095_1"/>
+        <fptr FILEID="jp2_00095_1"/>
+        <fptr FILEID="alto_00095_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.2" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.9" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.8" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajp" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.11" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            <area BEGIN="BL_189.12" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.10" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.10" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.7" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.6" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.13" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.11" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.13" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.14" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfI" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.12" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.15" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            <area BEGIN="BL_190.1" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.14" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.9" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.8" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

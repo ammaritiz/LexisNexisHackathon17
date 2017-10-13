@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000716_0006" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Foster v. State">Byron FOSTER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 93-785</docketnumber>
+          <citation category="official" type="bluebook">46 Ark. App. 35</citation>
+          <citation category="parallel" type="bluebook">876 S.W.2d 594</citation>
+          <decisiondate>1994-05-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T19:01:39Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:17Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T11:09:49Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T11:11:24Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00030_0" MIMETYPE="image/tiff" CHECKSUM="6f76e9ae00bf373c2b525703821fc03b" CHECKSUMTYPE="MD5" SIZE="11472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00030_0.tif"/>
+      </file>
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="ffda0dd6a25362e4f87c9115ad33e78f" CHECKSUMTYPE="MD5" SIZE="42994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="619d9989cb55498b4f3634ace35bc8ed" CHECKSUMTYPE="MD5" SIZE="51876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="43a319d7ba72e92d6e09e58a1624195a" CHECKSUMTYPE="MD5" SIZE="20588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00031_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00030_0" MIMETYPE="image/jp2" CHECKSUM="3732e4d124ed23d0cd92384f208a88eb" CHECKSUMTYPE="MD5" SIZE="1656382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00030_0.jp2"/>
+      </file>
+      <file ID="jp2_00030_1" MIMETYPE="image/jp2" CHECKSUM="50177029b63be3c8b63b7a21087bef24" CHECKSUMTYPE="MD5" SIZE="2428606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00030_1.jp2"/>
+      </file>
+      <file ID="jp2_00031_0" MIMETYPE="image/jp2" CHECKSUM="f2a8dd9f60d8aad7feb02e492906c4ee" CHECKSUMTYPE="MD5" SIZE="2617514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00031_0.jp2"/>
+      </file>
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="5504d569c0c7778e2ddb72f21de73207" CHECKSUMTYPE="MD5" SIZE="1919243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00031_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00030_0" MIMETYPE="text/xml" CHECKSUM="be887945c74a8b513d4f6963537be7e1" CHECKSUMTYPE="MD5" SIZE="17505">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00030_0.xml"/>
+      </file>
+      <file ID="alto_00030_1" MIMETYPE="text/xml" CHECKSUM="e12eee34525442d1db756d457a72a66f" CHECKSUMTYPE="MD5" SIZE="74612">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00030_1.xml"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml" CHECKSUM="2e182b9f6dfc8a1f5dc42a8eaf7dc217" CHECKSUMTYPE="MD5" SIZE="87382">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00031_0.xml"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="c198898cb66336cc2aef5f8230f2bbfa" CHECKSUMTYPE="MD5" SIZE="31771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00031_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="38" firstpage="35">
+              <court pgmap="59" id="b59-9">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="59" id="A7">CA CR 93-785</docketnumber>
+              <citation pgmap="59" id="ArM">876 S.W. 2d 594</citation>
+              <parties pgmap="59" id="b59-8">Byron FOSTER v. STATE of Arkansas</parties>
+              <decisiondate pgmap="59" id="b59-10">Opinion delivered May 25, 1994</decisiondate>
+              <judges pgmap="62" id="b62-6">Mayfield and Rogers, JJ., agree.</judges>
+              <attorneys pgmap="60" id="b60-7">Garry J. Corrothers, for appellant.</attorneys>
+              <attorneys pgmap="60" id="b60-8">Winston Bryant, Att’y Gen., by: Gil Dudley, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="60" id="b60-9">John E. Jennings, Chief Judge.</author>
+                <p pgmap="60" id="AN0">Byron Foster was found guilty of possessing cocaine with intent to deliver and possess­ing drug paraphernalia, and was sentenced to twenty-five years in the Arkansas Department of Correction. He argues on appeal that the trial court erred in denying his motion to suppress evi­dence seized in a nighttime search of his residence, because the search warrant was based on an affidavit that contained an insuf­ficient factual basis to justify a nighttime search. We disagree and affirm.</p>
+                <p pgmap="60" id="b60-10">In reviewing a trial court’s ruling on a motion to suppress because of insufficiency of the affidavit, we make an indepen­dent determination based upon a totality of the circumstances and reverse the trial court’s ruling only if it is clearly against the preponderance of the evidence. Thompson v. State, 42 Ark. App. 254, 856 S.W.2d 319 (1993).</p>
+                <p pgmap="60" id="b60-11">
+                   An affidavit must set out facts showing reasonable cause to believe that circumstances exist which justify a night­time search. See State v. Broadway, 269 Ark. 215, 599 S.W.2d 721 (1980). The issuing judicial officer must have reasonable cause to believe that (i) the place to be searched is difficult of speedy access; or (ii) the objects to be seized are in danger of imminent removal; or (iii) the warrant can only be safely or suc­cessfully executed at nighttime or under circumstances the occur­rence of which is difficult to predict with accuracy. Ark. R. Crim. P. 13.2(c); State v. Martinez, 306 Ark. 353, 811 S.W.2d 319 (1991). The affidavit should speak in factual and not mere con­clusory language. State v. Broadway, 269 Ark. 215, 599 S.W.2d 721 (1980).</p>
+                <p pgmap="60(20) 61(29)" id="b60-12">
+                   The affidavit in the case at bar described the pur­chase of a controlled substance by a confidential informant at appellant’s residence, “3524 Asher.” That purchase was made on December 2, 1991; the warrant was executed that night at 10:30 p.m. The affidavit contained the following pertinent lan­guage:</p>
+                <blockquote pgmap="61" id="b61-6">Affiant states that the residence is so situated that the approach of the serving officers will be readily apparent to persons at the residence due to the residence being sit­uated on the corner of Asher Avenue and Valentine Streets offering no immediate cover and/or concealment for the approaching officers to the residence and the use of dark­ness, as concealment, in the approach of the residence would better protect the evidence sought as well as the approaching officers because the evidence sought is con­cealed and packaged in such a manner that its destruction or removal will be likely prior to the officers arrival. Affi-­ant states that because Byron Foster frequently removes cocaine from his residence and transports it to other loca­tions and because cocaine is being distributed from the residence at all times of the day or night, the Affiant prays that a warrant be issued for a search of the residence, cur-­tilage, and person of Byron Foster, and that said warrant be issued for a search of the residence any time of the day or night.</blockquote>
+                <p pgmap="61" id="b61-7">Appellant argues that these statements are conclusory rather than factual, and cites Coleman v. State, 308 Ark. 631, 826 S.W.2d 273 (1992), in support. As in Coleman, this affidavit does con­tain some general conclusory language. However, this language read in conjunction with additional factual information in the affidavit, such as the residence’s location on a corner lot and the lack of immediate cover for the approaching officers, can sup­port a finding of reasonable cause of a nighttime search. See, e.g., Houston v. State, 41 Ark. App. 67, 848 S.W.2d 430 (1993). While the factual information in this affidavit is not extensive, this is not a situation where we can characterize the statements as wholly conclusory or as having no factual basis. See e.g., Thompson v. State, 42 Ark. App. 254, 856 S.W.2d 319 (1993).</p>
+                <p pgmap="61" id="b61-8">Having reviewed the totality of the circumstances, we can­not say that the trial court’s ruling is clearly against a prepon­derance of the evidence.</p>
+                <p pgmap="62" id="b62-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="59" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00030_0"/>
+        <fptr FILEID="jp2_00030_0"/>
+        <fptr FILEID="alto_00030_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.3" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="60" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jp2_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.2" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jp2_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.3" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.7" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.10" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.14" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.12" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.13" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.11" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.5" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArM" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.9" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.6" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.8" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.9" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.3" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.8" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN0" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.10" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.11" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.7" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

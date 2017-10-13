@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000724_0013" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Mitchell v. Mitchell">Herman MITCHELL v. Erma MITCHELL</name>
+          <docketnumber>CA 91-483</docketnumber>
+          <citation category="official" type="bluebook">40 Ark. App. 81</citation>
+          <citation category="parallel" type="bluebook">842 S.W.2d 66</citation>
+          <decisiondate>1992-11-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:45:26Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:52Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:57:52Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:58:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="0c835773ab6dba9c2de23cd017b11c75" CHECKSUMTYPE="MD5" SIZE="12252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00051_0.tif"/>
+      </file>
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="4d8414ecc739f69087f04d13eedf5fc8" CHECKSUMTYPE="MD5" SIZE="47922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00051_1.tif"/>
+      </file>
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="bc369fe258091b0ad773f5c9400e7504" CHECKSUMTYPE="MD5" SIZE="52002">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="c67c5fbf3ffd2e69643fa9a0355d27b3" CHECKSUMTYPE="MD5" SIZE="40620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="06d75be94ad2878a5929dd9bf7973d08" CHECKSUMTYPE="MD5" SIZE="50614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00053_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="1cf0bb511be5a4b49507e26a2e2f2be9" CHECKSUMTYPE="MD5" SIZE="1708346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00051_0.jp2"/>
+      </file>
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="2f49afe3d8b74bd30a1c90139667968c" CHECKSUMTYPE="MD5" SIZE="2467001">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00051_1.jp2"/>
+      </file>
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="3f9e261df8b84066cdf80768e0b4f842" CHECKSUMTYPE="MD5" SIZE="2675671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="b0b2caefa31350ede35524daad61ea44" CHECKSUMTYPE="MD5" SIZE="2592074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="8919535764eb0fc11968e0bdc74df4fd" CHECKSUMTYPE="MD5" SIZE="2649503">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00053_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="04ccfd91bcb5650b84627cd4744c0907" CHECKSUMTYPE="MD5" SIZE="16429">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00051_0.xml"/>
+      </file>
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="91d536367d2b051e09366f40758136c9" CHECKSUMTYPE="MD5" SIZE="76719">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00051_1.xml"/>
+      </file>
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="78033ad83b13173bab9a913765ed539d" CHECKSUMTYPE="MD5" SIZE="91597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="283173051dad2370ba1e8475b363d267" CHECKSUMTYPE="MD5" SIZE="58806">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="b963893f2bc71a82564c91b69d4ca6f0" CHECKSUMTYPE="MD5" SIZE="87280">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00053_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="81" lastpage="85">
+              <court id="b101-7" pgmap="101">Court of Appeals Division II</court>
+              <docketnumber id="AAP" pgmap="101">CA 91-483</docketnumber>
+              <citation id="AVN" pgmap="101">842 S.W.2d 66</citation>
+              <parties id="b101-6" pgmap="101">Herman MITCHELL v. Erma MITCHELL</parties>
+              <decisiondate id="b101-8" pgmap="101">Opinion delivered November 25, 1992</decisiondate>
+              <judges id="b105-9" pgmap="105">Cooper and Danielson, JJ., agree.</judges>
+              <attorneys id="b102-7" pgmap="102">Baxter Law Office, by: Angela Yvette Baxter, for appellant.</attorneys>
+              <attorneys id="b102-8" pgmap="102">Wilton E. Steed, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b102-9" pgmap="102">Melvin Mayfield, Judge.</author>
+                <p id="Al3" pgmap="102">Herman Mitchell appeals from an order filed August 29, 1991, entitled “Second Amended Supplement to Decree of Divorce Qualified Domestic Relation Order.”</p>
+                <p id="b102-10" pgmap="102">Appellant and appellee, Erma Mitchell, were divorced by decree filed April 23, 1986. The decree provided that .the court would reserve ruling on the wife’s request for one-half of the husband’s retirement, and the parties were given thirty days to file briefs on the issue. Although it is not in the record, the parties agree that the trial court entered an Amended Decree and Order on September 29, 1986, in which the court held that the husband’s pension was vested, that it was marital property and should be divided equally, and that, when the husband began to draw his pension benefits, the wife would be entitled to receive one-half of it. No appeal was taken from this order, but it apparently failed to meet the federal requirements for a Qualified Domestic Relations Order (QDRO).</p>
+                <p id="b102-11" pgmap="102(143) 103(30)">The requirements for a QDRO are contained in 26 U.S.C.A. § 414(p) (West 1988 &amp; Supp. 1992). This section defines a QDRO as a domestic relations order which creates or recognizes the existence of an alternate payee’s right to receive all or a portion of the benefits payable to a participant in a pension plan. A domestic relations order means a judgment, decree or order (including approval of a property settlement agreement) made pursuant to a state’s domestic relations or community property law and relating to the provision of child support, alimony, or marital property rights to a spouse, former spouse, child or other dependent of a plan participant. To qualify as a QDRO, a domestic relations order must meet certain specific standards. Within a reasonable period after receipt of a domestic relations order, the administrator of the plan shall determine whether such order is a QDRO, and if the administrator determines that an order does not meet the standards, the administrator will not honor the order until it does meet the standards.</p>
+                <p id="b103-6" pgmap="103">The husband in this case was a participant in the Central States Southeast and Southwest Areas Pension Fund. In an effort to make the September 29, 1986, order comply with the federal regulations, three subsequent orders were entered by the trial court. It is the latest of these, entered August 29,1991, which was finally accepted as a QDRO and which is the subject of this appeal by the husband.</p>
+                <p id="b103-7" pgmap="103">The gist of appellant’s argument is that the trial court erred in amending a decree that was over 5 years old. Specifically,, appellant argues that the appellee failed to meet the requirements of Ark. R. Civ. P. 60 which bars the amendment or modification of a decree after 90 days, absent compliance with Rule 60(c), and that appellee failed to present to the trial court a proper motion requesting the relief which the court granted.</p>
+                <p id="b103-8" pgmap="103">We are unable to reach the merits of appellant’s argument because he has failed to properly perfect his appeal. Arkansas Rule of Appellate Procedure 4 provides:</p>
+                <blockquote id="b103-9" pgmap="103">(a) Time for Filing Notice. Except as otherwise provided in subsequent sections of this rule, a notice of appeal shall be filed within thirty (30) days from the entry of the judgment, decree or order appealed from. . . .</blockquote>
+                <blockquote id="b103-10" pgmap="103">(b) Time for Filing Notice of Appeal Extended by Timely Motion. Upon the filing in the trial court within the time allowed by these rules of a motion for judgment notwithstanding the verdict under Rule 50(b), of a motion to amend the court’s findings of fact or to make additional findings under Rule 52 (b), or of a motion for a new trial under Rule 59(b), the time for filing of notice of appeal shall be extended as provided in this rule.</blockquote>
+                <blockquote id="b103-11" pgmap="103(66) 104(97)">(c) Disposition of Posttrial Motion. If a timely motion listed in section (b) of this rule is filed in the trial court by any party, the time for appeal for all parties shall run from the entry of the order granting or denying a new trial or granting of denying any other such motion. Provided, that if the trial court neither grants nor denies the motion within thirty (30) days of its filing, the motion will be deemed denied as of the 30th day. A notice of appeal filed before the disposition of any such motion or, if no order is entered, prior to the expiration of the 30-day period shall have no effect. A new notice of appeal must be filed within the prescribed time measured from the entry of the order disposing of the motion or from the expiration of the 30-­day period. No additonal [additional] fees shall be re­quired for such filing. (Emphasis added by Court of Appeals.)</blockquote>
+                <p id="b104-6" pgmap="104">The sequence of events in this case relevant to the disposition of this appeal is as follows:</p>
+                <blockquote id="b104-7" pgmap="104">August 29, 1991 SECOND AMENDED SUPPLEMENT TO DECREE OF DIVORCE QUALIFIED DOMESTIC RELATIONS ORDER</blockquote>
+                <blockquote id="b104-8" pgmap="104">September 4, 1991 Appellant’s notice of appeal</blockquote>
+                <blockquote id="b104-9" pgmap="104">September 5, 1991 Appellant’s MOTION FOR THE COURT’S FINDINGS OF FACTS AND CONCLUSIONS OF LAW</blockquote>
+                <blockquote id="b104-10" pgmap="104">September 5, 1991 Appellant’s motion for RELIEF FROM THE SECOND SUPPLEMENT TO QUALIFIED DECREE OF DIVORCE OF QUALIFIED DOMESTIC RELATIONS ORDER</blockquote>
+                <blockquote id="b104-12" pgmap="104">October 14, 1991 Hearing after which court orally denies appellant’s motions.</blockquote>
+                <p id="b104-13" pgmap="104(58) 105(81)">In the September 5,1991, motion entitled “MOTION FOR THE COURT’S FINDINGS OF FACT AND CONCLU­SIONS OF LAW,” appellant stated the request was made “in compliance with Rule 52 of the Arkansas Rules of Civil Proce­dure.” Under Appellate Procedure Rule 4(b), the filing of a motion to amend the court’s findings of fact or to make additional findings under Rule 52(b) extends the time for filing notice of appeal. In addition, appellant’s second motion, filed on Septem­ber 5, 1991, entitled “RELIEF FROM THE SECOND SUP­PLEMENT TO QUALIFIED DECREE OF DIVORCE OF QUALIFIED DOMESTIC RELATIONS ORDER,” is in es­sence a motion for new trial under Rule 59(b). Appellate Procedure Rule 4(b) also extends the time for filing notice of appeal when a motion for new trial is filed as provided in Ark. R. Civ. P. 59(b).</p>
+                <p id="b105-6" pgmap="105">
+                   Therefore, under either motion filed by appellant on September 5,1991, the time to appeal would run from the entry of an order on the motion or from the thirtieth day after the filing of the motion, whichever came first. See Ferguson v. Sunbay Lodge, Ltd., 301 Ark. 87, 781 S.W.2d 491 (1989); Jasper v. Johnny’s Pizza, 305 Ark. 318, 807 S.W.2d 664 (1991); Phillips Construc­tion Co., v. Cook, 34 Ark. App. 224, 808 S.W.2d 792 (1991). These cases also make it clear that even when an appealable order has been entered and a notice of appeal has been filed within 30 days thereafter, the filing of a motion provided for in Appellate Procedure Rule 4(b) will extend the time for filing the notice of appeal, and the notice of appeal filed before the time is extended will be ineffective.</p>
+                <p id="b105-7" pgmap="105">
+                   In the instant case, the notice of appeal filed on September 4,1991, was ineffective because of the motions filed on September 5,1991. Moreover, those motions were deemed denied at the end of 30 days after they were filed — unless the trial court ruled on them before that time. Although the trial court orally denied the motions at a hearing on October 14, 1991, this was more than 30 days after they were filed and they were already deemed denied; therefore, it was necessary to file a new notice of appeal within 30 days after the motions were deemed denied. Because this was not done, no appeal has been perfected. While this issue was not raised by the appellee, it is jurisdictional and we must raise it even if the parties do no. Eddings v. Lippe, 304 Ark. 309, 802 S.W.2d 139 (1991).</p>
+                <p id="b105-8" pgmap="105">Dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="101" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.3" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="102" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.2" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="103" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.12" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.13" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            <area BEGIN="BL_103.1" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.4" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.7" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.8" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.9" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al3" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.10" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            <area BEGIN="BL_102.11" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.10" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.7" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAP" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.8" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-12" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.9" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.11" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.6" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.7" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.8" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-13" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.10" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVN" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.9" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.9" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.8" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.7" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

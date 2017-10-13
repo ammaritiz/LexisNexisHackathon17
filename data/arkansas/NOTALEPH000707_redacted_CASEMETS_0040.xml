@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000707_0040" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Utley v. State">Charles W. UTLEY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-490</docketnumber>
+          <citation category="official" type="bluebook">93 Ark. App. 381</citation>
+          <citation category="parallel" type="bluebook">219 S.W.3d 709</citation>
+          <decisiondate>2005-12-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T23:23:45Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:35:15Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:14Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:12:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="c13b8db7ffa6802c284024c8ca5b1799" CHECKSUMTYPE="MD5" SIZE="13576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="ffabceecef6e03da8e66b83de8438a95" CHECKSUMTYPE="MD5" SIZE="6536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="bf52fceb35835fc39bee4948e66af7d8" CHECKSUMTYPE="MD5" SIZE="54328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="a5ff301120195abfa348b375dfda75a5" CHECKSUMTYPE="MD5" SIZE="59330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00205_1.tif"/>
+      </file>
+      <file ID="tiff_00206_0" MIMETYPE="image/tiff" CHECKSUM="e2909a40fddaf0e4d2c3adcb65d67703" CHECKSUMTYPE="MD5" SIZE="60892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00206_0.tif"/>
+      </file>
+      <file ID="tiff_00206_1" MIMETYPE="image/tiff" CHECKSUM="60143059c8c04ae7a7a5d4ff5d2730b1" CHECKSUMTYPE="MD5" SIZE="27444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00206_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="72f5756b4d9f9a51aae278a8a003bece" CHECKSUMTYPE="MD5" SIZE="1657079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="f681c11bffe769c987f31176d152b483" CHECKSUMTYPE="MD5" SIZE="1130273">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="11c253aeb0c111ee34584af625aeee2e" CHECKSUMTYPE="MD5" SIZE="2557932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="aedb0fe746a033e760b29c1a8bad99d0" CHECKSUMTYPE="MD5" SIZE="2599175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00205_1.jp2"/>
+      </file>
+      <file ID="jp2_00206_0" MIMETYPE="image/jp2" CHECKSUM="4fd3fa7497867f49cedc432675d4b022" CHECKSUMTYPE="MD5" SIZE="2628160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00206_0.jp2"/>
+      </file>
+      <file ID="jp2_00206_1" MIMETYPE="image/jp2" CHECKSUM="e432eb186c9c45afdbb3dc31e12de55f" CHECKSUMTYPE="MD5" SIZE="2055593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00206_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="8c507f162c49db2b23717ca74615a10f" CHECKSUMTYPE="MD5" SIZE="16741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="652989e1a8ecdab606467c8c74e3816f" CHECKSUMTYPE="MD5" SIZE="3952">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="a0f9617a5fa6d9cac9575d028b244e8c" CHECKSUMTYPE="MD5" SIZE="97080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="4d9d0cfe32d85510261b872e39eec04a" CHECKSUMTYPE="MD5" SIZE="101805">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00205_1.xml"/>
+      </file>
+      <file ID="alto_00206_0" MIMETYPE="text/xml" CHECKSUM="bcb6cde4620d62598ca67efcb92b9386" CHECKSUMTYPE="MD5" SIZE="99834">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00206_0.xml"/>
+      </file>
+      <file ID="alto_00206_1" MIMETYPE="text/xml" CHECKSUM="1af71556c79a0120a213750ae647a4bc" CHECKSUMTYPE="MD5" SIZE="44029">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00206_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="381" lastpage="386">
+              <court id="b407-8" pgmap="407">Court of Appeals of Arkansas</court>
+              <docketnumber id="ATZ" pgmap="407">CA CR 04-490</docketnumber>
+              <citation id="AIXq" pgmap="407">219 S.W.3d 709</citation>
+              <parties id="b407-7" pgmap="407">Charles W. UTLEY v. STATE of Arkansas</parties>
+              <decisiondate id="Azm" pgmap="407">Opinion delivered December 7, 2005</decisiondate>
+              <otherdate id="b407-9" pgmap="407">[Rehearing denied January 18, 2006.]</otherdate>
+              <judges id="b412-6" pgmap="412">Robbins and Bird, JJ., agree.</judges>
+              <attorneys id="b408-10" pgmap="408">Bearden Law Firm, by: Mike Bearden, for appellant.</attorneys>
+              <attorneys id="b409-4" pgmap="409">Mike Beebe, Att’y Gen., by: Laura Shue, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b409-5" pgmap="409">Wendell L. Griffen, J­udge.</author>
+                <p id="A4ek" pgmap="409">Charles W. Utley appeals udge. negligent homicide in the death of W.R. Perdue. He challenges the sufficiency of the evidence. Because the State failed to present evidence that appellant was criminally negligent, we reverse.<footnotemark>1</footnotemark>
+                </p>
+                <p id="b409-6" pgmap="409">On January 17, 2003, appellant was involved in a three-­vehicle accident when the loaded garbage truck he was driving crossed the center line and collided with two vehicles on Highway 61 south of Blytheville. Brent Young was traveling in the north­bound lane. Perdue was driving behind him. Young testified that, as he crossed a bridge while traveling north, he saw appellant’s southbound truck cross the center line. Appellant’s truck nicked Young’s truck, shattering one of Young’s windows and hitting the bed of Young’s truck. Young then turned around and saw “a ball of fire on the bridge.” He testified that he was driving around a curve and did not know that appellant was in his lane.</p>
+                <p id="b409-7" pgmap="409">John Henderson testified that he was working at a cemetery near the bridge when the accident happened. He had his back to the bridge when he heard something that sounded like an explo­sion. He turned around and saw a fire on the bridge. Henderson testified that he saw appellant’s truck slide past the bridge and into a ditch.</p>
+                <p id="b409-8" pgmap="409(115) 410(22)">Officer James Creecy arrived at the scene at 1:15 p.m. He testified that it was a clear, cold day and that he did not see any problems with the road. He testified that he saw some skid marks, yaws (marks a vehicle makes when it is turning and bearing down instead of braking), and gouges between the first truck and appellant’s truck. Creecy saw no impact conditions on the south­bound side of the highway. On cross-examination, Creecy testi­fied that appellant was calm and subdued when he saw him. He also testified that he did not know how close Perdue was driving to Young or whose fault the accident was. On redirect, he testified that he did not notice any defects in appellant’s truck, but on recross, he admitted that he did not inspect appellant’s vehicle.</p>
+                <p id="b410-5" pgmap="410">Officer Darrell McClung diagramed the scene of the acci­dent. He testified that the area of impact of the first collision was one hundred eleven feet from the beginning of the bridge and that the second area of impact was on the bridge and seven feet left of the center line. He saw no skid marks, yaws, or anything else to suggest that there had been any changes in one of the vehicles between the first area of impact and the second area of impact.</p>
+                <p id="b410-6" pgmap="410">A Mississippi County jury found appellant guilty of negli­gent homicide and sentenced him to one year in the Arkansas Department of Correction and a $1,000 fine. This appeal followed.</p>
+                <p id="b410-7" pgmap="410">
+                   For his sole point on appeal, appellant argues that the trial court erred in denying his motion for directed verdict. He contends that the State presented insufficient evidence to show that he was criminally negligent. A directed-verdict motion is a challenge to the sufficiency of the evidence. Doubleday v. State, 84 Ark. App. 194, 138 S.W.3d 112 (2003). We review the evidence in the light most favorable to the State. Baughman v. State, 353 Ark. 1, 110 S.W.3d 740 (2003). The test for determining the sufficiency of the evidence is whether the verdict is supported by substantial evidence, direct or circumstantial. Id. Substantial evidence is evidence forceful enough to compel a conclusion one way or the other beyond suspicion or conjecture. Id. Only evidence support­ing the verdict will be considered. Id. Circumstantial evidence provides the basis to support a conviction if it is consistent with the defendant’s guilt and inconsistent with any other reasonable con­clusion. Von Holt v. State, 85 Ark. App. 308, 151 S.W.3d 1 (2004). Whether the evidence does so is a question for the jury. Id.</p>
+                <p id="b410-8" pgmap="410(114) 411(96)">
+                   Arkansas Code Annotated section 5-10-105(b)(1) (Supp. 2005) provides that “[a] person commits negligent homi­cide if he or she negligently causes the death of another person.” A person is criminally negligent when “he should be aware of a substantial and unjustifiable risk that the circumstances exist or the result will occur.” Ark. Code Ann. § 5-2-202(4) (Repl. 1997). The criminal code further states that “[t]he risk must be of such a nature and degree that the actor’s failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor’s situation.” Ark. Code Ann. § 5-2-202(4) (emphasis added). This is different from the definition of negligence in a civil case, which is merely the failure to do something that a reasonably careful person would do. Wal-Mart Stores, Inc. v. Londagin, 344 Ark. 26, 37 S.W.3d 620 (2001); City of Little Rock v. Cameron, 320 Ark. 444, 897 S.W.2d 562 (1995). The degree of negligence sufficient to establish civil liability is not sufficient to establish criminal liability. Hunter v. State, 341 Ark. 665, 19 S.W.3d 607 (2000); Phillips v. State, 6 Ark. App. 380, 644 S.W.2d 288 (1982).</p>
+                <p id="b411-5" pgmap="411">Both appellant and the State cite several negligent-homicide cases. In Ayers v. State, 247 Ark. 174, 444 S.W.2d 695 (1969), both the appellant and the victim had a blood-alcohol level of 0.15. While the supreme court stated that “[t]he criminal negligence in this case falls most heavily on the driver who crossed the center line of the highway,” it reversed the appellant’s negligent-homicide conviction because there was no evidence concerning whether the defendant or the victim crossed the center line. Id. at 187, 444 S.W.2d at 695. Our supreme court in Baker v. State, 237 Ark. 862, 376 S.W.2d 673 (1964), affirmed a conviction for negligent homicide when the evidence showed that the appellant was speeding in the opposite lane of traffic and had three drinks of whiskey that afternoon. In Lowe v. State, 264 Ark. 205, 570 S.W.2d 253 (1978), the supreme court affirmed the appellant’s negligent-­homicide conviction when the State presented evidence that the appellant was excessively speeding when he hit a stopped car and left ninety-eight feet of scuff marks before the impact and forty-­nine feet afterward. In Hunter v. State, supra, the evidence was sufficient to convict the appellant of negligent homicide when the appellant testified that he was familiar with the road and was attempting to pass a logging truck going uphill in the rain when the collision occurred.</p>
+                <p id="b411-6" pgmap="411(102) 412(91)">
+                   The evidence here indicated that appellant’s garbage truck crossed the center line, struck one car, and struck a second car over one hundred feet away. There were no markings on the ground to suggest that he braked or otherwise tried to prevent the accident. The State presented no other evidence in this case supporting the contention of criminal negligence. Any number of factors could have caused appellant’s truck to cross the center line. In all of the aforementioned cases, the State presented some other evidence (excessive speeding, intoxication, driving in the opposite lane of traffic, passing another vehicle while driving uphill) show­ing a gross deviation from the standard of care. The only factor that the State presented to show that appellant was criminally negligent was that he crossed the center line and that he made no apparent effort to prevent the collision with Perdue’s automobile after he struck the first automobile. Perdue’s family may have a civil negligence action against appellant for his failure to maintain his garbage truck on the right side of the road; however, the State presented insufficient proof that appellant’s actions rose to the level of criminal negligence.<footnotemark>2</footnotemark>
+                </p>
+                <p id="b412-4" pgmap="412">
+                   We hold that the trial court erred in denying appel­lant’s motion for directed verdict. Accordingly, appellant’s con­viction for negligent homicide is reversed.</p>
+                <p id="b412-5" pgmap="412">Reversed and dismissed.</p>
+                <footnote label="1">
+                  <p id="b409-9" pgmap="409">1 This case was originally submitted to this court on December 8, 2004. It was remanded for rebriefing because appellant failed to include a copy of the notice of appeal in his addendum. See Utley v. State, CACR 04-490 (Feb. 2, 2005) (not designated for publica­tion) . Appellant has submitted substantially the same brief, with the previous error corrected.</p>
+                </footnote>
+                <footnote label="2">
+                  <p id="b412-14" pgmap="412">2 In reaching this observation we do not intend to suggest an opinion that appellant is or is not liable under a civil-negligence theory.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="407" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="383" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.2" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.2" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="411" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00206_0"/>
+        <fptr FILEID="jp2_00206_0"/>
+        <fptr FILEID="alto_00206_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.3" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="412" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00206_1"/>
+        <fptr FILEID="jp2_00206_1"/>
+        <fptr FILEID="alto_00206_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.2" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATZ" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.8" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-10" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.10" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.12" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.10" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIXq" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.9" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.4" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.5" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            <area BEGIN="BL_412.1" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.4" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.10" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.9" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.8" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.7" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-14" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.7" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.7" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_411.1" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4ek" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.6" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.7" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.6" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.5" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Azm" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.11" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.6" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

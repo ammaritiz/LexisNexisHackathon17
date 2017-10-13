@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000652_0018" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Phillips v. State">James R. PHILLIPS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-248</docketnumber>
+          <citation category="official" type="bluebook">25 Ark. App. 102</citation>
+          <citation category="parallel" type="bluebook">752 S.W.2d 301</citation>
+          <decisiondate>1988-07-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:16:37Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:22:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:33:24Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:35:19Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="9b31f521f3ce895a6b354f8eb521de46" CHECKSUMTYPE="MD5" SIZE="25036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00065_1.tif"/>
+      </file>
+      <file ID="tiff_00066_0" MIMETYPE="image/tiff" CHECKSUM="c6efdd767b6fc884633077bc5448d25c" CHECKSUMTYPE="MD5" SIZE="6106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00066_0.tif"/>
+      </file>
+      <file ID="tiff_00066_1" MIMETYPE="image/tiff" CHECKSUM="4ef4ddeb37540814441a2d78852c217b" CHECKSUMTYPE="MD5" SIZE="58568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00066_1.tif"/>
+      </file>
+      <file ID="tiff_00067_0" MIMETYPE="image/tiff" CHECKSUM="54bc879ed70666906943dc81b82588ba" CHECKSUMTYPE="MD5" SIZE="59756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00067_0.tif"/>
+      </file>
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="f6570cd97b0c0dce68b9862d82e1ef82" CHECKSUMTYPE="MD5" SIZE="44722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00067_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="03da2b0305f97ce3bd8f580ae0bb22fe" CHECKSUMTYPE="MD5" SIZE="2021604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00065_1.jp2"/>
+      </file>
+      <file ID="jp2_00066_0" MIMETYPE="image/jp2" CHECKSUM="a3aeee5639c34926d5244f8c02a08034" CHECKSUMTYPE="MD5" SIZE="1144853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00066_0.jp2"/>
+      </file>
+      <file ID="jp2_00066_1" MIMETYPE="image/jp2" CHECKSUM="0a6bb78b9dd63ca99516096ffaa89ad6" CHECKSUMTYPE="MD5" SIZE="2690944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00066_1.jp2"/>
+      </file>
+      <file ID="jp2_00067_0" MIMETYPE="image/jp2" CHECKSUM="e90c3b929b6a8bef5ddd4124fb142520" CHECKSUMTYPE="MD5" SIZE="2715690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00067_0.jp2"/>
+      </file>
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="82bf26a915937156ac3ea1153a7b3407" CHECKSUMTYPE="MD5" SIZE="2549674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00067_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="295ddaa39ed5cd724095fa7e692b1b3a" CHECKSUMTYPE="MD5" SIZE="39945">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00065_1.xml"/>
+      </file>
+      <file ID="alto_00066_0" MIMETYPE="text/xml" CHECKSUM="3c9ca8882b85ed3b41c7867701c9d3c7" CHECKSUMTYPE="MD5" SIZE="4180">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00066_0.xml"/>
+      </file>
+      <file ID="alto_00066_1" MIMETYPE="text/xml" CHECKSUM="53a50fde1270ee017e26b363182e2fbf" CHECKSUMTYPE="MD5" SIZE="84878">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00066_1.xml"/>
+      </file>
+      <file ID="alto_00067_0" MIMETYPE="text/xml" CHECKSUM="b8e61b74c72e412667a161b09d4ad46a" CHECKSUMTYPE="MD5" SIZE="92602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00067_0.xml"/>
+      </file>
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="7826248903b98563d0fc1433aedf90ec" CHECKSUMTYPE="MD5" SIZE="69982">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00067_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="106" firstpage="102">
+              <court pgmap="130" id="ARH">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="130" id="A5d2">CA CR 87-248</docketnumber>
+              <citation pgmap="130" id="AXM">752 S.W.2d 301</citation>
+              <parties pgmap="130" id="b130-9">James R. PHILLIPS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="130" id="AOd">Opinion delivered July 6, 1988</decisiondate>
+              <judges pgmap="134" id="b134-9">Cracraft and Cooper, JJ., agree.</judges>
+              <attorneys pgmap="131" id="b131-15">Hough &amp; Hough, by: Stephen G. Hough, for appellant.</attorneys>
+              <attorneys pgmap="132" id="b132-5">Steve Clark, Att’y Gen., by: R.B. Friedlander, Solicitor Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="132" id="b132-6">Donald L. Corbin, Chief Judge.</author>
+                <p pgmap="132" id="AzX">Appellant, James R. Phillips, appeals a decision of the Sebastian County Circuit Court revoking his suspended sentence imposed on a plea of guilty, entered July 21, 1986, to a charge of one count of possession of amphetamines with intent to deliver and one count of possession of drug paraphernalia. We affirm.</p>
+                <p pgmap="132" id="b132-7">A petition to revoke was filed April 8, 1987, alleging appellant failed to pay the fine and costs imposed as a condition of his suspended sentence. Additionally, the petition alleged that on April 3,1987, appellant committed the offenses of possession of a controlled substance with intent to deliver and possession of drug paraphernalia, thereby violating the terms of his suspended sentence. The trial court conducted two hearings which clearly establish that appellant and his vehicle were stopped and searched on April 3,1987, based upon information received from reliable police informants. The arresting officer testified that he was informed that appellant and another person would be coming to Fort Smith in appellant’s vehicle with Arkansas license NWJ-­388, in possession of a quantity of a controlled substance, methamphetamine. The officer testified that the search revealed hypodermic syringes, small plastic bags containing off-white residue, marijuana residue and partially smoked marijuana cigarettes in the back of appellant’s truck, additional controlled substances and similar drug paraphernalia under the front seat, as well as a substance which tested to be methamphetamine in appellant’s wallet. The officer also testified that appellant had needle marks on his arm.</p>
+                <p pgmap="132" id="b132-8">In addition, an employee of the prosecuting attorney’s office testified that appellant was in arrears in paying the fine and costs assessed in his 1986 conviction. The testimony reveals that even though appellant was required to pay $100.00 monthly, no payments were received after December 6, 1986, leaving an unpaid balance of $1,146.25. This testimony was substantiated by a deputy sheriff whose job includes keeping circuit court records of fine payments. His records reveal that appellant made only four $100.00 payments prior to his 1987 arrest.</p>
+                <p pgmap="132(9) 133(127)" id="b132-9">Appellant’s wife testified that they were unable to make regular payments on appellant’s fine and costs. In support of this contention, she testified that appellant became self-employed in the latter part of 1986 causing irregularity of income. She also testified that their child had surgery during this period of time and they were responsible for their financial obligations, as well as support for appellant’s brother and sister. Appellant’s wife also stated that she was aware of appellant’s drug habit but did not know how much of his income was expended to maintain that habit. Also, she was not surprised that appellant had $800.00 on his person at the time of his 1986 arrest and $ 100.00 at the time of his 1987 arrest. Appellant made a statement at the second hearing acknowledging his drug addiction problem.</p>
+                <p pgmap="133" id="b133-6">Appellant raises the following two points for reversal: (1) The trial court failed to prepare and furnish to the appellant a written statement of the evidence relied on and the reasons for revoking appellant’s suspended sentence; and (2) the trial court erred in finding that the State proved by a preponderance of the evidence that the conditions of appellant’s suspended sentence were violated.</p>
+                <p pgmap="133" id="b133-7">We will first address appellant’s argument that the judg­ment of the trial court is contrary to the preponderance of the evidence. Appellant argues that he made bona fide efforts to acquire the resources to pay his fine and costs, and his inability to pay is excusable because of his numerous and substantial obliga­tions. Furthermore, appellant questions the sufficiency of the evidence of the crimes of possession of a controlled substance and possession of drug paraphernalia resulting from the 1987 arrest.</p>
+                <p pgmap="133" id="b133-8">
+                   In a hearing to revoke, the State bears the burden to prove the violation of a condition of the suspended sentence, and on appellate review, the trial court’s findings are upheld unless they are clearly against the preponderance of the evidence. Cavin v. State, 11 Ark. App. 294, 669 S.W.2d 508 (1984). A determina­tion of preponderance of the evidence turns heavily on questions of credibility and weight to be given the testimony and in that respect we defer to the superior position of the trial court. Hoffman v. State, 289 Ark. 184, 711 S.W.2d 151 (1986). Furthermore, the rules of evidence do not apply to proceedings for granting or revoking probation. Fitzpatrick v. State, 7 Ark. App. 246, 647 S.W.2d 480 (1983).</p>
+                <p pgmap="134" id="b134-5">
+                   Based upon the evidence presented in the instant case, we cannot say that the court’s findings that appellant violated the conditions of the judgment suspending imposition of sentence were clearly against the preponderance of the evidence with regard to the 1987 crimes being questioned by appellant in this appeal. Additionally, as to appellant’s argument that his inability to pay the fine and costs was due to excusable circum­stances, we defer to the superior position of the trial court and affirm its findings.</p>
+                <p pgmap="134" id="b134-6">Appellant also argues that the trial court erred by not furnishing him a written statement of the evidence relied on and the reasons for revoking his suspended sentence as required by Arkansas Code Annotated 5-4-310(b) (5) (1987) (formerly Ark. Stat. Ann. § 41-1209(2) (Repl. 1977)).</p>
+                <p pgmap="134" id="b134-7">
+                   We have held that when an error is alleged, prejudice must be shown, since we do not reverse for harmless error. Berna v. State, 282 Ark. 563, 670 S.W.2d 434 (1984), cert. denied, 470 U.S. 1085 (1985). One purpose of the written statement in question is to permit the defendant to know the precise basis of the trial court’s decision so that he or she may conduct an intelligent appeal. See Hawkins v. State, 270 Ark. 1016, 607 S.W.2d 400 (1980). Here, the defense has failed to show the prejudicial effect of not receiving a written statement. Appellant was amply informed of the court’s reason for setting aside his suspended sentence. Appellant received two separate hearings on the peti­tion to revoke which set out in detail the alleged violations of the conditions of his suspended sentence. He attended both hearings and even made a statement at the latter. Accordingly, the trial court must be affirmed on this point.</p>
+                <p pgmap="134" id="b134-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="130" ORDERLABEL="102" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="131" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00066_0"/>
+        <fptr FILEID="jp2_00066_0"/>
+        <fptr FILEID="alto_00066_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_131.3" BETYPE="IDREF" FILEID="alto_00066_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="132" ORDERLABEL="104" TYPE="page">
+        <fptr FILEID="tiff_00066_1"/>
+        <fptr FILEID="jp2_00066_1"/>
+        <fptr FILEID="alto_00066_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_132.1" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="133" ORDERLABEL="105" TYPE="page">
+        <fptr FILEID="tiff_00067_0"/>
+        <fptr FILEID="jp2_00067_0"/>
+        <fptr FILEID="alto_00067_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.3" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="134" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.7" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.5" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.3" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b131-15" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_131.12" BETYPE="IDREF" FILEID="alto_00066_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.6" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzX" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.5" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_132.6" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5d2" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.9" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.9" BETYPE="IDREF" FILEID="alto_00066_1"/>
+            <area BEGIN="BL_133.1" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARH" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.11" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.4" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.8" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOd" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.12" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.7" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.4" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.3" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXM" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.10" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b132-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_132.8" BETYPE="IDREF" FILEID="alto_00066_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

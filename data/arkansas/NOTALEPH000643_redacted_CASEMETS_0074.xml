@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000643_0074" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Fiveash v. State">Carl M. FIVEASH v. STATE of Arkansas</name>
+          <docketnumber>CA CR 83-138</docketnumber>
+          <citation category="official" type="bluebook">12 Ark. App. 391</citation>
+          <citation category="parallel" type="bluebook">676 S.W.2d 769</citation>
+          <decisiondate>1984-10-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:55:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:03Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:11:57Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:12:54Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="fb97bf78b7ef8e3856c5a2a4a46885fd" CHECKSUMTYPE="MD5" SIZE="27664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00215_0.tif"/>
+      </file>
+      <file ID="tiff_00215_1" MIMETYPE="image/tiff" CHECKSUM="d84588418f2ce3807433fee5af9e0aab" CHECKSUMTYPE="MD5" SIZE="17976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00215_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="cf7c9bbfa865da06e965583cded1a3f7" CHECKSUMTYPE="MD5" SIZE="2185602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00215_0.jp2"/>
+      </file>
+      <file ID="jp2_00215_1" MIMETYPE="image/jp2" CHECKSUM="12b6ee99fd5dbae05fcba9427f2d0ac4" CHECKSUMTYPE="MD5" SIZE="1937282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00215_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="ab456f37e25db9ed2df0a6e1fb36b9d2" CHECKSUMTYPE="MD5" SIZE="50564">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00215_0.xml"/>
+      </file>
+      <file ID="alto_00215_1" MIMETYPE="text/xml" CHECKSUM="423d0903ee7d7bc4e7c40ee2be84bd7a" CHECKSUMTYPE="MD5" SIZE="29872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00215_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0074" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="391" lastpage="392">
+              <court id="b429-5" pgmap="429">Court of Appeals of Arkansas</court>
+              <docketnumber id="b429-4" pgmap="429">CA CR 83-138</docketnumber>
+              <citation id="AuO" pgmap="429">676 S.W.2d 769</citation>
+              <parties id="b429-3" pgmap="429">Carl M. FIVEASH v. STATE of Arkansas</parties>
+              <decisiondate id="An6" pgmap="429">Opinion delivered October 17, 1984</decisiondate>
+              <attorneys id="b429-9" pgmap="429">F. James Jefferson, for appellant.</attorneys>
+              <attorneys id="b429-10" pgmap="429">No Response from the State.</attorneys>
+              <opinion type="majority">
+                <author id="b429-11" pgmap="429">Per Curiam.</author>
+                <p id="AoC" pgmap="429">On February 1, 1984, we affirmed the trial court’s judgment in the above styled case. On October 4, 1984, appellant’s court-appointed attorney filed a motion for attorney’s fee.</p>
+                <p id="b429-12" pgmap="429">In Cristee v. State, 4 Ark. App. 33, 627 S.W.2d 34 (1982), we said that motions for attorney’s fees in these cases should be filed in this court in time for them to be considered at the time the case is considered on its merits. Two years later, in Stefanovich v. State, 10 Ark. App. 233, 662 S.W.2d 476 (1984), we called attention to Cristee and pointed out that failure to file the motion in time for it to be considered at the time the case is considered on its merits could prevent the allowance of an attorney’s fee.</p>
+                <p id="b429-13" pgmap="429">We allowed a fee in both of those cases, but the motions were filed within three months of the case decision and in the same fiscal year. Here, eight months have elapsed and on July 1, 1984, a new fiscal year intervened.</p>
+                <p id="b430-4" pgmap="430">Our power to allow the fee at this late date is suspect; moreover, we do not think one should be allowed under the circumstances.</p>
+                <p id="b430-5" pgmap="430">Motion denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="429" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.2" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="430" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00215_1"/>
+        <fptr FILEID="jp2_00215_1"/>
+        <fptr FILEID="alto_00215_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.1" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An6" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.7" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-9" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.12" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-4" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-4" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.3" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuO" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.5" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoC" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.15" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            <area BEGIN="BL_429.16" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-5" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.4" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-3" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-10" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.13" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-11" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.14" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-12" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.17" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-13" BETYPE="IDREF" FILEID="casebody_0074"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.18" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

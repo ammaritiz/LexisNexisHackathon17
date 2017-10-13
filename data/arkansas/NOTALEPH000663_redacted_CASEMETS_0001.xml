@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000663_0001" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Anderson v. State">Donald ANDERSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 97-1017</docketnumber>
+          <citation category="official" type="bluebook">62 Ark. App. 1</citation>
+          <citation category="parallel" type="bluebook">967 S.W.2d 569</citation>
+          <decisiondate>1998-04-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T23:15:24Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:55:37Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T10:53:14Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T10:54:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00013_0" MIMETYPE="image/tiff" CHECKSUM="74d5d7e834faa50bfff28b1bca6c9e69" CHECKSUMTYPE="MD5" SIZE="6696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00013_0.tif"/>
+      </file>
+      <file ID="tiff_00013_1" MIMETYPE="image/tiff" CHECKSUM="6ef24f100937002043ceff9a2ab5d324" CHECKSUMTYPE="MD5" SIZE="10320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00013_1.tif"/>
+      </file>
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="1f44fa13374eaf55745b1dc76306646e" CHECKSUMTYPE="MD5" SIZE="47948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="9f4554c8157ae189ec26fab4c9688b35" CHECKSUMTYPE="MD5" SIZE="50830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="4a046408a4db3c8dd697364223e2bc0d" CHECKSUMTYPE="MD5" SIZE="50930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00015_0.tif"/>
+      </file>
+      <file ID="tiff_00015_1" MIMETYPE="image/tiff" CHECKSUM="d57c91dfaef48647cd0ce75a98ba0eb4" CHECKSUMTYPE="MD5" SIZE="51022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00015_1.tif"/>
+      </file>
+      <file ID="tiff_00016_0" MIMETYPE="image/tiff" CHECKSUM="a105937fd3ebf9d546eb8aec5607e82d" CHECKSUMTYPE="MD5" SIZE="53338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00016_0.tif"/>
+      </file>
+      <file ID="tiff_00016_1" MIMETYPE="image/tiff" CHECKSUM="7f2b6448c5a48d70156013b162d10cdb" CHECKSUMTYPE="MD5" SIZE="14412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00016_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00013_0" MIMETYPE="image/jp2" CHECKSUM="1bb38eabd663697411119bcbb1436a64" CHECKSUMTYPE="MD5" SIZE="1591387">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00013_0.jp2"/>
+      </file>
+      <file ID="jp2_00013_1" MIMETYPE="image/jp2" CHECKSUM="bafde40648446c42a714915cc1dea48b" CHECKSUMTYPE="MD5" SIZE="1423753">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00013_1.jp2"/>
+      </file>
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="04fbabaea72a76dca4c6588640dd4c90" CHECKSUMTYPE="MD5" SIZE="2955721">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="b48870f68e23e04b0e54d05403288ce2" CHECKSUMTYPE="MD5" SIZE="2547381">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00014_1.jp2"/>
+      </file>
+      <file ID="jp2_00015_0" MIMETYPE="image/jp2" CHECKSUM="8b6669d07e6bc0cd44a597c53e6634de" CHECKSUMTYPE="MD5" SIZE="2547063">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00015_0.jp2"/>
+      </file>
+      <file ID="jp2_00015_1" MIMETYPE="image/jp2" CHECKSUM="fbd01f900d27bc6e04c5507f88a0579b" CHECKSUMTYPE="MD5" SIZE="2593987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00015_1.jp2"/>
+      </file>
+      <file ID="jp2_00016_0" MIMETYPE="image/jp2" CHECKSUM="68a4aaf21d7f99d000e637351b63983d" CHECKSUMTYPE="MD5" SIZE="2599517">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00016_0.jp2"/>
+      </file>
+      <file ID="jp2_00016_1" MIMETYPE="image/jp2" CHECKSUM="cf68e1751b136c04dadcd762b390fc77" CHECKSUMTYPE="MD5" SIZE="1748138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000663_00016_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00013_0" MIMETYPE="text/xml" CHECKSUM="7549519c9e7252f6ab2a280b9c3e9a3b" CHECKSUMTYPE="MD5" SIZE="7775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00013_0.xml"/>
+      </file>
+      <file ID="alto_00013_1" MIMETYPE="text/xml" CHECKSUM="841a55ba9b65354dfcbf8909447a9d96" CHECKSUMTYPE="MD5" SIZE="14204">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00013_1.xml"/>
+      </file>
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="2fafcbf56e13600ab451e50ce039f96f" CHECKSUMTYPE="MD5" SIZE="81969">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="f13f72612f0b9e340656ba0241e70357" CHECKSUMTYPE="MD5" SIZE="84529">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00014_1.xml"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml" CHECKSUM="9f05a776075e4a6ab7ad356693b33dee" CHECKSUMTYPE="MD5" SIZE="95009">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00015_0.xml"/>
+      </file>
+      <file ID="alto_00015_1" MIMETYPE="text/xml" CHECKSUM="effd3d031b0d52a8a334f2cb84efa95b" CHECKSUMTYPE="MD5" SIZE="85594">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00015_1.xml"/>
+      </file>
+      <file ID="alto_00016_0" MIMETYPE="text/xml" CHECKSUM="539b7f0b21c86123cf27d2288a0dd342" CHECKSUMTYPE="MD5" SIZE="91798">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00016_0.xml"/>
+      </file>
+      <file ID="alto_00016_1" MIMETYPE="text/xml" CHECKSUM="e305a3875a26e565f92d7736b33d0f65" CHECKSUMTYPE="MD5" SIZE="22311">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000663_redacted_ALTO_00016_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="8" firstpage="1">
+              <court id="b25-4" pgmap="25">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="A_" pgmap="25">CA CR 97-1017</docketnumber>
+              <citation id="A2" pgmap="25">967 S.W.2d 569</citation>
+              <parties id="b25-3" pgmap="25">Donald ANDERSON v. STATE of Arkansas</parties>
+              <decisiondate id="b25-5" pgmap="25">Opinion delivered April 29, 1998</decisiondate>
+              <judges id="b32-6" pgmap="32">Bird and Roaf, JJ., agree.</judges>
+              <attorneys id="b26-11" pgmap="26">David Lewis Clark, for appellant.</attorneys>
+              <attorneys id="b26-12" pgmap="26">Winston Bryant, Att’y Gen., by: O. Milton Fine II, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b26-13" pgmap="26">John B. Robbins, Chief Judge.</author>
+                <p id="ANB" pgmap="26(25) 27(22)">Appellant Donald Ander­son appeals his conviction for defrauding a secured creditor for which he was fined $5,000 and ordered to pay court costs and restitution in the amount of $2,800. He asserts two points on appeal. We find merit in appellant’s argument and reverse his conviction.</p>
+                <p id="b27-6" pgmap="27">Appellant was convicted of violating Ark. Code Ann. § 5-­37-203 (Repl. 1997), which provides:</p>
+                <blockquote id="b27-7" pgmap="27">(a) A person commits the offense of defrauding secured creditors if he destroys, removes, cancels, encumbers, transfers, or otherwise disposes of property subject to a security interest with the purpose to hinder enforcement of that interest.</blockquote>
+                <blockquote id="b27-8" pgmap="27">(b) Defrauding secured creditors is a Class D felony.</blockquote>
+                <p id="b27-9" pgmap="27">The facts upon which appellant was charged are as follows. On November 15, 1993, appellant and his wife purchased a 1986 Chevrolet truck from J&amp;P Auto Sales in Flippin, Arkansas. The sales price was $5,850, and the retail installment agreement pro­vided for monthly installment payments of $219.35. Their agree­ment further provided that appellant was granting a security interest to the seller in the truck being purchased. The buyers fisted an address at the time in Flippin, Arkansas. J&amp;P financed the transaction by simultaneously assigning its rights to Peoples Bank &amp; Trust of Mountain Home, Arkansas, and guaranteeing payment of the debt.</p>
+                <p id="b27-10" pgmap="27">Appellant and his wife missed monthly installments or made partial payments on the truck off and on after its purchase. Only the first payment due in December 1994 was timely and paid in full. The payment history that followed is outlined: January — $0; February — $0; March — $200; April — $200; May — $100; June — $380; July — $100; and August — $100. The records indicated that one money order for partial payment came from appellant on July 19, 1994, after he had moved, and on it was handwritten in the address portion “Don Anderson, Amity, Ark.” In September 1994, the bank called on J&amp;P, as guarantor, to repay the outstanding loan in full and reassigned all of its right and title under the retail installment contract back to J&amp;P. The arrange­ment with the bank was that J&amp;P could be required to repurchase, or pay off, the loan if any payment became past due for more than ninety days.</p>
+                <p id="b28-4" pgmap="28">Appellant explained that he and his wife separated around June 1994. His wife moved back to Florida, and he moved from Flippin to Amity, Arkansas, where his sons lived. Before they sep­arated, he thought she was paying the truck payments. When they divided their belongings, his wife did not want to take the truck so he took it. Short of money, he only paid partial pay­ments in July and August 1994. Then, after learning and expect­ing that the truck was to be repossessed, he simply stopped making any payments.</p>
+                <p id="b28-5" pgmap="28">The bank had begun sending J&amp;P notices of late payment beginning in January 1994. It was important for J&amp;P to be informed of this information since the bank had recourse against the automobile dealership. Before and after September 14, 1994, when it had to pay off the loan, J&amp;P attempted to find appellant and determine the whereabouts of the truck. Appellant’s sister, who was listed on his credit application as living in Flippin, had apparently moved when J&amp;P tried to locate her for a more current address.</p>
+                <p id="b28-6" pgmap="28">The owner of J&amp;P filed an affidavit seeking a criminal prose­cution regarding the truck in December 1994. The formal infor­mation filed by the prosecutor alleged that on or before September 14, 1994, appellant and his wife purchased the truck, left the area, and failed to pay for the vehicle or to contact J&amp;P regarding their whereabouts. J&amp;P continued thereafter to try to locate appellant and the truck through letters, telephone calls, and requests for a more current address from the post office. It also attempted to obtain information from appellant’s probation officer in Arkadelphia, but the probation officer would not disclose any information. Apparently, J&amp;P did not check with the Office of Motor Vehicles in the Arkansas Department of Finance and Administration prior to seeking criminal prosecution. If it had, it would have learned that, in November 1994, appellant had renewed the truck’s annual registration and listed his Amity address.</p>
+                <p id="b28-7" pgmap="28(30) 29(78)">The truck was finally located in Amity, Arkansas, and it was repossessed from that location in September 1995. The truck’s condition was found to be substantially deteriorated from the time it had been sold. The motor would not “turn over,” one side was dented, the seat was torn, the ceiling lining was torn and hanging down, the radio/tape player was broken, and the engine oil had the consistency of “pudding.” The truck was not operable and had apparently been sitting in front of appellant’s Amity residence for months. J&amp;P sold the truck in this condition for about half the price for which it had been sold to appellant.</p>
+                <p id="b29-4" pgmap="29">Appellant admitted that his son had told him that some man had been looking for him, and his son had told the man where appellant was working at the time. Appellant testified that he knew that he was behind and in fact had stopped making pay­ments — “I knew that they was [sic] going to come and get it; I just didn’t know when. Like I said, I left keys in it for them. They could have come down any time, day or night, [to repossess the truck.] ” He knew the bank had an existing lien. He main­tained that he never intended to defraud a secured creditor; he just fell behind and expected the secured party to recover the truck. He moved only because he and his wife had separated and he needed somewhere to live.</p>
+                <p id="b29-5" pgmap="29">
+                   Appellant argues that the trial court erred when it denied his motion to dismiss on the grounds (1) that the com­plaining party was not a secured creditor and therefore no cause of action could be sustained, and (2) that there was no evidence of intent. The first motion to dismiss was made prior to the case going to trial, and the trial judge properly denied that motion. A motion to dismiss cannot be granted prior to the State having an opportunity to present its case. Watson v. State, 313 Ark. 304, 854 S.W.2d 332 (1993); Hardcastle v. State, 25 Ark. App. 157, 755 S.W.2d 228 (1988).</p>
+                <p id="b29-6" pgmap="29(85) 30(26)">
+                   After the State presented its case, appellant moved for directed verdict, which is a challenge to the sufficiency of the evidence. Tucker v. State, 50 Ark. App. 203, 901 S.W.2d 865 (1994). When reviewing the sufficiency of the evidence, we view all the evidence and the reasonable inferences capable of being drawn therefrom in the light most favorable to the State. Brunson v. State, 45 Ark. App. 161, 873 S.W.2d 562 (1994). The evi­dence, direct or circumstantial, must be of sufficient force that it compels a conclusion one way or the other without resort to spec­ulation and conjecture. Edwards v. State, 40 Ark. App. 114, 842 S.W.2d 459 (1992).</p>
+                <p id="b30-5" pgmap="30">
+                   Though appellant makes two arguments on appeal, we first consider, as we must, the sufficiency of the evidence argu­ment. Johnson v. State, 328 Ark. 526, 944 S.W.2d 115 (1997). Appellant argues that there is insufficient evidence upon which to find the requisite intent to defraud a secured creditor. As recited above, the appellant must have had the “purpose to hinder enforcement of [the secured creditor’s] interest.” One acts pur­posefully when it is his conscious object to engage in conduct of that nature or to cause such a result. Ark. Code Ann. § 5-2-­202(1) (Repl. 1997). One’s intent is seldom capable of being proven by direct evidence. Tarentino v. State, 302 Ark. 55, 786 S.W.2d 584 (1990). The jury is allowed to draw upon its own common knowledge and experience to infer intent from the cir­cumstances. Tiller v. State, 42 Ark. App. 64, 854 S.W.2d 730 (1993). Thus, there is a presumption that a person intends the natural and probable consequences of his acts. Moore v. State, 58 Ark. App. 120, 947 S.W.2d 395 (1997). If circumstantial evi­dence is the only evidence supporting a finding of a culpable mental state, it must do so excluding every other reasonable hypothesis consistent with innocence. Williams v. State, 325 Ark. 432, 930 S.W.2d 297 (1996).</p>
+                <p id="b30-6" pgmap="30">
+                   From the evidence presented at trial, there was insuffi­cient evidence from which the jury could have determined that appellant purposefully acted to hinder enforcement of a secured interest. At worst, the State proved that appellant was not follow­ing through with his payment obligations under the retail sales agreement, perhaps proving a negligent disregard for the rights of his secured creditor. However, irresponsibility in the handling of his payments and contacts with his creditor does not constitute substantial evidence to support the jury’s determination that appellant’s conduct was criminal. The evidence simply falls short of compelling a conclusion, without resort to speculation and conjecture, that appellant acted with the conscious object to hin­der a secured creditor’s enforcement of its interest.</p>
+                <p id="b31-3" pgmap="31">Eggleston v. State, 16 Ark. App. 72, 697 S.W.2d 121 (1985), cited by appellant, is somewhat analogous and gives some gui­dance. Mr. Eggleston was prosecuted for violation of the same statute. His employer, South Central Career College, purchased a car for him since he could not obtain a loan due to a poor credit history. South Central held title to the car, and it was financed through Twin City Bank. South Central deducted payments from his paycheck. Mr. Eggleston was also responsible for other expenses such as taxes, license fees, and insurance. When Mr. Eggleston left the employ of South Central, he discussed the car situation with the owner of South Central and stated that Eggles-­ton’s accountant would contact him about refinancing the auto­mobile or paying it off in full. The accountant did call South Central’s owner, but nothing was resolved within the two days that it was anticipated to take. The staff at South Central was thereafter unable to locate Mr. Eggleston, and the owner soon took his grievance to the law enforcement authorities. The bank, the secured creditor, was not involved in the proceeding, and no representative of the bank testified at trial. While South Central was not a secured creditor, it did have a contractual relationship with Mr. Eggleston. There we saw no evidence of purposeful intent to hinder the enforcement of a security interest.</p>
+                <p id="b31-4" pgmap="31">
+                   The holding in that case lends support to our holding today. As we stated in Eggleston: “Although there was testimony that appellant could not be located and that he allowed the insur­ance to lapse on his car, these circumstances alone do not establish appellant’s intent to hinder the enforcement of a security interest.” Id. at 76. Here, appellant did not dispose of the truck, and although the truck had deteriorated, it was not destroyed, so the only conceivable basis for the State to pursue appellant was the “removal” of the truck with the purpose to hinder enforcement of the lien. The very nature and purpose of a truck is to be moved about. The fact that appellant’s circumstances caused him to move to another town and take the truck with him does not constitute substantial evidence of the requisite purposeful intent, the highest level of culpable mental state that can be required under Arkansas law. Therefore, we reverse on this point.</p>
+                <p id="b32-4" pgmap="32">Appellant alternatively argues that there was no secured party complaining when the criminal charge was filed. Although we question whether this was preserved for appeal, we need not address this argument because we are reversing on the first point.</p>
+                <p id="b32-5" pgmap="32">Accordingly, we reverse appellant’s conviction.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="25" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00013_0"/>
+        <fptr FILEID="jp2_00013_0"/>
+        <fptr FILEID="alto_00013_0"/>
+      </div>
+      <div ORDER="26" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00013_1"/>
+        <fptr FILEID="jp2_00013_1"/>
+        <fptr FILEID="alto_00013_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_26.2" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="27" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.3" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jp2_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.3" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="30" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00015_1"/>
+        <fptr FILEID="jp2_00015_1"/>
+        <fptr FILEID="alto_00015_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_30.2" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="31" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00016_0"/>
+        <fptr FILEID="jp2_00016_0"/>
+        <fptr FILEID="alto_00016_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_31.2" BETYPE="IDREF" FILEID="alto_00016_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="32" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00016_1"/>
+        <fptr FILEID="jp2_00016_1"/>
+        <fptr FILEID="alto_00016_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.1" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.4" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.4" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-12" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.12" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.13" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-11" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.11" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_29.1" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.5" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.3" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.5" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANB" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.14" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_26.15" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            <area BEGIN="BL_27.1" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.6" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.5" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.2" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.5" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.4" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.6" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.3" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.5" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.6" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            <area BEGIN="BL_30.1" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.4" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.4" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.3" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.8" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.3" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.4" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

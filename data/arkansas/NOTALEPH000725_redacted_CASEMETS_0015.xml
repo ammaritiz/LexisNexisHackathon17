@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000725_0015" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Beckner v. State">Laurie BECKNER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 94-765</docketnumber>
+          <citation category="official" type="bluebook">49 Ark. App. 56</citation>
+          <citation category="parallel" type="bluebook">896 S.W.2d 445</citation>
+          <decisiondate>1995-04-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T22:57:19Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:27Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:10:50Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00042_1" MIMETYPE="image/tiff" CHECKSUM="1ebd8e800d9be44da54dcf9d955b6182" CHECKSUMTYPE="MD5" SIZE="28928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00042_1.tif"/>
+      </file>
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="3558f2e4b94d9bed89424c943ef9ac3f" CHECKSUMTYPE="MD5" SIZE="52538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00043_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00042_1" MIMETYPE="image/jp2" CHECKSUM="b229a514e9d71081a8fc413a53f19f4d" CHECKSUMTYPE="MD5" SIZE="2203116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00042_1.jp2"/>
+      </file>
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="675562b1ae87eadb22006b8a1714914e" CHECKSUMTYPE="MD5" SIZE="2627433">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00043_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00042_1" MIMETYPE="text/xml" CHECKSUM="ed12a6ababcc04dbf1b9d591f6928136" CHECKSUMTYPE="MD5" SIZE="50204">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00042_1.xml"/>
+      </file>
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="4d42d78060fd39214fc4ed32e4787e9f" CHECKSUMTYPE="MD5" SIZE="99300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00043_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0015" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="56" lastpage="57">
+              <court pgmap="84" id="b84-4">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="84" id="AE0">CA CR 94-765</docketnumber>
+              <citation pgmap="84" id="Ach">896 S.W.2d 445</citation>
+              <parties pgmap="84" id="b84-3">Laurie BECKNER v. STATE of Arkansas</parties>
+              <decisiondate pgmap="84" id="b84-5">Opinion delivered April 5, 1995</decisiondate>
+              <judges pgmap="85" id="b85-9">Pittman and Robbins, JJ., agree.</judges>
+              <attorneys pgmap="84" id="b84-8">William R. Simpson, Jr., Public Defender, Jerry Sailings, Deputy Public Defender, by: C. Joseph Cordi, Jr., Deputy Pub­lic Defender, for appellant.</attorneys>
+              <attorneys pgmap="84" id="b84-9">Winston Bryant, Att’y Gen., by: J. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="84" id="b84-10">James R. Cooper, Judge.</author>
+                <p pgmap="84" id="AaR">The appellant in this criminal case was charged with driving while intoxicated. After a de novo bench trial in circuit court, she was convicted of that offense, fined $500, sentenced to one day in jail, and ordered to complete an alcohol treatment program. In addition, her driver’s license was suspended for 90 days. From that conviction, comes this appeal.</p>
+                <p pgmap="84" id="b84-11">Arkansas Code Annotated § 5-65-103 (Repl. 1993) makes it unlawful for any person who is intoxicated to be in actual phys­ical control of a motor vehicle. The only issue before us on appeal is whether the evidence was sufficient to establish that the appel­lant was in actual physical control of a motor vehicle.</p>
+                <p pgmap="84(24) 85(83)" id="b84-12">At trial, Officer Adkins testified that he noticed a car with its engine running in front of a house where he had made sev­eral narcotic arrests. A passenger got out of the car, but the appel­lant remained inside it. After observing the appellant inside the car for about five minutes, Officer Adkins started to approach her. The appellant then got out of the car, turned it off, and started walking toward the house, whereupon she was approached by her husband. When asked how she got to the house, the appel­lant replied that her husband directed her down there so he could get some narcotics.</p>
+                <p pgmap="85" id="b85-6">The appellant argues that the case at bar is distinguishable from Wiyott v. State, 284 Ark. 399, 683 S.W.2d 220 (1985), and Roberts v. State, 287 Ark. 451, 701 S.W.2d 112 (1985). In Wi­yott, supra, the Supreme Court held that there was sufficient evi­dence of actual physical control where the defendant was found asleep behind the wheel of a parked vehicle which was not run­ning, but where.the keys were in the ignition. In Roberts, supra, the defendant was found to be in actual physical control of a vehicle lodged against a building in a parking lot where the defen­dant was asleep behind the wheel, the car and building were dam­aged, the ignition key was turned on, the gearshift lever was in the “drive” position, but the engine was not running.</p>
+                <p pgmap="85" id="b85-7">
+                   The appellant contends that both Wiyott and Roberts are to be distinguished because no one testified that the appel­lant had driven the car in the case at bar. We do not agree because we think that the evidence was sufficient to permit the fact-finder to infer that the appellant had driven the car shortly before her arrest.<footnotemark>1</footnotemark> We hold that the appellant’s DWI conviction is supported by substantial evidence, and we affirm.</p>
+                <p pgmap="85" id="b85-8">Affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="85" id="b85-10">1 Although we do not reach the issue, we note that the appellant’s act of turning off the car might in itself be sufficient to support a finding of actual physical control under Wiyott, where the Court quoted with approval from an Oklahoma case stating that “the control contemplated meant more than the ‘ability to stop an automobile,’ but meant the ‘ability to .keep from starting,’ ‘to hold in subjection,’ ‘to exercise directing influence over,’ and ‘the authority to manage.’” Wiyott, 284 Ark. at 402. The Court’s decision in Wiyott was based squarely on its conclusion that there was sufficient evi­dence to support a finding that the defendant in that case had exercised directing influ­ence over his vehicle and had the authority to manage it. Id.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="84" ORDERLABEL="56" TYPE="page">
+        <fptr FILEID="tiff_00042_1"/>
+        <fptr FILEID="jp2_00042_1"/>
+        <fptr FILEID="alto_00042_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_84.1" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="85" ORDERLABEL="57" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.3" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-10" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.8" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaR" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.14" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            <area BEGIN="BL_84.15" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-7" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.5" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-6" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.4" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.7" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.6" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ach" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.5" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-4" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.6" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-5" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.7" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-10" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.13" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE0" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.4" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-12" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.17" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            <area BEGIN="BL_85.1" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-3" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.3" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-8" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.11" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-9" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.12" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-11" BETYPE="IDREF" FILEID="casebody_0015"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.16" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

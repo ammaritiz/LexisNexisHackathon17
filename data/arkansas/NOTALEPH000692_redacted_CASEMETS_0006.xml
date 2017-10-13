@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000692_0006" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hayden v. State">George W. HAYDEN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 07-1351</docketnumber>
+          <citation category="official" type="bluebook">103 Ark. App. 32</citation>
+          <citation category="parallel" type="bluebook">286 S.W.3d 177</citation>
+          <decisiondate>2008-06-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T18:51:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:17:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T16:00:04Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T16:01:03Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="e0742a99af0cfa4071d7534f8b43905a" CHECKSUMTYPE="MD5" SIZE="29148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="7e6cf54538061718c718c3dc38760c21" CHECKSUMTYPE="MD5" SIZE="54344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="04a2714dbe69db80a342011c62f2e833" CHECKSUMTYPE="MD5" SIZE="49870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="08abbe92efb4ec59de04f9399f95d060" CHECKSUMTYPE="MD5" SIZE="56562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="6841f9c890b6bcd8be77fac28898e1a1" CHECKSUMTYPE="MD5" SIZE="27516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00032_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00030_1" MIMETYPE="image/jp2" CHECKSUM="c6bfa834e045e5efabb2b85681f60dba" CHECKSUMTYPE="MD5" SIZE="2137065">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00030_1.jp2"/>
+      </file>
+      <file ID="jp2_00031_0" MIMETYPE="image/jp2" CHECKSUM="391db1df2f175a25d1a2a1b22dbc9335" CHECKSUMTYPE="MD5" SIZE="2595898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00031_0.jp2"/>
+      </file>
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="00f06d05076cb31da0b6a7087e86800e" CHECKSUMTYPE="MD5" SIZE="2510496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00031_1.jp2"/>
+      </file>
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="b9922d4a74ff9dbbfccefaae632b81f4" CHECKSUMTYPE="MD5" SIZE="2637154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="328de7148ef819790d4aac7a51416313" CHECKSUMTYPE="MD5" SIZE="2062956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00032_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00030_1" MIMETYPE="text/xml" CHECKSUM="9e950d7a8efdeb1b4b7c87301b52b288" CHECKSUMTYPE="MD5" SIZE="49287">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00030_1.xml"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml" CHECKSUM="f8ec06636c6e3a808314c3a310d6df52" CHECKSUMTYPE="MD5" SIZE="88144">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00031_0.xml"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="2d4b61264470b063c340f51c85714f1b" CHECKSUMTYPE="MD5" SIZE="85553">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00031_1.xml"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="99801e820073af247f14229ea153e1f2" CHECKSUMTYPE="MD5" SIZE="92767">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="754700580cff8648561fa51f2c96335a" CHECKSUMTYPE="MD5" SIZE="42068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00032_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="36" firstpage="32">
+              <court pgmap="60" id="b60-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="60" id="AtP">CA CR 07-1351</docketnumber>
+              <citation pgmap="60" id="AUd">286 S.W.3d 177</citation>
+              <parties pgmap="60" id="b60-3">George W. HAYDEN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="60" id="Af1">Opinion delivered June 25, 2008</decisiondate>
+              <judges pgmap="64" id="b64-7">Pittman, C.J., and Bird, J., agree.</judges>
+              <attorneys pgmap="60" id="b60-7">John F. Gibson, Jr., for appellant.</attorneys>
+              <attorneys pgmap="60" id="b60-8">Dustin McDaniel, Att’y Gen., by: Karen Virginia Wallace, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="60" id="b60-9">Robert J. Gladwin, Judge.</author>
+                <p pgmap="60" id="ABG">Appellant George W. Hay­den appeals his October 1, 2007 conviction by a Drew County Circuit Court of driving while intoxicated (DWI). On appeal, he contends the trial court erred in denying his motion for directed verdict. The sole issue on appeal is whether there was substantial evidence before the trial court to support appellant’s conviction. We hold that there was and affirm.</p>
+                <p pgmap="60" id="b60-10">Facts</p>
+                <p pgmap="60(87) 61(25)" id="b60-11">Appellant was stopped by Arkansas State Trooper Clayton Moss around 1:00 a.m. on May 10, 2006, because he drove over the center line two times. Trooper Moss also noted appellant had a Coca-Cola can on his bumper. After stopping appellant, Moss detected the smell of alcohol and noticed appellant’s eyes were red and watering. Appellant admitted to having had five or six beers that night, and told the officer that he had his last sip twenty minutes before being stopped. He also told Moss he had a prescription for hydrocodone, which appellant took every four hours for back pain. Appellant last took hydrocodone at 11:00 p.m., two hours before the traffic stop.</p>
+                <p pgmap="61" id="b61-5">Trooper Moss ran a portable-breath test on appellant, then performed a horizontal-gaze-nystagmus test, where appellant ex­hibited lack of smooth pursuit in both eyes and distinct nystagmus at maximum deviation in both eyes. Moss then gave a second portable-breath test and decided to charge appellant with DWI.</p>
+                <p pgmap="61" id="b61-6">At the station, Moss performed one breath test with no result, then two more breath tests, resulting in a concentration of ninety-nine-thousandths (0.099) and ninety-six-thousandths (0.096) respectively. Moss testified that appellant was given the option of having a blood test performed at the hospital. Moss called the hospital to find out about the procedure and the cost. The hospital would not accept Medicaid, appellant’s only form of insurance, and appellant did not have any money to pay for the test.</p>
+                <p pgmap="61" id="b61-7">At a bench trial, appellant moved for a directed verdict at the conclusion of the State’s case, arguing the State did not meet its burden of proof regarding appellant’s blood-alcohol content at the time he was driving. This motion was renewed at the end of all evidence, and both motions were denied. Appellant was found guilty of DWI, assessed fines and costs, and ordered to attend alcohol class. A timely notice of appeal was filed, and this appeal followed.</p>
+                <p pgmap="61" id="b61-8">Standard of review</p>
+                <p pgmap="61" id="b61-9">A motion for directed verdict is a challenge to the sufficiency of the evidence. Marshall v. State, 94 Ark. App. 34, 223 S.W.3d 74 (2006). Evidence, direct or circumstantial, is sufficient if it is substantial. Id. Substantial evidence is evidence forceful enough to compel a conclusion one way or the other beyond suspicion or conjecture. Id. When a defendant challenges the sufficiency of the evidence convicting him, the evidence is viewed in the light most favorable to the State. Id. This court will only consider evidence that supports the verdict. Id.</p>
+                <p pgmap="61(48) 62(21)" id="b61-10">Circumstantial evidence can support a finding of guilt in a criminal case if it excludes every other reasonable hypothesis consistent with innocence. Ross v. State, 346 Ark. 225, 57 S.W.3d 152 (2001). Whether circumstantial evidence excludes every hy­pothesis consistent with innocence is for the factfinder to decide. Id. Upon review, an appellate court must determine whether the factfinder resorted to speculation and conjecture in reaching its decision. Id.</p>
+                <p pgmap="62" id="b62-5">Argument</p>
+                <p pgmap="62" id="b62-6">Appellant argues the trial court erred in denying his motion for directed verdict because the State failed to prove that the alcohol concentration in his breath was eight-hundredths (0.08) or more at the time he was driving. Arkansas Code Annotated section 5-65-103 (Repl. 2005) states as follows:</p>
+                <blockquote pgmap="62" id="b62-7">(a) It is unlawful and punishable as provided in this act for any person who is intoxicated to operate or be in actual physical control of a motor vehicle.</blockquote>
+                <blockquote pgmap="62" id="b62-8">(b) It is unlawful and punishable as provided in this act for any person to operate or be in actual physical control of a motor vehicle if at that time the alcohol concentration in the person’s breath or blood was eight-hundredths (0.08) or more based upon the defini­tion of breath, blood, and urine concentration in § 5-65-204.</blockquote>
+                <p pgmap="62" id="b62-9">Appellant contends that the State is obligated to prove each element of the offense charged. He claims that under the evidence presented, it is not known what his breath or blood-alcohol concentration was at the time of the alleged offense. He argues that the State’s whole case rested on the Trooper’s probable-cause determination and two breath-test results taken at 2:01 a.m. and 2:13 a.m. The results were ninety-nine-thousandths (0.099) and ninety-six-thousandths (0.096) respectively. He claims this means that his alcohol level had peaked from a lower concentration an hour before the test was taken. He maintains that to conclude that his alcohol concentration an hour earlier was eight-hundredths (0.08) or above would depend upon suspicion or conjecture, and therefore, the trial court’s decision was not based upon substantial evidence.</p>
+                <p pgmap="62(76) 63(46)" id="b62-10">The State argues appellant’s claim that his alcohol level would have still been rising at the time of the offense and could have been peaking at the time of the tests is unsupported by any evidence about the changes in alcohol levels that occur after alcohol is consumed. We agree. Pursuant to Ark. Code Ann. § 5-65-206(a)(l) (Repl. 2005), a presumption that the defendant was not under the influence is established if, within four hours of the alleged offense, an alcohol concentration of four-hundredths (0.04) or less is found in the defendant’s breath. No presumption is made if the alcohol concentration found within four hours of the alleged offense is between four-hundredths (0.04) and eight-­hundredths (0.08). Ark. Code Ann. § 5-65-206(a)(2).</p>
+                <p pgmap="63" id="b63-5">The State further argues that, under Porter v. State, 356 Ark. 17, 145 S.W.3d 376 (2004), the appellate court takes notice of the unquestioned laws of nature, mathematics, and physics; and con­sistent with this principle, appellate courts have repeatedly ob­served that blood-alcohol content decreases with the passage of time. However, in Porter, our supreme court pointed out that the DWI statute provides two different ways to prove the offense of DWI: (1) proving a blood-alcohol content greater than the limit provided in subsection (b), or (2) proving intoxication under subsection (a). The Porter court affirmed the defendant’s convic­tion under subsection (a) through the substantial evidence of his intoxication, which included a one-vehicle accident and a strong odor of intoxicants on or about the defendant’s person at the time. The court further stated as follows:</p>
+                <blockquote pgmap="63" id="b63-6">Proof of the motorist’s blood-alcohol content is not necessary for a conviction of DWI on the ground of intoxication. Stephens, 320 Ark. 426, 898 S.W.2d 435; Wilson v. State, 285 Ark. 257, 685 S.W.2d811 (1985). However, such proof is admissible as evidence tending to prove intoxication. Id.; Yacono, 285 Ark. 130, 685 S.W.2d 500. In deciding whether there is substantial evidence of intoxication, this court takes notice of the unquestioned laws of nature, mathematics, and physics. Stephens, 320 Ark. 426, 898 S.W.2d 435; Yacono, 285 Ark. 130, 685 S.W.2d 500. Consistent with this principle, this court has repeatedly observed that blood-­alcohol content decreases with the passage of time. Stephens, 320 Ark. 426, 898 S.W.2d 435 (citing State v.Johnson, 317 Ark. 226,876 S.W.2d 577 (1994); David v. State, 286 Ark. 205, 691 S.W.2d 133 (1985); Elam v. State, 286 Ark. 174, 690 S.W.2d 352 (1985)).</blockquote>
+                <p pgmap="63" id="b63-7">Id. at 22, 145 S.W.3d at 379.</p>
+                <p pgmap="63(60) 64(38)" id="b63-8">We do not rely on Porter for the proposition that the unquestioned laws of nature compel a conclusion that appellant’s blood-alcohol content was decreasing or increasing at the time of the breathalyzer tests. However, under Ark. Code Ann. § 5-65-­206(a)(1), the breathalyzer test done well within two hours of the alleged offense is sufficient to establish appellant’s alcohol concen­tration in his breath at the time of the offense. Moreover, like Porter, the breathalyzer-test results are only one factor of many that the trial court considered when he determined substantial evi­dence supported appellant’s conviction for DWI.</p>
+                <p pgmap="64" id="b64-5">
+                   Appellant did not pass the field-sobriety tests, he admitted having ingested hydrocodone two hours before being stopped, and he admitted to having drunk alcohol twenty minutes prior to the stop. Further, appellant’s breath smelled of alcohol, and he crossed the center line twice. Finally, within two hours of the traffic stop, appellant’s breath-test results were more than eight-hundredths (0.08). These facts alone are sufficient to support a conviction of driving while intoxicated pursuant to Ark. Code Ann. § 5-65-103(a). Accordingly, appellant’s conviction is af­firmed based upon substantial evidence.</p>
+                <p pgmap="64" id="b64-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="60" ORDERLABEL="32" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jp2_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.1" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="33" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jp2_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.3" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABG" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.15" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.16" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.17" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.7" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.8" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUd" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.5" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af1" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.7" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.18" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtP" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.4" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.9" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.5" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.9" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            <area BEGIN="BL_63.1" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.6" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.5" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.6" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.4" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.7" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.8" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.6" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.3" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.7" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.6" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.12" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.14" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.13" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.5" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.19" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.4" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

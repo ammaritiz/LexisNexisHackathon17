@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000692_0031" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Dachs v. Hendrix">Joshua Allen DACHS, Individually; and Joy Danielle Dachs, as Special Personal Representative of the Estate of Elizabeth Anne Dachs, Deceased v. Barry D. HENDRIX, M.D., Individually; Family Practice Clinic, Individually; Rebecca Fisher, L.P.N.; Cynthia A. Bartholomew, R.N.; Arkansas Methodist Hospital Corporation d/b/a Arkansas Methodist Hospital, and d/b/a Arkansas Methodist Medical Center; and Continental Casualty Company</name>
+          <docketnumber>CA 08-106</docketnumber>
+          <citation category="official" type="bluebook">103 Ark. App. 184</citation>
+          <citation category="parallel" type="bluebook">287 S.W.3d 627</citation>
+          <decisiondate>2008-09-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T18:51:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:17:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T16:00:04Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T16:01:04Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="1bedf7ea3feb352001d622a2330a3799" CHECKSUMTYPE="MD5" SIZE="19154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="af9315511bea9128daccd4615a37b25f" CHECKSUMTYPE="MD5" SIZE="4906">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="e33f7d798511595e6802b003a6c22f27" CHECKSUMTYPE="MD5" SIZE="50530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="bd398de1cda2120ab7dc15dd61669688" CHECKSUMTYPE="MD5" SIZE="60396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="e359afdcd4e0253e972e6cada79e1cab" CHECKSUMTYPE="MD5" SIZE="59778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="17f21ab56fcaa5865fbc93bb71c04c52" CHECKSUMTYPE="MD5" SIZE="59650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="4996221d2b3d5ed17bbdc8ac53dc3cd3" CHECKSUMTYPE="MD5" SIZE="50872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="ba35b4a60f790da2f4dd2efd972123ad" CHECKSUMTYPE="MD5" SIZE="57100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00110_0.tif"/>
+      </file>
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="09eea3607878a5ea5fb66d77169db765" CHECKSUMTYPE="MD5" SIZE="50832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00110_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="73e8128354edece03464cfa547328b4c" CHECKSUMTYPE="MD5" SIZE="1856101">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="a6e3a9795e3be53964902959163b9285" CHECKSUMTYPE="MD5" SIZE="1170450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="af29ca66e711ba1b8886493767875948" CHECKSUMTYPE="MD5" SIZE="2509512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00107_1.jp2"/>
+      </file>
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="f51c2d76817d79f82aea2061534d7d68" CHECKSUMTYPE="MD5" SIZE="2640467">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="0c58ccd1508b34cd779702e6a85637be" CHECKSUMTYPE="MD5" SIZE="2815743">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="06019bb35a5c0f4b2c64de2536d7a67f" CHECKSUMTYPE="MD5" SIZE="2627633">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="271edd0b238e63fe535682f86a25e071" CHECKSUMTYPE="MD5" SIZE="2570331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="46bcee685376bf1574376df2bbc63193" CHECKSUMTYPE="MD5" SIZE="2618217">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00110_0.jp2"/>
+      </file>
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="78a8afd97188645ca9f4a2ddaa107832" CHECKSUMTYPE="MD5" SIZE="2486451">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00110_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="26e5aa990406007805911811bf48e4e7" CHECKSUMTYPE="MD5" SIZE="26439">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="4959605d7b034a0202ebced87cba5204" CHECKSUMTYPE="MD5" SIZE="1780">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="4d422f2ed930cfcc9d156dd8be16bfeb" CHECKSUMTYPE="MD5" SIZE="76769">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00107_1.xml"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="eb554f6d51b90acd9e478d2449c9f191" CHECKSUMTYPE="MD5" SIZE="95744">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="b07ff5cbca036653d8d56d65ad350a74" CHECKSUMTYPE="MD5" SIZE="102060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="e00a669ededcb984628b50d4b8f59c38" CHECKSUMTYPE="MD5" SIZE="98125">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="54834cd27029d36b2be4e3d9e5161ce8" CHECKSUMTYPE="MD5" SIZE="94973">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="77be4697eff4e7596c7ab642dba6efc3" CHECKSUMTYPE="MD5" SIZE="101503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00110_0.xml"/>
+      </file>
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="1224912c720e637898a751f3182549a1" CHECKSUMTYPE="MD5" SIZE="86341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00110_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="192" firstpage="184">
+              <court pgmap="212" id="b212-9">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="212" id="b212-8">CA 08-106</docketnumber>
+              <citation pgmap="212" id="AZR">287 S.W.3d 627</citation>
+              <parties pgmap="212" id="b212-7">Joshua Allen DACHS, Individually; and Joy Danielle Dachs, as Special Personal Representative of the Estate of Elizabeth Anne Dachs, Deceased v. Barry D. HENDRIX, M.D., Individually; Family Practice Clinic, Individually; Rebecca Fisher, L.P.N.; Cynthia A. Bartholomew, R.N.; Arkansas Methodist Hospital Corporation d/b/a Arkansas Methodist Hospital, and d/b/a Arkansas Methodist Medical Center; and Continental Casualty Company</parties>
+              <decisiondate pgmap="212" id="A78">Opinion delivered September 24, 2008</decisiondate>
+              <otherdate pgmap="212" id="b212-10">[Rehearing denied October 29, 2008.]</otherdate>
+              <judges pgmap="220" id="b220-11">Gladwin and Robbins, JJ., agree.</judges>
+              <attorneys pgmap="214" id="b214-4">Brian G. Brooks, Attorney at Law, PLLC, by: Brian G. Brooks, for appellants.</attorneys>
+              <attorneys pgmap="214" id="b214-5">Friday, Eldredge &amp; Clark, LLP, by: Laura Hensley Smith, for appellees Barry D. Hendrix, M.D.; Family Practice Clinic; Hendrix Medical Services, PLLC; and Paragould Physicians Management, LLC.</attorneys>
+              <attorneys pgmap="214" id="b214-6">Womack, Landis, Phelps &amp; McNeill, by: Paul McNeill and Jeff Scriber, for appellees Rebecca Fisher, L.P.N.; Cynthia A. Bartho­lomew, R.N.; Arkansas Methodist Hospital Corporation; and Con­tinental Casualty Company.</attorneys>
+              <opinion type="majority">
+                <author pgmap="214" id="b214-7">Sam Bird, Judge.</author>
+                <p pgmap="214" id="AGSd">Appellants Joshua Dachs, individually, and Joy Dachs, as special personal representative of the estate of Elizabeth Dachs, deceased, appeal the Greene County Circuit Court’s order granting summary judgment in favor of appel-­lees Dr. Barry Hendrix; Family Practice Clinic; Hendrix Medical Services, PLLC; and Paragould Physicians Management, LLC (col­lectively, the physician defendants); Rebecca Fisher, L.P.N.; Cynthia Bartholomew, R.N.; Arkansas Methodist Hospital Corporation; and Continental Casualty Company (collectively, the hospital defen­dants). The Dachses assert that the circuit court erred in finding that the complaint was barred by limitations and that the complaint was a nullity. We affirm.</p>
+                <p pgmap="214" id="b214-8">According to the complaint as amended, Joy Dachs pre­sented at Arkansas Methodist Hospital in Paragould, where, after an emergency C-section, the deceased was stillborn on September 1, 2004. On November 3, 2004, an estate was opened for the deceased, and Joy Dachs was appointed special personal represen­tative. Letters of administration were issued that same day.</p>
+                <p pgmap="214" id="b214-9">The original complaint in this case was filed on August 25, 2006, by “Joy Danielle Dachs and Joshua Allen Dachs.” The complaint was a wrongful-death and survival action alleging medi­cal negligence on the part of both the physician defendants and the hospital defendants relating to care provided to Joy Dachs, which proximately caused the death of the deceased. The complaint did not mention that Joy Dachs had been appointed special personal representative of the deceased’s estate or that she was acting as such in bringing the action.</p>
+                <p pgmap="215" id="b215-4">On March 16, 2007, an amended complaint was filed by “Joy Danielle Dachs and Joshua Allen Dachs, Individually, and by Joy Danielle Dachs as Special Personal Representative of the Estate of Elizabeth Anne Dachs, Deceased.” The amended complaint contained an allegation that Joy Dachs had been appointed as special personal representative of the deceased’s estate.</p>
+                <p pgmap="215" id="b215-5">On March 20, 2007, the hospital defendants filed a motion for summary judgment alleging that the Dachses lacked standing to bring the claims alleged in the original complaint. Therefore, the motion continued, the Dachses never properly commenced an action, and their claims were now time barred by the applicable two-year statute of limitations. The hospital defendants filed a second motion for summary judgment incorporating their previ­ous motion to address the Dachses’ amended complaint. The physician defendants filed a motion for summary judgment which incorporated by reference the motion of the hospital defendants.</p>
+                <p pgmap="215" id="b215-6">In response, the Dachses made two arguments. They first argued that the deceased’s estate and Joy Dachs’ capacity as its personal representative were not mentioned in the original com­plaint due to a “scrivener’s error.” They also argued that the original complaint was not a nullity because it included claims for injuries and harm to Joy Dachs and Joshua Dachs, as individuals, beyond the wrongful death claim. The Dachses argued that, because their individual claims were timely filed, Arkansas Rules of Civil Procedure 15 and 17 allowed the amended complaint to relate back to the filing of the original complaint. For their second argument, the Dachses asserted that the tolling provision found in Ark. Code Ann. § 16-114-203(c) (Repl. 2006) was amended to remove the death of a minor child as an event which would remove the disability of minority.</p>
+                <p pgmap="215(117) 216(15)" id="b215-7">After a hearing, the circuit court ruled from the bench and granted the motions for summary judgment. However, the court ruled that any claims for injuries suffered by Joy Dachs individually would remain viable. The court also agreed to certify, pursuant to Arkansas Rule of Civil Procedure 54(b), the order as final for purposes of appeal. In its written order, the court found that the Dachses did not have standing to bring the wrongful-death claims in the original complaint because, when it was filed, Joy Dachs had already been appointed personal representative, that the wrongful-­death and survival claims of the amended complaint could not relate back to the original complaint and were barred by the statute of limitations, and that the section 16-114-203(c) tolling provision did not apply. This appeal followed.</p>
+                <p pgmap="216" id="b216-5">In this summary-judgment matter, there is no dispute as to any material fact. In cases where the parties agree on the facts, appellate courts simply determine whether the appellee was en­titled to judgment as a matter of law. Swaim v. Stephens Prod. Co., 359 Ark. 190, 196 S.W.3d 5 (2004); Delt v. Bowers, 97 Ark. App. 323, 249 S.W.3d 162 (2007).</p>
+                <p pgmap="216" id="b216-6">The Dachses first argue that the original complaint filed August 25, 2006, was not a nullity and that the amended complaint filed March 22, 2007, properly related back to the filing of the original complaint. We disagree. There are two causes of action that arise when a person’s death is caused by the negligence of another: (1) a cause of action for the estate under the survival statute, Ark. Code Ann. § 16-62-101, and (2) a cause of action for the statutory beneficiaries under the wrongful-death statute, Ark. Code Ann. § 16-62-102. Miller v. Centerpoint Energy Res. Corp., 98 Ark. App. 102, 250 S.W.3d 574 (2007). Under Arkansas Code Annotated section 16-62-101 (Repl. 2005), only the personal representative can file a survival action. Furthermore, pursuant to Arkansas Code Annotated section 16-62-102(b) (Repl. 2005), every wrongful-death action “shall be brought by and in the name of the personal representative of the deceased person. If there is no personal representative, then the action shall be brought by the heirs at law of the deceased person.” Ark. Code Ann. § 16-62-­102(b). “An action for wrongful death brought by a plaintiff in his capacity as an administrator pursuant to Ark. Code Ann. § 16-62-­102 involves neither the same action, nor the same plaintiff as in a survival action brought by the same person in his individual capacity pursuant to Ark. Code Ann. § 16-62-101.” St. Paul Mercury Ins. Co. v. Circuit Court of Craighead County, 348 Ark. 197, 205, 73 S.W.3d 584, 589 (2002). A survival claim is simply a claim by the injured party that would have ended upon his death at common law. The legislature enacted a survival statute allowing those claims to survive the injured party’s death. See Myers v. McAdams, 366 Ark. 435, 236 S.W.3d 504 (2006).</p>
+                <p pgmap="216(56) 217(75)" id="b216-7">
+                   The question becomes whether the Dachses filed a proper complaint within the two-year limitations period. The Dachses filed their original complaint on August 25, 2006. At that time, Joy had already been appointed personal representative of the estate. Therefore, neither Joshua nor Joy Dachs, individually, had standing to bring the wrongful-death or survival claims. That Joy Dachs was proceeding in her individual capacity is shown by the fact that there are no allegations that she was the appointed personal representative of the estate. See Rhuland v. Fahr, 356 Ark. 382, 155 S.W.3d 2 (2004). Therefore, the circuit court was correct to conclude that the amended complaint, filed March 22, 2007, was barred by the statute of limitations because it was filed more than two years after the death of Elizabeth Dachs.</p>
+                <p pgmap="217" id="b217-5">The Dachses argue that because they asserted individual claims outside the scope of the wrongful-death claim, the amended complaint could relate back to the filing of the original complaint. Joy Dachs’ individual claims were not resolved by the summary judgment and are not before this court. However, Joshua Dachs’ individual claims are before us. Joshua Dachs asserts that “[b]oth parents suffered the horror of a still-born birth and the resultant emotional trauma. These damages are outside of the wrongful-­death act and sustainable by the parents in their own right.” We do not agree that the damages alleged by Joshua Dachs are outside of the wrongful-death act and, therefore, sustainable by him indi­vidually.</p>
+                <p pgmap="217" id="b217-6">
+                   Pursuant to Arkansas Code Annotated section 16-62-­102(f)(2) (R.epl. 2005), mental anguish damages in a wrongful-­death case include grief normally associated with the loss of a loved one. Wal-Mart Stores, Inc. v. Tucker, 353 Ark. 730, 120 S.W.3d 61 (2003). Claims for mental anguish cannot be asserted by an individual in a wrongful-death case where a personal representa­tive of the deceased’s estate has been appointed. See Dawson v. Gerritsen, 295 Ark. 206, 748 S.W.2d 33 (1988). Joshua Dachs has thus failed to assert any individual claims for himself outside of the wrongful-death statute that the amended complaint could relate back to. Therefore, the circuit court did not err in finding that the amended complaint did not relate back to the original complaint.</p>
+                <p pgmap="217" id="b217-7">
+                   For their second argument, the Dachses contend that the statute of limitations on the wrongful-death and survival claims has not run. It is undisputed that more than two years elapsed between Elizabeth Dachs’ being stillborn on September 1, 2004, and the amended complaint being filed by Joy Dachs as the personal representative of the deceased’s estate on March 22, 2007. Therefore, unless the running of the statute was somehow tolled, it is clear from the above discussion that the claims are barred.</p>
+                <p pgmap="217(20) 218(58)" id="b217-8">The Dachses rely on the legislative history of the Medical Malpractice Act, codified at Ark. Code Ann. §§ 16-114-201 to -209 (Repl. 2006), to argue that the death of their infant daughter did not trigger the running of the statute of limitations. The statute of limitations provision is now codified at Ark. Code Ann. § 16-114-203. As originally enacted, there was a two-year statute of limitations, but the limitations period for minors was extended until their nineteenth birthday.</p>
+                <p pgmap="218" id="b218-4">In 1991, section 16-114-203 was completely rewritten by Act 997. That act continued the two-year limitations period and addressed injuries to minors in the following subsections of section 16-114-203:</p>
+                <blockquote pgmap="218" id="b218-5">(c) Except as otherwise provided in the subsection (d) of this section, if at the time at which the cause of action for medical injuries occurring from obstetrical care shall or with reasonable dili­gence might have first been known or discovered, the person to whom such claim has accrued shall be nine (9) years of age or younger, then such minor or the person claiming through such minor may notwithstanding that the period of time limited pursu­ant to subsection (a) of this section shall have expired, commence action on such claim at any time within two (2) years next after the time at which the minor shall have reached his ninth birthday, or shall have died, whichever shall have first occurred.</blockquote>
+                <blockquote pgmap="218" id="b218-6">(d) If, at the time at which the cause of action for medical injuries occurring from obstetrical care shall or with reasonable diligence might have been first known or discovered, the person to whom such claim has accrued shall be a minor without a parent or legal guardian, then such minor or the person claiming through such minor may, notwithstanding that the period of time limited pursu­ant to subsection (a) of this section shall have expired, commence action on such claim at any time within two (2) years next after the time at which the minor shall have a parent or legal guardian or shall have died, whichever shall have first occurred; provided, however, that in no event shall the period of limitations begin to run prior to such minor’s ninth birthday unless such minor shall have died.</blockquote>
+                <p pgmap="218" id="b218-7">1991 Ark. Acts 997, § 1 (emphasis added).</p>
+                <p pgmap="218" id="b218-8">In 1995, section 16-114-203 was again rewritten by Act 735. The act addressed claims by minors as follows:</p>
+                <blockquote pgmap="218(26) 219(92)" id="b218-9">(c) If an individual is nine (9) years of age or younger at the time of the act, omission, or failure complained of, the minor or person claiming on behalf of the minor shall have until the later of the minor’s eleventh birthday or two (2) years from the act, omission, or failure in which to commence an action. However, if no medical injury is known and could not reasonably have been discovered prior to the minor’s eleventh birthday, then the minor or his representative shall have until two (2) years after the medical injury is known or reasonably could have been discovered, or until the minor’s nineteenth birthday, whichever is earlier, in which to commence an action.</blockquote>
+                <p pgmap="219" id="b219-5">1995 Ark. Acts 735, § 1.</p>
+                <p pgmap="219" id="b219-6">The Dachses highlight the “shall have died” language in the 1991 amendment and the omission of such language in the current version of the statute. The Dachses assert that, because of that change in the language, the general assembly intended to eliminate the death of a child under nine as ending the tolling of the statute of limitations. In other words, they contend that the limitations period does not expire until the date on which Elizabeth Dachs would have turned eleven years of age.</p>
+                <p pgmap="219" id="b219-7">
+                   The Dachses misinterpret the legislative history of these acts. As can be seen, both the 1991 and 1995 amendments dramatically shortened the length of time a minor has to bring an action for medical injury from the length of time allowed by the 1979 Act. Those amendments also provide that minors over the age of nine are to be treated as adults in terms of only having two years in which to bring their claim for medical injuries, while minors under the age of nine years shall have until the later of their eleventh birthday or two years from the event giving rise to the cause of action to bring suit. The 1991 amendment created a narrow, specific exception for minors with claims for medical injuries occurring from obstetrical care. The 1995 amendment broadened the savings provision for minors to include all medical injuries, not just those arising from obstetrical care. See Raley v. Wagner, 346 Ark. 234, 57 S.W.3d 683 (2001); Shelton v. Fiser, 340 Ark. 89, 8 S.W.3d 557 (2000). In other words, instead of removing the death of the minor as an event triggering the statute of limitations, the 1995 amendment indicates a legislative intent to allow all minors under the age of nine years to have until their eleventh birthday to file suit for medical injuries, not just those who suffered injuries from obstetrical care.</p>
+                <p pgmap="219(19) 220(57)" id="b219-8">Furthermore, we are persuaded by cases from other jurisdic­tions that the minority tolling provisions of Ark. Code Ann. § 16-114-203 do not apply where only a personal representative can bring a wrongful-death or survival medical malpractice case. Runstrom v. Allen, 345 Mont. 314, 191 P.3d 410 (2008); see also Anderson v. R &amp; D Foods, Inc., 913 So. 2d 394 (Miss. Ct. App. 2005); Walberg v. St. Francis Home, Inc., 697 N.W.2d 36 (Wis. 2005).</p>
+                <p pgmap="220" id="b220-6">
+                   Runstrom is particularly instructive. Montana has a general, three-year statute of limitations for tort actions, as well as a three-year statute of limitations for medical malpractice actions. Mont. Code Ann. §§ 27-2-204, 27-2-205 (2007). Montana’s statute of limitations for medical malpractice actions has a tolling provision for injuries to minors:</p>
+                <blockquote pgmap="220" id="b220-7">[NJotwithstanding the provisions of [the general tolling statute], in an action for death or injury of a minor who was under the age of 4 on the date of the minor’s injury, the period of limitations [for medical-malpractice actions] begins to run when the minor reaches the minor’s eighth birthday or dies, whichever occurs first, and the time for commencement of the action is tolled during any period during which the minor does not reside with a parent or guardian.</blockquote>
+                <p pgmap="220" id="b220-8">Mont. Code Ann. § 27-2-205(2). The appellant in Runstrom argued that the “or dies” language in section 27-2-205(2) and the omission of such language in the general tolling statute demonstrated a legislative intent for the death of the minor patient to end “eighth birthday” tolling in survival medical malpractice actions involving children injured before age four, but not to end minority tolling before a child’s eighteenth birthday in survival medical malpractice cases involving minors injured at age four or older. This was important because the child in that case was sixteen years of age. The Montana court rejected the argument, holding that the tolling provisions do not apply where only a personal representative can bring the action. We find this reasoning sound because, like Montana, Arkansas law re­quires the appointed personal representative to bring the wrongful-­death or survival actions.</p>
+                <p pgmap="220" id="b220-9">For the reasons set forth above, we hold that the circuit court did not err in finding that the tolling provisions of section 16-114-203(c) did not apply.</p>
+                <p pgmap="220" id="b220-10">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="212" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.2" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="220" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.7" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.7" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.6" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.9" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.5" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGSd" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.7" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_214.8" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_214.9" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.7" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.6" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.5" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZR" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.9" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.6" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.7" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            <area BEGIN="BL_220.1" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A78" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.11" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.6" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.4" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.10" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.8" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.3" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.6" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.11" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.10" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.7" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.8" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.5" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.8" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.9" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.12" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.6" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

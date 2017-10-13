@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000720_0052" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. Servomation">Delia SMITH v. SERVOMATION</name>
+          <docketnumber>CA 82-143</docketnumber>
+          <citation category="official" type="bluebook">8 Ark. App. 274</citation>
+          <citation category="parallel" type="bluebook">651 S.W.2d 118</citation>
+          <decisiondate>1983-06-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T18:14:52Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:51:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:33:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:35:03Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="55a284b4e80f36fcf62c275cc0342b3b" CHECKSUMTYPE="MD5" SIZE="6754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="3a90055f77aab43b01af48377311e2db" CHECKSUMTYPE="MD5" SIZE="47546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00149_0.tif"/>
+      </file>
+      <file ID="tiff_00149_1" MIMETYPE="image/tiff" CHECKSUM="6679ed334f647862a2d01c0a684d8620" CHECKSUMTYPE="MD5" SIZE="51096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00149_1.tif"/>
+      </file>
+      <file ID="tiff_00150_0" MIMETYPE="image/tiff" CHECKSUM="ecd90db2a04352c025a6d03bfa36d3ea" CHECKSUMTYPE="MD5" SIZE="46104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00150_0.tif"/>
+      </file>
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="20fce9c7c00aeb321e01d2e7596e8c88" CHECKSUMTYPE="MD5" SIZE="29264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00150_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="f7507f2c2cea27397c558a5e627995ce" CHECKSUMTYPE="MD5" SIZE="1202091">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00148_1.jp2"/>
+      </file>
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="cb3081f8273774b6493230d53672f48c" CHECKSUMTYPE="MD5" SIZE="2527220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00149_0.jp2"/>
+      </file>
+      <file ID="jp2_00149_1" MIMETYPE="image/jp2" CHECKSUM="c9173f451c21fcfbd1dceed61979e500" CHECKSUMTYPE="MD5" SIZE="2534509">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00149_1.jp2"/>
+      </file>
+      <file ID="jp2_00150_0" MIMETYPE="image/jp2" CHECKSUM="27732620936e97a59cfbcbb6fe4e8085" CHECKSUMTYPE="MD5" SIZE="2519832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00150_0.jp2"/>
+      </file>
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="251fdc80b0ca2438ab17c134cd822f0c" CHECKSUMTYPE="MD5" SIZE="1995763">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00150_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="349ab23dcc91bd9482eef5b8f0fef2cc" CHECKSUMTYPE="MD5" SIZE="7311">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00148_1.xml"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="031c06f99c95d5de497171aedda5e7e3" CHECKSUMTYPE="MD5" SIZE="80189">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00149_0.xml"/>
+      </file>
+      <file ID="alto_00149_1" MIMETYPE="text/xml" CHECKSUM="a9d770f292318f1ff02407324275a1c5" CHECKSUMTYPE="MD5" SIZE="85429">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00149_1.xml"/>
+      </file>
+      <file ID="alto_00150_0" MIMETYPE="text/xml" CHECKSUM="d243193ad87413026bcbd27709d690d7" CHECKSUMTYPE="MD5" SIZE="75844">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00150_0.xml"/>
+      </file>
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="580518d551da4fbd6990eac2dc19e633" CHECKSUMTYPE="MD5" SIZE="45222">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00150_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="278" firstpage="274">
+              <court id="b296-4" pgmap="296">Court o£ Appeals of Arkansas</court>
+              <docketnumber id="AWD" pgmap="296">CA 82-143</docketnumber>
+              <citation id="ArD" pgmap="296">651 S.W.2d 118</citation>
+              <parties id="b296-3" pgmap="296">Delia SMITH v. SERVOMATION</parties>
+              <decisiondate id="AkH" pgmap="296">Opinion delivered June 1, 1983</decisiondate>
+              <judges id="b299-8" pgmap="299">Glaze, J., concurs.</judges>
+              <attorneys id="b297-3" pgmap="297">Frederick S. “Rick” Spencer, for appellant.</attorneys>
+              <attorneys id="b297-4" pgmap="297">Michael E. Ryburn, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b297-5" pgmap="297">Melvin Mayfield, Chief Judge.</author>
+                <p id="AfrG" pgmap="297">In November of 1974, the appellant sustained a back injury as a result of an on-the-­job accident. In June of 1975, after surgery for removal of a herniated disc, she was released to return to work and in April of 1977, she filed a claim for compensation with the Workers’ Compensation Commission. At a hearing on August 22,1979, it was stipulated that the employer had paid all medical bills submitted, temporary benefits for a period, and 45 weeks of compensation which represented a 10% disability. After the hearing, the record was left open for the appellant to submit additional medical records.</p>
+                <p id="b297-6" pgmap="297">An opinion was filed by the law judge in November of 1980, in which he stated that only two reports had been submitted since the hearing and that the appellant had failed to show she was entitled to additional benefits. There was no appeal from this opinion, but after appellant retained her present attorney, a petition was filed on May 4, 1981, to reopen her claim pursuant to Ark. Stat. Ann. § 81-1326 (Repl. 1976). That section reads in part as follows:</p>
+                <blockquote id="b297-9" pgmap="297">Modification of awards. Except where a joint petition settlement has been approved the Commission may at any time within six months of termination of the compensation period fixed in the original compensa­tion order or award, upon its own motion or upon the application of any party in interest, on the ground of a change of physical condition or upon proof of er­roneous wage rate, review any compensation order, award or decision, and upon such review may make an order or award terminating, continuing, decreasing or increasing for the future the compensation previously awarded, subject to the maximum limits provided for in this Act.</blockquote>
+                <p id="b297-10" pgmap="297(31) 298(19)">The law judge held that since no award had been made in the November 1980 order, no compensation period had been fixed and no review could be made. Finding that the statute did not apply, he therefore dismissed the petition to reopen. This decision was affirmed by the Full Commission.</p>
+                <p id="b298-4" pgmap="298">We think the decision is correct. Appellant relies upon Walker v. J &amp; J Pest Control, 270 Ark. 941, 606 S.W.2d 597 (Ark. App. 1980), as authority to the contrary, but we cannot agree. In that case Walker, alleging newly discovered evidence, filed a motion for rehearing nineteen days after the commission had denied his claim. The commission denied the petition on the basis that it had no authority to entertain a petition for rehearing. This court reversed and held that the commission did have authority to consider a motion for rehearing which is timely filed.</p>
+                <p id="b298-5" pgmap="298">The Walker opinion was clarified and limited by Cooper Industrial Products v. Meadows, 5 Ark. App. 205, 634 S. W.2d 400 (1982). In Cooper, more than thirty days after he filed his opinion, a law judge amended his order at the appellee’s request. The appellant argued that this could not be done without an appeal. This court agreed. We said neither administrative law judges nor the commission have the power to waive or extend the thirty days in which their decisions may be appealed. See Ark. Stat. Ann. § 81-1325 (a) and (b) (Repl. 1976). And in a footnote we noted that Walker involved a motion for rehearing filed within the thirty-day period for appeal.</p>
+                <p id="b298-6" pgmap="298">Therefore, in the instant case, we think the commission was correct in refusing to allow the appellant to reopen her claim since the petition was not filed within the time to appeal as in Walker and since Ark. Stat. Ann. § 81-1326 applies only to cases where a previous order or award of compensation has been made.</p>
+                <p id="b298-7" pgmap="298(74) 299(45)">The appellant has presented several ingenious argu­ments for the application of section 81-1326. She says due process requires it, citing language in Walker. But that language simply refers to section 81-1326 as an example of an opportunity for reconsideration offered by the compen­sation act and the opinion says that due process would require a similar right to reconsideration for a claimant who has been denied an award. The answer then to appellant’s argument is that she had a similar right — file a petition for reconsideration within thirty days. And in that case she would not be limited to the narrow grounds of change in physical condition or erroneous wage rate assignment as provided in section 81-1326.</p>
+                <p id="b299-4" pgmap="299">The appellant also argues that the first hearing, on August 22, 1979, was limited to whether the appellant was entitled to additional medical benefits and that the law judge exceeded that limitation and thus his order should not be considered final. However, the record shows that she also asked for the resumption of temporary total disability payments; that the employer contended all benefits due had been paid; and that the law judge’s opinion definitely stated that appellant failed to prove she was entitled to additional benefits. Under these circumstances, we think appellant’s failure to question the decision within thirty days either by petition for rehearing or appeal, allowed it to become final.</p>
+                <p id="b299-5" pgmap="299">Furthermore, we cannot agree that the appellee is estopped to claim that the 1979 decision was final. A party claiming estoppel must prove he has relied in good faith on wrongful conduct and has changed his position to his detriment. Christmas v. Raley, 260 Ark. 150, 539 S.W.2d 405 (1976). Although there was no specific finding as to estoppel, the issue was argued to the commission and the record is clearly sufficient for us to determine that the commission resplved that issue against appellant’s conten­tion and that its action in that regard is supported by substantial evidence. See Clark v. Peabody Testing Service, 265 Ark. 489, 579 S.W.2d 360 (1979).</p>
+                <p id="b299-6" pgmap="299">After giving careful consideration to all the arguments advanced, we have concluded that under the law and evidence it is our duty to affirm the commission’s decision.</p>
+                <p id="b299-7" pgmap="299">Affirmed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author id="b299-9" pgmap="299">Tom Glaze, Judge, concurring.</author>
+                <p id="AkD" pgmap="299(11) 300(154)">I concur. The majority appears to authorize rehearing or reconsideration pro­cedures — a practice we specifically stated was not provided for in our Workers’ Compensation Law. See Cooper In­dustrial Products v. Meadows, 5 Ark. App. 205, 208, 634 S.W.2d 400, 402 (1982). In fact, this Court in Walker v. J &amp; J Pest Control, 270 Ark. 941, 606 S.W.2d 597 (Ark. App. 1980), permitted a motion for a rehearing, and I thought in Meadows we clearly decided that we were wrong in doing so. See Meadows, supra, at 208, 634 S. W.2d at 402, n.2. Although I might agree a law should be enacted to allow for rehearing petitions, I question our authority to provide for such a procedure by judicial edict. In my opinion, the only procedure to reopen a case is set forth in Ark. Stat. Ann. § 81-1326 (Repl. 1976), viz., a party must show (1) a change of physical condition or (2) that an erroneous wage rate was implemented.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="296" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.2" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="298" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00149_1"/>
+        <fptr FILEID="jp2_00149_1"/>
+        <fptr FILEID="alto_00149_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_298.2" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="299" ORDERLABEL="277" TYPE="page">
+        <fptr FILEID="tiff_00150_0"/>
+        <fptr FILEID="jp2_00150_0"/>
+        <fptr FILEID="alto_00150_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_299.3" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="300" ORDERLABEL="278" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.2" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.9" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.3" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.4" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.5" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.4" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.8" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.10" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            <area BEGIN="BL_298.1" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfrG" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.6" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            <area BEGIN="BL_297.7" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWD" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.5" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkD" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.10" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_299.11" BETYPE="IDREF" FILEID="alto_00150_0"/>
+            <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArD" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.5" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkH" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.7" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.9" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.6" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.7" BETYPE="IDREF" FILEID="alto_00149_1"/>
+            <area BEGIN="BL_299.1" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b298-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_298.4" BETYPE="IDREF" FILEID="alto_00149_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.8" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.6" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.7" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.6" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b299-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_299.5" BETYPE="IDREF" FILEID="alto_00150_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.3" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

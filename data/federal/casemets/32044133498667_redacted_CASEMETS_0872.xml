@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044133498667_0872" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Seger-Thomschitz v. Museum of Fine Arts">Seger-Thomschitz v. Museum of Fine Arts, Boston; Franklin v. Tennessee; Riley v. Union Parish School Board et al.; Scurlock-Ferguson v. City of Durham, North Carolina; Partovi v. Holder, Attorney General, et al.; Townsend v. Calderone et al.; McGlone v. Austin; Mattox v. Buss, Secretary, Florida Department of Corrections, et al.; Soucy v. Barnhart, Warden; Hodge et ux. v. Calvert County, Maryland, et al.; Douglas v. Hobbs, Director, Arkansas Department of Correction; Rafi v. Sebelius, Secretary of Health and Human Services; Ellis v. Eighth Judicial District Court of Nevada, Clark County, et al.; Barrino v. Department of the Treasury et al.; Polk v. Beeler, Warden, et al., In re Nesbitt</name>
+          <docketnumber>No. 10-901; No. 10-5746; No. 10-6059; No. 10-7397; No. 10-7871; No. 10-8027; No. 10-8182; No. 10-8197; No. 10-8352; No. 10-8406; No. 10-8416; No. 10-8452; No. 10-8536; No. 10-8582; No. 10-8855; No. 10-8947</docketnumber>
+          <citation category="official" type="bluebook">563 U.S. 970</citation>
+          <decisiondate>2011-04-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-09-09T22:56:45Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-11-09T23:34:08Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-22T11:01:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-22T11:07:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00498_1" MIMETYPE="image/tiff" CHECKSUM="e8476bb9a5e96115b861126b9ce14496" CHECKSUMTYPE="MD5" SIZE="43174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00498_1.tif"/>
+      </file>
+      <file ID="tiff_00499_0" MIMETYPE="image/tiff" CHECKSUM="6ecad0a1ec23c43944c1c29bc333143e" CHECKSUMTYPE="MD5" SIZE="31142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00499_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00498_1" MIMETYPE="image/jp2" CHECKSUM="2d060b3181000f77836dec7cac68b2a7" CHECKSUMTYPE="MD5" SIZE="2183193">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00498_1.jp2"/>
+      </file>
+      <file ID="jp2_00499_0" MIMETYPE="image/jp2" CHECKSUM="a6c387952cabc63a73e1378f04f9f83b" CHECKSUMTYPE="MD5" SIZE="2065447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00499_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00498_1" MIMETYPE="text/xml" CHECKSUM="16232da62607bedebd0aac7771ebb440" CHECKSUMTYPE="MD5" SIZE="76841">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044133498667_redacted_ALTO_00498_1.xml"/>
+      </file>
+      <file ID="alto_00499_0" MIMETYPE="text/xml" CHECKSUM="d83fe5d4359e3a48a5edf614b70dfe89" CHECKSUMTYPE="MD5" SIZE="52723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044133498667_redacted_ALTO_00499_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0872" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="970" lastpage="971">
+              <docketnumber pgmap="996" id="b996-10">No. 10-901.</docketnumber>
+              <docketnumber pgmap="996" id="ATSz">No. 10-5746.</docketnumber>
+              <docketnumber pgmap="996" id="AZXV">No. 10-6059.</docketnumber>
+              <docketnumber pgmap="996" id="AH4H">No. 10-7397.</docketnumber>
+              <docketnumber pgmap="996" id="Abxg">No. 10-7871.</docketnumber>
+              <docketnumber pgmap="996" id="AbqY">No. 10-8027.</docketnumber>
+              <docketnumber pgmap="996" id="ARs">No. 10-8182.</docketnumber>
+              <docketnumber pgmap="996" id="AAc">No. 10-8197.</docketnumber>
+              <docketnumber pgmap="996" id="A3YH">No. 10-8352.</docketnumber>
+              <docketnumber pgmap="996" id="AaV">No. 10-8406.</docketnumber>
+              <docketnumber pgmap="996" id="Aot">No. 10-8416.</docketnumber>
+              <docketnumber pgmap="996" id="AMx_">No. 10-8452.</docketnumber>
+              <docketnumber pgmap="997" id="APn">No. 10-8536.</docketnumber>
+              <docketnumber pgmap="997" id="AB7eC">No. 10-8582.</docketnumber>
+              <docketnumber pgmap="997" id="AKYB">No. 10-8855.</docketnumber>
+              <docketnumber pgmap="997" id="ALK4">No. 10-8947.</docketnumber>
+              <parties pgmap="996(82) 997(29)" id="APO">Seger-Thomschitz v. Museum of Fine Arts, Boston, Franklin v. Tennessee, Riley v. Union Parish School Board et al., Scurlock-Ferguson v. City of Durham, North Carolina, Partovi v. Holder, Attorney General, et al., Townsend v. Calderone et al., McGlone v. Austin, Mattox v. Buss, Secretary, Florida Depart­ment of Corrections, et al., Soucy v. Barnhart, Warden, Hodge et ux. v. Calvert County, Maryland, et al., Douglas v. Hobbs, Director, Arkansas De­partment of Correction, Rafi v. Sebelius, Secretary of Health and Human Services, Ellis v. Eighth Judicial District Court of Nevada, Clark County, et al., Barrino v. Department of the Treasury et al., Polk v. Beeler, Warden, et al., In re Nesbitt,</parties>
+              <opinion type="majority">
+                <p pgmap="996" id="Amqz">562 U. S. 1271;</p>
+                <p pgmap="996" id="ACl6">562 U. S. 1272;</p>
+                <p pgmap="996" id="AHZO">562 U. S. 1222;</p>
+                <p pgmap="996" id="AKqJ">562 U. S. 1273;</p>
+                <p pgmap="996" id="ABq6">562 U. S. 1228;</p>
+                <p pgmap="996" id="AbU">562 U. S. 1232;</p>
+                <p pgmap="996" id="A32U">562 U. S. 1274;</p>
+                <p pgmap="996" id="Aqep">562 U. S. 1238;</p>
+                <p pgmap="996" id="AfVq">562 U. S. 1243;</p>
+                <p pgmap="996" id="AOn">562 U. S. 1244;</p>
+                <p pgmap="996" id="AvpP">562 U. S. 1245;</p>
+                <p pgmap="996" id="A5DI">562 U. S. 1260;</p>
+                <p pgmap="997" id="AR7K">562 U. S. 1294;</p>
+                <p pgmap="997" id="Ampe">562 U. S. 1294;</p>
+                <p pgmap="997" id="AgQ3">562 U. S. 1297; and</p>
+                <p pgmap="997" id="A6T">562 U. S. 1269. Petitions for rehearing denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="996" ORDERLABEL="970" TYPE="page">
+        <fptr FILEID="tiff_00498_1"/>
+        <fptr FILEID="jp2_00498_1"/>
+        <fptr FILEID="alto_00498_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_996.2" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="997" ORDERLABEL="971" TYPE="page">
+        <fptr FILEID="tiff_00499_0"/>
+        <fptr FILEID="jp2_00499_0"/>
+        <fptr FILEID="alto_00499_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_997.17" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAc" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.43" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3YH" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.44" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APO" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.48" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.49" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.50" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.51" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.52" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.53" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.54" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.55" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.56" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.57" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.58" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.59" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.60" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.61" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.62" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.63" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.64" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.65" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.66" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_997.5" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.6" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.7" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.8" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.9" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.10" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AH4H" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.39" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aot" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.46" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5DI" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.78" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqep" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.74" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHZO" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.69" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKYB" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.3" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaV" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.45" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ampe" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.12" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-10" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.36" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB7eC" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.2" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARs" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.42" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A32U" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.73" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APn" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.1" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKqJ" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.70" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR7K" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.11" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amqz" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.67" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATSz" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.37" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZXV" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.38" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACl6" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.68" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABq6" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.71" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbU" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.72" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abxg" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.40" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6T" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.15" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.16" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgQ3" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.13" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            <area BEGIN="BL_997.14" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfVq" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.75" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALK4" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.4" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvpP" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.77" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbqY" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.41" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMx_" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.47" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOn" BETYPE="IDREF" FILEID="casebody_0872"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.76" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,530 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000723_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Rorex v. State">Harold Stephen ROREX v. STATE of Arkansas</name>
+          <docketnumber>CA CR 89-130</docketnumber>
+          <citation category="official" type="bluebook">31 Ark. App. 127</citation>
+          <citation category="parallel" type="bluebook">790 S.W.2d 180</citation>
+          <decisiondate>1990-05-23</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:47:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:35:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:37:08Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00077_0" MIMETYPE="image/tiff" CHECKSUM="d4c4d184829fc4f779efe1bb812e5903" CHECKSUMTYPE="MD5" SIZE="7558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00077_0.tif"/>
+      </file>
+      <file ID="tiff_00077_1" MIMETYPE="image/tiff" CHECKSUM="326556bb4e5826cfea4101a14e5a0cc0" CHECKSUMTYPE="MD5" SIZE="40114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00077_1.tif"/>
+      </file>
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="1905298a641a3dc6057983a93027b99f" CHECKSUMTYPE="MD5" SIZE="55652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="2b1e30fb5a6fe02a33885314e89571ad" CHECKSUMTYPE="MD5" SIZE="54348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="2f24d7db5f7c00ea540213d52ea2892c" CHECKSUMTYPE="MD5" SIZE="26680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00079_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00077_0" MIMETYPE="image/jp2" CHECKSUM="309e57d05b7d3eab3a22214d3c1c7de5" CHECKSUMTYPE="MD5" SIZE="1329203">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00077_0.jp2"/>
+      </file>
+      <file ID="jp2_00077_1" MIMETYPE="image/jp2" CHECKSUM="f53b465488b7987c4e7446ff7a9b4fab" CHECKSUMTYPE="MD5" SIZE="2266810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00077_1.jp2"/>
+      </file>
+      <file ID="jp2_00078_0" MIMETYPE="image/jp2" CHECKSUM="a41ca158cb6804633e26f638174d1095" CHECKSUMTYPE="MD5" SIZE="2651193">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00078_0.jp2"/>
+      </file>
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="662836a7fd971ae4ee4473f8485d280c" CHECKSUMTYPE="MD5" SIZE="2608902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="d9532f5a175b9728f46e0a47afcacb50" CHECKSUMTYPE="MD5" SIZE="2202849">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00079_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00077_0" MIMETYPE="text/xml" CHECKSUM="7a0f47d75154e44e8524d3682f3a1f50" CHECKSUMTYPE="MD5" SIZE="8484">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00077_0.xml"/>
+      </file>
+      <file ID="alto_00077_1" MIMETYPE="text/xml" CHECKSUM="0e3c155d5083f43deb1c0be52895da67" CHECKSUMTYPE="MD5" SIZE="64405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00077_1.xml"/>
+      </file>
+      <file ID="alto_00078_0" MIMETYPE="text/xml" CHECKSUM="add7c03129a96247de9f9660a8518e07" CHECKSUMTYPE="MD5" SIZE="92559">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00078_0.xml"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="78773c1ff84088f578467e04addb0b9d" CHECKSUMTYPE="MD5" SIZE="90002">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="f96abe83cc7ee5f4efaaa3bc42fb950b" CHECKSUMTYPE="MD5" SIZE="44880">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00079_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="131" firstpage="127">
+              <court id="b153-4" pgmap="153">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b153-3" pgmap="153">CA CR 89-130</docketnumber>
+              <citation id="A_5" pgmap="153">790 S.W.2d 180</citation>
+              <parties id="b153-2" pgmap="153">Harold Stephen ROREX v. STATE of Arkansas</parties>
+              <decisiondate id="b153-5" pgmap="153">Opinion delivered May 23, 1990</decisiondate>
+              <judges id="b157-10" pgmap="157">Corbin, C.J., and Cooper, J., agree.</judges>
+              <attorneys id="b154-8" pgmap="154">John Wesley Hall, Jr., P.C., for appellant.</attorneys>
+              <attorneys id="b154-9" pgmap="154">Steve Clark, Att’y Gen., by: Sandra Bailey Moll, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b154-10" pgmap="154">John E. Jennings, Judge.</author>
+                <p id="AOK" pgmap="154">Appellant, Harold Rorex, was found guilty by a jury of raping his two stepchildren and was sentenced by the court to thirty years imprisonment. Mr. Rorex contends on appeal that the trial court erred in refusing to permit him to exercise a peremptory challenge after the jury had been selected and in refusing to permit him to cross-examine the children about alleged prior sexual contact. We find no error and affirm.</p>
+                <p id="b154-11" pgmap="154">Voir dire was completed on the Monday before the Wednes­day of trial. The jury was “drawn and struck,” questions were asked of the panel by both the court and counsel, and only a few jurors were questioned individually. The names of potential witnesses were read and the members of the panel were asked if they were related to any witness.</p>
+                <p id="b154-12" pgmap="154(108) 155(35)">On the morning of trial, the prosecutor and the defense attorney met with the court in chambers, at which time defense counsel asked that the court permit him to exercise an unused peremptory challenge to excuse a juror already selected, Audie Hall. Two alternate jurors had been selected. Counsel advised the court that the juror “had not revealed” that “she actually knows and works with one of the defendant’s witnesses.” He told the court that Audie Hall worked with the appellant’s wife, Cindy Rorex, at a large factory and that she “sees her every day.” During the course of his statement to the court he said that he “would be perfectly willing to call Cindy Rorex in here to testify about the proximity that she works to Mrs. Hall.” The state argued against excusing the juror and the court declined to do so.</p>
+                <p id="b155-6" pgmap="155">Appellant first argues that if, after the jury has been selected, counsel for one side seeks to exercise a remaining peremptory challenge, it is error for the trial court to refuse to permit the challenge absent a showing by the other side that “the alternate juror would be prejudiced.” For this proposition appel­lant quotes the following language from Nail v. State, 231 Ark. 70, 328 S.W.2d 836 (1959):</p>
+                <blockquote id="b155-7" pgmap="155">[A] litigant is not entitled to a particular juror. This being true, there is no valid reason to refuse the request to excuse one who has already been taken, even though a defendant’s challenges have been exhausted, unless it first be shown that the defendant will be prejudiced by the service of the venireman accepted in lieu of the juror excused.</blockquote>
+                <p id="b155-8" pgmap="155">(Emphasis in original.)</p>
+                <p id="b155-9" pgmap="155">
+                   Unquestionably the rule is that whether or not a peremptory challenge may be exercised after the juror has been accepted by both sides is a matter directed to the sound discretion of the trial court. Daugherty v. State, 3 Ark. App. 112, 623 S.W.2d 209 (1981). We reverse only for abuse of that discretion. Our standard of review is the same regardless of whether the court permits the challenge as in Nail or declines to permit it as in Daugherty and in Jefferies v. State, 255 Ark. 501, 501 S.W.2d 600 (1973). The language taken from Nail and relied upon by the appellant, when read in context, stands only for the proposition that where the trial court has permitted the belated exercise of a peremptory challenge, an appellant must demonstrate prejudice to obtain a reversal. See also Watson v. State, 291 Ark. 358, 724 S.W.2d 478 (1987).</p>
+                <p id="b155-10" pgmap="155(77) 156(54)">
+                   The question then is whether the trial court has abused its discretion. Appellant argues the court abused its discretion in refusing to permit him to put on proof that the juror was “not impartial.” The record reflects, however, that counsel never directly asked the court for permission to call Cindy Rorex as a witness in chambers, nor did the trial judge tell counsel he would not permit it. Counsel did not ask that the juror be re-examined. Finally, during voir dire none of the jurors were asked if they knew or worked with any of the witnesses and, indeed, no questions at all were addressed to this juror individually. Under the circumstances presented we find no abuse of the discretion entrusted to the trial court. See Nail, 231 Ark. at 81.</p>
+                <p id="b156-6" pgmap="156">Also on the morning of trial and in chambers defense counsel asked that he be permitted to cross-examine the victims and to question other unnamed witnesses about possible prior acts of sexual conduct on the part of the children. The trial judge refused to permit it.</p>
+                <p id="b156-7" pgmap="156">
+                   The ruling was undoubtedly correct. The rape shield statute, now Ark. Code Ann. § 16-42-101 (1987), was intended to shield victims of rape or sexual abuse from the humiliation of having their personal conduct, unrelated to the charges, paraded before the jury and the public when such conduct is irrelevant to the defendant’s guilt. Flurry v. State, 290 Ark. 417, 720 S.W.2d 699 (1986). Ark. Code Ann. § 16-42-101 (b) provides that evidence of specific instances of the victim’s prior sexual conduct is not admissible. Subsection (c) establishes a procedure for the court to permit an exception to the rule. In Jackson v. State, 284 Ark. 178, 679 S.W.2d 210 (1985), the court said:</p>
+                <blockquote id="b156-8" pgmap="156">The evidence is admissible if its relevancy is proved through the procedure set out in the statutes. Under the rules provided, a written motion must be filed by the defendant stating the relevant evidence being offered and the purpose for which the evidence is believed relevant. A hearing is held in camera. The court then determines if the offered proof is relevant to the fact in issue, and if its probative value outweighs its inflammatory or prejudicial nature. The defendant or his attorney is subject to sanc­tions for failure to file such a motion if a willful attempt is made to make any reference to the victim’s prior sexual conduct in the presence of the jury.</blockquote>
+                <blockquote id="b156-9" pgmap="156(50) 157(6)">Here, the record reflects that no such motion was filed. Not only was the proper procedure not followed, there was no proffer of the type of evidence the appellant was trying to present. The failure to proffer evidence so this court can determine if prejudice results from its exclusion precludes review of the evidence on appeal.</blockquote>
+                <p id="b157-6" pgmap="157">Jackson 284 Ark. at 483-84 (citations omitted). Similarly, in the case at bar there was no attempt to comply with the procedures set out in the statute and no proffer. We agree with the statement of the court in Allen v. State, 700 S.W.2d 924 (Tex. Crim. App. 1985):</p>
+                <blockquote id="b157-7" pgmap="157">If a defendant claims a victim’s past sexual conduct is relevant, it is up to the defendant to make a preliminary showing that the issue is material to an issue in the case. This is not raised by merely asserting that it is so. There must be a showing of a reasonable basis for believing that the past sexual conduct is pertinent. If there is no such showing, questions concerning past sexual conduct are to be excluded.</blockquote>
+                <p id="b157-8" pgmap="157">
+                   Under the circumstances presented, the trial court was right in ruling as he did.</p>
+                <p id="b157-9" pgmap="157">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="153" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00077_0"/>
+        <fptr FILEID="jp2_00077_0"/>
+        <fptr FILEID="alto_00077_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.2" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="154" ORDERLABEL="128" TYPE="page">
+        <fptr FILEID="tiff_00077_1"/>
+        <fptr FILEID="jp2_00077_1"/>
+        <fptr FILEID="alto_00077_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_154.2" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="155" ORDERLABEL="129" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jp2_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="130" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.2" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="131" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.4" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.10" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.13" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-12" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.14" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            <area BEGIN="BL_155.1" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOK" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.11" BETYPE="IDREF" FILEID="alto_00077_1"/>
+            <area BEGIN="BL_154.12" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.4" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-2" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.3" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.7" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.6" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.6" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.9" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.7" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.6" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.5" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.8" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b154-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_154.8" BETYPE="IDREF" FILEID="alto_00077_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.5" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.5" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.4" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.7" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_157.1" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.8" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.7" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.6" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0046" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. Smith">Bobby T. SMITH v. Mary Ann SMITH</name>
+          <docketnumber>CA 82-49</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 252</citation>
+          <citation category="parallel" type="bluebook">640 S.W.2d 458</citation>
+          <decisiondate>1982-10-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:40Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="06ffe1274168a56bb4ccc3c40031dc62" CHECKSUMTYPE="MD5" SIZE="9104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00140_1.tif"/>
+      </file>
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="d08966b0862a4c2aeac255c5f9109d75" CHECKSUMTYPE="MD5" SIZE="43382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00141_0.tif"/>
+      </file>
+      <file ID="tiff_00141_1" MIMETYPE="image/tiff" CHECKSUM="6136389617704a6fd37f48610682ef10" CHECKSUMTYPE="MD5" SIZE="49640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00141_1.tif"/>
+      </file>
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="6cc53ac0c7773768f6178dc6691492bb" CHECKSUMTYPE="MD5" SIZE="17810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00142_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00140_1" MIMETYPE="image/jp2" CHECKSUM="af8c692bfa524b1f860ad74f303da809" CHECKSUMTYPE="MD5" SIZE="1523216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00140_1.jp2"/>
+      </file>
+      <file ID="jp2_00141_0" MIMETYPE="image/jp2" CHECKSUM="04bd9fc3688c769826d9470f22046342" CHECKSUMTYPE="MD5" SIZE="2599012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00141_0.jp2"/>
+      </file>
+      <file ID="jp2_00141_1" MIMETYPE="image/jp2" CHECKSUM="3b1537216ed2b3bdd1d72ba27b2230ec" CHECKSUMTYPE="MD5" SIZE="2726079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00141_1.jp2"/>
+      </file>
+      <file ID="jp2_00142_0" MIMETYPE="image/jp2" CHECKSUM="de6f1cc3ea362579090307c3d4b553db" CHECKSUMTYPE="MD5" SIZE="1993004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00142_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00140_1" MIMETYPE="text/xml" CHECKSUM="803f5c055d7d0a110875f8efe0b9ef65" CHECKSUMTYPE="MD5" SIZE="11742">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00140_1.xml"/>
+      </file>
+      <file ID="alto_00141_0" MIMETYPE="text/xml" CHECKSUM="7b03d0b02aeafb3560b94f705ae96038" CHECKSUMTYPE="MD5" SIZE="75946">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00141_0.xml"/>
+      </file>
+      <file ID="alto_00141_1" MIMETYPE="text/xml" CHECKSUM="79087b326a672c84364ce51d0bc810df" CHECKSUMTYPE="MD5" SIZE="89858">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00141_1.xml"/>
+      </file>
+      <file ID="alto_00142_0" MIMETYPE="text/xml" CHECKSUM="6ea559c8abca1f2216908e81db3816e4" CHECKSUMTYPE="MD5" SIZE="26895">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00142_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="255" firstpage="252">
+              <court pgmap="280" id="b280-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="280" id="AaY">CA 82-49</docketnumber>
+              <citation pgmap="280" id="AvE">640 S.W.2d 458</citation>
+              <parties pgmap="280" id="b280-3">Bobby T. SMITH v. Mary Ann SMITH</parties>
+              <decisiondate pgmap="280" id="Apy">Opinion delivered October 20, 1982</decisiondate>
+              <attorneys pgmap="280" id="b280-10">Stephen C. Gardner of Gardner ¿r Gardner, for appel­lant.</attorneys>
+              <attorneys pgmap="280" id="b280-11">Richard L. Peel, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="281" id="b281-3">Melvin Mayfield, Chief Judge.</author>
+                <p pgmap="281" id="Av2">This is an appeal from that portion of a divorce decree concerning the division of property.</p>
+                <p pgmap="281" id="b281-4">Bobby and Mary Ann Smith were married in 1968 and built a home in Russellville, Arkansas, in 1975. Prior to and throughout the marriage, Bobby had serious health prob­lems which often required the attention and physical assistance of Mary Ann. He has been rated totally and permanently disabled by both the Veterans and the Social Security Administrations.</p>
+                <p pgmap="281" id="b281-5">In October of 1980, the parties separated and Bobby filed for divorce. After about two weeks there was a recon­ciliation on the condition that Bobby convey his interest in the home to Mary Ann, which he did on November 7, 1980.</p>
+                <p pgmap="281" id="b281-6">The parties separated again in April of 1981 and this time Mary Ann filed for divorce. Bobby filed a counterclaim for divorce and also asked the court to set aside the 1980 deed. He alleged that he did not intend to create a gift of the property to Mary Ann; did not understand the consequences of the conveyance; was gravely ill at the time of the execution of the deed; and that it was executed as a result of coercion, misrepresentation, and undue influence on the part of Mary Ann.</p>
+                <p pgmap="281" id="b281-7">After a trial on the issues, the chancellor granted Mary Ann the divorce and specifically found that the home was not marital property but her separate property.</p>
+                <p pgmap="281" id="b281-8">Ark. Stat. Ann. § 34-1214 (A) (1) (Supp. 1981) provides that at the time a divorce decree is entered, all marital property is to be distributed one half to each party unless the court finds such a division to be inequitable. Section 34-1214 (B) states that “marital property” means all property acquired by either spouse subsequent to the marriage except “(1) property acquired by gift, bequest, devise, or descent” and “(4) property excluded by valid agreement of the parties.”</p>
+                <p pgmap="282" id="b282-3">On appeal Bobby contends the trial court erred in holding that the home was not marital property and recites the circumstances surrounding the execution of the deed in support of his contention. He testified that he was involved in an automobile accident a few days after he filed for divorce in 1980 and was hospitalized for three days before he was released and returned to his motel room; that he felt alone, knew he needed help, and wanted appellee back very badly. He testified that he never intended to give his interest in the house to Mary Ann but that he was acting out of desperation and knew that was the only way he could get back into the house where he could get help with his care. He testified that he was in such discomfort that he would have signed anything and that his attorney told him he should agree to whatever it would take to get appellee back.</p>
+                <p pgmap="282" id="b282-4">Appellee testified that when appellant called after his accident, she told him they could try to work it out but that there would have to be some stipulations made because she did not want to be left without anything if he decided to leave again.</p>
+                <p pgmap="282" id="b282-5">Appellant argues that from a review of this testimony, it is evident that Mary Ann was the dominant party in this confidential relationship, and under the authority of Dunn v. Dunn, 255 Ark. 764, 503 S.W.2d 168 (1973), and Marshall v. Marshall, 211 Ark. 116, 607 S.W.2d 90 (Ark. App. 1980), she had the burden of proving that the conveyance here was freely and voluntarily executed. He asserts that all of the evidence is to the contrary and that the deed should be invalidated.</p>
+                <p pgmap="282" id="b282-6">We are not convinced that the evidence required the chancellor to set aside the deed in this case. The evidence does not establish that the deed here was executed because appellant was mentally weak or susceptible to influence due to age as in Dunn and Marshall. The evidence here does establish that the impetus to reconcile was not appellee’s but appellant’s, who “wanted her back very badly” and that he had the advice of his attorney in effecting the reconciliation.</p>
+                <p pgmap="282(12) 283(57)" id="b282-7">In Schichtel v. Schichtel, 3 Ark. App. 36, 621 S. W.2d 504 (1981), this court recognized the validity of reconciliation agreements as an exception under our marital property law. There is no evidence in this case that the property was to belong to the appellee only if the reconciliation was successful or that there was an agreement that appellant would regain any interest in the property at any time.</p>
+                <p pgmap="283" id="b283-4">We cannot say the chancellor’s decision was clearly contrary to the preponderance of the evidence and we affirm. Civil Procedure Rule 52 (a).</p>
+                <p pgmap="283" id="b283-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="280" ORDERLABEL="252" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jp2_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.1" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="281" ORDERLABEL="253" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jp2_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.2" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="282" ORDERLABEL="254" TYPE="page">
+        <fptr FILEID="tiff_00141_1"/>
+        <fptr FILEID="jp2_00141_1"/>
+        <fptr FILEID="alto_00141_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.1" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="283" ORDERLABEL="255" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jp2_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apy" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.7" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av2" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.5" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_281.6" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.6" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.16" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.15" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvE" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.5" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaY" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.4" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.6" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.3" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.5" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.8" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            <area BEGIN="BL_283.1" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.7" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.5" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.4" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.9" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.10" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.7" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.8" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.6" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.11" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

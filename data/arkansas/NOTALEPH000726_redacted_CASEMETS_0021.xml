@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000726_0021" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Gutherie v. State">George GUTHERIE v. STATE of Arkansas</name>
+          <docketnumber>CA CR 95-235</docketnumber>
+          <citation category="official" type="bluebook">52 Ark. App. 145</citation>
+          <citation category="parallel" type="bluebook">915 S.W.2d 739</citation>
+          <decisiondate>1996-02-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T23:09:59Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:53:18Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:55:37Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:58:11Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00084_0" MIMETYPE="image/tiff" CHECKSUM="c135cab60e469356fafcd5c9379b556d" CHECKSUMTYPE="MD5" SIZE="18768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00084_0.tif"/>
+      </file>
+      <file ID="tiff_00084_1" MIMETYPE="image/tiff" CHECKSUM="147a048b65a2eb3974532a64f76e2b32" CHECKSUMTYPE="MD5" SIZE="46358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00084_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00084_0" MIMETYPE="image/jp2" CHECKSUM="44b33ba3faed9cba18b00e87952c9435" CHECKSUMTYPE="MD5" SIZE="1794939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00084_0.jp2"/>
+      </file>
+      <file ID="jp2_00084_1" MIMETYPE="image/jp2" CHECKSUM="4c0b8f4fda9c7c319c00f31b01fa199b" CHECKSUMTYPE="MD5" SIZE="2462869">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00084_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00084_0" MIMETYPE="text/xml" CHECKSUM="9ce5b14fc0d6dd451b324c9e1232e556" CHECKSUMTYPE="MD5" SIZE="27860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00084_0.xml"/>
+      </file>
+      <file ID="alto_00084_1" MIMETYPE="text/xml" CHECKSUM="be82c64ca02b8a0d577b4222867a9ea0" CHECKSUMTYPE="MD5" SIZE="77015">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00084_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="146" firstpage="145">
+              <court id="b167-4" pgmap="167">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="AUN" pgmap="167">CA CR 95-235</docketnumber>
+              <citation id="Aj6" pgmap="167">915 S.W.2d 739</citation>
+              <parties id="b167-3" pgmap="167">George GUTHERIE v. STATE of Arkansas</parties>
+              <decisiondate id="b167-5" pgmap="167">Opinion delivered February 28, 1996</decisiondate>
+              <judges id="b168-9" pgmap="168">Robbins and Griffen, JJ., agree.</judges>
+              <attorneys id="b167-9" pgmap="167">Christopher M. Jester, for appellant.</attorneys>
+              <attorneys id="b167-10" pgmap="167">Winston Bryant, Att’y Gen., by: Sandy Moll, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b167-11" pgmap="167">John E. Jennings, Chief Judge.</author>
+                <p id="Ahd" pgmap="167">George Gutherie was convicted by a Craighead County jury of burglary and misde­meanor theft. He appeals from the theft conviction only, con­tending that the evidence was insufficient to support the convic­tion. We disagree and affirm.</p>
+                <p id="b167-12" pgmap="167(19) 168(78)">
+                   The test for determining the sufficiency of the evidence is whether the verdict is supported by substantial evidence. Clark v. State, 315 Ark. 602, 870 S.W.2d 372 (1994). Substantial evi­dence is evidence forceful enough to compel a conclusion one way or the other beyond suspicion or conjecture. Lukach v. State, 310 Ark. 119, 835 S.W.2d 852 (1992). In determining the sufficiency of the evidence, we review the proof in the light most favorable to the appellee, considering only that evidence which tends to support the verdict. Brown v. State, 309 Ark. 503, 832 S.W.2d 477 (1992).</p>
+                <p id="b168-6" pgmap="168">On February 18, 1994, Woodrow Wilson saw appellant’s brother, Gerald, running out from behind Garland Platz’s house. Wilson testified that he went into town to warn Platz. He testi­fied that he told Platz that he thought appellant and his brother had “ripped him off.” Garland Platz testified that after talking to Wilson he drove home and when he was about 100 yards from his house he saw appellant and his brother pulling out of his driveway. He testified that his VCR had been stolen. Platz gave Officer Terry Wicker a description of appellant’s car. Wicker testified that when he stopped appellant’s car, he saw a VCR in the car. Finally, appellant’s brother testified that he had broken into Platz’s house because appellant told him to get something so they could pawn it.</p>
+                <p id="b168-7" pgmap="168">
+                   Appellant contends that the evidence was insufficient because the only testimony connecting him with the theft was that of his brother, an accomplice whose testimony had to be corroborated. Appellant was convicted of misdemeanor theft. In misdemeanor cases, the testimony of an accomplice alone is suffi­cient to support a conviction. Ark. Code Ann. § 16-89-111 (e)(2) (1987). Appellant further argues that his brother’s testimony was not credible. The issue of a witness’s credibility was a mat­ter for the jury to determine. Carter v. State, 46 Ark. App. 205, 878 S.W.2d 772 (1994). We hold that the evidence was sufficient to support the conviction.</p>
+                <p id="b168-8" pgmap="168">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="167" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00084_0"/>
+        <fptr FILEID="jp2_00084_0"/>
+        <fptr FILEID="alto_00084_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.2" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="168" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00084_1"/>
+        <fptr FILEID="jp2_00084_1"/>
+        <fptr FILEID="alto_00084_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.2" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.4" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.5" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahd" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.16" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_167.17" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-11" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.15" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.14" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.6" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.7" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.18" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_168.1" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.13" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.7" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUN" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.4" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.3" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.5" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.6" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

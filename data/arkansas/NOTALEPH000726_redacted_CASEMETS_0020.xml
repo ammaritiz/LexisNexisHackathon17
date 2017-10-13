@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000726_0020" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Black v. State">Bernadette BLACK v. STATE of Arkansas</name>
+          <docketnumber>CA 95-179</docketnumber>
+          <citation category="official" type="bluebook">52 Ark. App. 140</citation>
+          <citation category="parallel" type="bluebook">915 S.W.2d 300</citation>
+          <decisiondate>1996-02-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T23:09:59Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:53:18Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:55:37Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:58:11Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="87dc8d1fb87f3de171fd0d7f6ed662bf" CHECKSUMTYPE="MD5" SIZE="20928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="7589e4c93e2408b75303b98ea4ea6599" CHECKSUMTYPE="MD5" SIZE="10664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="e48cef4694896c949632585cc68d6e48" CHECKSUMTYPE="MD5" SIZE="58024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="7134131138e4d8e62214ee12af2e7180" CHECKSUMTYPE="MD5" SIZE="56300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="7c72825504cd863437ab5fdaef7db83b" CHECKSUMTYPE="MD5" SIZE="35878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00083_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="049fba1059dc0a7528d8dee61143839c" CHECKSUMTYPE="MD5" SIZE="1795633">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="29e908f8f3f06cebe334baee570e0c39" CHECKSUMTYPE="MD5" SIZE="1337214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="6110349b3549c4e29566a1b092996cea" CHECKSUMTYPE="MD5" SIZE="2584939">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="5d87b82dd21f9317af78485c9b21d566" CHECKSUMTYPE="MD5" SIZE="2632464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="b245c7d8d8fc183bb91ee821a1bc8db7" CHECKSUMTYPE="MD5" SIZE="2311790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000726_00083_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="9ac4fdade702c3ba549a5ef2e0a65466" CHECKSUMTYPE="MD5" SIZE="34164">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="f5786cefe412c78e0eea7b9d432df016" CHECKSUMTYPE="MD5" SIZE="12324">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="1a9f2beb9525f33dc389a9479295ff1c" CHECKSUMTYPE="MD5" SIZE="94280">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="790d8a91c3c66fb1314db3ff0b01aea9" CHECKSUMTYPE="MD5" SIZE="95295">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="270c7e43fd3d936ba21a74577f6a414b" CHECKSUMTYPE="MD5" SIZE="58559">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000726_redacted_ALTO_00083_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="144" firstpage="140">
+              <court id="b162-9" pgmap="162">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="A_N" pgmap="162">CA 95-179</docketnumber>
+              <citation id="AKD" pgmap="162">915 S.W.2d 300</citation>
+              <parties id="b162-8" pgmap="162">Bernadette BLACK v. STATE of Arkansas</parties>
+              <decisiondate id="b162-10" pgmap="162">Opinion delivered February 21, 1996</decisiondate>
+              <judges id="b166-8" pgmap="166">Cooper and Stroud, JJ., agree.</judges>
+              <attorneys id="b163-11" pgmap="163">William R. Simpson, Jr., Public Defender, and Julie B. Jackson, Deputy Public Defender, by: Stephen W. Parker, Dep­uty Public Defender.</attorneys>
+              <attorneys id="b163-12" pgmap="163">Winston Bryant, Att’y Gen., by: Vada Berger, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b163-13" pgmap="163">Wendell L. Griffen, Judge.</author>
+                <p id="A-6" pgmap="163(3) 164(113)">Bernadette Black appeals the order of involuntary commitment entered by the Pulaski County Probate Court on December 6, 1994. After hearing testi­mony from Tracy Petty, a member of the appellant’s treatment team, and from appellant, the probate judge ordered appellant to undergo an additional period of treatment for her mental illness at the Little Rock Community Mental Health Center “or other appropriate facility.” This appeal followed. The record does not indicate that a stay was obtained to suspend enforcement of the order entered by the probate judge. Thus, the 180-day period of treatment would have ended by June 1995, as is argued by the appellee in its brief urging that the appeal is now moot.</p>
+                <p id="b164-6" pgmap="164">
+                   Although appellee’s mootness challenge would other­wise be dispositive of this appeal, when a case involves a public interest, or tends to become moot before litigation can run its course, or a decision might avert future litigation, appellate courts have regularly refused to permit mootness to determine the outcome. Campbell v. State, 311 Ark. 641, 846 S.W.2d 639 (1993). The involuntary commitment statute involved in this liti­gation provides for short-term commitment up to 180 days. Therefore, most persons committed under the statute will, like appellant, have been released before their appeals can be decided. Because the record does not contain proof pursuant to the clear and convincing evidence standard that Ark. Code Ann. §20-47-215 (Repl. 1991) prescribes for evidence at hearings seeking an additional period of involuntary admission, we are not persuaded that the mootness argument should determine the result. Sub-section (c)(3) of that statute states that the “need for additional involuntary admission shall be proven by clear and convincing evidence.” The criteria for involuntary admission prescribed in Ark. Code Ann. §20-47-207(c) apply to this case.</p>
+                <p id="b164-7" pgmap="164(109) 165(67)">
+                   Clear and convincing evidence, which is a higher bur­den of proof than preponderance, has been defined as proof so clear, direct, weighty, and convincing that the fact finder is able to come to a clear conviction, without hesitation, of the matter asserted. It is that degree of proof that will produce in the trier of fact a firm conviction respecting the allegation sought to be established. Maxwell v. Carl Bierbaum, Inc., 48 Ark. App. 159, 893 S.W.2d 344 (1995). In McLain v. McLain, 36 Ark. App. 197, 820 S.W.2d 295 (1991), we declared that clear and convinc­ing evidence is evidence by a credible witness whose memory of the facts about which he or she testifies is distinct, whose narra­tion of the details is exact and in due order, and whose testimony is so direct, weighty, and convincing as to enable the fact finder to come to a clear conviction, without hesitation, of the truth of the facts related. See also First Nat. Bank v. Rush, 30 Ark. App. 272, 785 S.W.2d 474 (1990).</p>
+                <p id="b165-6" pgmap="165">There was not “clear and convincing evidence” at the December 6, 1994,- hearing before the probate court that appel­lant posed a clear and present danger to herself or to others. There was no proof that she had inflicted serious bodily injury to herself, had attempted suicide or other serious self-injury, or that there was any probability (let alone a reasonable probability as required by the statute) that such conduct would be repeated without extending her involuntary admission. There was no proof that appellant had engaged in recent behavior demonstrat­ing that she lacked the capacity to care for her own welfare, and that there was reasonable probability of death, serious bodily injury, or serious physical or mental debilitation without invol­untary admission. In short, there was insufficient evidence to meet the clear and convincing evidence standard applicable to this case. Instead, the probate court granted the petition to extend appellant’s involuntary admission based upon the unsup­ported testimony of her social worker who conceded during cross-examination that appellant had been compliant with out­patient appointments and medication, and who admitted that she had not witnessed appellant threaten or harm herself or others. The social worker also admitted that appellant was able to care for herself and her personal hygiene. While the social worker testified that appellant had refused to keep a day treatment appointment at Pinnacle Pointe, she also conceded that the treat­ment staff had taken no action to have appellant taken into cus­tody despite the knowledge that she was already under an invol­untary commitment order. This testimony does not support the premise that appellant’s treatment team viewed her condition to be life-threatening.<footnotemark>1</footnotemark>
+                </p>
+                <p id="b166-5" pgmap="166">
+                   Before a person can be committed for mental-health treatment against her will the law demands that clear and con­vincing evidence, the highest standard of proof applicable to civil litigation, be presented regarding the basis for involuntary com­mitment. That proof was not introduced. There was proof that appellant needs mental-health treatment on a continuing basis, and the record shows that she had been involuntarily committed in the past. But on the petition for additional involuntary com­mitment that is the subject of this appeal, the State failed to prove by clear and convincing evidence that appellant posed a clear and present danger to herself, to others, or that she was unable to care for herself. Therefore, it was error for the probate court to grant the petition for involuntary commitment and order appellant to undergo an additional 180-day period of involuntary commitment.</p>
+                <p id="b166-6" pgmap="166">We reverse and dismiss the probate order appealed from in this case, and order that the record of appellant’s involuntary commitment be removed from the treatment records of the Com­munity Mental Health Center of Little Rock. See Campbell v. State, 51 Ark. App. 147, 912 S.W.2d 446 (1995).</p>
+                <p id="b166-7" pgmap="166">Reversed and dismissed.</p>
+                <footnote label="1">
+                  <p id="b165-7" pgmap="165(59) 166(41)">1 Although this issue is not raised on appeal and, consequently, is not determinative of the result we reach, we note that none of the treatment documents appended to the record are signed by an attending psychiatrist despite the fact that a signature block for verifying the documents appears on them. Parties would be wise to ensure that proof consisting of treatment records which require medical verification (or verification by some other clinical professional) comply with the verification requirement in order to be given appropriate probative weight, especially in view of the clear and convincing evidence standard in these cases.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="162" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.13" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_N" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.8" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.6" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.10" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-13" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.12" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-12" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.11" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.7" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKD" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.9" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.11" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.10" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

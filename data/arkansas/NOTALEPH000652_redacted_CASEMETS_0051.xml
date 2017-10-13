@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000652_0051" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Alexander v. State">Carey Wayne ALEXANDER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-167</docketnumber>
+          <citation category="official" type="bluebook">25 Ark. App. 295</citation>
+          <citation category="parallel" type="bluebook">757 S.W.2d 571</citation>
+          <decisiondate>1988-10-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:16:37Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:22:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:33:24Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:35:19Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00162_0" MIMETYPE="image/tiff" CHECKSUM="f15ce89477077e454f342ac8357ef1d3" CHECKSUMTYPE="MD5" SIZE="21578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00162_0.tif"/>
+      </file>
+      <file ID="tiff_00162_1" MIMETYPE="image/tiff" CHECKSUM="9a0c0fa686e199eda92af2fd4a6c6fe6" CHECKSUMTYPE="MD5" SIZE="61182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00162_1.tif"/>
+      </file>
+      <file ID="tiff_00163_0" MIMETYPE="image/tiff" CHECKSUM="5934fadd84d0ca99122aa83f35162ad7" CHECKSUMTYPE="MD5" SIZE="22272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00163_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00162_0" MIMETYPE="image/jp2" CHECKSUM="8213076df6045698fe88daea6af1a2a6" CHECKSUMTYPE="MD5" SIZE="1816268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00162_0.jp2"/>
+      </file>
+      <file ID="jp2_00162_1" MIMETYPE="image/jp2" CHECKSUM="3e91aa8455dc38b6125463146604c449" CHECKSUMTYPE="MD5" SIZE="2718380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00162_1.jp2"/>
+      </file>
+      <file ID="jp2_00163_0" MIMETYPE="image/jp2" CHECKSUM="31d0771cdafe74fc9e5a2e047ec3aa94" CHECKSUMTYPE="MD5" SIZE="1962610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00163_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00162_0" MIMETYPE="text/xml" CHECKSUM="ead54a28f7bb79d14d77dbbf47f86552" CHECKSUMTYPE="MD5" SIZE="32740">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00162_0.xml"/>
+      </file>
+      <file ID="alto_00162_1" MIMETYPE="text/xml" CHECKSUM="4e93b303ac345f7388224665c5adc6a3" CHECKSUMTYPE="MD5" SIZE="99053">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00162_1.xml"/>
+      </file>
+      <file ID="alto_00163_0" MIMETYPE="text/xml" CHECKSUM="dd807333a09de32bc2aaaf86429529ac" CHECKSUMTYPE="MD5" SIZE="34278">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00163_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0051" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="297" firstpage="295">
+              <court pgmap="323" id="A5bx">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="323" id="A3s">CA CR 87-167</docketnumber>
+              <citation pgmap="323" id="AimI">757 S.W.2d 571</citation>
+              <parties pgmap="323" id="b323-3">Carey Wayne ALEXANDER v. STATE of Arkansas</parties>
+              <decisiondate pgmap="323" id="A_H">Opinion delivered October 5, 1988</decisiondate>
+              <judges pgmap="325" id="b325-6">Coulson and Jennings, JJ., agree.</judges>
+              <attorneys pgmap="323" id="b323-12">Maxie G. Kizer, for appellant.</attorneys>
+              <attorneys pgmap="323" id="b323-13">Steve Clark, Att’y Gen., by: Lynley Arnett, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="323" id="b323-14">James R. Cooper, Judge.</author>
+                <p pgmap="323" id="A0l">The appellant was convicted by a jury of theft by receiving, and after a finding that he was an habitual offender, he was sentenced to fifteen years in the Arkansas Department of Correction. On appeal he argues that the trial court erred in not granting his motion to suppress evidence he claims was seized pursuant to an invalid arrest and that the trial court should have also suppressed a statement he made after his allegedly invalid arrest. We affirm.</p>
+                <p pgmap="324" id="b324-3">The appellant had been employed by Apache Van Lines. Apache reported to the Pine Bluff Police Department that several thefts had occurred when the appellant was working on moves. Sergeant Roy L. Ryan discovered that the appellant had pawned a man’s gold wedding band, later identified by the owner, which had been reported as stolen by Apache. Sergeant Ryan and Detective Mack Cook then went to the appellant’s home. Detec­tive Cook testified that they did not have a warrant and that they went to the appellant’s house specifically to arrest him.</p>
+                <p pgmap="324" id="b324-4">Detective Cook stated that they got to the appellant’s house at about 8:00 a.m. on May 9, 1986. Sergeant Ryan went to the back of the house and Detective Cook knocked on the front door. The door was answered by the appellant’s wife. According to Detective Cook, he identified himself as a police officer and asked if the appellant was there. Sergeant Ryan joined Detective Cook at the front door. Detective Cook stated that Mrs. Alexander invited them into the house and went to get the appellant.</p>
+                <p pgmap="324" id="b324-5">When the appellant appeared in the living room, he was not dressed. Sergeant Ryan told the appellant that he was under arrest and told him to get dressed. The bedroom was next to the living room, and when the appellant went into the bedroom, Sergeant Ryan followed him and stood in the doorway. While waiting for the appellant to gather up his clothes, Sergeant Ryan noticed a pearl necklace in a clear plastic case on the dresser. Recalling that a similar necklace had also been reported as stolen, Sergeant Ryan seized the necklace. This necklace is the piece of evidence that the appellant argues should have been suppressed.</p>
+                <p pgmap="324(134) 325(63)" id="b324-6">
+                   The fourth amendment prohibits the police from making a warrantless and nonconsensual entry into a suspect’s home in order to make a routine felony arrest. Payton v. New York, 445 U.S. 573 (1980). However, here there was no forcible entry into the appellant’s home. Instead there was a consensual entry of the type that is not barred by Payton. Davis v. State, 27 5 Ark. 264, 630 S.W.2d 1 (1982). In Lamb v. State, 23 Ark. App. 115, 743 S.W.2d 399 (1988), the arrest was found to be invalid because the arrest warrant was not authorized by a judge. The State’s argument that the arrest was a valid warrantless arrest was found to be without merit because Lamb was arrested at his home and there was no evidence that anyone residing in the home consented to the entry by police officers. That is not the situation in the case at bar; the appellant’s wife consented to the entry. See United States v. Purham, 725 F.2d 450 (8th Cir. 1984). Because the necklace was seized pursuant to a valid warrantless arrest and was in plain view, it was proper for the trial court to refuse to suppress it.</p>
+                <p pgmap="325" id="b325-4">
+                   Because the appellant’s arrest was valid, the incrimi­nating statement that he made after his arrest is also admissible, and we find no error in trial court’s refusing to suppress it. Davis, supra.</p>
+                <p pgmap="325" id="b325-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="323" ORDERLABEL="295" TYPE="page">
+        <fptr FILEID="tiff_00162_0"/>
+        <fptr FILEID="jp2_00162_0"/>
+        <fptr FILEID="alto_00162_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.2" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="324" ORDERLABEL="296" TYPE="page">
+        <fptr FILEID="tiff_00162_1"/>
+        <fptr FILEID="jp2_00162_1"/>
+        <fptr FILEID="alto_00162_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_324.1" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="325" ORDERLABEL="297" TYPE="page">
+        <fptr FILEID="tiff_00163_0"/>
+        <fptr FILEID="jp2_00163_0"/>
+        <fptr FILEID="alto_00163_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_325.3" BETYPE="IDREF" FILEID="alto_00163_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.4" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.5" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3s" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.4" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-3" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.3" BETYPE="IDREF" FILEID="alto_00162_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5bx" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.6" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.5" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b324-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_324.6" BETYPE="IDREF" FILEID="alto_00162_1"/>
+            <area BEGIN="BL_325.1" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.6" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0l" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.17" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_323.18" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b325-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_325.4" BETYPE="IDREF" FILEID="alto_00163_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AimI" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.5" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-13" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.15" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-12" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.14" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-14" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.16" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-3" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.3" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_H" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.7" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

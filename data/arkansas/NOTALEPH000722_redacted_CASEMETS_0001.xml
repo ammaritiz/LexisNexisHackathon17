@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000722_0001" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Drayton v. State">George Lee DRAYTON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-99</docketnumber>
+          <citation category="official" type="bluebook">23 Ark. App. 1</citation>
+          <citation category="parallel" type="bluebook">740 S.W.2d 147</citation>
+          <decisiondate>1987-11-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:12:55Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T08:27:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T08:27:56Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00011_0" MIMETYPE="image/tiff" CHECKSUM="f3fc0412774c45c06c4afed6afe0107c" CHECKSUMTYPE="MD5" SIZE="14222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00011_0.tif"/>
+      </file>
+      <file ID="tiff_00011_1" MIMETYPE="image/tiff" CHECKSUM="5a219580461143b33988e1a86cc3c474" CHECKSUMTYPE="MD5" SIZE="57640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00011_1.tif"/>
+      </file>
+      <file ID="tiff_00012_0" MIMETYPE="image/tiff" CHECKSUM="050274ce8fc56503c770567613136ab8" CHECKSUMTYPE="MD5" SIZE="12736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00012_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00011_0" MIMETYPE="image/jp2" CHECKSUM="d4bb7478ba11759f2a936907c6fe8697" CHECKSUMTYPE="MD5" SIZE="1925528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00011_0.jp2"/>
+      </file>
+      <file ID="jp2_00011_1" MIMETYPE="image/jp2" CHECKSUM="be6d93bab62a3bf35d1e06c9358397f3" CHECKSUMTYPE="MD5" SIZE="2666922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00011_1.jp2"/>
+      </file>
+      <file ID="jp2_00012_0" MIMETYPE="image/jp2" CHECKSUM="bdbab1f46b7abb63feaacfc371e00a09" CHECKSUMTYPE="MD5" SIZE="1798614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00012_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00011_0" MIMETYPE="text/xml" CHECKSUM="3b70e4154361ce8775b3a4a6c231e6bb" CHECKSUMTYPE="MD5" SIZE="21166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00011_0.xml"/>
+      </file>
+      <file ID="alto_00011_1" MIMETYPE="text/xml" CHECKSUM="c8729437a3d4a4756137715849bee06c" CHECKSUMTYPE="MD5" SIZE="91846">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00011_1.xml"/>
+      </file>
+      <file ID="alto_00012_0" MIMETYPE="text/xml" CHECKSUM="e83e2479aabf83e8e27ea33baab8979e" CHECKSUMTYPE="MD5" SIZE="16385">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00012_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="3" firstpage="1">
+              <court id="b21-7" pgmap="21">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b21-6" pgmap="21">CA CR 87-99</docketnumber>
+              <citation id="Aqd" pgmap="21">740 S.W.2d 147</citation>
+              <parties id="b21-5" pgmap="21">George Lee DRAYTON v. STATE of Arkansas</parties>
+              <decisiondate id="b21-8" pgmap="21">Opinion delivered November 25, 1987</decisiondate>
+              <judges id="b23-7" pgmap="23">Corbin, C.J., and Mayfield, J., agree.</judges>
+              <attorneys id="b21-13" pgmap="21">F.N. “Buddy” Troxell, for appellant.</attorneys>
+              <attorneys id="b21-14" pgmap="21">Steve Clark, Att’y Gen., by: Frank J. Wills III, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b21-15" pgmap="21">James R. Cooper, Judge.</author>
+                <p id="A75" pgmap="21(27) 22(28)">In this criminal case, the appel­lant was convicted by a jury of rape and burglary, and was sentenced to twenty-two years and five years respectively. On appeal, the appellant argues that the trial court erred in refusing to disqualify the prosecuting attorney’s office from trying the case. We find no error and we affirm.</p>
+                <p id="b22-6" pgmap="22">In August 1986, Clifford J. Henry was appointed by the trial court to represent the appellant, an indigent. On December 22, 1986, Mr. Henry withdrew from representing the appellant because he had accepted a position with the prosecuting attor­ney’s office in Faulkner County. The Court then appointed F.N. Troxell to represent the appellant. Trial was held in Faulkner County. Mr. Troxell filed a motion requesting that the court order the prosecuting attorney’s office to withdraw from the case. The appellant, citing Canons 4 and 9 of the Code of Professional Responsibility, argued that allowing the prosecuting attorney’s office to proceed with the case imparted an appearance of impropriety. See also Rules 1.6 and 8.4(d), Rules of Professional Conduct, 287 Ark. 495, 702 S.W.2d 326 (1985).</p>
+                <p id="b22-7" pgmap="22">Mr. H. G. Foster, Prosecuting Attorney for the 20th Judicial District, informed the trial court that there had been no discus­sions of the case with Mr. Henry, that he and Mr. Henry did not share office space, telephone lines, filing cabinets or clerical staff, and that on one occasion, when a witness in the case was due to appear in his office, Mr. Henry excused himself and left. The trial court denied the motion, enjoined Mr. Foster from using Mr. Henry in the prosecution, and ordered that the State was not to use any information Mr. Henry had obtained.</p>
+                <p id="b22-8" pgmap="22(137) 23(2)">
+                   On appeal, the appellant concedes that there has been no specific misconduct, but that the Code of Professional Conduct requires attorneys to avoid even the appearance of impropriety. In Upton v. State, 257 Ark. 424, 516 S.W.2d 904 (1974), the Arkansas Supreme Court affirmed the trial court’s refusal to appoint a special prosecutor. In a similar fact situation, the court rejected the appellant’s argument that the potential for prejudi­cial violation of the confidential relationship necessitated the appointment of a special prosecutor. In the case at bar, as in Upton, Mr. Henry and the prosecuting attorney, Mr. Foster, scrupulously avoided even the possibility of impairment of the appellant’s right to a fair trial insofar as Mr. Henry’s previous representation of him was concerned. We cannot say that the trial court abused its discretion under these circumstances. See, Upton, supra.</p>
+                <p id="b23-6" pgmap="23">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="21" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00011_0"/>
+        <fptr FILEID="jp2_00011_0"/>
+        <fptr FILEID="alto_00011_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_21.2" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="22" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00011_1"/>
+        <fptr FILEID="jp2_00011_1"/>
+        <fptr FILEID="alto_00011_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.2" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="23" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00012_0"/>
+        <fptr FILEID="jp2_00012_0"/>
+        <fptr FILEID="alto_00012_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.3" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.8" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.4" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.5" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.7" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.4" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.5" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.5" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.4" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.13" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqd" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.6" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.6" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            <area BEGIN="BL_23.1" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A75" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.16" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            <area BEGIN="BL_21.17" BETYPE="IDREF" FILEID="alto_00011_0"/>
+            <area BEGIN="BL_22.1" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-14" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.14" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-15" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.15" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000718_0041" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Tatum v. State">Larry Dewey TATUM v. STATE of Arkansas</name>
+          <docketnumber>CA CR 86-178</docketnumber>
+          <citation category="official" type="bluebook">21 Ark. App. 237</citation>
+          <citation category="parallel" type="bluebook">731 S.W.2d 227</citation>
+          <decisiondate>1987-06-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:58:19Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:58:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:59:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00139_0" MIMETYPE="image/tiff" CHECKSUM="d3bbf78cf5126dc3af3dbb6995d636b6" CHECKSUMTYPE="MD5" SIZE="37408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00139_0.tif"/>
+      </file>
+      <file ID="tiff_00139_1" MIMETYPE="image/tiff" CHECKSUM="abf7b445bc020e71325189702eea119a" CHECKSUMTYPE="MD5" SIZE="4248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00139_1.tif"/>
+      </file>
+      <file ID="tiff_00140_0" MIMETYPE="image/tiff" CHECKSUM="ec394acfd6d0a450813237be35587ac3" CHECKSUMTYPE="MD5" SIZE="48074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00140_0.tif"/>
+      </file>
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="a2975052b27b2e77aecb7680c3af4471" CHECKSUMTYPE="MD5" SIZE="56354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00140_1.tif"/>
+      </file>
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="e09923dda463a067f4ddc3d6e4dfede6" CHECKSUMTYPE="MD5" SIZE="53104">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00141_0.tif"/>
+      </file>
+      <file ID="tiff_00141_1" MIMETYPE="image/tiff" CHECKSUM="d6ea46ef9459866ab5fe3ce024735f4f" CHECKSUMTYPE="MD5" SIZE="56304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00141_1.tif"/>
+      </file>
+      <file ID="tiff_00142_0" MIMETYPE="image/tiff" CHECKSUM="b0699fdb9cbc3436894b891dadd28ec5" CHECKSUMTYPE="MD5" SIZE="32304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00142_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00139_0" MIMETYPE="image/jp2" CHECKSUM="3fc5b9b0202b653f1d127323575ff13b" CHECKSUMTYPE="MD5" SIZE="2369749">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00139_0.jp2"/>
+      </file>
+      <file ID="jp2_00139_1" MIMETYPE="image/jp2" CHECKSUM="73bb8111564ad5e067fe7b0897aea239" CHECKSUMTYPE="MD5" SIZE="970961">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00139_1.jp2"/>
+      </file>
+      <file ID="jp2_00140_0" MIMETYPE="image/jp2" CHECKSUM="2d0917e48397a55e676482b9a4352704" CHECKSUMTYPE="MD5" SIZE="2483551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00140_0.jp2"/>
+      </file>
+      <file ID="jp2_00140_1" MIMETYPE="image/jp2" CHECKSUM="114070c2aa9d74a817771a6b4279eb5f" CHECKSUMTYPE="MD5" SIZE="2596582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00140_1.jp2"/>
+      </file>
+      <file ID="jp2_00141_0" MIMETYPE="image/jp2" CHECKSUM="cd01fec50d59ddfd28d4e40703a80132" CHECKSUMTYPE="MD5" SIZE="2999882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00141_0.jp2"/>
+      </file>
+      <file ID="jp2_00141_1" MIMETYPE="image/jp2" CHECKSUM="3fdd83d2c002398c14a1d4ce314ab3b9" CHECKSUMTYPE="MD5" SIZE="2601481">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00141_1.jp2"/>
+      </file>
+      <file ID="jp2_00142_0" MIMETYPE="image/jp2" CHECKSUM="a7363462964a9c36408fdf39c51a1552" CHECKSUMTYPE="MD5" SIZE="2276238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00142_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00139_0" MIMETYPE="text/xml" CHECKSUM="6d88b9d08e3239607778c17366b9e3ad" CHECKSUMTYPE="MD5" SIZE="63991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00139_0.xml"/>
+      </file>
+      <file ID="alto_00139_1" MIMETYPE="text/xml" CHECKSUM="1b53ea2fab48df2e3ee9f1676e8b12aa" CHECKSUMTYPE="MD5" SIZE="1685">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00139_1.xml"/>
+      </file>
+      <file ID="alto_00140_0" MIMETYPE="text/xml" CHECKSUM="b58c7960bbe2992f734ea27b2436de86" CHECKSUMTYPE="MD5" SIZE="86294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00140_0.xml"/>
+      </file>
+      <file ID="alto_00140_1" MIMETYPE="text/xml" CHECKSUM="53ccf879669635cd467d24bcc36b02ce" CHECKSUMTYPE="MD5" SIZE="91729">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00140_1.xml"/>
+      </file>
+      <file ID="alto_00141_0" MIMETYPE="text/xml" CHECKSUM="ebdd2d9da956f4052d81bf3e5090b1a4" CHECKSUMTYPE="MD5" SIZE="90954">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00141_0.xml"/>
+      </file>
+      <file ID="alto_00141_1" MIMETYPE="text/xml" CHECKSUM="5bd71cc0d99a19e8d544e5c312419896" CHECKSUMTYPE="MD5" SIZE="94925">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00141_1.xml"/>
+      </file>
+      <file ID="alto_00142_0" MIMETYPE="text/xml" CHECKSUM="043d9c80c0dfb97e467899b4f69c815a" CHECKSUMTYPE="MD5" SIZE="56400">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00142_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="243" firstpage="237">
+              <court pgmap="277" id="b277-12">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="277" id="b277-11">CA CR 86-178</docketnumber>
+              <citation pgmap="277" id="ASI">731 S.W.2d 227</citation>
+              <parties pgmap="277" id="b277-10">Larry Dewey TATUM v. STATE of Arkansas</parties>
+              <decisiondate pgmap="277" id="b277-13">Opinion delivered June 17, 1987</decisiondate>
+              <judges pgmap="283" id="b283-10">Corbin, C.J., and Cracraft, J., agree.</judges>
+              <attorneys pgmap="279" id="b279-7">Jerry Cavaneau, for appellant.</attorneys>
+              <attorneys pgmap="279" id="b279-8">Steve Clark, Att’y Gen., by: J. Blake Hendrix, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="279" id="b279-9">James R. Cooper, Judge.</author>
+                <p pgmap="279" id="A_7">The appellant was convicted by a jury of theft of property, theft by receiving, and of being a felon in possession of a firearm. He was sentenced as a habitual offender and received ten years on each charge to run consecutively. He was also found guilty of possessing a defaced firearm and was sentenced to one year in the county jail, to be served concurrently with the felony convictions. For his appeal, the appellant argues that the trial court erred in allowing the jury to hear evidence of all of his prior convictions during the guilt stage of the bifurcated trial. He also argues that the trial court erred in refusing to suppress evidence of the firearms found in the trunk of his car because the search warrant was defective. We agree with both of appellant’s arguments and therefore we reverse and remand for a new trial.</p>
+                <p pgmap="279" id="b279-10">On November 29, 1984, John Smith reported to the El Dorado Police Department that two royalty checks issued to his aunts had been stolen. He explained that he had left the checks in a car he rented from Marks Company and when he returned shortly after turning the car in, he found they were gone.</p>
+                <p pgmap="279" id="b279-11">On December 4, 1984, Deborah Torrence called the El Dorado police and talked with Detective Carolyn Dykes. Tor-­rence told Dykes that the man she had been living with, the appellant, had stolen two royalty checks from a rented car that had been returned to the Marks Company. Torrence also stated that the appellant had a .38 caliber revolver that he had stolen from a car at a gas station, and that he also had a stolen .38 revolver he told her he had bought. After an argument with the appellant, Torrence stated she threatened to turn him in to the police. Torrence last saw the guns when they were placed in a brown cassette tape case. Torrence advised Detective Dykes that she had hidden the checks on a shelf in the bedroom of the appellant’s house.</p>
+                <p pgmap="280" id="b280-5">After talking further with Torrence, Dykes discovered that the checks the appellant had were the same checks that John Smith had reported as stolen several days earlier. Dykes then filled out an affidavit and got a search warrant to search the appellant’s car and his home. Dykes contacted the appellant at Marks Company, and, after showing him the search warrant, she searched the appellant’s car and found two .38 revolvers inside a tape case and some letters addressed to Shirley Ann Tatum, the appellant’s ex-wife. Dykes then arrested the appellant and they proceeded to his home, where she found the checks on a shelf in the bedroom closet.</p>
+                <p pgmap="280" id="b280-6">The trial court denied the appellant’s motion to suppress and allowed the guns and letters to be introduced into evidence. On appeal, the appellant argues that the trial court erred in not suppressing the evidence seized from his car pursuant to the search warrant because the affidavit does not state facts to support the officer’s assertion that the items would be found in his car. We agree with the appellant’s argument.</p>
+                <p pgmap="280" id="b280-7">
+                   In judging the sufficiency of the affidavit based on information received from an informant, the magistrate issuing the warrant must make a practical, common sense decision based on all the circumstances set forth in the affidavit. Rubio v. State, 18 Ark. App. 277, 715 S.W.2d 214 (1986). The duty of the reviewing court is simply to ensure that the magistrate had a substantial basis for concluding that probable cause existed to issue the warrant. Harper v. State, 17 Ark. App. 237, 707 S.W.2d 332 (1986). While inferences the magistrate may draw are those which a reasonable person could draw, certain basic information must exist to support an inference. Collins v. State, 280 Ark. 453, 658 S.W.2d 877 (1983). The practical common sense approach used to examine search warrants cannot cure omissions of fact that are undisputedly necessary. Ulrich v. State, 19 Ark. App. 62, 716 S.W.2d 111 (1986). The affidavit shall set forth facts and circumstances that tend to show that the things are in the places, or the things are in the possession of the person, to be searched, A.R.Cr.P. Rule 13.1(b).</p>
+                <p pgmap="280" id="b280-8">The affidavit in this case states in part:</p>
+                <blockquote pgmap="280(18) 281(258)" id="b280-9">On November 29,1984, John Smith of 602 North Jackson Street reported to the El Dorado Police Department that two (2) Tosco royalty checks issued to Annie Smith and Rosie Smith in the amounts of $322.21 and $322.22, respectively, were stolen from a rental car after he re­turned the rental car to its owner, Marks Company, located at 2880 North West Avenue. Mr. Smith told police that he left the described checks over the sun visor of the car and when he returned to Marks Company a short time after discovering he left the checks in the car he found they had been stolen. On December 4,1984, Deborah Torrence called the police department and told this officer that she lived at 1316 D Avenue with Larry Dewey Tatum, her boyfriend, until last night, 12/3/84. Ms. Torrence said that on or about Sunday, December 2, 1984, Tatum brought a .38 caliber revolver to the residence and told her that he had stolen the revolver from a car at a gas station in El Dorado. Torrence said that Tatum has another .38 caliber revolver in the residence and told her that he bought the gun “hot” from a man by the name of “Fish”. Torrence said she saw Tatum place the two (2) .38 revolvers in a cassette tape case, after she threatened to turn him in to authorities. Torrence told this investigator that Tatum brought other stolen property to the residence including a “Tosco” check issued to Annie Smith and a “Tosco” check issued to Rosie Smith and that Tatum told her that he took the checks from a car at Marks Company, where he is employed.</blockquote>
+                <p pgmap="281" id="b281-6">
+                   It is clear from the face of the affidavit that there are sufficient facts stated to support the search of the home. However, there is no information or facts whatsoever that indicate either the guns or the checks would be found in the appellant’s car. Therefore, the trial court erred when it refused to suppress the evidence that had been seized from the car.</p>
+                <p pgmap="281" id="b281-7">The appellant’s second argument concerns the propriety of introducing prior convictions into evidence during the “guilt” stage of a bifurcated trial. Under the facts and circumstances of this case, we find that it was error for the trial court to deny the appellant’s motion in limine to exclude evidence of more than one felony conviction.</p>
+                <p pgmap="281(9) 282(43)" id="b281-8">The appellant had four prior felony convictions. The trial court, after denying the appellant’s motion, also refused to allow the appellant to stipulate to one prior felony conviction. The trial court, explaining its ruling, found that the number and nature of prior convictions were relevant to the sentencing portion of the trial.</p>
+                <p pgmap="282" id="b282-6">
+                   Arkansas Statutes Annotated § 41-1005 (Supp. 1985) sets out the procedure to be followed when enhancement of penalty is sought according to the Habitual Offender Act. First, the jury hears all of the evidence relative to the current charge, and then retires to deliberate. If the defendant is found guilty, the State may then present evidence of prior convictions to the trial judge out of hearing of the jury. The trial court then instructs the jury as to the number of prior convictions and the statutory sentencing range. Whether the jury is informed as to the nature of the prior convictions is within the discretion of the trial court. The jury then retires again to deliberate on the sentence.</p>
+                <p pgmap="282" id="b282-7">The purpose of this bifurcated process is to protect the defendant by withholding proof of his prior convictions until the jury has found him guilty. Heard v. State, 272 Ark. 140, 612 S. W.2d 312 (1981). In this case, the defendant was not given that protection because evidence of all four of his prior convictions was introduced before the jury could deliberate on the issue of guilt.</p>
+                <p pgmap="282" id="b282-8">This protection afforded a criminal defendant is so impor­tant that the Arkansas Supreme Court has mandated that, even though § 41-1005 does not apply to DWI proceedings, the evidence of prior DWI convictions should be presented in the second half of a bifurcated proceeding, after the jury has determined guilt of the offense charged. Peters v. State, 286 Ark. 421, 692 S.W.2d 243 (1985). This is true even though prior DWI convictions are an element of the offense in subsequent DWI charges. Thus, this procedure should certainly be followed in cases where § 41-1005 does apply, even where the prior convic­tions are an element of the offense charged.</p>
+                <p pgmap="282(64) 283(11)" id="b282-9">
+                   This protection, however, must be balanced with the State’s entitlement to prove all the elements of an offense. In the case at bar, where the appellant was charged with being a felon in possession of a firearm, proof of one prior felony conviction would have been sufficient. See Ark. Stat. Ann. § 41-3103 (Repl. 1977). Thus, introduction of all the appellant’s prior convictions was unnecessary, and denied the appellant the protection of § 41-­1005.</p>
+                <p pgmap="283" id="b283-6">
+                   We also disagree with the State’s contention that the introduction of the prior felonies was not prejudicial. Prior convictions cannot be introduced for the purpose of showing that the accused is a bad person. Ford v. State, 276 Ark. 98, 633 S.W.2d 3 (1982); A.R.E. Rule 404(b). We can think of no other reason for the State to introduce more than one felony. That the State intended for the jury to believe that the appellant is a bad person is evident from the prosecutor’s closing remark that the appellant was “a five time loser caught with his hand in the cookie jar again.”</p>
+                <p pgmap="283" id="b283-7">We are mindful of the fact that prior convictions may be used to impeach credibility under A.R.E. Rule 609 and are admissible for the purposes outlined in A.R.E. Rule 404; these uses are not affected.</p>
+                <p pgmap="283" id="b283-8">Our holding today only limits the prosecution to proof of one prior felony conviction in its case in chief where a felony conviction is an element of the offense where the proceedings are bifurcated, and the validity of the conviction is not in dispute.</p>
+                <p pgmap="283" id="b283-9">Reversed and remanded for new trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="277" ORDERLABEL="237" TYPE="page">
+        <fptr FILEID="tiff_00139_0"/>
+        <fptr FILEID="jp2_00139_0"/>
+        <fptr FILEID="alto_00139_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.3" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="278" ORDERLABEL="238" TYPE="page">
+        <fptr FILEID="tiff_00139_1"/>
+        <fptr FILEID="jp2_00139_1"/>
+        <fptr FILEID="alto_00139_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.2" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="279" ORDERLABEL="239" TYPE="page">
+        <fptr FILEID="tiff_00140_0"/>
+        <fptr FILEID="jp2_00140_0"/>
+        <fptr FILEID="alto_00140_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_279.3" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="280" ORDERLABEL="240" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jp2_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.1" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="281" ORDERLABEL="241" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jp2_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.3" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="282" ORDERLABEL="242" TYPE="page">
+        <fptr FILEID="tiff_00141_1"/>
+        <fptr FILEID="jp2_00141_1"/>
+        <fptr FILEID="alto_00141_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.2" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="283" ORDERLABEL="243" TYPE="page">
+        <fptr FILEID="tiff_00142_0"/>
+        <fptr FILEID="jp2_00142_0"/>
+        <fptr FILEID="alto_00142_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_283.3" BETYPE="IDREF" FILEID="alto_00142_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.7" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            <area BEGIN="BL_283.1" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.6" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.9" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.8" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.4" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.5" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.7" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            <area BEGIN="BL_281.1" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.3" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.7" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.5" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.4" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.10" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.9" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-13" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.13" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-12" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.12" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.13" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b279-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.12" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_279.10" BETYPE="IDREF" FILEID="alto_00140_0"/>
+            <area BEGIN="BL_279.11" BETYPE="IDREF" FILEID="alto_00140_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.5" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASI" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.11" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.6" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.7" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.5" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.6" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.8" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.6" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_282.1" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b283-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_283.4" BETYPE="IDREF" FILEID="alto_00142_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

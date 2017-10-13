@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0001" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Stracener v. Stracener">Gracie STRACENER v. Frank STRACENER</name>
+          <docketnumber>CA 82-6</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 1</citation>
+          <citation category="parallel" type="bluebook">636 S.W.2d 877</citation>
+          <decisiondate>1982-08-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:39Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="a39038a883ad8d84cc1f9a45998f98bf" CHECKSUMTYPE="MD5" SIZE="8700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="351d9cdcd775161882b006a9915eca23" CHECKSUMTYPE="MD5" SIZE="47614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="a967719a92549b1474dd4586822de3cd" CHECKSUMTYPE="MD5" SIZE="35454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00015_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="a547030d61054c5e21240ad5eddb0787" CHECKSUMTYPE="MD5" SIZE="2016399">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="c089c59ea18e9986c4bb1d9fb454df30" CHECKSUMTYPE="MD5" SIZE="2628319">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00014_1.jp2"/>
+      </file>
+      <file ID="jp2_00015_0" MIMETYPE="image/jp2" CHECKSUM="d223423e28fdc5fa8375b20d8c819692" CHECKSUMTYPE="MD5" SIZE="2513281">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00015_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="60aec84ec18bfbda42ffbeffc7c6da66" CHECKSUMTYPE="MD5" SIZE="10979">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="69cd2a037b663c8b08f421da30216a70" CHECKSUMTYPE="MD5" SIZE="84218">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00014_1.xml"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml" CHECKSUM="a1482193ed7f01443952f84121f86a4a" CHECKSUMTYPE="MD5" SIZE="59860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00015_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="3" firstpage="1">
+              <court pgmap="27" id="b27-6">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="27" id="An">CA 82-6</docketnumber>
+              <citation pgmap="27" id="Ax">636 S.W.2d 877</citation>
+              <parties pgmap="27" id="b27-5">Gracie STRACENER v. Frank STRACENER</parties>
+              <decisiondate pgmap="27" id="AG">Opinion delivered August 18, 1982</decisiondate>
+              <judges pgmap="29" id="b29-6">Glaze, J., not participating.</judges>
+              <attorneys pgmap="27" id="b27-12">Herrod ir Vess, by: E. H. Herrod, for appellant.</attorneys>
+              <attorneys pgmap="27" id="b27-13">William A. Lafferty, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="28" id="b28-3">Melvin Mayfield, Chief Judge.</author>
+                <p pgmap="28" id="AK">The parties to this appeal were divorced in March of 1980, and a property settlement agreement was approved by the court and made a part of the decree. The agreement contained a provision that "The defendant will pay to the plaintiff the sum of $400.00 per month as alimony as long as she remains single and living as a single person.”</p>
+                <p pgmap="28" id="b28-4">Several months later the defendant, Frank Stracener, was cited for contempt for failing to make the alimony payments and he filed a response alleging the plaintiff was not living as a single person as required by the settlement agreement and asked that he be relieved from the obligation of making the payments. The court held that the agreement was not subject to modification by the court but was subject to interpretation; that it had been breached; and that alimony should cease effective April 1, 1981.</p>
+                <p pgmap="28" id="b28-5">The appellant, Gracie Stracener, argues that the chan­cellor’s findings are contrary to the law and the evidence.</p>
+                <p pgmap="28" id="b28-6">Mrs. Stracener and her eighteen year old daughter and twenty-one year old son testified. They all agreed that before April 1, 1981, a man moved into appellant’s house and was still living there at the time of the hearing in this case. These witnesses also agreed that he sleeps in bed with appellant; has a key to the house; comes and goes as he pleases; parks his car in the driveway; eats with appellant and her children, and uses the washer and dryer and telephone.</p>
+                <p pgmap="28" id="b28-7">The appellant testified that she first rented this man her son’s room at a time when the son was living elsewhere but when the son moved back she desperately needed the money so she let the man move into her room. She denied a sexual relationship with him while in her house but admitted that they dated and had sex on occasion before he moved in with her.</p>
+                <p pgmap="28" id="b28-8">Appellant’s son testified that the man was not a "room and board” person; that his mother had told him that she and. the man loved each other; and he characterized the man as an “unmarried spouse.”</p>
+                <p pgmap="29" id="b29-3">From appellant’s brief and her reliance upon the cases of Drummond v. Drummond, 267 Ark. 449, 590 S.W.2d 658 (1979) and Byrd v. Byrd, 252 Ark. 202, 478 S. W.2d 45 (1972), it appears the real force of her argument is that sexual immorality alone does not justify the termination of ali­mony and that having sexual relations is not the same as being married. Those cases, however, did not involve the phrase “living as a single person” which is contained in the settlement agreement in this case. Although we have not been cited to a case construing that phrase, Civil Procedure Rule 52 (a) provides that we do not set aside the trial judge’s factual finding unless it is clearly against the preponderance of the evidence and we think the evidence in this case amply supports the judge’s decision.</p>
+                <p pgmap="29" id="b29-4">Appellant also argues that the court remitted past due alimony payments contrary to the decision in Bethell v. Bethell, 268 Ark. 409, 597 S.W.2d 576 (1980), but we do not agree. Appellee’s contempt hearing was originally set for April 1, 1981, but the alimony question was passed and not heard until September 22, 1981. At that time the court held the defense filed by appellee prior to April 1 st relieved him of alimony obligation as of April 1st. The record, however, contains a judgment in appellant’s favor for all unpaid alimony up to that date.</p>
+                <p pgmap="29" id="b29-5">We find no error and the decision of the trial court is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="27" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.1" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jp2_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.2" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.6" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.11" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.8" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.9" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.10" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.4" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.6" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.5" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.7" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.4" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AK" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.7" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.16" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-12" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.15" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.8" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.5" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

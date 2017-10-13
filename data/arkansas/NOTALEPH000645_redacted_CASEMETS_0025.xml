@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000645_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Johnston v. City of Fort Smith">Jonathan D. JOHNSTON, Gary D. PLUMMER, John GUNDY, Robert Dale ALLEN, Robert M. RUSSELL, Kevin NIELSEN, Burt H. McGHEE, Jr., Dwight Roy KETCHER, Bobby D. CLARK, Travola Marvin GARLIN, Rollins G. HOGE, Alan Lee SLATE, Thomas L. LEEK v. CITY OF FORT SMITH, ARKANSAS</name>
+          <docketnumber>CA CR 84-176</docketnumber>
+          <citation category="official" type="bluebook">15 Ark. App. 102</citation>
+          <citation category="parallel" type="bluebook">690 S.W.2d 358</citation>
+          <decisiondate>1985-05-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:38:47Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:37:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:39:04Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="536b7187df3c2c9bf474642e7c01f53a" CHECKSUMTYPE="MD5" SIZE="13484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="ce096a8bfd98457f002b712e92ec150c" CHECKSUMTYPE="MD5" SIZE="8450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="dd22d7a55f60186cfda4b559303f5327" CHECKSUMTYPE="MD5" SIZE="50304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00063_1.tif"/>
+      </file>
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="8369dafe439ee9d270b730592542891f" CHECKSUMTYPE="MD5" SIZE="47582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="27c6c9e111aa057505897c40ab5d44a4" CHECKSUMTYPE="MD5" SIZE="47846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="50f2047fb1400bb3819308b65ca24770" CHECKSUMTYPE="MD5" SIZE="52082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="da843c32fbaa2ca4e3f72f6bdb1bf3c6" CHECKSUMTYPE="MD5" SIZE="30934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00065_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="26d4b99714330c7a31433f9cb3b371ba" CHECKSUMTYPE="MD5" SIZE="1561756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="11f7926cde360bf9e2c534c179e0a78d" CHECKSUMTYPE="MD5" SIZE="1318436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="1de4aa1280ee6e65a1b254ba92654ffb" CHECKSUMTYPE="MD5" SIZE="2642652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00063_1.jp2"/>
+      </file>
+      <file ID="jp2_00064_0" MIMETYPE="image/jp2" CHECKSUM="92a8ee7eb50246a7f32dfbf9c0e7c9d2" CHECKSUMTYPE="MD5" SIZE="2596543">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00064_0.jp2"/>
+      </file>
+      <file ID="jp2_00064_1" MIMETYPE="image/jp2" CHECKSUM="af027f0a851f638e2df2650227e1b373" CHECKSUMTYPE="MD5" SIZE="2580275">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00064_1.jp2"/>
+      </file>
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="f8317dc9c9ef6496bdb1482fe448fdd7" CHECKSUMTYPE="MD5" SIZE="2632201">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00065_0.jp2"/>
+      </file>
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="18f1334d1226e59afbd718c05bff827f" CHECKSUMTYPE="MD5" SIZE="2181105">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00065_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="8159c77100b163a6a5ad221ac5119c87" CHECKSUMTYPE="MD5" SIZE="18901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="8dd9c83c0685b6aaa515cce021f40162" CHECKSUMTYPE="MD5" SIZE="11237">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="89f8fb47edad709a1ff6e887eac466ab" CHECKSUMTYPE="MD5" SIZE="89269">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00063_1.xml"/>
+      </file>
+      <file ID="alto_00064_0" MIMETYPE="text/xml" CHECKSUM="f0babbfa6eb5a2f3d63da620ca932e60" CHECKSUMTYPE="MD5" SIZE="78812">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00064_0.xml"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml" CHECKSUM="ef970230eeca90863a67b3ff827f12a6" CHECKSUMTYPE="MD5" SIZE="80875">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00064_1.xml"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="30396e8e3de7e91460ee171d1d2be290" CHECKSUMTYPE="MD5" SIZE="86760">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00065_0.xml"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="831c8067be7b801e87adefca4d104f43" CHECKSUMTYPE="MD5" SIZE="49586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00065_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="108" firstpage="102">
+              <court pgmap="124" id="b124-12">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="124" id="b124-11">CA CR 84-176</docketnumber>
+              <citation pgmap="124" id="AN">690 S.W.2d 358</citation>
+              <parties pgmap="124" id="b124-7">Jonathan D. JOHNSTON, Gary D. PLUMMER, John GUNDY, Robert Dale ALLEN, Robert M. RUSSELL, Kevin NIELSEN, Burt H. McGHEE, Jr., Dwight Roy KETCHER, Bobby D. CLARK, Travola Marvin GARLIN, Rollins G. HOGE, Alan Lee SLATE, Thomas L. LEEK v. CITY OF FORT SMITH, ARKANSAS</parties>
+              <decisiondate pgmap="124" id="b124-13">Opinion delivered May 29, 1985</decisiondate>
+              <judges pgmap="130" id="b130-8">Cracraft, C.J., and Mayfield, J., agree.</judges>
+              <attorneys pgmap="125" id="b125-12">Rex W. Chronister, Willard C. Smith, Jr., J.F. Atkinson, Jr., and Robert R. Cloar, for appellant.</attorneys>
+              <attorneys pgmap="125" id="b125-14">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="125" id="b125-16">Lawson Cloninger, Judge.</author>
+                <p pgmap="125(5) 126(110)" id="AgN">The thirteen appellants in this consolidated case attack their convictions under Act 549 of 1983, the Omnibus DWI Act, codified at Ark. Stat. Ann. § 75-2501 et seq. (Supp. 1983). They argue six points for reversal. Although the issues raised are constitutional in character, we are empow­ered to consider them, notwithstanding the limitation imposed by Rule 29(1 )(c) of the Rules of the Supreme Court and Court of Appeals, because our decision involves merely the application of principles established in earlier opinions of the Arkansas Su­preme Court. On the basis of the substantial case law dealing with the Omnibus DWI Act already on record, we affirm the judg­ments of the lower court.</p>
+                <p pgmap="126" id="b126-6">In their first argument for reversal, appellants contend that the citations issued to them by the police are void for lack of specificity in that they did not indicate under which subsection of § 3 of the Omnibus DWI Act they were charged. The statute in question, Ark. Stat. Ann. § 75-2503 (Supp. 1983), reads as follows:</p>
+                <blockquote pgmap="126" id="b126-7">(a) It is unlawful and punishable as provided in this Act for any person who is intoxicated to operate or be in actual physical control of a motor vehicle.</blockquote>
+                <blockquote pgmap="126" id="b126-8">(b) It is unlawful and punishable as provided in this Act for any person to operate or be in actual physical control of a motor vehicle if at that time there was 0.10% or more by weight of alcohol in the person’s blood as deter­mined [by a] chemical test of the person’s blood, urine, breath, or other bodily substance.</blockquote>
+                <p pgmap="126" id="b126-9">Appellants were charged with “Driving Under the Influence of Intoxicants.” According to appellants, the charge was couched in language so imprecise that they were denied their right to be informed of the nature of the accusation. They contend that the two subsections of Ark. Stat. Ann. § 75-2503 state two separate offenses that require different elements of proof.</p>
+                <p pgmap="126(63) 127(46)" id="b126-10">
+                   Two recent Arkansas Supreme Court cases, Wilson v. State, 285 Ark. 257, 685 S.W.2d 811 (1985), and Yacono v. State, 285 Ark. 130, 685 S.W.2d 500 (1985), dispose of the matter. The court said in Yacono, supra, that the penalty is the same whether the act is violated by conduct proscribed by either subsection, and thus the “two conditions are simply two different ways of proving a single violation.” The accused in Wilson, supra, had been charged with the offense of “DWI one.” This charge, the court held, “is sufficient for a conviction under either subsection (a) or (b), even though the evidentiary requirements of the subsections are different.”</p>
+                <p pgmap="127" id="b127-4">
+                   Appellants next assert that Ark. Stat. Ann. § 75-2503 is void for vagueness. They claim that the statutory language is so indefinite that one cannot determine exactly what acts are prohibited. The Supreme Court, in Long v. State, 284 Ark. 21, 660 S.W.2d 668 (1984), ruled that neither subsection (a) nor (b) was unconstitutionally vague. Discussing the question at length, the court said:</p>
+                <blockquote pgmap="127" id="b127-5">Both the Fourteenth Amendment to the United States Constitution and article 2, section 8 of the Arkansas Constitution declare that no person shall be deprived of life, liberty or property without due process of law. It has been recognized for over 80 years that due process requires some level of definiteness in criminal statutes. Note, Due Process Requirements of Definiteness in Statutes, 62 Harv.L.Rev. 77, fn. 2 (1948). Due process requires a statute to be definite enough to provide (1) a standard of conduct for those whose activities are proscribed and (2) a standard for police enforcement and for ascertainment of guilt. State v. Bryant, 219 Ark. 313, 241 S.W.2d 473 (1951); Note, The Void-for-Vagueness Doctrine in the Supreme Court, 109 U.Pa.L.Rev. 67, 68-69 (1960), Note, Due Process Requirements of Definiteness in Statutes, 62 Harv.L.Rev. 77-78 (1948).</blockquote>
+                <blockquote pgmap="127" id="b127-6">Subsection (a) of § 75-2503 meets both requirements. First, it gives a fair warning of the prohibited conduct. Due process requires only fair warning, not actual notice. McBoyle v. United States, 283 U.S. 25, 27 (1931). The standard is the same in Arkansas. Trice v. City of Pine Bluff, 279 Ark. 125, 129, 649 S.W.2d 179 (1983).</blockquote>
+                <blockquote pgmap="127" id="b127-7">The word ‘intoxicated’ is described in another subsec­tion, § 75-2502(a) as:</blockquote>
+                <blockquote pgmap="127(16) 128(39)" id="b127-8">(a) ‘Intoxicated’ means influenced or affected by the ingestion of alcohol, a controlled substance, or a combination thereof, to such a degree that the driver’s reactions, motor skills, and judgment are substantially altered and the driver, therefore, constitutes a clear and substantial danger of physical injury or death to himself and other motorists or pedestrians.</blockquote>
+                <blockquote pgmap="128" id="b128-6">The definition of‘intoxicated’ fairly warns a person of ordinary intelligence that he is in jeopardy of violating the law if he drives a motor vehicle after consuming a sufficient quantity of alcohol to alter his reactions, motor skills and judgment to the extent that his driving constitutes a substantial danger to himself or others. The warning is sufficient to pass constitutional muster. The Constitution does not require impossible standards of specificity and a statute is sufficiently clear if its language conveys sufficient warning when measured by common understanding and practice. Jordan v. DeGeorge, 341 U.S. 223 (1951); Davis v. Smith, 266 Ark. 112, 583 S.W.2d 37 (1979).</blockquote>
+                <blockquote pgmap="128" id="b128-7">Second, a law is held to be vague when it leaves the police or the factfinder free to decide, without a fixed standard, what is prohibited. Trice v. City of Pine Bluff, 279 Ark. 125, 649 S.W.2d 179 (1983). The definition of intoxicated, set out in § 75-2502(a), is a sufficient standard for police enforcement and for ascertainment of guilt. We hold that § 75-2503(a) of the act is not unconstitutionally vague.</blockquote>
+                <blockquote pgmap="128" id="b128-8">Under the second subsection, § 75-2503(b), intoxica­tion is not an element of the offense. Driving with a blood alcohol content of .10% or more is the prohibited act. Stated differently, it is a violation per se to drive with a blood alcohol content of .10% or more. We have also held this subsection is not unconstitutionally vague. Lovell v. State, 283 Ark. 425, 678 S.W.2d 318 (1984).</blockquote>
+                <p pgmap="128" id="b128-9">On both counts, then, the Supreme Court has declared that §75-­2503 passes constitutional muster with respect to the issue of vagueness.</p>
+                <p pgmap="128(31) 129(64)" id="b128-10">
+                   For their third point, appellants argue that subsection (b) of § 75-2503 deprives them of the presumption of innocence by shifting the burden of proof to the defendant and creating an “irrebuttable presumption” of guilt. In Lovell v. State, supra, the Supreme Court stated explicitly that subsection (b) “does not lessen the state’s burden of proof. Each defendant is presumed innocent until the state proves beyond a reasonable doubt that he is guilty of committing the prohibited act of driving with .10% or more alcoholic content in the blood.” This argument is therefore without merit.</p>
+                <p pgmap="129" id="b129-5">
+                   Appellants, in their fourth point, contend that their constitutional right to confront witnesses against them was violated by the failure of the police to preserve the breath samples taken from them. The Arkansas Supreme Court considered this argument in Southern v. State, 284 Ark. 572, 683 S.W.2d 933 (1985), and rejected it. The court noted:</p>
+                <blockquote pgmap="129" id="b129-6">In Redman v. State, 265 Ark. 774, 580 S.W.2d 945 (1979), we held that neither the Sixth Amendment to the U.S. Constitution nor Article 2, § 10, of the Arkansas Constitution guaranteed the right to confront physical evidence as opposed to witnesses. If the appellant’s citation to the Fifth Amendment to the U.S. Constitution was intentional and their argument is that the state’s inability to present the breath samples was a deprivation of due process of law, (more properly argued by citing the Fourteenth Amendment) that argument was clearly an­swered in Lovell v. State, 283 Ark. 425, 678 S.W.2d 318 (1984), citing California v. Trombetta, _ U.S. _, 104 S.Ct. 2528 (1984).</blockquote>
+                <p pgmap="129" id="b129-9">Appellants argue in their fifth point that §§ 8, 9, and 13 of the Act, codified at Ark. Stat. Ann. §§ 75-2508,75-2509, and 75-­2511 (Supp. 1983), violate the doctrines of prosecutorial discre­tion and separation of powers. These sections, they say, remove from prosecutors and courts the power to reduce charges, to place a first offender on probation prior to an adjudication of guilt, and to deal with the suspension or revocation of the operator’s license. The central part of the argument is that, under the Omnibus DWI Act, decisions made in the past by prosecuting attorneys and judges are now made by the arresting officer.</p>
+                <p pgmap="129(30) 130(68)" id="b129-10">
+                   In two recent opinions, Southern v. State, supra, and Sparrow v. State, 284 Ark. 396, 683 S.W.2d 218 (1985), the Supreme Court responded to the separation of powers issue by restating the fundamental principle that “it is for the legislative branch of a state or [the] federal government to determine the kind of conduct that constitutes a crime and the nature and extent of the punishment which may be imposed.” Hence, the legislature was not placing prosecutorial or judicial power in the hands of the police by enacting the challenged law, but was instead assuming its constitutional responsibility.</p>
+                <p pgmap="130" id="b130-6">
+                   Finally, appellants urge that the presentence screen­ing and assessment report on the defendant required by Ark. Stat. Ann. § 75-2506 (Supp. 1983) violates their right against compul­sory self-incrimination. The Arkansas Supreme Court succinctly disposed of this argument in Janes v. State, 285 Ark. 279, 686 S.W.2d 783 (1985): “The act does not require a defendant to take any action whatever in response to the State’s proof or to the pre­sentence report; so obviously there is no compulsory self-­incrimination.”</p>
+                <p pgmap="130" id="b130-7">None of the arguments raised by appellants has merit. The judgments against them are therefore affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="124" ORDERLABEL="102" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.1" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="104" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.2" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="127" ORDERLABEL="105" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jp2_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="106" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jp2_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.2" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="107" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.2" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.8" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.9" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            <area BEGIN="BL_128.1" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.7" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.6" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.8" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.9" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.6" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.7" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-12" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.11" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-13" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.12" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.9" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.10" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_127.1" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.8" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.7" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.6" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.10" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.8" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.7" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-14" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.14" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-16" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.15" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-12" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.13" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.10" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.8" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.9" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.8" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_130.1" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.7" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgN" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.16" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

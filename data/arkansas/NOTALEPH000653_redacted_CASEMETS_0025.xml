@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000653_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Ellis v. Ellis">Randy ELLIS v. Linda Lee ELLIS</name>
+          <docketnumber>CA 01-284</docketnumber>
+          <citation category="official" type="bluebook">75 Ark. App. 173</citation>
+          <citation category="parallel" type="bluebook">57 S.W.3d 220</citation>
+          <decisiondate>2001-10-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:11:56Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:01Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:33:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:34:13Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="b9a88b0dfa67a2f2c23b9b3529487f92" CHECKSUMTYPE="MD5" SIZE="7310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="ad1cac2aefb9790b5b40ff16dbc9da03" CHECKSUMTYPE="MD5" SIZE="7782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="1247e672698e444b52113b6d085aed22" CHECKSUMTYPE="MD5" SIZE="59094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="1fb28cb6189fd255ad5614b4d394934f" CHECKSUMTYPE="MD5" SIZE="56080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="2aa047c5f09b88c9d72d75f7738d3643" CHECKSUMTYPE="MD5" SIZE="56498">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="089db977b622da5749c71cf94a4d30c2" CHECKSUMTYPE="MD5" SIZE="40428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00103_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="99c892638725d397f61a2fdf32b18a17" CHECKSUMTYPE="MD5" SIZE="1378644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="a7e5d022efad66d5a4f5c596a17cc237" CHECKSUMTYPE="MD5" SIZE="1270527">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="a8ba5992f72ad3bd648b9656c2c11528" CHECKSUMTYPE="MD5" SIZE="2686885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00102_0.jp2"/>
+      </file>
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="919a1a18545cc65b8964a152e51e7db1" CHECKSUMTYPE="MD5" SIZE="2646868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="7cc19ffbb0baab56ae6ac2ca80dea1c7" CHECKSUMTYPE="MD5" SIZE="2672632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="4dbd2e19d53a5ce0d1d18065fce1a64a" CHECKSUMTYPE="MD5" SIZE="2471154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00103_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="16d7bd059604cc8c58fea6c59ee602be" CHECKSUMTYPE="MD5" SIZE="8027">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="44d4784da0ad839089855824aea6f7ab" CHECKSUMTYPE="MD5" SIZE="7309">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="004eb1ff0a95e81f2105d6017c506314" CHECKSUMTYPE="MD5" SIZE="104169">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00102_0.xml"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="50306097a907464389d135919a5edef0" CHECKSUMTYPE="MD5" SIZE="100787">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="d0d89aa8647f2e315915efd2e5f4e2d8" CHECKSUMTYPE="MD5" SIZE="97159">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="51131004186f5ad1e0f0e213268c7ae2" CHECKSUMTYPE="MD5" SIZE="69761">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00103_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="178" firstpage="173">
+              <court id="b201-6" pgmap="201">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b201-4" pgmap="201">CA 01-284</docketnumber>
+              <citation id="b201-5" pgmap="201">57 S.W.3d 220</citation>
+              <parties id="b201-3" pgmap="201">Randy ELLIS v. Linda Lee ELLIS</parties>
+              <decisiondate id="b201-7" pgmap="201">Opinion delivered October 3, 2001</decisiondate>
+              <judges id="b206-11" pgmap="206">GRIFFEN, J., and HAYS, Special Judge, agree.</judges>
+              <attorneys id="b202-14" pgmap="202">Carroll Law Firm, by: Robin J. Carroll, for appellant.</attorneys>
+              <attorneys id="b202-15" pgmap="202">Shackleford, Phillips, Wineland &amp; Ratcliff, PA., by: Teresa Wine-­land, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pALe" pgmap="203">BIRD, Judge.</author>
+                <p id="A45" pgmap="203">Randy and Linda Ellis separated after twenty-eight years of marriage. Randy Ellis worked for Great Lakes Chemical Company and Linda Ellis, at the time of divorce, was working for a flower shop, sitting with an elderly lady, and operating her own florist business. At the time of divorce, Linda Ellis was earning less money than her husband, though there had been times in the past when she had earned as much as he did. Marital debts totaled $75,000, which included the marital home mortgage. In the August 20, 2000, divorce decree, ordered that Randy Ellis was to pay seventy percent and Linda Ellis was to pay thirty percent of the marital debts acquired between the date of marriage, April 27, 1973, and the date of separation, September 1, 1999. The decree awarded $100 per week permanent alimony to Linda Ellis, as well as attorney’s fees and costs. The chancellor stated that the reason for the unequal allocation of debt and the grant of alimony was the disparity in the parties’ income. The chancellor ordered the parties to divide the marital assets equally in kind and that, if they were unable to do so, that the assets were to be sold and the proceeds divided equally. Randy Ellis now appeals the chancel­lor’s grant of alimony and the division of the debts.</p>
+                <p id="b203-6" pgmap="203">Alimony</p>
+                <p id="b203-7" pgmap="203">
+                   The decision whether to award alimony is a matter that lies within the chancellor’s sound discretion, and on appeal we will not reverse a chancellor’s decision to award alimony absent an abuse of that discretion. Anderson v. Anderson, 60 Ark. App. 221, 963 S.W.2d 604 (1998). A chancery court has authority to consider the allocation of debt in a divorce case. A chancery court’s decision to allocate debt to a particular party in a divorce case is a question of fact and will not be reversed on appeal unless clearly erroneous. Id.</p>
+                <p id="b203-8" pgmap="203">
+                   The purpose of alimony is to rectify economic imbal­ance in the earning power and the standard of living of the parties to a divorce in light of the particular facts of each case; the primary factors that a chancery court should consider in determining whether to award alimony are the financial need of one spouse and the other spouse’s ability to pay. Id. A chancery court may also consider other factors including, among other things: (1) the par­ties’ financial circumstances; (2) the amount and nature of the parties’ income, both current and anticipated; (3) the extent and nature of the parties’ resources and assets; (4) the parties’ earning ability and capacity. Mearns v. Mearns, 58 Ark. App. 42, 946 S.W.2d 188 (1997).</p>
+                <p id="b204-5" pgmap="204">Randy Ellis argues that the trial judge abused his discretion by awarding Linda EUis permanent alimony because Linda had the ability to earn as much money as Randy, and she had done so in the past. Randy Ellis argues that Linda EUis has the ability to earn as much money as he does because she has completed a two-semester course in dietary management. He further argues that the record is void of any proof of her financial need and that financial need is the main consideration in determining alimony.</p>
+                <p id="b204-6" pgmap="204">Linda Ellis, on the date of her Affidavit of Financial Means, was earning a net income of $378.60 per week. Randy Ellis was earning a net income of $764.74 per week. Linda EUis had completed the course in dietary management but failed the certification test. She testified that she had been in a car wreck and out of work for a year and that Randy Ellis did not help her pay her medical bills. She admitted that her income had not always been lower than his, and stated that it was higher than his when she was working for one particular elderly patient twenty hours a day. However, she also testified that her florist business has never made a profit. She also alleged in her testimony that it was her husband who blew up her mobile home and that its contents were worth only $250.</p>
+                <p id="b204-7" pgmap="204">
+                   This evidence is sufficient to show Linda Ellis’s financial need and Randy Ellis’s ability to pay; thus, the awarding of alimony to Ms. Ellis was not an abuse of the chancellor’s discretion.</p>
+                <p id="b204-8" pgmap="204">Division of Marital Debt</p>
+                <p id="b204-9" pgmap="204">Randy EUis argues that the chancellor erred by dividing the marital debt unequally for three reasons: (1) the chancellor stated the division was due to the disparity in income between the parties, thus Randy Ellis contends that the chancellor did not consider the earning power of both parties and that this was error; (2) not specifying whether Randy Ellis was responsible for seventy percent of the debt before or after the sale of the assets should such sale occur; (3) by not considering that $20,450 of the marital debt was in Linda Ellis’s name only.</p>
+                <p id="b204-10" pgmap="204(64) 205(86)">
+                   Randy EUis contends that Ark. Code Ann. § 9-12-315 (Repl. 1998), which mandates that marital property be divided equaUy unless the court finds that such a division is inequitable, applies to the division of debts. Linda EUis, on the other hand, contends that by its own words, section 9-12-315 cannot apply to the division of debts, thus there is no presumption of an equal division. In Warren v. Warren, 33 Ark. App. 63, 800 S.W.2d 730 (1990), this court resolved this argument when it stated that “the code does not expressly give the chancellor the power to allocate marital debts as between the parties.” The court further stated, however, that this power is implied and that to ignore the debts would “nullify divorce effectiveness” and leave “an essential item of divorce dispute . . . unresolved.” Id. (quoting Srock v. Srock, 11 Ariz. App. 483, 466 P. 2d 34 (1970)).</p>
+                <p id="b205-6" pgmap="205">
+                   A chancery court’s decision to allocate debt to a particu­lar party in a divorce case is a question of fact and will not be reversed on appeal unless clearly erroneous. Anderson, supra. A chancery court’s determination that debt should be allocated between the parties in a divorce case on the basis of their relative ability to pay is not a decision that is clearly erroneous. Anderson, supra.</p>
+                <p id="b205-7" pgmap="205">Randy Ellis’s Affidavit of Financial Means states that his biweekly net pay as $1,529.48. His share of the total marital debt monthly payment will be $952.70. Randy Ellis states in the affidavit that his monthly expenses total $1,575.35. Thus, after paying monthly debt payments and providing for monthly expenses, Randy Ellis will have $530.91 discretionary income per month. Linda Ellis earns $757.20 biweekly. Her share of the marital debts will be $408.30 per month and her monthly expenses total $1,305.00. Thus, even with the present allocation, Linda Ellis, if her income and expenses remain constant, will avoid a deficiency only because of the receipt of alimony.</p>
+                <p id="b205-8" pgmap="205">In Richardson v. Richardson, 280 Ark 498, 659 S.W.2d 510 (1983), the chancellor held that each party was liable for their separate debts. Mr. Richardson contended that certain of his sepa­rate debts should be divided equally. The supreme court stated that:</p>
+                <blockquote id="b205-9" pgmap="205">[h]owever, [Mr. Richardson] has a high income while [Mrs. Rich­ardson] has a modest income. [Mr. Richardson] will be able to pay the debt from income without materially changing his style of life. [Mrs. Richardson] could not pay the debts from her income. She would find it necessary to dispose of assets to pay part of the debt. Under the circumstances, we cannot say the ruling of the chancel­lor is clearly erroneous. Id.</blockquote>
+                <p id="b205-10" pgmap="205(34) 206(66)">Linda Ellis’s income was lower than that of Randy Ellis. It is only as a result of the chancellor’s allocation of debt and award of alimony that Linda Ellis will have slightly more discretionary income per month than Randy Ellis. If debts were divided equally, there is no doubt that Linda Ellis would have to sell assets to pay her half of the debts. Linda Ellis’s educational background appears to be limited to a two-semester dietary management course, a trade for which she failed to receive certification. Additionally, she stated that her florist business is operating at a net loss.</p>
+                <p id="b206-6" pgmap="206">
+                   The chancellor did not clearly err in unequally dividing the martial debt due to the disparity in income and the parties’ relative abilities to pay the debt.</p>
+                <p id="b206-7" pgmap="206">
+                   Randy Ellis further argues that the chancellor erred in the division of debt because the decision does not specify if he is responsible for seventy percent of the debt before or after the sale of assets and because some of the marital debt is in Linda Ellis’s name only. Randy Ellis does not cite authority nor make a convincing argument in support of these contentions. We do not address unconvincing arguments. See Harrison v. Benton State Bank, 6 Ark. App. 642 S.W.2d (1982).</p>
+                <p id="b206-8" pgmap="206">
+                   Additionally, Randy Ellis argues that the chancellor erred by not allocating those debts that were incurred after September 1, 1999. The chancellor is not required to allocate debt. See Hackett v. Hackett, 278 Ark. 82, 643 S.W.2d 560 (1982); see also Anderson, supra. Because the chancellor is not required to allocate debt, there can be no error for allocating some but not all debt.</p>
+                <p id="b206-9" pgmap="206">The chancellor stated in the decree that the allocation was due to the disparity in income, and the facts support a finding of disparity of income. Randy Ellis’s other two arguments are uncon­vincing. Therefore, we affirm the chancellor’s division of marital debt.</p>
+                <p id="b206-10" pgmap="206">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="201" ORDERLABEL="173" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.2" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="174" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.1" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.2" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.9" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pALe" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.4" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.7" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.9" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-14" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.11" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-15" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.12" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.10" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.8" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.6" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.7" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.8" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A45" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.3" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

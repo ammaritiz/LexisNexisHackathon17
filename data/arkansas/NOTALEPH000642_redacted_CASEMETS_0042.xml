@@ -1,0 +1,593 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0042" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith's Store v. Kirker">SMITH’S STORE v. Atha Lee KIRKER</name>
+          <docketnumber>CA 82-182</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 222</citation>
+          <citation category="parallel" type="bluebook">639 S.W.2d 751</citation>
+          <decisiondate>1982-10-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:40Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="cb75d57001ab7669e77ec4fe5689cc33" CHECKSUMTYPE="MD5" SIZE="7132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00125_1.tif"/>
+      </file>
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="649aa4521990450035e99ff32ea216b4" CHECKSUMTYPE="MD5" SIZE="34856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="b0120e702c13badee2e6f66f012df64d" CHECKSUMTYPE="MD5" SIZE="50158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00126_1.tif"/>
+      </file>
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="06ff474c4b97934f13058a07f2e71ad3" CHECKSUMTYPE="MD5" SIZE="49714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="a7e3fd25fd188ca2f26c43501e6b65a8" CHECKSUMTYPE="MD5" SIZE="46560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00127_1.tif"/>
+      </file>
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="8d5ee870c7d2da70a4a5c9839416aa51" CHECKSUMTYPE="MD5" SIZE="36416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00128_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="b2d48435943ca8bed3cf81acfbba1837" CHECKSUMTYPE="MD5" SIZE="1334295">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00125_1.jp2"/>
+      </file>
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="7567b5f7608d5c8ec1f58337708a3f3d" CHECKSUMTYPE="MD5" SIZE="2471638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00126_0.jp2"/>
+      </file>
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="0fd111056a0f4361a3569b3efd0c86cf" CHECKSUMTYPE="MD5" SIZE="2794123">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00126_1.jp2"/>
+      </file>
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="fd72be2aed62af724626b4f4087d632f" CHECKSUMTYPE="MD5" SIZE="2670661">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00127_0.jp2"/>
+      </file>
+      <file ID="jp2_00127_1" MIMETYPE="image/jp2" CHECKSUM="b9a7b3385e50c2ca61549c15207c2342" CHECKSUMTYPE="MD5" SIZE="2710744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00127_1.jp2"/>
+      </file>
+      <file ID="jp2_00128_0" MIMETYPE="image/jp2" CHECKSUM="ffd44290fdf90b89736aa023c111dc71" CHECKSUMTYPE="MD5" SIZE="2700789">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00128_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="8e21b97ec165ce03771808b11e9f2a1d" CHECKSUMTYPE="MD5" SIZE="7658">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00125_1.xml"/>
+      </file>
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="478fad2361c5798616010f58c8bf33ee" CHECKSUMTYPE="MD5" SIZE="56891">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00126_0.xml"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="7422c7b46f127a4d0519aad5c54b25e7" CHECKSUMTYPE="MD5" SIZE="87433">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00126_1.xml"/>
+      </file>
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="6606993ea821170729dc115bd2722323" CHECKSUMTYPE="MD5" SIZE="83361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00127_0.xml"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml" CHECKSUM="f46548d2d884778854166e7be1fe8852" CHECKSUMTYPE="MD5" SIZE="82889">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00127_1.xml"/>
+      </file>
+      <file ID="alto_00128_0" MIMETYPE="text/xml" CHECKSUM="52fb8313b409b7de7e01a593d70e06e2" CHECKSUMTYPE="MD5" SIZE="68324">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00128_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="227" firstpage="222">
+              <court pgmap="250" id="b250-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="250" id="AS8G">CA 82-182</docketnumber>
+              <citation pgmap="250" id="AP_z">639 S.W.2d 751</citation>
+              <parties pgmap="250" id="b250-3">SMITH’S STORE v. Atha Lee KIRKER</parties>
+              <decisiondate pgmap="250" id="AfK">Opinion delivered October 13, 1982</decisiondate>
+              <judges pgmap="255" id="b255-6">Glaze, J., concurs.</judges>
+              <attorneys pgmap="251" id="b251-5">Larry Hartsfield, for appellant.</attorneys>
+              <attorneys pgmap="251" id="b251-6">Pickens, Boyce, McLarty &amp; Watson, by: James A. McLarty, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="251" id="b251-7">Melvin Mayfield, Chief Judge.</author>
+                <p pgmap="251" id="AzPu">This is an appeal by an uninsured employer from an award of the Arkansas Workers’ Compensátion Commission.</p>
+                <p pgmap="251" id="b251-8">In an opinion filed June 11,1980, an administrative law judge held that appellee Atha Lee Kirker sustained an accidental injury on January 26, 1979. The law judge held that appellee was temporarily totally disabled through May 25,1979, and had sustained a permanent partial disability of at least 10% to the body as a whole. All reasonable medical expenses were ordered paid and determination with regard to additional disability was held in abeyance pending the results of an evaluation for possible vocational rehabilita­tion. This award was not appealed.</p>
+                <p pgmap="251" id="b251-9">Another hearing was held in April of 1981 and on November 5, 1981, an administrative law judge filed an opinion on that hearing. The opinion held that due to the appellant’s failure to timely pay the benefits allowed by the opinion of June 11, 1980, a 20% penalty should be imposed pursuant to Section 19 (f) of the Workers’ Compensation Law, Ark. Stat. Ann. § 81-1319 (f) (Repl. 1976). The opinion also found that appellee had sustained a permanent partial disability of 35% to the body as a whole. (This was a 25% disability allowance added to the 10% allowed in the opinion of June 11, 1980:)</p>
+                <p pgmap="252" id="b252-3">Appeal was taken from the November 5, 1981, award and the Full Commission affirmed and adopted that award on February 9,1982. It is from the February, 1982, decision of the commission that this appeal comes.</p>
+                <p pgmap="252" id="b252-4">The appellant, Smith’s Store, first contends that the 55% permanent partial disability award is in error. In that regard, the appellee, Mrs. Kirker, testified that she had a partial ninth grade education, and no particularized skills. She said that her injury resulted in surgery for the removal of a herniated disc and that when her doctor released her to return to work on May 25, 1979, she did not return to work for Smith’s Store, but worked six to seven weeks as a cashier at a club, a month at a garment factory, and four days at a shoe factory, before being forced to quit in each instance by continued back and leg pains. Because of pain and discom­fort she was unable to perform certain household tasks and social activities that she was able to perform prior to the injury.</p>
+                <p pgmap="252" id="b252-5">Concerning vocational rehabilitation, Mrs. Kirker testi­fied that she had difficulty in meeting with her counselor regularly due to her physical condition and inclement weather, but they had discussed retraining for a bank teller’s position. She indicated she was pursuing a bank teller’s position at minimum wage in the Salem, Missouri, area for on-the-job training, and stated she felt she would be able to do this work within the limitations of her physical condi­tion and that hopefully the teller job would be offered to her soon.</p>
+                <p pgmap="252" id="b252-6">It is well settled that the commission’s award of permanent partial disability for loss of use of the body as a whole is to compensate the injured employee for functional or anatomical disability and loss of the use of the body to earn substantial wages, Glass v. Edens, 233 Ark. 786, 346 S.W.2d 685 (1961). The functional or anatomical loss percentage is fixed by the commission based on the medical evidence in the record, Arkansas Best Freight System, Inc. v. Brooks, 244 Ark. 191, 424 S.W.2d 377 (1968). In the instant case, Mrs. Kirker’s doctor said her anatomical loss was 10% to the body as a whole.</p>
+                <p pgmap="253" id="b253-3">The wage loss disability — or the degree to which the injury affects the ability to obtain or hold employment — is fixed by the commission based on a consideration of the employee’s age, education, experience, and other matters affecting wage loss. Oller v. Champion Parts Rebuilders, 5 Ark. App. 307, 635 S.W.2d 276(1982). In the instant case, the commission fixed Mrs. Kirker’s wage loss disability at 25% to the body as a whole.</p>
+                <p pgmap="253" id="b253-4">Appellant has argued that, because appellee may secure a teller’s position at a salary higher than her previous wage with appellant, appellee has not suffered a wage loss. This ignores the fact that 25% of the 450 weeks which the compensation law assigns to the body as a whole amounts only to 112.5 weeks, and at the time of the April, 1981, hearing the appellee had already suffered a substantial wage loss during the two years since her May, 1979, release to return to work. In addition, while appellee testified she hoped to be offered the teller’s position, there was no assurance she would actually obtain the position. Consider­ing all the evidence in the record, we cannot say the commission, having the advantage of its own superior knowledge of industrial demands, limitations, and require­ments, erred in awarding appellee 35% permanent partial disability, Oller, supra.</p>
+                <p pgmap="253" id="b253-5">The appellant also contends that the commission erred in granting the appellee a 20% penalty on the benefits not timely paid pursuant to the June 11, 1980, award. (This appeal does not involve any penalty for failure to pay the additional 25% disability fixed by the November, 1981, award.)</p>
+                <p pgmap="253(84) 254(16)" id="b253-6">The June 11, 1980, award ordered the payment of temporary total disability from injury on January 26, 1979, through the end of the healing period on May 25, 1979, and 10% permanent partial disability to the body as a whole. The first payment of any of these items was on September 22,. 1980, when appellee’s attorney was paid $500.00 by appel­lant. At that time all the items ordered paid by the June, 1980, award were much more than 15 days past due. Section 19 (f) of the Workers’ Compensation Law, Ark. Stat. Ann. § 81-1319 (f) (Repl. 1976) provides:</p>
+                <blockquote pgmap="254" id="b254-4">If any installment, payable under the terms of an award, is not paid within fifteen (15) days after it becomes due there shall be added to such unpaid installment an amount equal to twenty (20) per centum thereof ....</blockquote>
+                <p pgmap="254" id="b254-5">In view of the above statute and the fact that the payments provided by the June, 1980, award were past due before any payment was made, the commission had the authority to assess a 20% penalty on the benefits allowed by the J une, 1980, award. The penal ty, however, as fixed by the November 5, 1981, opinion of the law judge and affirmed by the commission applies only to the temporary total dis­ability and the 10% permanent partial disability. The penalty allowed by Ark. Stat. Ann. § 81-1319 (f) does not apply to medical bills and attorney fees. Model Laundry &amp; Dry Cleaning v. Simmons, 268 Ark. 770, 596 S.W.2d 337 (Ark. App. 1980); Frank J. Rooney, Inc. v. Pitts, 268 Ark. 911, 597 S.W.2d 120 (Ark. App. 1980).</p>
+                <p pgmap="254" id="b254-6">The record reveals that the entire amount owed on the June, 1980, award was listed in a writ of execution issued by the Jackson County Circuit Clerk pursuant to Ark. Stat. Ann. § 81-1325 (c) (Repl. 1976). By agreement, some pay­ments were paid on that amount and appellant argues that appellee forfeited or waived her right to ask for the penalty when she agreed to allow appellant to make those install­ment payments. This contention might warrant further consideration if appellant had timely paid the installments as agreed, but payments were not made as promised. The writ of execution was eventually levied and the award was finally paid shortly before the second hearing in April of 1981.</p>
+                <p pgmap="254(45) 255(18)" id="b254-7">Appellant calls our attention to adverse economic conditions in the farming industry between June 11, 1980, and April 8, 1981, and says that Smith’s Store, a farm supply business, was also adversely affected. Contending that both this court and the commission have the discretionary power to refuse to assess the penalty, appellant says that, in fairness and equity, it should not be assessed.</p>
+                <p pgmap="255" id="b255-4">If it is a matter of discretion, we find no abuse in that regard by the commisson and, since the evidence supports the commission’s decision, we find no reason why it should not be affirmed.</p>
+                <p pgmap="255" id="b255-5">Affirmed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="255" id="b255-7">Tom Glaze, Judge,</author>
+                <p pgmap="255" id="ARH">concurring. I agree with the result reached by the majority but for an additional reason. Appellant argued that appellee might secure a job at a higher salary than appellant paid her and that appellee therefore suffers no wage loss. The majority correctly points out that appellee has no assurance she will obtain the job she seeks. Meanwhile, appellee has lost wages for the two-year period since she was released to return to work.</p>
+                <p pgmap="255" id="b255-8">I note that even had appellee obtained a new job at the same wage as she had received previously, this fact alone would not negate entitlement to lost wages. As the Supreme Court recognized in Abbott v. C. H. Leavell &amp; Co., 244 Ark. 544, 426 S.W.2d 166 (1968), the fact that a claimant earns as much money after as before an injury does not necessarily mean that the claimant has the “capacity” to earn that much. Thus, the record, as is, supports a wage loss for the appellee. But even if appellee had acquired another job at the same or higher salary, this fact alone is not sufficient to set aside a wage loss finding by the Commission if there is other evidence to support its finding of incapacity as that term is defined in Ark. Stat. Ann. § 81-1B02 (e) (Repl. 1976), and considered in Abbott, supra.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="250" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="251" ORDERLABEL="223" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="224" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="253" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.2" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jp2_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.2" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="255" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jp2_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.5" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.6" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.7" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.5" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfK" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.7" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.9" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.7" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_254.1" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP_z" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.5" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.4" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.8" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            <area BEGIN="BL_255.1" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.6" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.5" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARH" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.9" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_255.10" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.3" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.6" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzPu" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.11" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_251.12" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.8" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.10" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.11" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.8" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS8G" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.7" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.6" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.14" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.13" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.6" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.7" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

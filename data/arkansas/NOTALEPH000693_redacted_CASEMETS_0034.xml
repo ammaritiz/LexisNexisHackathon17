@@ -1,0 +1,398 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000693_0034" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Bowman v. State">Warren BOWMAN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-1322</docketnumber>
+          <citation category="official" type="bluebook">83 Ark. App. 223</citation>
+          <citation category="parallel" type="bluebook">125 S.W.3d 833</citation>
+          <decisiondate>2003-10-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T22:26:39Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:18:02Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T10:06:25Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T10:08:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="81640590ed65361a9b34b1b99cb2bcf8" CHECKSUMTYPE="MD5" SIZE="14548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="ab545258f4b71b816ddfc03e26c90840" CHECKSUMTYPE="MD5" SIZE="56766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00130_1.tif"/>
+      </file>
+      <file ID="tiff_00131_0" MIMETYPE="image/tiff" CHECKSUM="ff32a526ff6196403f746c74ec11d7df" CHECKSUMTYPE="MD5" SIZE="41022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00131_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="6e6b871b1cd0ae9bbbd6183c3207f742" CHECKSUMTYPE="MD5" SIZE="1818549">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00130_0.jp2"/>
+      </file>
+      <file ID="jp2_00130_1" MIMETYPE="image/jp2" CHECKSUM="de972e775b1fc1920945995737c9aa29" CHECKSUMTYPE="MD5" SIZE="2663160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00130_1.jp2"/>
+      </file>
+      <file ID="jp2_00131_0" MIMETYPE="image/jp2" CHECKSUM="e6517719e9515820578683306d76d8f5" CHECKSUMTYPE="MD5" SIZE="2594205">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00131_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="d503dc9d79165de5af5fd1d38c356cfd" CHECKSUMTYPE="MD5" SIZE="20733">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00130_0.xml"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml" CHECKSUM="fcccd79959123516d7a7ad1fa0546fd4" CHECKSUMTYPE="MD5" SIZE="90048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00130_1.xml"/>
+      </file>
+      <file ID="alto_00131_0" MIMETYPE="text/xml" CHECKSUM="155d3a5723f049dbfcbc6bb36c485c2c" CHECKSUMTYPE="MD5" SIZE="60053">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00131_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="223" lastpage="225">
+              <court id="b259-4" pgmap="259">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="AtE" pgmap="259">CA CR 02-1322</docketnumber>
+              <citation id="AIf" pgmap="259">125 S.W.3d 833</citation>
+              <parties id="b259-3" pgmap="259">Warren BOWMAN v. STATE of Arkansas</parties>
+              <decisiondate id="b259-5" pgmap="259">Opinion delivered October 22, 2003</decisiondate>
+              <judges id="b261-9" pgmap="261">Pittman and Griffen, JJ., agree.</judges>
+              <attorneys id="b259-10" pgmap="259">William R. Simpson, Jr., Public Defender, by: Clint Miller, for appellant.</attorneys>
+              <attorneys id="b259-11" pgmap="259">Mike Beebe, Att’y Gen., by: Laura Shue, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pA9Y" pgmap="259">Linker Hart, Judge.</author>
+                <p id="AT_" pgmap="259(24) 260(50)">At a bench trial, appellant, Warren Bowman, was convicted of felony indecent exposure and sentenced to 120 days’ imprisonment in the Pulaski County jail, six years’ probation, a fine of $500, and 100 hours of community service. On appeal, he argues that the circuit court erred in denying his motion for dismissal because the victim’s in-court identification of him as the perpetrator was so tainted by pretrial occurrences that it was unreliable. We affirm.</p>
+                <p id="b260-5" pgmap="260">The State’s evidence established that on July 23, 2001, the eleven-year-old victim, Latasha Williams, was riding a bicycle at her apartment complex when appellant, whom she identified in court without objection, stopped his vehicle and told her not to put her foot on the ground while riding her bicycle because she would burn a hole in the bottom of her shoe. He drove off, and later, as Williams was putting her bicycle away, appellant pulled up beside her and told her to come over to him because he had something to ask her. According to Williams, appellant exposed his penis when she approached him. He then quickly drove away in his truck.</p>
+                <p id="b260-6" pgmap="260">After reporting appellant’s conduct to her mother, Debra Whittecar, Williams and Whittecar searched for appellant. They went to the apartment manager, Brenda Winemiller, and described the person who had exposed himself. Winemiller stated that the description fit appellant, who previously had worked for her and had visited with her earlier that day. Whittecar called the police, who took their report and left. Whittecar later drove with Will­iams over to an apartment complex where Winemiller said appel­lant lived. After Williams identified a truck as the one appellant had been driving, Whittecar again called the police. Observing the police confront appellant, Williams told her mother that appellant was the perpetrator. The police asked Williams if this was the person who exposed himself, and after telling the police that it was, appellant was arrested.</p>
+                <p id="b260-7" pgmap="260(86) 261(23)">Acknowledging that a motion to dismiss is a challenge to the sufficiency of the evidence, appellant argues on appeal that his conviction should be dismissed because Williams’s in-court iden­tification was unreliable. He asserts that the identification was unreliable because Williams’s encounter with the perpetrator was brief. Appellant also notes that Williams recognized him and the truck only after she and her mother conducted a search at an apartment complex to which she was directed by Winemiller. Further, he states that Williams’s identification of him occurred after her mother located appellant’s truck and called the police, and Williams saw, from a distance, appellant undergoing questioning by a police officer.</p>
+                <p id="b261-5" pgmap="261">
+                   Appellant does not make a claim of constitutional infirmity in the eyewitness identification procedures; instead, appellant only challenges the reliability of Williams’s identifica­tion. Absent an allegation of constitutional infirmity in the eye­witness identification procedures, the reliability of Williams’s identification of appellant was a question for the factfinder. Phillips v. State, 344 Ark. 453, 40 S.W.3d 778 (2001).</p>
+                <p id="b261-6" pgmap="261">
+                   For instance, in Stipes v. State, 315 Ark. 719, 870 S.W.2d 388 (1994), Stipes questioned the reliability of the victim’s identification of him as the perpetrator. In considering his argu­ment, the court stated that “when a witness makes a positive identification of a suspect, any challenge to the reliability of the identification becomes a matter of credibility for the factfinder to determine,” and “[t]he factfinder’s decision will not be disturbed on appeal when there is substantial evidence to support it.” Stipes, 315 Ark. at 721, 870 S.W.2d at 389. Further, the court stated that “unequivocal testimony identifying the appellant as the culprit is sufficient to sustain a conviction.” Id. The court affirmed Stipes’s convictions, concluding that the victim’s unequivocal pretrial and in-court identifications of Stipes as the perpetrator constituted sufficient evidence.</p>
+                <p id="b261-7" pgmap="261">
+                   Here, Williams unequivocally identified appellant as the perpetrator. Applying the Stipes analysis, we conclude that Williams’s unequivocal testimony was sufficient evidence to sus­tain appellant’s conviction.</p>
+                <p id="b261-8" pgmap="261">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="259" ORDERLABEL="223" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.2" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="224" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jp2_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.2" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="261" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00131_0"/>
+        <fptr FILEID="jp2_00131_0"/>
+        <fptr FILEID="alto_00131_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_261.4" BETYPE="IDREF" FILEID="alto_00131_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-3" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtE" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.4" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.7" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.6" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.7" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            <area BEGIN="BL_261.1" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.5" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.9" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIf" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.8" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.7" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.6" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b261-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_261.5" BETYPE="IDREF" FILEID="alto_00131_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.13" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.14" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT_" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.16" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_259.17" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_260.1" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pA9Y" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.15" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000719_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Ruiz v. State">Paul RUIZ v. STATE of Arkansas</name>
+          <docketnumber>CA CR 82-2</docketnumber>
+          <citation category="official" type="bluebook">5 Ark. App. 151</citation>
+          <citation category="parallel" type="bluebook">633 S.W.2d 399</citation>
+          <decisiondate>1982-05-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T19:04:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:25Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T14:36:31Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T14:37:19Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="dd77599667b5d8be027dd5fdffbf3d01" CHECKSUMTYPE="MD5" SIZE="20714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00086_0.tif"/>
+      </file>
+      <file ID="tiff_00086_1" MIMETYPE="image/tiff" CHECKSUM="b08f37ad67c8e6eac9168ab292d5b928" CHECKSUMTYPE="MD5" SIZE="46856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00086_1.tif"/>
+      </file>
+      <file ID="tiff_00087_0" MIMETYPE="image/tiff" CHECKSUM="059ee7db3752c54fb91b0393fde3c0cb" CHECKSUMTYPE="MD5" SIZE="52410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00087_0.tif"/>
+      </file>
+      <file ID="tiff_00087_1" MIMETYPE="image/tiff" CHECKSUM="949816171eed79e9ccf29221c5d4e844" CHECKSUMTYPE="MD5" SIZE="28038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00087_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="297f86fd9b1763e18f0eaf79977ed727" CHECKSUMTYPE="MD5" SIZE="1909513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00086_0.jp2"/>
+      </file>
+      <file ID="jp2_00086_1" MIMETYPE="image/jp2" CHECKSUM="862c8d2d78c07ecb08e892511d349bb9" CHECKSUMTYPE="MD5" SIZE="2567721">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00086_1.jp2"/>
+      </file>
+      <file ID="jp2_00087_0" MIMETYPE="image/jp2" CHECKSUM="b8dae251b49ea36e5c9f8c1c7df9449e" CHECKSUMTYPE="MD5" SIZE="2663255">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00087_0.jp2"/>
+      </file>
+      <file ID="jp2_00087_1" MIMETYPE="image/jp2" CHECKSUM="17fcb7911bf23b6e28db434b24ce88c0" CHECKSUMTYPE="MD5" SIZE="2027537">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00087_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="4585df31abb4c92c5e4d9f495374a84d" CHECKSUMTYPE="MD5" SIZE="30824">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00086_0.xml"/>
+      </file>
+      <file ID="alto_00086_1" MIMETYPE="text/xml" CHECKSUM="6cb3a7e6e0c945bb24652173d0a0dc34" CHECKSUMTYPE="MD5" SIZE="82683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00086_1.xml"/>
+      </file>
+      <file ID="alto_00087_0" MIMETYPE="text/xml" CHECKSUM="991112febaddf77c0967c7482dab70ea" CHECKSUMTYPE="MD5" SIZE="89463">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00087_0.xml"/>
+      </file>
+      <file ID="alto_00087_1" MIMETYPE="text/xml" CHECKSUM="cb64263bcad321b8161a00b289c5277e" CHECKSUMTYPE="MD5" SIZE="44569">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00087_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="151" lastpage="154">
+              <court id="b171-7" pgmap="171">Court of Appeals of Arkansas</court>
+              <docketnumber id="b171-6" pgmap="171">CA CR 82-2</docketnumber>
+              <citation id="AEy" pgmap="171">633 S.W.2d 399</citation>
+              <parties id="b171-5" pgmap="171">Paul RUIZ v. STATE of Arkansas</parties>
+              <decisiondate id="AYX" pgmap="171">Opinion delivered May 26, 1982</decisiondate>
+              <attorneys id="b171-12" pgmap="171">Lessenberry ir Carpenter, by; Thomas M. Carpenter, for appellant.</attorneys>
+              <attorneys id="b172-5" pgmap="172">Steve Clark, Atty. Gen., by: Leslie M. Powell, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b172-6" pgmap="172">Tom Glaze, Judge.</author>
+                <p id="AVO" pgmap="172">This is a criminal case in which appellant’s sole issue on appeal is that the trial court erred in failing to grant a directed verdict on the offense of escape in the first degree. A jury found him guilty of two crimes, viz., (1) escape in the first degree, and (2) kidnapping.</p>
+                <p id="b172-7" pgmap="172">The record reflects that the charges against appellant arose out of a prisoners’ takeover of the maximum security building at the Cummins Unit of the Arkansas Department of Correction on January 1, 1979. Appellant’s contentions are two-fold: (1) There is no evidence that appellant permitted other prisoners to escape; and (2) There is no evidence to support the proposition that he escaped from the correctional facility. Aside from appellant’s second con­tention, we believe the evidence was sufficient for the jury to find he aided other prisoners to escape.</p>
+                <p id="b172-8" pgmap="172">Escape in the first degree is defined in Ark. Stat. Ann. § 41-2810 (1) (a) and (b) (Repl. 1977) as follows:</p>
+                <blockquote id="b172-9" pgmap="172">First degree escape. — (1) A person commits the offense of first degree escape if:</blockquote>
+                <blockquote id="b172-10" pgmap="172">(a) aided by another person actually present, he uses or threatens to use physical force in escaping from custody or a correctional facility; or</blockquote>
+                <blockquote id="b172-11" pgmap="172">(b) he uses or threatens to use a deadly weapon in escaping from custody or from a correctional facility.</blockquote>
+                <p id="b172-12" pgmap="172(107) 173(116)">In addition to the State’s charge that appellant violated § 41-2810 as a principal, the trial court also instructed the jury to consider whether appellant was an accomplice to an escape. Under our Criminal Code, there is no distinction between principals and accomplices insofar as criminal liability is concerned!. Parker v. State, 265 Ark. 315, 325, 578 S.W.2d 206 (1979), and Ruiz v. State, 265 Ark. 875, 582 S.W.2d 915 (1979). Concerning the issue on whether Appel­lant was an accomplice, the proof at trial showed that ten prisoners escaped the correctional facility during the occur­rence of the events that led to the criminal charges filed against appellant. To convict appellant as an accomplice to first degree escape, the State was required to prove he aided, agreed to aid or attempted to aid another person to escape as that crime is defined under § 41-2810, supra. When we view the evidence in the light most favorable to the State, as we must do, we have no doubt that there was substantial evidence to support the jury’s verdict. See Chaviers v. State, 267 Ark. 6, 588 S.W.2d 434 (1979), and Harris v. State, 262 Ark. 680, 561 S.W.2d 69 (1978). A review of the evidence, we believe, especially supports the view that appellant acted as an accomplice to the escape by other inmates.</p>
+                <p id="b173-4" pgmap="173">The uncontradicted evidence shows that a prison in­mate named Johnny Wiggins precipitated the events which transpired at Cummins on January 1,1979. Wiggins gained entrance, by force, into the correctional facility control room in the maximum security building, and subsequently, other inmates, including appellant, were released from their cells. The inmates then caused all of the correction officers in the building, six in number, to be locked in one cell. At a later time, appellant came to this cell to retrieve one of the correctional officers and proceeded to take the officer with him to the control room. While in the control room, appellant threatened the officer with a homemade knife and told him to call the officers outside the facility and to ask them to “back off. ’ ’ The officer, who was held as a hostage by appellant, testified that appellant intended to kill him if the officers outside attempted to come in. The proof is clear that appellant had control of an officer and the controls for the entire maximum security building.</p>
+                <p id="b173-5" pgmap="173">At this point in time, the warden of the Cummins Unit appeared on the scene and learned of the hostage situation. He and eleven other officers armed themselves with shotguns, rifles and pistols and proceeded to secure and retake control of the building.</p>
+                <p id="b173-6" pgmap="173(45) 174(107)">Sometime during these described events, ten prisoners escaped the Cummins facility. Although there was no direct proof that appellant released these ten inmates from their cells, the record is replete with evidence that shows appellant held control of the entire maximum security building at the time the prisoners were in flight. Because appellant had commandeered the control room of the building, he caused six correction officers to be held hostage while twelve more officers were held at bay outside the building. In sum, appellant was responsible for fully occupying the time of eighteen officers while ten prisoners were fleeing the Cum-­mins Correctional Facility. It is difficult to conceive of another more realistic set of facts than that posed here where one person could have done more to aid others in an escape. Based on these facts, we hold that the jury’s verdict is supported by substantial evidence and should be affirmed.</p>
+                <p id="b174-4" pgmap="174">Since the evidence clearly supports appellant’s convic­tion as an accomplice to first degree escape and his criminal liability is the same as if he were a principal, it is unnecessary to discuss the ancillary issue concerning whether appellant escaped. Therefore, we affirm for the reasons stated above.</p>
+                <p id="b174-5" pgmap="174">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="171" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="172" ORDERLABEL="152" TYPE="page">
+        <fptr FILEID="tiff_00086_1"/>
+        <fptr FILEID="jp2_00086_1"/>
+        <fptr FILEID="alto_00086_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.1" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="173" ORDERLABEL="153" TYPE="page">
+        <fptr FILEID="tiff_00087_0"/>
+        <fptr FILEID="jp2_00087_0"/>
+        <fptr FILEID="alto_00087_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_173.3" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="174" ORDERLABEL="154" TYPE="page">
+        <fptr FILEID="tiff_00087_1"/>
+        <fptr FILEID="jp2_00087_1"/>
+        <fptr FILEID="alto_00087_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_174.2" BETYPE="IDREF" FILEID="alto_00087_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.9" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.8" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.3" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.7" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.4" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.5" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVO" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.5" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            <area BEGIN="BL_172.6" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYX" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.10" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEy" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.8" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.5" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.10" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.17" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.12" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            <area BEGIN="BL_173.1" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.4" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.11" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.6" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            <area BEGIN="BL_174.1" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.7" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.9" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.4" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

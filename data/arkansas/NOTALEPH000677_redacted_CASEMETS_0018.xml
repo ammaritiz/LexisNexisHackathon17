@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000677_0018" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Swan v. State">Sammy SWAN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-795</docketnumber>
+          <citation category="official" type="bluebook">94 Ark. App. 115</citation>
+          <citation category="parallel" type="bluebook">226 S.W.3d 6</citation>
+          <decisiondate>2006-02-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T18:26:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:12Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T18:44:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T18:46:31Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="9ffdda684e3bb26269bc211b355525fd" CHECKSUMTYPE="MD5" SIZE="16884">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="ce3644e789920afa733ac64e12c3ed26" CHECKSUMTYPE="MD5" SIZE="37496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="baa05129f6853cba20b8db436d0bcf9a" CHECKSUMTYPE="MD5" SIZE="59976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="d1ad3b1ac34f4554d9fd53f454c0fae4" CHECKSUMTYPE="MD5" SIZE="56532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00072_1.tif"/>
+      </file>
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="2cad088c51b8784fc448875773f40e33" CHECKSUMTYPE="MD5" SIZE="58394">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00073_0.tif"/>
+      </file>
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="cea7d99f02b7ad70299357210f4f08f7" CHECKSUMTYPE="MD5" SIZE="59080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="86a3375ad2a59da5cdc902ed3423aefc" CHECKSUMTYPE="MD5" SIZE="28428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00074_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="a63cb976e26c9b0088a7034adb7a4e39" CHECKSUMTYPE="MD5" SIZE="1810744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="1a699aa145bc692416728f666a946c3d" CHECKSUMTYPE="MD5" SIZE="2088885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="0f6133f9fe6a1b7a9720c37988a7d113" CHECKSUMTYPE="MD5" SIZE="2625494">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="ad1eafc30adf89cbb345a16a3e1cbe1e" CHECKSUMTYPE="MD5" SIZE="2549610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00072_1.jp2"/>
+      </file>
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="7a86c802020a02bd7f356fc49a85481c" CHECKSUMTYPE="MD5" SIZE="2567253">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00073_0.jp2"/>
+      </file>
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="b2353dc3d59edd5433d713ced4f9d664" CHECKSUMTYPE="MD5" SIZE="2535429">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="bb7a36eca238b4e3291385cc298c00e7" CHECKSUMTYPE="MD5" SIZE="2122598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00074_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="dc6550bd9658835bd222ce68b0fe893a" CHECKSUMTYPE="MD5" SIZE="26594">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="9d853728545cbb00c063cb64054fbe94" CHECKSUMTYPE="MD5" SIZE="63290">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="c4678b7e9a212b53b7cf323e8daa6a11" CHECKSUMTYPE="MD5" SIZE="103345">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="c9a1a9f1d966a7eaaa40946a4bd22b0b" CHECKSUMTYPE="MD5" SIZE="99291">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00072_1.xml"/>
+      </file>
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="928ac050475b62c839050b87ce05eb43" CHECKSUMTYPE="MD5" SIZE="102724">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00073_0.xml"/>
+      </file>
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="d4237f69cd9493c881c43f6091ddd61b" CHECKSUMTYPE="MD5" SIZE="102006">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="0d091e05e8bbb22acbf7fb36ffa32bfc" CHECKSUMTYPE="MD5" SIZE="44252">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00074_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="115" lastpage="121">
+              <court pgmap="141" id="b141-10">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="141" id="b141-8">CA CR 04-795</docketnumber>
+              <citation pgmap="141" id="b141-9">226 S.W.3d 6</citation>
+              <parties pgmap="141" id="b141-7">Sammy SWAN v. STATE of Arkansas</parties>
+              <decisiondate pgmap="141" id="A3a">Opinion delivered February 1, 2006</decisiondate>
+              <judges pgmap="147" id="b147-8">Gladwin and Bird, JJ., agree.</judges>
+              <attorneys pgmap="142" id="b142-9">William R. Simpson Jr., Public Defender, by; Clint Miller, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="142" id="b142-10">Mike Beebe, Ark. Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="142" id="A4X">Larry D. Vaught, Judge.</author>
+                <p pgmap="142" id="A_I">Following a bench trial in Pu­laski County Circuit Court, appellant Sammy Swan was convicted of cocaine possession and use of drug paraphernalia in the course of and furtherance of a felony drug offense and was sentenced to two six-year sentences to run concurrently. On appeal, he argues that the trial court erred in admitting into evidence two plastic baggies of cocaine found on his person; a crack pipe found in the back seat of a vehicle in which he was a passenger; and a statement he made immediately after he had been arrested. We find no error and affirm.</p>
+                <p pgmap="142(130) 143(112)" id="b142-12">On November 13, 2003, Sergeant Terry Kuykendall was on routine patrol in North Little Rock. While driving through the back parking lot of the Sportsman’s Inn around four o’clock in the morning, he encountered a parked vehicle with three occupants. He approached the car to “make sure everything was okay” and to “check and make sure they were supposed to be on the property.” Swan was sitting in the back seat of the car, and as Sergeant Kuykendall approached the vehicle, he noticed Swan “making movements.” Sergeant Kuykendall testified that he “couldn’t tell exactly what [Swan] was doing[, but] it appeared that he was trying to put something down in the side of the seat.” Sergeant Kuyk-­endall asked everyone to get out of the car and called for back-up units. Sergeant Kuykendall admitted that the occupants were not free to leave at this time. He asked the driver of the vehicle for consent to search. After receiving consent, Sergeant Kuykendall searched the car and found a crack pipe in the back seat in the area where Swan had been sitting. Sergeant Kuykendall testified that while he was arresting Swan, Swan spontaneously stated that “the pipe’s mine.” Sergeant Kuykendall also stated that, after he had arrested Swan and as he was talking to him, Sergeant Kuykendall noticed something in Swan’s mouth. He asked Swan to open his mouth, and when he did, the officer found two baggies of cocaine inside his mouth.</p>
+                <p pgmap="143" id="b143-5">On March 15, 2004, Swan stood trial withjudge Barry Sims as the trier-of-fact. The trial proceeded with the testimony from two State witnesses — Sergeant Kuykendall and a forensic chemist, Felisia Brown. During Sergeant Kuykendall’s testimony, Swan’s counsel objected to the introduction into evidence of the pipe found in the backseat of the car and the baggies found in Swan’s mouth because the officer did not have probable cause to seize or detain him. The court overruled the objection. After the State rested, the defense rested without presenting a case. The judge stated that he found Swan guilty and sentenced him to six years’ imprisonment on both offenses to run concurrently. On appeal, Swan maintains that the trial court erred in admitting into evi­dence: (1) the crack pipe found in the vehicle; (2) the two plastic baggies found on his person; and (3) the statement he made to police immediately after he was arrested.</p>
+                <p pgmap="143" id="b143-6">As an introductory matter, Swan never filed a formal motion to suppress with regard to the crack pipe, baggies, or statement. He first objected to the evidence at trial during Sergeant Kuykendall’s testimony. Arkansas Rule of Criminal Procedure 16.2(b) requires that a motion to suppress be filed no later than ten days before the trial date. The court may entertain a motion to suppress at a later time for good cause. However, Rule 16.2 does not mandate the denial of every motion that is untimely. Kimble v. State, 331 Ark. 155, 959 S.W.2d 43 (1998). In the absence of a timely objection by the State during trial, the motion to suppress was properly before the trial court, and the trial court’s ruling is properly preserved for our review. See Hilton v. State, 80 Ark. App. 401, 96 S.W.3d 757 (2003).</p>
+                <p pgmap="143(33) 144(53)" id="b143-7">In reviewing a trial court’s denial of a motion to suppress evidence, we conduct a de novo review based on the totality of the circumstances, reviewing findings of historical fact for clear error and determining whether those facts give rise to reasonable suspi­cion or probable cause, giving due weight to inferences drawn by the trial court. Baird v. State, 357 Ark. 508, 182 S.W.3d 136 (2004). We defer to the credibility determinations made by the trial judge when weighing and resolving facts and circumstances. Id.</p>
+                <p pgmap="144" id="b144-5">In order to determine whether the trial court erred in its denial of Swan’s motion with regard to the crack pipe found in the vehicle in which he was a passenger, we must first address the legality of the initial encounter between Sergeant Kuykendall and Swan. Arkansas Rule of Criminal Procedure 2.2 allows a law enforcement officer to “request any person to furnish information or otherwise cooperate in the investigation or prevention of crime.” In Adams v. State, 26 Ark. App. 15, 758 S.W.2d 709 (1988), an officer approached a parked car to investigate after noting that the car was parked in a dark lot, without the motor running despite the cold weather, and that there had been recent burglaries in the neighborhood. After approaching and asking to see the driver’s license and registration, the officer smelled mari­juana and asked the occupants to exit the vehicle. We held that</p>
+                <blockquote pgmap="144" id="b144-6">under the provisions of Ark. R. Crim. P. 2.2(a), [the officer] was authorized to request identification information from appellant and the other occupant of the car ... as a part of his duty to investigate and prevent crime. We think this was done without a “stop” as referred to in Ark. R. Crim. P. 3.1. Then, when the car window was rolled down and [the officer] smelled marijuana, he had a “reasonable suspicion” ... to detain them for a reasonable period under Ark. R. Crim. P. 3.1.</blockquote>
+                <p pgmap="144" id="b144-7">Id. at 21—22, 758 S.W.2d at 712; see also Frette v. City of Springdale, 331 Ark. 103, 959 S.W.3d 734 (1998) (noting the three categories of police-citizen encounters).</p>
+                <p pgmap="144(102) 145(46)" id="b144-8">
+                   In the present case, Sergeant Kuykendall’s initial ap­proach to investigate was valid under Ark. R. Crim. P. 2.2; however, when the officer ordered Swan and the other occupants out of the vehicle, the stop converted to one that required the officer to have a reasonable, articulable suspicion that a crime had been or would have been committed. Swan contends that in ordering him out of the car and not allowing him to leave the premises, Sergeant Kuykendall illegally detained him without probable cause or reasonable suspicion and that this illegal seizure confers standing upon him to challenge all evidence that derived from the illegal detention unless properly attenuated. However, it is not necessary for us to evaluate whether Sergeant Kuykendall had reasonable suspicion to support ordering Swan out of the vehicle because we hold that Swan does not have standing to contest the search of the vehicle.</p>
+                <p pgmap="145" id="b145-5">Our supreme court has held that an appellant must have standing to assert Fourth Amendment rights because those rights are personal in nature. See Dixon v. State, 327 Ark. 105, 937 S.W.2d 642 (1997). Furthermore, our supreme court has been constant in its holdings that a passenger in a vehicle must have an expectation of privacy in the searched vehicle in order to have standing to contest the search on Fourth Amendment grounds. See Stanley v. State, 330 Ark. 642, 956 S.W.2d 170 (1997); McCoy v. State, 325 Ark. 155, 925 S.W.2d 391 (1996); Rockett v. State, 319 Ark. 335, 891 S.W.2d 366 (1995); Littlepage v. State, 314 Ark. 361, 863 S.W.2d 276 (1993). Normally, this expectation of privacy must derive from a possessory interest in the passenger that was conferred by the vehicle’s owner or someone with the authority to grant possession to the passenger. State v. Bowers, 334 Ark. 447, 976 S.W.2d 379 (1998). However, one exception to this rule is that passengers have standing to contest a search of an automobile immediately following an illegal stop because passengers have the right to assert their own Fourth Amendment rights, independent of the owner or driver of the vehicle, to challenge the initial stop or a seizure of their person. Id. at 450-51, 976 S.W.2d at 381; see also Dixon, 327 Ark. at 111, 937 S.W.2d at 646.</p>
+                <p pgmap="145(160) 146(26)" id="b145-6">
+                   In this case, Swan relies on State v. Bowers to argue that he has standing to contest the search of the vehicle because Sergeant Kuykendall illegally seized him when he ordered Swan out of the car. Our supreme court in Bowers held that a passenger has standing to challenge a vehicle search that is the direct result of an illegal stop. Bowers, 334 Ark. at 451—52, 976 S.W.2d at 382. However, Bowers is distinguishable from the present case because here Sergeant Kuykendall’s initial approach was valid under Ark. R. Crim. P. 2.2 and because, although Swan may have been illegally seized when the officer ordered him out of the vehicle, the driver of the car — and the person with a possessory interest in it — gave consent to the vehicle search independent of any violation of Swan’s rights. In Bowers, there was no consent to search and the initial traffic stop of the vehicle was illegal. Therefore, the passen­ger in Bowers had standing to contest the search of the vehicle because, but for the illegal stop and seizure, the search would not have occurred.</p>
+                <p pgmap="146" id="b146-5">
+                   Swan’s next argument on appeal is that the baggies of cocaine found on his person should have been suppressed; how­ever, once Sergeant Kuykendall found the crack pipe in the backseat of the vehicle, he had probable cause to arrest Swan. An officer may arrest a person without a warrant if he has reasonable cause to believe that the person has committed a felony or any violation of law in the officer’s presence. Ark. R. Crim. P. 4.1. Reasonable cause exists where facts and circumstances, within the arresting officer’s knowledge and of which he has reasonably trustworthy information, are sufficient within themselves to war­rant a man of reasonable caution to believe that an offense has been committed by the person to be arrested. Thornton v. State, 85 Ark. App. 31, 144 S.W.3d 766 (2004). Where an officer has the probable cause to arrest pursuant to Rule 4.1, he may validly conduct a search incident to arrest of either the person or the area within his immediate control. Id. at 37, 144 S.W.3d at 770.</p>
+                <p pgmap="146" id="b146-6">Here, a crack pipe was found in the vehicle’s back seat where Swan was sitting. Sergeant Kuykendall testified that it was his belief that Swan was attempting to stuff something between the seats. Based on this evidence, the officer had reasonable cause to believe that Swan possessed the crack pipe found in his seat, and the arrest was proper. After the valid arrest, the officer could search Swan’s person, which he did. Therefore, the search of Swan’s mouth resulting in the production of two baggies of crack cocaine was valid because it was a search incident to arrest, and the trial court did not err in allowing the introduction of the baggies into evidence during the criminal trial.</p>
+                <p pgmap="146(115) 147(55)" id="b146-7">
+                   Swan’s final argument is that the statement he made to Sergeant Kuykendall — “the pipe’s mine” — should have been suppressed because he had not been read a Miranda warning. The evidence at trial established that Swan blurted out the statement either as he was being arrested or right afterward. Notwithstanding a suspect’s entitlement to Miranda warnings, a spontaneous state­ment is admissible because the statement is neither compelled nor the result of coercion and thus does not offend his Fifth Amend­ment privilege against self-incrimination. Stone v. State, 321 Ark. 46, 900 S.W.3d 515 (1995). In Scherrer v. State, 294 Ark. 287, 742 S.W.2d 884 (1988), our supreme court stated that determining if a defendant’s custodial statement was spontaneous requires analysis of whether the statement was made in the context of police interrogation. The Scherrer court defined police interrogation as “simply direct or indirect questioning put to the incustodial defendant by the police with the purpose of eliciting.a statement from the defendant.” Id. at 291, 742 S.W.2d at 886.</p>
+                <p pgmap="147" id="b147-5">In the present case, Sergeant Kuykendall testified that Swan spontaneously blurted out the statement after he was arrested. Although he had not been given a Miranda warning, no officer was interrogating him at the time the statement was made. Therefore, the statement was properly admitted into evidence.</p>
+                <p pgmap="147" id="b147-6">Because the trial court did not err in allowing the State to introduce into evidence the crack pipe found in the vehicle, the two baggies of cocaine found in Swan’s mouth, or the spontaneous statement Swan made during his arrest, we affirm.</p>
+                <p pgmap="147" id="b147-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="141" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="145" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="146" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.2" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.7" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.10" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.9" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_I" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.10" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_142.11" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.7" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.5" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.6" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.4" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.7" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            <area BEGIN="BL_145.1" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.6" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_147.1" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.4" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3a" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.11" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.5" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            <area BEGIN="BL_146.1" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.4" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4X" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.9" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-10" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.8" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.5" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-12" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.12" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

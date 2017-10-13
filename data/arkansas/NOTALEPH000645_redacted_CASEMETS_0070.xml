@@ -1,0 +1,572 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000645_0070" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Phillips v. State">Earl Edward PHILLIPS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 85-37</docketnumber>
+          <citation category="official" type="bluebook">15 Ark. App. 372</citation>
+          <citation category="parallel" type="bluebook">695 S.W.2d 388</citation>
+          <decisiondate>1985-09-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:38:47Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:37:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:39:05Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="33be0ed812e1285ab2e70883ef5d3e74" CHECKSUMTYPE="MD5" SIZE="7292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00201_1.tif"/>
+      </file>
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="193a23b21ae57851baf7a36d1b7e76c4" CHECKSUMTYPE="MD5" SIZE="9032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00202_0.tif"/>
+      </file>
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="33b3fa192432dc8fd59c7c17b6b04f20" CHECKSUMTYPE="MD5" SIZE="54728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00202_1.tif"/>
+      </file>
+      <file ID="tiff_00203_0" MIMETYPE="image/tiff" CHECKSUM="1912396ae2283d4e4f1f8ed9471670da" CHECKSUMTYPE="MD5" SIZE="50028">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00203_0.tif"/>
+      </file>
+      <file ID="tiff_00203_1" MIMETYPE="image/tiff" CHECKSUM="db5ad131206cbc4a68deaafb400b1830" CHECKSUMTYPE="MD5" SIZE="50046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00203_1.tif"/>
+      </file>
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="11871fb7c565f51ede7b6371a984cf63" CHECKSUMTYPE="MD5" SIZE="56624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="45ff0be25cd0faf6853c97c5eeb29447" CHECKSUMTYPE="MD5" SIZE="25760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00204_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="08f2d75ee3d1b8467d97a4eab9cd8157" CHECKSUMTYPE="MD5" SIZE="1211517">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00201_1.jp2"/>
+      </file>
+      <file ID="jp2_00202_0" MIMETYPE="image/jp2" CHECKSUM="3cb91e71bc6f377b502af7bb56d0d281" CHECKSUMTYPE="MD5" SIZE="1398645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00202_0.jp2"/>
+      </file>
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="fde1936501d0fc67e2035cc4dcd83bc5" CHECKSUMTYPE="MD5" SIZE="2645424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00202_1.jp2"/>
+      </file>
+      <file ID="jp2_00203_0" MIMETYPE="image/jp2" CHECKSUM="5e0e20ca1375f97a9f1a6df2e44a3ff5" CHECKSUMTYPE="MD5" SIZE="2677032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00203_0.jp2"/>
+      </file>
+      <file ID="jp2_00203_1" MIMETYPE="image/jp2" CHECKSUM="046b682409eddaea3f8081cc35815ed3" CHECKSUMTYPE="MD5" SIZE="2588326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00203_1.jp2"/>
+      </file>
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="98d428309214323237f3cbd6183772c0" CHECKSUMTYPE="MD5" SIZE="2695092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="e778062661ae907eab9f52116fcb44fe" CHECKSUMTYPE="MD5" SIZE="1915765">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00204_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="d29b854ab8e38aa3f5b1ac65a96ec6db" CHECKSUMTYPE="MD5" SIZE="8469">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00201_1.xml"/>
+      </file>
+      <file ID="alto_00202_0" MIMETYPE="text/xml" CHECKSUM="3bfc7fed0e62d6375deb3fc408611547" CHECKSUMTYPE="MD5" SIZE="10834">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00202_0.xml"/>
+      </file>
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="217e6a9ff7db479f000d11bfbf98b2de" CHECKSUMTYPE="MD5" SIZE="92188">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00202_1.xml"/>
+      </file>
+      <file ID="alto_00203_0" MIMETYPE="text/xml" CHECKSUM="2be9b5d84aba11b330c72eb5d0867eae" CHECKSUMTYPE="MD5" SIZE="86797">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00203_0.xml"/>
+      </file>
+      <file ID="alto_00203_1" MIMETYPE="text/xml" CHECKSUM="6f6c4ae6c8cec36be309e265ad8c9b73" CHECKSUMTYPE="MD5" SIZE="84177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00203_1.xml"/>
+      </file>
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="556a4a861f29ce6bccfe24fdd4fd5373" CHECKSUMTYPE="MD5" SIZE="98017">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="d09406ff1351250f041448fc763cc342" CHECKSUMTYPE="MD5" SIZE="42321">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00204_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0070" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="378" firstpage="372">
+              <court pgmap="402" id="b402-4">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="402" id="AUDB">CA CR 85-37</docketnumber>
+              <citation pgmap="402" id="AM9">695 S.W.2d 388</citation>
+              <parties pgmap="402" id="b402-3">Earl Edward PHILLIPS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="402" id="b402-5">Opinion delivered September 4, 1985</decisiondate>
+              <judges pgmap="408" id="b408-7">Cracraft, C.J., and Glaze, J., agree.</judges>
+              <attorneys pgmap="403" id="b403-14">William R. Simpson, Jr., Public Defender, by: Deborah R. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="403" id="b403-16">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="403" id="b403-18">Melvin Mayfield, Judge.</author>
+                <p pgmap="403(4) 404(78)" id="A5">Appellant was convicted of aggravated robbery and sentenced to 20 years in the Arkansas Department of Correction. He argues on appeal (1) that the trial court erred in refusing to grant his motion to dismiss since the state did not comply with the provisions of the Interstate Agreement on Detainers and, (2) that the trial court erred in admitting into evidence certain statements made by appellant to an officer of the Federal Bureau of Investigation. We do not agree with either contention.</p>
+                <p pgmap="404" id="b404-4">By an information filed on September 23, 1982, appellant was charged with the June 6, 1982, robbery of a Little Rock convenience store, and a bench warrant was issued for his arrest. At the time the warrant was issued, the appellant was in custody in Indiana on other charges. Extradition proceedings were begun, and on October 12,1982, the Pulaski County Sheriffs Office was notified that appellant had signed a waiver of extradition. Preparations were made to take him into Arkansas custody but Indiana would not release him from a reception center so it was necessary for the Arkansas authorities to wait until appellant was placed in a permanent facility.</p>
+                <p pgmap="404" id="b404-5">In February of 1983, Arkansas authorities located the unit of the Indiana prison system where appellant was confined and arranged a pickup date of April 18, 1983, but after getting to within 100 miles of the facility, they were notified that appellant had filed a writ of habeas corpus and that the Indiana authorities would not release him until 30 days after the habeas corpus hearing. On June 13,1983, Arkansas authorities were once again stymied in their effort to take appellant into Arkansas custody. This appears to have resulted from problems raised by an attorney plus difficulty in determining what had occurred in the habeas corpus hearing. Appellant was finally paroled to the Arkansas detainer on December 21,1983, but he fought extradi­tion and new proceedings were necessary. He was returned to Arkansas on May 19, 1984, and was tried on October 8, 1984.</p>
+                <p pgmap="404" id="b404-6">In December of 1982, appellant prepared a motion for speedy trial and sent it to the office of the Pulaski County Circuit Clerk. It bore the correct circuit court number but was styled for municipal court and was therefore forwarded to municipal court. It was not until September 20,1983, that it was finally filed in the Pulaski Circuit Clerk’s office.</p>
+                <p pgmap="405" id="b405-3">After being returned to Arkansas, but prior to trial, appel­lant sought dismissal of the charges on the grounds that he had not been tried within 180 days of his motion for a speedy trial pursuant to the Interstate Agreement on Detainers (IAD), Ark. Stat. Ann. §§ 43-3201 through 3208 (Repl. 1977). Article III of the I AD provides:</p>
+                <blockquote pgmap="405" id="b405-4">(a) Whenever a person has entered upon a term of imprisonment in a penal or correctional institution of a party state, and whenever during the continuance of the term of imprisonment there is pending in any other party state any untried indictment, information or complaint on the basis of which a detainer has been lodged against the prisoner, he shall be brought to trial within one hundred eighty (180) days after he shall have caused to be delivered to the prosecuting officer’s jurisdiction written notice of the place of his imprisonment and his request for a final disposition to be made of the indictment, information or complaint; .... The request of the prisoner shall be accompanied by a certificate of the appropriate official having custody of the prisoner, stating the term of commit­ment under which the prisoner is being held, the time already served, the time remaining to be served on the sentence, the amount of good time earned, the time of parole eligibility of the prisoner, and any decisions of the state parole agency relating to the prisoner.</blockquote>
+                <blockquote pgmap="405" id="b405-5">(b) The written notice and request for final disposition referred to in Paragraph (a) hereof shall be given or sent by the prisoner to the warden, commissioner of corrections or other official having custody of him, who shall promptly forward it together with the certificate to the appropriate prosecuting official and court by registered or certified mail, return receipt requested.</blockquote>
+                <p pgmap="405" id="b405-6">
+                   We note that in order to activate the provisions of the above statute a prisoner is required to give a written request for final disposition of an outstanding detainer to the “warden, commissioner of corrections or other official having custody of him.” In McCallum v. State, 407 So. 2d 865, 869 (Ala. Cr. App. 1981), the court considered a case similar to the one at bar and stated:</p>
+                <blockquote pgmap="406" id="b406-5">A prisoner seeking to benefit from the statutory provisions must first meet the burden of compliance with the agree­ment. Williams v. State of Maryland, 445 F. Supp. 1216 (D.Md. 1978). . . .</blockquote>
+                <blockquote pgmap="406" id="b406-6">When a prisoner chooses to bypass the simple proce­dure provided in art. 111(b), and attempts to deal directly with officials in the receiving state, he must satisfy the additional requirements of the agreement which would normally be executed by officials in the sending state. . . .</blockquote>
+                <blockquote pgmap="406" id="b406-7">... It has generally been held that strict compliance with the agreement is not required, but rather “a good faith, diligent effort by a prisoner to invoke the statute” by giving “written notice to the official having custody of him.” . . . However, once an inmate bypasses the statu­tory procedure, the burden is on the prisoner to demon­strate strict compliance with the notification and certifi­cate requirements of Sections (a) and (b) of art. III.</blockquote>
+                <p pgmap="406" id="b406-8">
+                   Article IX of the IAD directs that the agreement shall be “liberally construed.” However, this does not mean that courts are free to “bend the legislation out of shape or to remold it to some other form.” Isaacs v. State, 31 Md. App. 604, 358 A.2d 273 (1976). It has been held that the 180-day time limitation contained in Article IJI(a) is.triggered only when a prisoner has complied with the requirements of the article. McCallum v. State, supra.</p>
+                <p pgmap="406(118) 407(130)" id="b406-9">
+                   Appellant contends that he substantially complied with the IAD requirements although he concedes that his motion was improperly addressed and consequently was not filed with the proper court until September, 1983, and that he fought extradi­tion when he was paroled in Indiana in December, 1983. Furthermore, the record discloses numerous other instances of failure to comply with IAD requirements. For example, appellant bypassed the warden at his prison and attempted to activate the IAD himself. The pleading he sent to Arkansas was improperly designated a motion for speedy trial rather than a request for final disposition of an outstanding detainer; it was not sent by certified mail; and it was not accompanied by a certificate from appellant’s custodial official. In order to activate the statutory protections contained in the IAD, the appellant should have given the official in charge of his prison a written request for final disposition of the Arkansas case. However, by choosing to circumvent the prison official, appellant placed the burden of meeting the requirements of the statute on himself. We think he failed to substantially meet the necessary requirements of the IAD and, therefore, its 180-day time limitation was never activated. Certainly the limitation could not have started until his motion was filed in the proper court on September 20, 1983. After that his own resistance to extradition kept the limitation from starting until he was re­turned to Arkansas on May 19,1984, and he was tried within 180 days after that date.</p>
+                <p pgmap="407" id="b407-6">
+                   Appellant also argues that after his return to Arkan­sas he was not tried within 120 days as required by Article IV of the IAD. That article does provide that trial shall be commenced within 120 days after the “arrival of the prisoner in the receiving state.” But Article IV also provides that “for good cause shown in open court” the court may grant any necessary or reasonable continuance. The record shows that at the conclusion of the hearing on appellant’s motion to dismiss, the court set the case for trial on a date requested by the state. Although this date was more than 120 days after appellant’s arrival in Arkansas, the date was set after the prosecutor had told the court the amount of time needed for preparation for trial and had outlined the reasons he needed it. We think the court extended the 120-day period for “good cause shown in open court” and we cannot say that the continuance granted was not reasonable or necessary. Moreover, no objection to that action is shown in appellant’s abstract of the record.</p>
+                <p pgmap="407(106) 408(140)" id="b407-7">
+                   Appellant also argues there was error in admitting into evidence certain statements he made to an F.B.I. officer. While appellant was in jail in Indiana, the F.B.I. became involved in assisting with his extradition. A copy of a photograph taken by the security camera at the convenience store while the robbery was being committed was forwarded to F.B.I. agents in Indiana, along with other information concerning the identity of the robber. An F.B.I. agent went to the county jail to verify that the Earl Phillips being held there was the same one wanted for the robbery in Arkansas. As appellant was talking to the agent, he saw the photograph in the file and identified himself as the man in the photograph. He contends that his self-incriminating state­ment should have been excluded from evidence because he had not been read his rights pursuant to Miranda v. Arizona, 384 U.S. 436 (1966). He argues that in Rhode Island v. Innis, 446 U.S. 291 (1980), the United States Supreme Court held that when the words and actions of the police are such that they could reasona­bly elicit an incriminating response from a suspect, they must first read the suspect his rights. However, we think the record shows that appellant’s identification of himself in the photograph was a voluntary admission. He was not shown the picture nor asked to identify the person in it. It was not error for the trial court to refuse to exclude this evidence.</p>
+                <p pgmap="408" id="b408-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="402" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="403" ORDERLABEL="373" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jp2_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="404" ORDERLABEL="374" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="405" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00203_0"/>
+        <fptr FILEID="jp2_00203_0"/>
+        <fptr FILEID="alto_00203_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_405.2" BETYPE="IDREF" FILEID="alto_00203_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="406" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00203_1"/>
+        <fptr FILEID="jp2_00203_1"/>
+        <fptr FILEID="alto_00203_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_406.1" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="407" ORDERLABEL="377" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.5" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="378" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.2" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-3" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.3" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.6" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.7" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.6" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.7" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.5" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.6" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.7" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.7" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b405-3" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_405.4" BETYPE="IDREF" FILEID="alto_00203_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.6" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.5" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-6" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.6" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.7" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-9" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.9" BETYPE="IDREF" FILEID="alto_00203_1"/>
+            <area BEGIN="BL_407.1" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-18" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.14" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.6" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-4" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.5" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-16" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.13" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-14" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.12" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-7" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.7" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM9" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUDB" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b406-8" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_406.8" BETYPE="IDREF" FILEID="alto_00203_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5" BETYPE="IDREF" FILEID="casebody_0070"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.15" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

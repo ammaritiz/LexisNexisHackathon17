@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000724_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Allen v. State">Fred Randle ALLEN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 92-404</docketnumber>
+          <citation category="official" type="bluebook">40 Ark. App. 158</citation>
+          <citation category="parallel" type="bluebook">842 S.W.2d 468</citation>
+          <decisiondate>1992-12-23</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:45:26Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:52Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:57:52Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:58:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00092_1" MIMETYPE="image/tiff" CHECKSUM="001bc4c031c9e5aa85765097c8462a67" CHECKSUMTYPE="MD5" SIZE="9070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00092_1.tif"/>
+      </file>
+      <file ID="tiff_00093_0" MIMETYPE="image/tiff" CHECKSUM="289806b4325911407b1ab78a87b33d42" CHECKSUMTYPE="MD5" SIZE="53920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00093_0.tif"/>
+      </file>
+      <file ID="tiff_00093_1" MIMETYPE="image/tiff" CHECKSUM="bc224dd40633c9e57ff05f08db0fbfb1" CHECKSUMTYPE="MD5" SIZE="49092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00093_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00092_1" MIMETYPE="image/jp2" CHECKSUM="a30cab237eb74d6d4e59520e93f4cb8a" CHECKSUMTYPE="MD5" SIZE="1623853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00092_1.jp2"/>
+      </file>
+      <file ID="jp2_00093_0" MIMETYPE="image/jp2" CHECKSUM="afbd05e569abbe1c086e2ec8a2facfda" CHECKSUMTYPE="MD5" SIZE="2661403">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00093_0.jp2"/>
+      </file>
+      <file ID="jp2_00093_1" MIMETYPE="image/jp2" CHECKSUM="fe984803f14873a999f7ffddf8ab442b" CHECKSUMTYPE="MD5" SIZE="2653244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00093_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00092_1" MIMETYPE="text/xml" CHECKSUM="75fe35f6f3ec93f610763aa4ffe69cf0" CHECKSUMTYPE="MD5" SIZE="11384">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00092_1.xml"/>
+      </file>
+      <file ID="alto_00093_0" MIMETYPE="text/xml" CHECKSUM="3b21860c44a56040e4fc416758445089" CHECKSUMTYPE="MD5" SIZE="90879">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00093_0.xml"/>
+      </file>
+      <file ID="alto_00093_1" MIMETYPE="text/xml" CHECKSUM="af81dafb12e5bf4da799d2dc421d7fb6" CHECKSUMTYPE="MD5" SIZE="86194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00093_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="158" lastpage="160">
+              <court id="b184-9" pgmap="184">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b184-7" pgmap="184">CA CR 92-404</docketnumber>
+              <citation id="Anz" pgmap="184">842 S.W.2d 468</citation>
+              <parties id="b184-6" pgmap="184">Fred Randle ALLEN v. STATE of Arkansas</parties>
+              <decisiondate id="b184-10" pgmap="184">Opinion delivered December 23, 1992</decisiondate>
+              <judges id="b186-10" pgmap="186">Cooper and Jennings, JJ., agree.</judges>
+              <attorneys id="b185-5" pgmap="185">William L. Wharton, for appellant.</attorneys>
+              <attorneys id="b185-6" pgmap="185">Winston Bryant, Att’y Gen., by: Didi Sailings, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b185-7" pgmap="185">Elizabeth W. Danielson, Judge.</author>
+                <p id="A-7" pgmap="185">Appellant Fred Allen was convicted by a jury of arson and sentenced to six years imprisonment. He argues on appeal that the trial court erred in denying his motion for a directed verdict based on the insuffi­ciency of the State’s evidence. We affirm.</p>
+                <p id="b185-8" pgmap="185">
+                   In reviewing the denial of a motion for directed verdict, we consider the evidence in the light most favorable to the appellee and affirm the trial court’s decision if there is substantial evidence to support the conviction. Safely v. State, 32 Ark. App. 111, 797 S.W.2d 468 (1990). Substantial evidence is evidence of sufficient force and character that it will, with reasonable certainty, compel a conclusion one way or the other, without resort to speculation or conjecture. Id.</p>
+                <p id="b185-9" pgmap="185">A person commits arson if he starts a fire or causes an explosion with the purpose of destroying or otherwise damaging an occupiable structure that is the property of another person. Ark. Code Ann. § 5-38-301 (Supp. 1991). The State alleged that appellant started a fire in the home of his parents with the purpose of destroying or damaging the home, and that the fire caused damage in an amount between $20,000 and $100,000. Appellant argues that the State failed to put on evidence sufficient to overcome the common law presumption against arson.</p>
+                <p id="b185-10" pgmap="185(146) 186(89)">
+                   In Ross v. State, 300 Ark. 369, 779 S.W.2d 161 (1989), the supreme court stated that in order to overcome the common law presumption against arson, the State must prove not only the burning of the building, but also that it was burned by the willful act of some person criminally responsible for his acts, and not by natural or accidental causes. 300 Ark. at 377. At appellant’s trial, the State presented the testimony of Linda Cook, a neighbor of appellant’s parents, who testified that she saw appellant and his wife, Becky, having what she described as a “deep conversation” on the night of the fire. She said after appellant spoke on the telephone a couple of times, Becky left and appellant appeared to be “aggravated.” After this, Ms. Cook saw appellant come and go from the house four or five times, driving fast and “throwing gravel.” The second to the last time Ms. Cook saw appellant come back carrying a sack. The bedroom light went on and off, then the light in the kitchen. The last time appellant left, he turned out all the lights and sped away. L. G. Caldwell, another neighbor, also testified that around that same time appellant was going in and out a lot, “racing around up and down the streets.” Shortly after appellant left the last time, both witnesses heard sirens and saw smoke coming from the Allen residence.</p>
+                <p id="b186-6" pgmap="186">Becky Allen testified that appellant had been drinking the night of the fire and that they had argued because he wanted to use her car. She also testified that when she saw Mr. and Mrs. Allen, appellant’s parents, the next morning, Mr. Allen said, “He’s burned our home,” and Mrs. Allen said, “I can’t believe he’s done this to us.” Both of appellant’s parents denied making these statements.</p>
+                <p id="b186-7" pgmap="186">The State also presented the testimony of expert witness Lieutenant Harvis Jacks, an inspector with the Little Rock Fire Department. Lt. Jacks testified that he was called in on the case due to the suspicious nature of the fire. The house was locked when firemen arrived and a bedroom had been ransacked. Lt. Jacks investigated this bedroom and determined that a mattress in the room was the point of origin of the fire. He described the fire in the mattress as a free-burning fire, which occurs when something is ignited on top of the mattress. Due to the nature of the fire and the surrounding circumstances, Lt. Jacks believed the fire was intentionally set. He investigated the scene for any other possible cause of the fire and could find none. However, he did find a partially used bottle of charcoal lighter fluid in the dining area of the house.</p>
+                <p id="b186-8" pgmap="186">
+                   Considering all the testimony, the evidence presented by the State is sufficient to meet the requirements set forth in Ross v. State, 300 Ark. 369, 779 S.W.2d 161, to overcome the common law presumption against arson. We cannot say the trial court erred in denying appellant’s motion for a directed verdict.</p>
+                <p id="b186-9" pgmap="186">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="184" ORDERLABEL="158" TYPE="page">
+        <fptr FILEID="tiff_00092_1"/>
+        <fptr FILEID="jp2_00092_1"/>
+        <fptr FILEID="alto_00092_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.2" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="185" ORDERLABEL="159" TYPE="page">
+        <fptr FILEID="tiff_00093_0"/>
+        <fptr FILEID="jp2_00093_0"/>
+        <fptr FILEID="alto_00093_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_185.2" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="186" ORDERLABEL="160" TYPE="page">
+        <fptr FILEID="tiff_00093_1"/>
+        <fptr FILEID="jp2_00093_1"/>
+        <fptr FILEID="alto_00093_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_186.2" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.5" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.4" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.3" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.8" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.6" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.7" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anz" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.7" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.4" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.5" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.5" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.6" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.9" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.8" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.6" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            <area BEGIN="BL_185.7" BETYPE="IDREF" FILEID="alto_00093_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b185-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_185.10" BETYPE="IDREF" FILEID="alto_00093_0"/>
+            <area BEGIN="BL_186.1" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.9" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.8" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

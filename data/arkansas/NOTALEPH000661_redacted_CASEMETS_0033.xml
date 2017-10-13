@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000661_0033" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jones v. State">Michelle Logan JONES v. STATE of Arkansas</name>
+          <docketnumber>CA CR 07-352</docketnumber>
+          <citation category="official" type="bluebook">101 Ark. App. 226</citation>
+          <citation category="parallel" type="bluebook">274 S.W.3d 361</citation>
+          <decisiondate>2008-02-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T16:11:50Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:55:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:08:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:09:14Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="49346a18f54e7b703ed69aeb56f07ee5" CHECKSUMTYPE="MD5" SIZE="23218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00128_1.tif"/>
+      </file>
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="cd53dc0e942b9e6efaa91fcc59c3b907" CHECKSUMTYPE="MD5" SIZE="59926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="acf927ff3160687a27d3e5707e869185" CHECKSUMTYPE="MD5" SIZE="56256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00129_1.tif"/>
+      </file>
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="f04ada3ee4df656ad9cdeb624788d73e" CHECKSUMTYPE="MD5" SIZE="58530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="c1b5b669dda4c7c9b633a2fa25764d1d" CHECKSUMTYPE="MD5" SIZE="20914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00130_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00128_1" MIMETYPE="image/jp2" CHECKSUM="5ded002abf41a5d6acdc32f13822ef90" CHECKSUMTYPE="MD5" SIZE="1889258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00128_1.jp2"/>
+      </file>
+      <file ID="jp2_00129_0" MIMETYPE="image/jp2" CHECKSUM="8d4519dd8eef85ce30df6bb1835cccde" CHECKSUMTYPE="MD5" SIZE="2633841">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00129_0.jp2"/>
+      </file>
+      <file ID="jp2_00129_1" MIMETYPE="image/jp2" CHECKSUM="b2f6ae7c3503ac07e09eeae854d61338" CHECKSUMTYPE="MD5" SIZE="2568849">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00129_1.jp2"/>
+      </file>
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="82fd4a2d16d71f6520f53001615f1aee" CHECKSUMTYPE="MD5" SIZE="2609366">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00130_0.jp2"/>
+      </file>
+      <file ID="jp2_00130_1" MIMETYPE="image/jp2" CHECKSUM="be5f8815054c4821c19ac64b30cc6ce3" CHECKSUMTYPE="MD5" SIZE="1838775">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00130_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00128_1" MIMETYPE="text/xml" CHECKSUM="e3b14e7e133af9fab5fb717cbf512fbc" CHECKSUMTYPE="MD5" SIZE="38493">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00128_1.xml"/>
+      </file>
+      <file ID="alto_00129_0" MIMETYPE="text/xml" CHECKSUM="cbdfe616bf303df74867aa15c7a6a372" CHECKSUMTYPE="MD5" SIZE="103419">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00129_0.xml"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml" CHECKSUM="10459fa9ab5df6a4435b24ee3eb7ced5" CHECKSUMTYPE="MD5" SIZE="95698">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00129_1.xml"/>
+      </file>
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="454ed966936f6cffc06748d619550635" CHECKSUMTYPE="MD5" SIZE="100905">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00130_0.xml"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml" CHECKSUM="c193987b0ff1cc9a389fcfb50d9e58e4" CHECKSUMTYPE="MD5" SIZE="34284">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00130_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="230" firstpage="226">
+              <court id="Ac0" pgmap="256">Court of Appeals of Arkansas</court>
+              <docketnumber id="ADH" pgmap="256">CA CR 07-352</docketnumber>
+              <citation id="AXk" pgmap="256">274 S.W.3d 361</citation>
+              <parties id="b256-3" pgmap="256">Michelle Logan JONES v. STATE of Arkansas</parties>
+              <decisiondate id="AEq" pgmap="256">Opinion delivered February 6, 2008</decisiondate>
+              <judges id="b260-6" pgmap="260">Glover and Vaught, JJ., agree.</judges>
+              <attorneys id="b256-8" pgmap="256">William R. Simpson, Jr., Public Defender, Don Thompson, Deputy Public Defender, by: Clint Miller, for appellant.</attorneys>
+              <attorneys id="b256-9" pgmap="256">Dustin McDaniel, Att’y Gen., by: DavidR. Raupp, Sr. Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b256-10" pgmap="256">Sam Bird, Judge.</author>
+                <p id="AD_" pgmap="256">Michelle Logan Jones was convicted in a bench trial of possession of marijuana with intent to deliver and possession of drug paraphernalia with intent to use while in the course of and in furtherance of a felony drug offense. The court fined appellant $300, ordered her to pay court costs, ordered her to perform thirty hours of community service within six months, suspended her driver’s license for six months, and placed her on probation for five years. Appellant’s sole point on appeal is that the circuit court erred in denying her motion to suppress. We affirm.</p>
+                <p id="b257-4" pgmap="257">On November 21, 2005, appellant was charged with felony possession of marijuana with intent to deliver and felony posses­sion of drug paraphernalia with intent to use while in the course of and in furtherance of a felony drug offense. On June 2, 2006, appellant filed a motion to suppress her statement and physical evidence. On September 11, 2006, the circuit court simulta­neously held a bench trial on the felony charges against appellant and a hearing on appellant’s motion to suppress.</p>
+                <p id="b257-5" pgmap="257">At the hearing, Michael Blevins, a North Little Rock police officer, testified that on the night of October 1, 2005, he was dispatched to investigate an anonymous call regarding loud music at the 2500 block of North Berkley. He said that he arrived at the location in his police car and saw two cars parked on the side of the street. He made contact with the occupants of the rear car and then made contact with those in the second car. Appellant was in the driver’s seat of the second car with the windows down; there was also a passenger in the front seat. Officer Blevins testified that he asked appellant if she was playing loud music, to which she responded, “No.” Officer Blevins testified that he then asked both appellant and her passenger if they “had anything illegal inside the car.” Appellant responded, “Yes, sir, I have marijuana in my car.” Officer Blevins asked them to step out of the car. He then asked appellant where the marijuana was, and she said it was in the passenger-side door. Officer Blevins testified that appellant then told him to look in the glove compartment, where he found another bag of marijuana. At that point appellant told Officer Blevins that there was more marijuana under the driver’s seat. When he found a plastic baggie with marijuana, appellant said, “That’s not all. Look in the brown paper bag.” Officer Blevins found the majority of the marijuana with some scales and a marijuana pipe in a paper bag under the driver’s seat. He arrested appellant and took her to the Levy substation where Detective John Nannen took her statement. In her statement, appellant admitted purchasing marijuana and possessing it with the intent to deliver.</p>
+                <p id="b257-6" pgmap="257(68) 258(61)">Appellant argued in her motion to dismiss, after the State’s presentation of its case, and at the close of all of the evidence that the marijuana and drug parapernalia seized from appellant’s car as well as appellant’s statement to Detective Nannen should be suppressed because Officer Blevins’s question regarding whether she had “anything illegal” was impermissible under the Arkansas Rules of Criminal Procedure and the U.S. Constitution. The circuit court denied appellant’s motions to suppress, finding that appellant was not being detained when Officer Blevins was ques­tioning her and that his questions were permissible under Rule 2.2(a) of the Arkansas Rules of Criminal Procedure because he was investigating a call about loud music. Appellant filed this appeal, arguing that the circuit court’s holding regarding Rule 2.2(a) was erroneous.</p>
+                <p id="b258-5" pgmap="258">In reviewing a circuit court’s denial of a motion to suppress evidence, we conduct a de novo review based on the totality of the circumstances, reviewing findings of historical facts for clear error and determining whether those facts give rise to reasonable suspi­cion or probable cause, giving due weight to inferences drawn by the circuit court and proper deference to the circuit court’s findings. Yarbrough v. State, 370 Ark. 31, 257 S.W.3d 50 (2007). We reverse only if the circuit court’s ruling is clearly against the preponderance of the evidence. Id.</p>
+                <p id="b258-6" pgmap="258">The supreme court has explained that there are three types of encounters between police and private citizens.</p>
+                <p id="b258-7" pgmap="258">The first and least intrusive category is when an officer merely approaches an individual on a street and asks if he is willing to answer some questions. Because the encounter is in a public place and is consensual, it does not constitute a “seizure” within the meaning of the fourth amendment. The second polic'e encounter is when the officer may justifiably restrain an individual for a short period of time if they have an “articulable suspicion” that the person has committed or is about to commit a crime. The initially consensual encounter is transformed into a seizure when, consider­ing all the circumstances, a reasonable person would believe that he is not free to leave. The final category is the full-scale arrest, which must be based on probable cause.</p>
+                <p id="b258-8" pgmap="258(110) 259(74)">Stewart v. State, 332 Ark. 138, 144, 964 S.W.2d 793, 797 (1998)(citing Frette v. City of Springdale, 331 Ark. 103, 959 S.W.2d 734 (1998)). The State does not argue that the encounter in this case was justified by either articulable suspicion or probable cause. Moreover, appellant does not dispute that the initial encounter between her and Officer Blevins to investigate the loud music was permissible under Rule 2.2. The dispute is whether Officer Blevins’s additional question, con­cerning whether appellant “had anything illegal,” was permissible under Rule 2.2. Appellant argues that an encounter under Rule 2.2 is limited by the purpose for which the encounter is permitted — in this case, a report of loud music — and that further questioning about unrelated potential criminal activity is not permissible absent reason­able suspicion. See Ark. R. Crim. P. 3.1. The State contends that an encounter under Rule 2.2 is not so limited and that Officer Blevins’s general inquiry did not present an additional intrusion upon appellant and was therefore permissible under Rule 2.2, which authorizes the officer “to request any person to furnish information.”</p>
+                <p id="b259-6" pgmap="259">Rule 2.2(a) provides that “[a] law enforcement officer may request any person to furnish information or otherwise cooperate in the investigation or prevention of crime. The officer may request the person to respond to questions, to appear at a police station, or to comply with any other reasonable request.” Ark. R. Crim. P. 2.2(a). The supreme court has clarified that an encounter under this rule is permissible “only if the information or coopera­tion sought is in aid of an investigation or the prevention of a particular crime.” Stewart v. State, 332 Ark. 138, 146, 964 S.W.2d 793, 797 (1998); see also Stevens v. State, 91 Ark. App. 114, 208 S.W.3d 843 (2005), and Jennings v. State, 69 Ark. App. 50, 10 S.W.3d 105 (2000).</p>
+                <p id="b259-7" pgmap="259">In determining the extent of permissible interruption that a citizen must bear to accommodate a law enforcement officer who is investigating a crime under Rule 2.2, the supreme court has stated that the approach of a citizen pursuant to a policeman’s investigative law enforcement function must be reasonable under the existent circumstances and requires a weighing of the govern­ment’s interest for the intrusion against the individual’s right to privacy and personal freedom. Baxter v. State, 274 Ark. 539, 543, 626 S.W.2d 935, 937 (1982). To be considered are the manner and intensity of the interference, the gravity of the crime involved, and the circumstances attending the encounter. Id. Our case law has consistently held that Rule 2.2 authorizes an officer to request information or cooperation from citizens where the approach of the citizen does not rise to the level of being a seizure and where the information or cooperation sought is in aid of an investigation or the prevention of crime. Wilson v. State, 364 Ark. 550, 559, 222 S.W.3d 171, 179 (2006).</p>
+                <p id="b259-8" pgmap="259(55) 260(100)">
+                   Here, Officer Blevins had authority under Rule 2.2 to approach appellant’s car to investigate a particular crime, a com­plaint of loud music. After approaching her car, he asked her if she was playing loud music to which she responded, “No,” and then asked her and her passenger if they “had anything illegal inside the car.” There is no evidence that Officer Blevins was any more overbearing or intimidating when he asked this particular question than when he asked his first question about the music. Indeed, he testified that it was merely a routine question that he always asked. Accordingly, we do not find Officer Blevins’s additional inquiry to be outside the scope of Rule 2.2 or to have caused the encounter to rise to the level of a seizure. Therefore, we hold that the circuit court’s ruling denying appellant’s motion to suppress is not clearly against the preponderance of the evidence, and we affirm.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="256" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jp2_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.1" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="257" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jp2_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.2" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jp2_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.2" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="259" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jp2_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.2" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.14" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD_" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.15" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            <area BEGIN="BL_256.16" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            <area BEGIN="BL_256.17" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_260.1" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.4" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADH" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.4" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ac0" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.6" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.7" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            <area BEGIN="BL_259.1" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.4" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXk" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.5" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.5" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            <area BEGIN="BL_258.1" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEq" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.7" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.3" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.4" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.4" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.6" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.5" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.12" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.11" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-3" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.3" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000701_0038" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wade v. Sonic Drive-In">Mary Ellen WADE v. SONIC DRIVE-IN</name>
+          <docketnumber>CA 93-545</docketnumber>
+          <citation category="official" type="bluebook">42 Ark. App. 260</citation>
+          <citation category="parallel" type="bluebook">856 S.W.2d 630</citation>
+          <decisiondate>1993-06-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:20:01Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-20T08:30:17Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-20T08:31:05Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00143_1" MIMETYPE="image/tiff" CHECKSUM="2f9bd4b9e707758d3bad48438fe56477" CHECKSUMTYPE="MD5" SIZE="47232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00143_1.tif"/>
+      </file>
+      <file ID="tiff_00144_0" MIMETYPE="image/tiff" CHECKSUM="d26dea8370fb24c15b3edf9795b489d4" CHECKSUMTYPE="MD5" SIZE="35234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00144_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00143_1" MIMETYPE="image/jp2" CHECKSUM="61f02491eb905c854e8d22f81275ce39" CHECKSUMTYPE="MD5" SIZE="2505092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00143_1.jp2"/>
+      </file>
+      <file ID="jp2_00144_0" MIMETYPE="image/jp2" CHECKSUM="239a06cf8a481b769aa1b4abafa1934e" CHECKSUMTYPE="MD5" SIZE="2453214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000701_00144_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00143_1" MIMETYPE="text/xml" CHECKSUM="6c9ce30a699059fa19ba7444d2d5e537" CHECKSUMTYPE="MD5" SIZE="77888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00143_1.xml"/>
+      </file>
+      <file ID="alto_00144_0" MIMETYPE="text/xml" CHECKSUM="681d9d9bc676e527d060b0f460e30d09" CHECKSUMTYPE="MD5" SIZE="57504">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000701_redacted_ALTO_00144_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0038" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="261" firstpage="260">
+              <court pgmap="286" id="b286-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="286" id="Af">CA 93-545</docketnumber>
+              <citation pgmap="286" id="Ap">856 S.W.2d 630</citation>
+              <parties pgmap="286" id="b286-3">Mary Ellen WADE v. SONIC DRIVE-IN</parties>
+              <decisiondate pgmap="286" id="Alxz">Opinion delivered June 30, 1993</decisiondate>
+              <judges pgmap="287" id="b287-8">Rogers, J., joins in this dissent.</judges>
+              <attorneys pgmap="286" id="b286-6">Guy Brinkley, for appellant.</attorneys>
+              <attorneys pgmap="286" id="b286-7">Barber, McCaskill, Amsler, Jones &amp; Hale, P.A., by: Michael L. Alexander, for appellee Sonic Drive-in.</attorneys>
+              <attorneys pgmap="286" id="b286-8">Frye, Mickel &amp; Boyce, P.A., by: Thomas W. Mickel, for appellee Ranger Ins. Co.</attorneys>
+              <opinion type="majority">
+                <author pgmap="286" id="b286-9">James R. Cooper, Judge,</author>
+                <p pgmap="286" id="Aq-">dissenting. This case is a subse­quent appeal from a decision of the Workers’ Compensation Commission. Although a number of issues were raised in the prior appeal, we did not address the merits of those issues but instead remanded to the Commission for more specific findings. Sonic Drive-In v. Wade, 36 Ark. App. 4, 816 S.W.2d 889 (1991). The briefs pertaining to that prior appeal were filed during a trial period established by the Supreme Court for experimentation with the appendix system as a substitute for the former method of abstracting the record on appeal; therefore, the record of the prior appeal was not abstracted, but instead was submitted as an appendix pursuant to the rules applicable at that time. The appellant has moved for leave to file her brief using an appendix in place of an abstract, asserting that most of the points on appeal are similar to those which had been fully briefed pursuant to the appendix method in her prior appeal. The majority has denied the appellant’s motion, and I dissent.</p>
+                <p pgmap="286(87) 287(133)" id="b286-10">It is clear from the appellant’s motion that, if her motion is denied, she will be required to abstract the record of the prior appeal for which she has already submitted an appendix pursuant to the rule applicable at the time the briefs in the prior appeal were filed. Under the circumstances of this case, I think it would be fundamentally unfair to require this unnecessary duplication of effort on the appellant’s part, as well as unnecessary expense. The period of experimentation with the appendix system began with the Supreme Court’s per curiam order of October 17,1988; after an intermission and two extensions, the experiment was pronounced a failure and ended effective August 1, 1991. In re Revision of the Rules of the Supreme Court and Court of Appeals, 306 Ark. 655 (1991). By the latter revision to its Rules, the Supreme Court reinstituted the abstracting system as pro­vided for in Rule 9 of the Arkansas Supreme Court and Court of Appeals, which, as recently amended, is now contained in Rule 4-­2.1 submit that, if our Rules are flexible enough (as they should be) to support the many changes and experiments they have undergone in recent years, they should be flexible enough to avoid the unnecessary duplication of effort and expense which will be required of this appellant.</p>
+                <p pgmap="287" id="b287-6">Although her present case has a different docket number, it is not really a new appeal. While the present rule makes no provision for this situation, fairness requires that she be allowed to proceed under the rules in force when her appeal commenced. To do so would be within our inherent authority to institute orderly procedures for situations which arise that are not pro­vided for by any rule. Furthermore, allowing an appendix to be filed in this instance would work no hardship on this Court, which has had extensive experience with appendices during the experi­mentation period.</p>
+                <p pgmap="287" id="b287-7">I dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="286" ORDERLABEL="260" TYPE="page">
+        <fptr FILEID="tiff_00143_1"/>
+        <fptr FILEID="jp2_00143_1"/>
+        <fptr FILEID="alto_00143_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_286.1" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="287" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00144_0"/>
+        <fptr FILEID="jp2_00144_0"/>
+        <fptr FILEID="alto_00144_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.3" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.11" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.12" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq-" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.13" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_286.14" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.6" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.5" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-3" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.3" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.6" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.5" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.10" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.4" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.9" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.4" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b286-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.15" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            <area BEGIN="BL_287.1" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alxz" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_286.7" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

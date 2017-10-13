@@ -1,0 +1,522 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000686_0052" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hancock v. State">Richard HANCOCK v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-992</docketnumber>
+          <citation category="official" type="bluebook">90 Ark. App. 473</citation>
+          <citation category="parallel" type="bluebook">206 S.W.3d 896</citation>
+          <decisiondate>2005-04-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T20:11:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:11:31Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-27T15:34:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-27T15:36:24Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00249_0" MIMETYPE="image/tiff" CHECKSUM="da70103910d622fa7ca1acc147f56b7b" CHECKSUMTYPE="MD5" SIZE="34016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00249_0.tif"/>
+      </file>
+      <file ID="tiff_00249_1" MIMETYPE="image/tiff" CHECKSUM="0d21b4bc06c4454c39144cebee08df18" CHECKSUMTYPE="MD5" SIZE="20648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00249_1.tif"/>
+      </file>
+      <file ID="tiff_00250_0" MIMETYPE="image/tiff" CHECKSUM="1282e1c4f3be3406b16945702aa3f003" CHECKSUMTYPE="MD5" SIZE="52578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00250_0.tif"/>
+      </file>
+      <file ID="tiff_00250_1" MIMETYPE="image/tiff" CHECKSUM="6a6370afc0b2334b0d1073428744be2f" CHECKSUMTYPE="MD5" SIZE="55676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00250_1.tif"/>
+      </file>
+      <file ID="tiff_00251_0" MIMETYPE="image/tiff" CHECKSUM="e5c5766271998fa6afc63be4ee0c21dc" CHECKSUMTYPE="MD5" SIZE="42236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00251_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00249_0" MIMETYPE="image/jp2" CHECKSUM="b81a1882c498e6f2f1b04a0e26d04ec7" CHECKSUMTYPE="MD5" SIZE="2254702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00249_0.jp2"/>
+      </file>
+      <file ID="jp2_00249_1" MIMETYPE="image/jp2" CHECKSUM="49970a0b537981067ef9021d25a88909" CHECKSUMTYPE="MD5" SIZE="1650399">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00249_1.jp2"/>
+      </file>
+      <file ID="jp2_00250_0" MIMETYPE="image/jp2" CHECKSUM="25beaf85ed13ce0870253f01fb578dd1" CHECKSUMTYPE="MD5" SIZE="2588172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00250_0.jp2"/>
+      </file>
+      <file ID="jp2_00250_1" MIMETYPE="image/jp2" CHECKSUM="bcca7c7ad419631424eeec945d94a6ea" CHECKSUMTYPE="MD5" SIZE="2545124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00250_1.jp2"/>
+      </file>
+      <file ID="jp2_00251_0" MIMETYPE="image/jp2" CHECKSUM="0e22b1c48a04cb4c48a584d1d8462760" CHECKSUMTYPE="MD5" SIZE="2492680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000686_00251_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00249_0" MIMETYPE="text/xml" CHECKSUM="347a4235be1563d695001f12afe623ec" CHECKSUMTYPE="MD5" SIZE="54174">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000686_redacted_ALTO_00249_0.xml"/>
+      </file>
+      <file ID="alto_00249_1" MIMETYPE="text/xml" CHECKSUM="22c01f95d422cf51d372a7c18e8d511f" CHECKSUMTYPE="MD5" SIZE="31912">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000686_redacted_ALTO_00249_1.xml"/>
+      </file>
+      <file ID="alto_00250_0" MIMETYPE="text/xml" CHECKSUM="4e78b2db2633fae3231f7e3a1bd173e2" CHECKSUMTYPE="MD5" SIZE="96080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000686_redacted_ALTO_00250_0.xml"/>
+      </file>
+      <file ID="alto_00250_1" MIMETYPE="text/xml" CHECKSUM="449b0bb0d6590d0ed5850f87a8b14848" CHECKSUMTYPE="MD5" SIZE="90575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000686_redacted_ALTO_00250_1.xml"/>
+      </file>
+      <file ID="alto_00251_0" MIMETYPE="text/xml" CHECKSUM="ddd8aab9c820522b4710e24973d1554b" CHECKSUMTYPE="MD5" SIZE="67466">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000686_redacted_ALTO_00251_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="477" firstpage="473">
+              <court id="b497-9" pgmap="497">Court of Appeals of Arkansas</court>
+              <docketnumber id="b497-8" pgmap="497">CA CR 04-992</docketnumber>
+              <citation id="ArE" pgmap="497">206 S.W.3d 896</citation>
+              <parties id="b497-7" pgmap="497">Richard HANCOCK v. STATE of Arkansas</parties>
+              <decisiondate id="AhN" pgmap="497">Opinion delivered April 13, 2005</decisiondate>
+              <judges id="b501-8" pgmap="501">Bird and Glover, JJ., agree.</judges>
+              <attorneys id="b498-10" pgmap="498">T. David Carruth, for appellant.</attorneys>
+              <attorneys id="b498-11" pgmap="498">Mike Beebe, Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b498-12" pgmap="498">Andree Layton Roaf, Judge.</author>
+                <p id="ANK" pgmap="498(105) 499(34)">On February 2, 2004, ap­pellant Richard Hancock entered a conditional plea of guilty pursuant to Arkansas Rule of Criminal Procedure 24.3(b) (2004) to the offense of sexual abuse in the first degree. The trial court sentenced him to four years of probation. On appeal, Hancock challenges (1) the trial court’s denial of his' motion to suppress statements made by him during a phone call with the victim and her mother that was orchestrated by the State Police and (2) the trial court’s denial of his motion in limine to keep out of evidence the statements by his daughter, the victim’s mother, that Hancock acted the same way toward her twenty years earlier. We are unable to address Hancock’s argument on either point as the arguments are not cognizable in an appeal pursuant to Ark. R. Crim. P. 24.3(b).</p>
+                <p id="b499-5" pgmap="499">Hancock’s victim in this case was his granddaughter who was nine years old at the time she was abused. She told investiga­tors that Hancock had her rub his penis with her hands. In October 2002, Hancock filed a motion to suppress, asking the trial court to suppress statements made by him in a phone conversation with his granddaughter and her mother (Hancock’s daughter) that had been orchestrated by a State Police investigator. Hancock argued that the phone conversation violated his Fourth, Fifth, and Fourteenth Amendment rights. The trial court denied Hancock’s motion to suppress.</p>
+                <p id="b499-6" pgmap="499">Hancock also filed a motion in limine, requesting the trial court to not allow into evidence at trial statements made by Tammy Cooper, Hancock’s daughter and the victim’s mother, that Hancock had done the same thing to her approximately twenty years earlier. The trial court denied Hancock’s motion in limine. Hancock now brings this appeal, arguing that the trial court erred in denying his motion to suppress and his motion in limine regarding these statements.</p>
+                <p id="b499-7" pgmap="499">For his first point on appeal, Hancock argues that the trial court erred in denying his motion to suppress a statement that he believes was obtained in violation of his Fourth and Fifth Amend­ment rights. Rule 24.3(b)provides:<footnotemark>1</footnotemark>
+                </p>
+                <blockquote id="b499-8" pgmap="499(34) 500(35)">With the approval of the court and the consent of the prosecuting attorney, a defendant may enter a conditional plea of guilty or nolo contendere, reserving in writing the right, on appeal from the judgment, to review of an adverse determination of a pretrial motion to suppress seized evidence or a custodial statement. If the defendant prevails on appeal, the defendant shall be allowed to withdraw the conditional plea.</blockquote>
+                <p id="b500-5" pgmap="500">(Emphasis added.)</p>
+                <p id="b500-6" pgmap="500">Hancock moved to suppress a recording and transcript of a telephone call made to him by his granddaughter and daughter at the suggestion of the State Police. In the telephone conversation, both Hancock’s daughter and granddaughter asked Hancock why he made the granddaughter “rub his private part.” Hancock never admitted or denied any criminal wrongdoing during the conver­sation. He did, however, state that he knew that his daughter and granddaughter were hurt by the situation. He did, at one point during the conversation, state that his lawyer told him not to talk with them about the situation. Hancock had not been formally charged with any criminal conduct at the time of the phone conversation.</p>
+                <p id="b500-7" pgmap="500">Trooper Lori Ring testified at the suppression hearing that the phone call was her idea. She works with the Crimes Against Children Division of the State Police, and she testified that she wanted Hancock’s granddaughter to ask Hancock why he did it. She supplied the equipment that was used to record the phone conversation, and she testified that these types of calls were fairly common in these investigations.</p>
+                <p id="b500-8" pgmap="500(161) 501(59)">
+                   Hancock argues that evidence of the phone call should have been suppressed under Parette v. State, 301 Ark. 607, 786 S.W.2d 817 (1990), and Morrow v. State, 73 Ark. App. 32, 41 S.W.3d 819 (2001). These cases involve the issue of whether the police used private citizens to conduct searches and seize evidence on their behalf rather than obtaining search warrants under the Fourth Amendment. Parette and Morrow both hold that private individuals, when acting under the direction of a law enforcement agency, can be considered an arm of the government for Fourth Amendment purposes. Morrow, supra; Parette, supra. Parette and Morrow, however, involved searches and seizures under the Fourth Amendment, and the present case does not involve a search and seizure. Morrow, supra; Parette, supra. Hancock cites no case that applies the rationale of Parette and Morrow to cases that do not involve Fourth Amendment searches and seizures. Parette and Morrow do not apply to the present case. Hancock’s Fourth Amendment rights are not implicated in this case because the telephone conversation with his daughter and granddaughter was not a search and does not involve illegally seized evidence; thus, this argument does not fall within the purview of Rule 24.3(b). See, e.g., Berry v. City of Fayetteville, supra; Dondanville v. State, 85 Ark. App. 532, 157 S.W.3d 571 (2004).</p>
+                <p id="b501-5" pgmap="501">
+                   Hancock argues the telephone call also violated his Fifth Amendment right not to incriminate himself. When the phone call to Hancock was placed, he had not been charged with any criminal conduct. The conversation, therefore, was not an in-custody statement that required the giving of Miranda warnings. Hancock was arrested almost one year after the phone call. This case clearly does not involve a custodial statement, and thus does not fall within the purview of Rule 24.3(b). See, e.g., Berry, supra; Dondanville, supra.</p>
+                <p id="b501-6" pgmap="501">
+                   Hancock argues as his second point on appeal that the trial court erred by denying his motion in limine to exclude testimony by his daughter that he molested her twenty years before he sexually abused his granddaughter. He argues that the evidence should be inadmissible under Arkansas Rules of Evidence 403 and 404 (2004). Hancock likewise cannot raise this issue on appeal because motions in limine fall outside the scope of appealable issues set forth in Rule 24.3(b). Payne v. State, 327 Ark. 25, 937 S.W.2d 160 (1997). Here, Hancock pleaded guilty and waived his right to a trial at which evidence could be presented. Where the express terms of Rule 24.3(b) are not complied with, the appellate court acquires no jurisdiction to hear an appeal from a conditional plea. Berry, supra.</p>
+                <p id="b501-7" pgmap="501">Appeal dismissed.</p>
+                <footnote label="1">
+                  <p id="b499-9" pgmap="499">
+                    <footnotemark>1</footnotemark> Before October 2,2003, Rule 24.3(b) provided:</p>
+                  <blockquote id="b499-10" pgmap="499">With the approval of the court and the consent of the prosecuting attorney, a defendant may enter a conditional plea of guilty or nolo contendere, reserving in writing the right, on appeal from the judgment, to review of an adverse determina­tion of a pretrial motion to suppress seized evidence. If the defendant prevails on appeal, he shall be allowed to withdraw his plea.</blockquote>
+                  <p id="b499-11" pgmap="499">(Emphasis added.) Rule 24.3(b) was amended in an October 2,2003, per curiam opinion to clarify that a criminal defendant may reserve the right to appeal following an adverse determination on a motion to suppress a custodial statement as well as a motion to suppress seized evidence. Berry v. City of Fayetteville, 354 Ark. 470, 125 S.W.3d 171 (2003).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="497" ORDERLABEL="473" TYPE="page">
+        <fptr FILEID="tiff_00249_0"/>
+        <fptr FILEID="jp2_00249_0"/>
+        <fptr FILEID="alto_00249_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_497.3" BETYPE="IDREF" FILEID="alto_00249_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="498" ORDERLABEL="474" TYPE="page">
+        <fptr FILEID="tiff_00249_1"/>
+        <fptr FILEID="jp2_00249_1"/>
+        <fptr FILEID="alto_00249_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_498.2" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="499" ORDERLABEL="475" TYPE="page">
+        <fptr FILEID="tiff_00250_0"/>
+        <fptr FILEID="jp2_00250_0"/>
+        <fptr FILEID="alto_00250_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_499.3" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="500" ORDERLABEL="476" TYPE="page">
+        <fptr FILEID="tiff_00250_1"/>
+        <fptr FILEID="jp2_00250_1"/>
+        <fptr FILEID="alto_00250_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.2" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="501" ORDERLABEL="477" TYPE="page">
+        <fptr FILEID="tiff_00251_0"/>
+        <fptr FILEID="jp2_00251_0"/>
+        <fptr FILEID="alto_00251_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.3" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.4" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.8" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.7" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            <area BEGIN="BL_500.1" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANK" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.12" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            <area BEGIN="BL_498.13" BETYPE="IDREF" FILEID="alto_00249_1"/>
+            <area BEGIN="BL_499.1" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.4" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.6" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.5" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.7" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.7" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            <area BEGIN="BL_501.1" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-11" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.10" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.9" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.5" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.6" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.4" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.5" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.6" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhN" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.11" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-12" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.11" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.9" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b498-11" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_498.10" BETYPE="IDREF" FILEID="alto_00249_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.7" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArE" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.9" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.10" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b497-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_497.8" BETYPE="IDREF" FILEID="alto_00249_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

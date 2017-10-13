@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000719_0049" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Lemay v. Baldridge">Elsie LEMAY v. V. L. BALDRIDGE</name>
+          <docketnumber>CA 81-425</docketnumber>
+          <citation category="official" type="bluebook">5 Ark. App. 221</citation>
+          <citation category="parallel" type="bluebook">635 S.W.2d 4</citation>
+          <decisiondate>1982-06-23</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T19:04:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:25Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T14:36:31Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T14:37:19Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="c239bb049bee63ec9198f323f98b0d06" CHECKSUMTYPE="MD5" SIZE="21878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00121_0.tif"/>
+      </file>
+      <file ID="tiff_00121_1" MIMETYPE="image/tiff" CHECKSUM="ac702bd96fbef480642880c66201f54b" CHECKSUMTYPE="MD5" SIZE="47954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00121_1.tif"/>
+      </file>
+      <file ID="tiff_00122_0" MIMETYPE="image/tiff" CHECKSUM="8f3d35036214731779b08abc73f1b882" CHECKSUMTYPE="MD5" SIZE="15628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00122_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="4d646119d8af7ca1618e61f4444c24db" CHECKSUMTYPE="MD5" SIZE="1991338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00121_0.jp2"/>
+      </file>
+      <file ID="jp2_00121_1" MIMETYPE="image/jp2" CHECKSUM="6c305aaa2cc9fcc3e32b479350a8c9e9" CHECKSUMTYPE="MD5" SIZE="2526003">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00121_1.jp2"/>
+      </file>
+      <file ID="jp2_00122_0" MIMETYPE="image/jp2" CHECKSUM="5a2dcfe53475294cf1e5222d16c3a18f" CHECKSUMTYPE="MD5" SIZE="1850431">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000719_00122_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="8f4db606de5817beb476c1ff5a7b8452" CHECKSUMTYPE="MD5" SIZE="36825">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00121_0.xml"/>
+      </file>
+      <file ID="alto_00121_1" MIMETYPE="text/xml" CHECKSUM="66ff58acf52fcfc73404c57413df0244" CHECKSUMTYPE="MD5" SIZE="82414">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00121_1.xml"/>
+      </file>
+      <file ID="alto_00122_0" MIMETYPE="text/xml" CHECKSUM="c5675c77be22b18b4dc516b6291a11a3" CHECKSUMTYPE="MD5" SIZE="23259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000719_redacted_ALTO_00122_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0049" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="221" lastpage="223">
+              <court id="b241-6" pgmap="241">Court of Appeals of Arkansas</court>
+              <docketnumber id="b241-4" pgmap="241">CA 81-425</docketnumber>
+              <citation id="b241-5" pgmap="241">635 S.W.2d 4</citation>
+              <parties id="b241-3" pgmap="241">Elsie LEMAY v. V. L. BALDRIDGE</parties>
+              <decisiondate id="AbfB" pgmap="241">Opinion delivered June 23, 1982</decisiondate>
+              <attorneys id="b241-10" pgmap="241">Wilson, Grider ir Castleman, by: Murrey L. Grider, for appellant.</attorneys>
+              <attorneys id="b241-11" pgmap="241">No brief for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b241-12" pgmap="241">Lawson Cloninger, Judge.</author>
+                <p id="AWD" pgmap="241">Appellant, Elsie Lemay, sought damages for one-half the value of timber cut by appellee, V. L. Baldridge, on a 200-acre tract of land owned by appellant as tenant by the entirety. Appellee had entered into a written contract with appellant’s husband to cut the timber, but the contract was not signed by appellant. Appellant also sought triple damages under the provisions of Ark. Stat. Ann. § 50-105 (Repl. 1971). The jury found in favor of appellee, and appellant’s only point for reversal charges that the trial court erred in failing to direct a verdict for her.</p>
+                <p id="b241-13" pgmap="241">The action of the trial court is affirmed.</p>
+                <p id="b242-5" pgmap="242">On April 12, 1978, appellee entered into the contract with appellant’s husband. The contract provided that appellee was to have the right to cut all trees above twelve inches in diameter on the 200-acre tract, and Mr. Lemay was to receive one-fourth of the proceeds of the timber cut and sold. Cutting was sporadic because of a divorce action between the Lemays.</p>
+                <p id="b242-6" pgmap="242">Evidence adduced by appellee was to the effect that he cut timber over a period of two years and paid Mr. Lemay $3,250 as his share; that the Lemays were living together as husband and wife when the contract was made and the cutting began; that appellant received one check as her proportionate share of the proceeds of sales made following the divorce; that the Lemays had talked about selling the timber at great length and that Mr. Lemay sold the timber with appellant’s approval; that Mr. Lemay supported appel­lant during the marriage; and that appellee ceased cutting operations when a dispute arose.</p>
+                <p id="b242-7" pgmap="242">Appellant sharply controverted the testimony presented by appellee, charging that appellant objected to the cutting of the timber when she first discovered it. Appellant testified that she never consented to the agreement and that appellee continued to cut timber after appellant registered an objection.</p>
+                <p id="b242-8" pgmap="242">On appeal from the denial of a directed verdict this court must examine the evidence in the light most favorable to the party opposing the motion. Missouri Pacific Railroad Company v. Purdy, 263 Ark. 654, 567 S.W.2d 92 (1978). When the evidence is viewed in that light, it becomes apparent that there were issues of fact to be presented to the jury.</p>
+                <p id="b242-9" pgmap="242(76) 243(36)">Appellant cites only two cases: Foshee v. Murphy, 267 Ark. 1047, 593 S.W.2d 486 (Ark. App. 1980) is cited for the rule that either spouse owning property by the entirety may transfer his or her interest, although it cannot thus affect the interest of the other; and Gardner v. Bullard, 241 Ark. 75, 406 S.W.2d 368 (1966) is cited to support the proposition that each party in a tenancy by the entirety is entitled to one-half of the rents and profits during coverture. The jury was properly presented the issues relating to appellant’s consent to the contract, acceptance of benefits under the contract, and ratification of the agreement made by her husband.</p>
+                <p id="b243-4" pgmap="243">The judgment is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="241" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.2" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="242" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00121_1"/>
+        <fptr FILEID="jp2_00121_1"/>
+        <fptr FILEID="alto_00121_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.1" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="243" ORDERLABEL="223" TYPE="page">
+        <fptr FILEID="tiff_00122_0"/>
+        <fptr FILEID="jp2_00122_0"/>
+        <fptr FILEID="alto_00122_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.3" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-7" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.5" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbfB" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.7" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.3" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-8" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.6" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.4" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.4" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-5" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.5" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-6" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.6" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-9" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.7" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_243.1" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-3" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-4" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.4" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-12" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.15" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-13" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.18" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-10" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.13" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-11" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.14" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWD" BETYPE="IDREF" FILEID="casebody_0049"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.16" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            <area BEGIN="BL_241.17" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

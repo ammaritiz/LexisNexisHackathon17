@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000668_0017" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Overton v. Jones">Alton OVERTON v. Jason JONES</name>
+          <docketnumber>CA 00-642</docketnumber>
+          <citation category="official" type="bluebook">74 Ark. App. 122</citation>
+          <citation category="parallel" type="bluebook">45 S.W.3d 427</citation>
+          <decisiondate>2001-06-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T20:52:58Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:01:12Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T14:37:45Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T14:40:50Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="8b7f1d33e1b83cd35bb6fd9ac7074bc7" CHECKSUMTYPE="MD5" SIZE="8362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="0393e65422ec9d45234c83d26c85e76a" CHECKSUMTYPE="MD5" SIZE="60852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00074_0.tif"/>
+      </file>
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="188551bd96909b0ee727614e87bbdad5" CHECKSUMTYPE="MD5" SIZE="56578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="b0c5c816eee62fd6e8f65d8c71f8f759" CHECKSUMTYPE="MD5" SIZE="50186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00075_0.tif"/>
+      </file>
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="8179c91d316fa1901961e8bc22dc1dcc" CHECKSUMTYPE="MD5" SIZE="9406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00075_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="3a5e18507b104beb4e706d7ac2d682f2" CHECKSUMTYPE="MD5" SIZE="1442326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="d4276d0cf2bc739486199b5103c3f2d6" CHECKSUMTYPE="MD5" SIZE="2670079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00074_0.jp2"/>
+      </file>
+      <file ID="jp2_00074_1" MIMETYPE="image/jp2" CHECKSUM="a68ad13c2b99da6fe0fd1bcd0afa1784" CHECKSUMTYPE="MD5" SIZE="2634490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00074_1.jp2"/>
+      </file>
+      <file ID="jp2_00075_0" MIMETYPE="image/jp2" CHECKSUM="df0b5977c5ca6c3b209e1141f0104954" CHECKSUMTYPE="MD5" SIZE="2924910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00075_0.jp2"/>
+      </file>
+      <file ID="jp2_00075_1" MIMETYPE="image/jp2" CHECKSUM="259c0d096acb4c964e90ae77a4e96b39" CHECKSUMTYPE="MD5" SIZE="1586212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000668_00075_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="5e004682584476a3ac390ea8701a70c8" CHECKSUMTYPE="MD5" SIZE="10916">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000668_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="baf6c902902dfb7fe0e8a40df30c736e" CHECKSUMTYPE="MD5" SIZE="107698">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000668_redacted_ALTO_00074_0.xml"/>
+      </file>
+      <file ID="alto_00074_1" MIMETYPE="text/xml" CHECKSUM="c1d6cc19826a7defa44c946e3fb043ff" CHECKSUMTYPE="MD5" SIZE="96018">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000668_redacted_ALTO_00074_1.xml"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml" CHECKSUM="c90c8964247c317221583bade87c67d9" CHECKSUMTYPE="MD5" SIZE="87915">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000668_redacted_ALTO_00075_0.xml"/>
+      </file>
+      <file ID="alto_00075_1" MIMETYPE="text/xml" CHECKSUM="640b3ba730206a9251ff5b2633640f2f" CHECKSUMTYPE="MD5" SIZE="14134">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000668_redacted_ALTO_00075_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="122" lastpage="126">
+              <court id="b146-6" pgmap="146">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b146-4" pgmap="146">CA 00-642</docketnumber>
+              <citation id="b146-5" pgmap="146">45 S.W.3d 427</citation>
+              <parties id="b146-3" pgmap="146">Alton OVERTON v. Jason JONES</parties>
+              <decisiondate id="b146-7" pgmap="146">Opinion delivered June 6, 2001</decisiondate>
+              <judges id="b149-8" pgmap="149">Neal, J., concurs.</judges>
+              <judges id="b149-9" pgmap="149">Pittman, J., agrees.</judges>
+              <attorneys id="b146-13" pgmap="146">Brazil, Adlong, &amp; Winningham, PLC, by: Caroline L. Winning-­ham, for appellant.</attorneys>
+              <attorneys id="b147-3" pgmap="147">Gary J. Mitchusson, PA., by: Gary J. Mitchusson, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b147-4" pgmap="147">Sam BIRD, Judge.</author>
+                <p id="AC4" pgmap="147">This case arises from a paternity determi­nation and custody award by the Chancery Court of St. Francis County regarding the minor child Spencer Lewis Jones, who was born out of wedlock on December 23, 1998. His mother, Nicole Overton, was killed in a car accident on April 10, 1999. Appellant Alton Overton, who is Nicole’s father and Spencer’s maternal grandfather, appeals the chancery court order that awarded custody of the child to appellee Jason Jones after determin­ing that Jones was his biological father. Overton contends that the trial court erred (1) in denying his motion to dismiss, based on improper venue and a lack of jurisdiction, and (2) in awarding custody to appellee Jones, because the child’s interests would be best served by awarding custody to Overton. We hold that the St. Francis County Chancery Court was not the proper venue for matters relating to the paternity and custody of the minor child. Therefore, we reverse on the first point and vacate the trial court’s orders. In view of this disposition, we find it unnecessary to address the merits of the second point.</p>
+                <p id="b147-5" pgmap="147">It is helpful to set forth the factual and procedural history of this case before turning to the issues on appeal. On April 13, 1999, three days after Nicole Overton’s death, Jason Jones filed a petition in St. Francis County Chancery Court seeking a determination that he was Jason’s father and asking that custody be awarded to him. On April 29, Alton and his new wife, Mary, filed in Saline County Chancery Court a petition for guardianship, and an order awarding guardianship was entered on that date.</p>
+                <p id="b147-6" pgmap="147(172) 148(71)">On May 6, Alton and Barbara Overton moved to dismiss the St. Francis County Chancery Court action, contending that the court did not have jurisdiction over the minor child, that St. Francis County was not the proper venue for the cause of action, and that the petition before the court failed to state facts upon which relief could be granted. They also contend that the Saline County Pro­bate Court had assumed jurisdiction of the child and had appointed a guardian, that the minor child resided in Saline County, and that the best interests of the child required that the litigation take place in Saline County. On May 18, the St. Francis County Chancery Court denied the Overtons’ motion to dismiss and conducted a paternity hearing, at which it considered the testimony of the parties and the results of a DNA test that had been performed before Nicole’s death. In an order of June 24, 1999, the court found that Jason Jones was the father of the child. On June 25, the Overtons filed a counter-petition alleging that Jason Jones was not a fit and proper person to have custody, and asking that Alton Over-­ton be awarded custody. On September 30, the St. Francis County Chancery Court conducted a hearing to decide who should be awarded custody of the child. By order of December 13, the St. Francis County Chancery Court awarded custody to Jason Jones and visitation privileges to the Overtons.</p>
+                <p id="b148-4" pgmap="148">Whether the trial court erred in denying Alton Overton’s motion to dismiss, based upon improper venue and lack of jurisdiction</p>
+                <p id="b148-5" pgmap="148">
+                   Venue and jurisdiction, though sometimes used inter­changeably, are two distinct legal concepts. Venue refers to the geographic area, like a county, where an action is brought to trial. Meny v. Norris, 340 Ark. 418, 13 S.W.3d 143 (2000). Jurisdiction is the power of a court to decide cases and presupposes control over the subject matter and parties. Id.</p>
+                <p id="b148-6" pgmap="148">Alton Overton contends that proper venue for the paternity and custody determinations relating to the child involved here was in Saline County, where the minor child resided, and that venue was improper in St. Francis County, where the father resided. Jason Jones contends that this issue should not be addressed because Overton did not raise his argument below. We disagree. Overton’s motion to dismiss as abstracted in his brief, specifically states that St. Francis County was not the proper venue for the paternity and custody determinations, and that the minor child had resided in Saline County for his entire lifetime and continued to reside there. Additionally, the abstracted order by which the court denied Over-­ton’s motion to dismiss includes the finding that the court “has jurisdiction over the parties and cause of action and is the proper venue.” From the allegations contained in the motion to dismiss and the court’s finding of “proper venue” in the order denying the motion, we find that the issue of venue was properly raised below.</p>
+                <p id="b148-7" pgmap="148">
+                   Venue of paternity actions shall be in the county in which the plaintiff resides or, in cases involving a juvenile, in the county in which the juvenile resides. Ark. Code Ann. § 9-10-102(c) (Supp. 1999) (emphasis added). As Overton points out, Spencer was first cared for at his home in Saline County by his mother; by his maternal step-grandmother, Mary J. Overton; and by his maternal grandparents, Alton and Barbara Overton. Furthermore, the Overtons continued to care for the child after his mother’s death.</p>
+                <p id="b149-5" pgmap="149">
+                   There is no dispute that the county of residence of Spencer Jones, the juvenile, was Saline County. Therefore, under the man­date of section 9-10-102(c), the proper venue for the paternity determination of Spencer Jones was in Saline County. Therefore, we reverse and vacate the St. Francis County Chancery Court order entered in this cause on June 24, 1999.</p>
+                <p id="b149-6" pgmap="149">
+                   Arkansas Code Annotated section 9-10-113(b) (Repl. 1998) provides that a biological father who has established paternity in a court of competent jurisdiction may petition the chancery court, or other court of competent jurisdiction, wherein the child resides, for custody of the child (emphasis added). Thus it is equally clear that Saline County, and not St. Francis County, was the proper venue for the custody determination in this case. Therefore, we reverse and vacate the St. Francis County Chancery Court order entered in this cause on December 13, 1999.</p>
+                <p id="b149-7" pgmap="149">The St. Francis County Chancery Court orders relating to the paternity and custody of Spencer Jones are reversed and vacated.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author id="b149-10" pgmap="149">Olly Neal, Judge,</author>
+                <p id="ACMW" pgmap="149">concurring. I concur with the decision to reverse because venue for custody determinations lies exclusively in the county in which the child resides. I disagree, however, with the holding that Section 9-10-102(c) fixes venue of a paternity action involving a juvenile in the county in which the juvenile resides.</p>
+                <p id="b149-11" pgmap="149">Section 9-10-102(c) provides, “Venue of paternity actions shall be in the county in which the plaintiff resides or, in cases involving a juvenile, in the county in which the juvenile resides.” The use of the word “or” does not place limitation on venue to the county in which the juvenile resides; it would have used the word “but” instead of “or,” allowing the statute to read, “Venue of paternity actions shall be in the county in which the plaintiff resides hut, in cases involving a juvenile, in the county in which the juvenile resides.”</p>
+                <p id="b149-12" pgmap="149(47) 150(25)">It is not beyond the realm of logic that the legislature would allow venue of paternity action to He in two counties. A prior statute allowed a man seeking to establish paternity to bring the action in either the county in which the mother resided or the county in which the child resided. See Ark. Stat. Ann. 34-716 (Supp. 1981). See also Fuller v. Robinson, 279 Ark. 252, 650 S.W.2d 585 (1983).</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="146" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.1" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.2" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="148" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jp2_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.2" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jp2_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.2" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="150" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jp2_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.2" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.7" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.4" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.8" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            <area BEGIN="BL_148.1" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.6" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-13" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.15" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.12" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_150.1" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACMW" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.9" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_149.10" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.6" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.7" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.4" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.5" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.11" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.4" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.7" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AC4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.5" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.3" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.4" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.5" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.6" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.7" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.3" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.8" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000716_0014" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Kay v. State">Leonard KAY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 93-576</docketnumber>
+          <citation category="official" type="bluebook">46 Ark. App. 82</citation>
+          <citation category="parallel" type="bluebook">877 S.W.2d 957</citation>
+          <decisiondate>1994-06-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T19:01:39Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:17Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T11:09:49Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T11:11:24Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="625e20992801dc8c202a54f8e6eccb7c" CHECKSUMTYPE="MD5" SIZE="8822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="45fe73357772b4f9ffba44c7f56b0aee" CHECKSUMTYPE="MD5" SIZE="49838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00054_0.tif"/>
+      </file>
+      <file ID="tiff_00054_1" MIMETYPE="image/tiff" CHECKSUM="3a330cb44cab03611f853f6b3fc490d4" CHECKSUMTYPE="MD5" SIZE="57230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00054_1.tif"/>
+      </file>
+      <file ID="tiff_00055_0" MIMETYPE="image/tiff" CHECKSUM="7a5bfb7cf2c1d67c34cb8a70eb0ff76d" CHECKSUMTYPE="MD5" SIZE="58612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00055_0.tif"/>
+      </file>
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="d299f637bec9620a3af4c1a2fbe091f6" CHECKSUMTYPE="MD5" SIZE="44918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="41ee1f30ac2ed9011c316976ade21316" CHECKSUMTYPE="MD5" SIZE="37542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00056_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="f1b5266cca93e78b656245c6aaeeaecc" CHECKSUMTYPE="MD5" SIZE="1448041">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="81d5b89c9b2fa65f63707f6e6952e5ec" CHECKSUMTYPE="MD5" SIZE="2560580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00054_0.jp2"/>
+      </file>
+      <file ID="jp2_00054_1" MIMETYPE="image/jp2" CHECKSUM="ddaf1d431cdfa5e1eaf3633e7b818c36" CHECKSUMTYPE="MD5" SIZE="2577172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00054_1.jp2"/>
+      </file>
+      <file ID="jp2_00055_0" MIMETYPE="image/jp2" CHECKSUM="f8ea30e47c3d7bdde34fa1aedf87cdad" CHECKSUMTYPE="MD5" SIZE="2669527">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00055_0.jp2"/>
+      </file>
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="27b2a5fefb2f6404c448d1834cbf3a02" CHECKSUMTYPE="MD5" SIZE="2545450">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="cff111a628601edb96191ac11425ce51" CHECKSUMTYPE="MD5" SIZE="2471256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000716_00056_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="11ae5db6e2b1cb1c7c43411938679905" CHECKSUMTYPE="MD5" SIZE="12786">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="ecfb424e12fb75b84c9d7970162885ea" CHECKSUMTYPE="MD5" SIZE="83847">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00054_0.xml"/>
+      </file>
+      <file ID="alto_00054_1" MIMETYPE="text/xml" CHECKSUM="07db4d151d5bf5760d1386a87212158a" CHECKSUMTYPE="MD5" SIZE="92972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00054_1.xml"/>
+      </file>
+      <file ID="alto_00055_0" MIMETYPE="text/xml" CHECKSUM="9fca4922396b3f52dc07afffa47e7324" CHECKSUMTYPE="MD5" SIZE="101888">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00055_0.xml"/>
+      </file>
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="c39baeba728f33a68a70c086035ff2a5" CHECKSUMTYPE="MD5" SIZE="80162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="1f26e8f42dd57da5b364a2598f944674" CHECKSUMTYPE="MD5" SIZE="63001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000716_redacted_ALTO_00056_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="87" firstpage="82">
+              <court pgmap="106" id="AfB">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber pgmap="106" id="Al9">CA CR 93-576</docketnumber>
+              <citation pgmap="106" id="ARGG">877 S.W.2d 957</citation>
+              <parties pgmap="106" id="A3H">Leonard KAY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="106" id="A26">Opinion delivered June 15, 1994</decisiondate>
+              <otherdate pgmap="106" id="APG">[Rehearing denied August 17, 1994.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="110" id="b110-8">Cooper and Robbins, JJ., dissent.</judges>
+              <attorneys pgmap="106" id="A31s">James Dunham, for appellant.</attorneys>
+              <attorneys pgmap="107" id="b107-5">Winston Bryant, Att’y Gen., by: J. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="106" id="Avp">*Cooper and Robbins, JJ., would grant rehearing.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="107" id="b107-6">John Mauzy Pittman, Judge.</author>
+                <p pgmap="107" id="Aqu">Leonard Kay appeals from his conviction at a bench trial of driving while intoxicated, sec­ond offense. He contends that the trial court erred in admitting into evidence the results of a breathalyzer test given at the direc­tion of the arresting officer. We affirm.</p>
+                <p pgmap="107" id="b107-7">Prior to his trial, appellant moved to exclude evidence of the breathalyzer test on grounds that the officer had failed to advise appellant of his right to an additional test and to assist him in obtaining such a test as required by Ark. Code Ann. § 5-­65-204(e) (Repl. 1993). That section provides:</p>
+                <blockquote pgmap="107" id="b107-8">The person tested may have a physician or a qualified tech­nician, registered nurse, or other qualified person of his own choice administer a complete chemical test in addition to any test administered at the direction of a law enforce­ment officer.</blockquote>
+                <blockquote pgmap="107" id="b107-9">(1) The law enforcement officer shall advise the per­son of this right.</blockquote>
+                <blockquote pgmap="107" id="b107-10">(2) The refusal or failure of a law enforcement offi­cer to advise such person of this right and to permit and assist the person to obtain such test shall preclude the admission of evidence relating to the test taken at the direc­tion of a law enforcement officer.</blockquote>
+                <p pgmap="107" id="b107-11">Appellant’s motion was denied after a hearing, and the results of the breathalyzer test were admitted against appellant at trial.</p>
+                <p pgmap="107(108) 108(44)" id="b107-12">At the hearing on appellant’s motion, Officer Ben Cross of the Russellville Police Department testified that he stopped appel­lant’s vehicle at approximately 7:00 p.m. on February 21, 1992. After administering several field sobriety tests, Officer Cross arrested appellant for DWI and took him to the police depart­ment for a breathalyzer test. Officer Cross testified that he read appellant his rights regarding the administration of the test from a standard rights form. The form specifically included appel­lant’s right to have, at his own expense, a physician, qualified technician, registered nurse, or other qualified person of appel­lant’s choice administer a separate blood, breath, or urine test. It also stated that the Russellville Police Department would assist appellant in obtaining the additional test. Appellant signed the rights form, acknowledging his understanding of the rights, and agreed to take the breathalyzer. The test results showed appellant’s blood-alcohol level to be .218 percent.</p>
+                <p pgmap="108" id="b108-6">Appellant then asserted his right to an additional test. Offi­cer Cross testified that he told appellant that St. Mary’s Hospi­tal would perform the test for approximately $400.00. The offi­cer testified that St. Mary’s was readily accessible and, to the best of his knowledge, the only facility within his jurisdiction available to perform the blood test. Appellant told the officer that he did not have $400.00 in cash, but insisted that he had checks, that he had an account at St. Mary’s, and that the hos­pital would accept his check. Officer Cross told appellant that, as far as he knew, the hospital had a cash-only policy regarding DWI blood tests. Due to appellant’s insistence, Officer Cross telephoned the emergency room at St. Mary’s, informed hospi­tal personnel that he had appellant in custody, and asked whether appellant’s check would be accepted. The officer testified that he was told that the hospital would accept cash only, payable before performance of the test. Officer Cross testified that appel­lant, who appeared extremely intoxicated, became very argu­mentative, saying over and over, “I’ve got checks. I can pay for it.” The officer did not recall appellant saying anything about credit cards. Nor did the officer recall appellant asking to be taken to any other facility, mentioning any other type of test (breath or urine), or requesting any other form of assistance. Because appellant did not have the necessary funds, the officer refused to take appellant to St. Mary’s.</p>
+                <p pgmap="108" id="b108-7">On cross-examination, Officer Cross admitted that he had heard that St. Mary’s was a very expensive hospital. He denied, however, knowing the prices charged for blood tests by other facilities. He also denied that St. Mary’s was the only facility to which he would take a person for an additional test, stating that he would take a suspect to see the qualified person the suspect desired to see.</p>
+                <p pgmap="108(33) 109(213)" id="b108-8">Appellant also testified at the hearing on his motion. He admitted that Officer Cross informed him of his rights by read­ing the rights form to him. Appellant testified that he asserted his right to a blood test as his additional test. He testified that he told the officer that he had with him $200.00 in cash, a couple of checks, and credit cards. Appellant stated that Officer Cross told him that he could not have a blood test unless he had $400.00 in cash. Appellant testified that, subsequent to the date of his arrest, he learned of two or three area medical clinics that per­form blood-alcohol tests, including the clinic with which appel­lant’s personal physician is associated. Appellant also testified that his doctor’s clinic would accept checks and credit cards. Appel­lant did not know the accepted methods of payment at the other facilities to which he referred. Nor was there any proof as to the cost of a blood alcohol test at any of the clinics. Moreover, appel­lant admitted that he never mentioned or asked to be taken to any facility other than St. Mary’s. Appellant also admitted that he never asked to telephone a friend or relative who might bring him money for the test. Appellant concluded his testimony by stating that what he found unreasonable was Officer Cross’s fail­ure to “take[] me to St. Mary’s where I could have made arrange­ments for payment and gotten my test.”</p>
+                <p pgmap="109" id="b109-6">The parties stipulated that a phone call was placed to St. Mary’s on the day of the hearing (October 19, 1992)' and that hospital personnel stated that credit cards would be accepted for DWI blood-alcohol tests. However, the stipulation did not touch on how long that had been hospital policy. Nor did it touch on whether checks would be accepted.</p>
+                <p pgmap="109(161) 110(57)" id="b109-7">
+                   We note that appellant’s motion was not one to “sup­press” evidence under Ark. R. Crim. P. 16.2. Scalco v. State, 42 Ark. App. 134, 856 S.W.2d 23 (1993). Nevertheless, when a defendant moves to exclude a test pursuant to § 5-65-204(e)(2), the State bears the burden of proving by a preponderance of the evidence that the defendant was advised of his right to have an additional test performed and that he was assisted in obtaining a test. See McEntire v. State, 305 Ark. 470, 472, 808 S.W.2d 762, 763-64 (1991). Substantial compliance with the statutory provi­sion about the advice that must be given is all that is required. Hegler v. State, 286 Ark. 215, 691 S.W.2d 129 (1985). Further­more, the officer must provide only such assistance in obtaining an additional test as is reasonable under the circumstances pre­sented. Williford v. State, 284 Ark. 449, 683 S.W.2d 228 (1985). Whether the assistance provided was reasonable under the cir­cumstances is ordinarily a fact question for the trial court to decide. Girdner v. State, 285 Ark. 70, 684 S.W.2d 808 (1985); Fiegel v. City of Cabot, 27 Ark. App. 146, 767 S.W.2d 539 (1989). It is for the trial court to weigh the evidence and resolve the cred­ibility of the witnesses. Girdner v. State, supra.</p>
+                <p pgmap="110" id="b110-6">
+                   From our review of the record, we cannot conclude that the trial court erred in denying appellant’s motion. Accord­ing to the testimony of both Officer Cross and appellant, the offi­cer’s advice concerning appellant’s right to an additional test by the person of his choice literally complied with the statute. And, in light of all of the circumstances in this case, we cannot say that the trial court’s finding of reasonable assistance to obtain another test is clearly against the preponderance of the evidence.</p>
+                <p pgmap="110" id="b110-7">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="110" id="b110-9">James R. Cooper, Judge,</author>
+                <p pgmap="110" id="Ae4">dissenting. I dissent because I can­not agree that the Russellville Police Department provided the appellant with reasonable assistance in obtaining an additional test, as required by Ark. Code Ann. § 5-65-204 (Repl. 1993). That statute provides that, if a breathalyzer test is administered to a DWI suspect by police authorities:</p>
+                <blockquote pgmap="110" id="b110-10">(e) The person tested may have a physician or a qual­ified technician, registered nurse, or other qualified per­son of his own choice administer a complete chemical test in addition to any test administered at the direction of a law enforcement officer.</blockquote>
+                <blockquote pgmap="110" id="b110-11">(1) The law enforcement officer shall advise the per­son of this right.</blockquote>
+                <blockquote pgmap="110" id="b110-12">(2) The refusal or failure of a law enforcement offi­cer to advise such person of this right and to permit and assist the person to obtain such test shall preclude the admission of evidence relating to the test taken at the direc­tion of a law enforcement officer.</blockquote>
+                <p pgmap="110" id="b110-13">(Emphasis added).</p>
+                <p pgmap="110(21) 111(77)" id="b110-14">We found that reasonable assistance was rendered in Hud­son v. State, 43 Ark. App. 190, 863 S.W.2d 323 (1993). However, in that case police officers transported the appellant to a local hospital, where the appellant declined to have a blood specimen taken for a blood alcohol test. In the case at bar, the appellant never had the opportunity to have such a test administered because the police officer refused to take him to St. Mary’s hospital after informing him that this was the only facility within his jurisdic­tion which was available to perform the blood test.</p>
+                <p pgmap="111" id="b111-6">Clearly, the “assistance” offered the appellant focused his efforts to obtain an additional test on one particular facility which, Officer Cross admitted, was known to him to be a “very expen­sive” hospital. This is certainly borne out by the $400.00 price charged for the test. Perhaps the level of assistance offered would have been reasonable had the police officer transported the appel­lant to the hospital to allow him to make arrangements with the staff regarding available tests and payment options. However, to focus the appellant’s efforts to obtain an additional test on a hos­pital known to be very expensive which requires payment in cash, and then to refuse to transport him to that facility because he, pre­dictably, does not have sufficient funds on his person, is no assis­tance whatsoever. I believe that the “assistance” offered the appel­lant actually had a chilling effect on his right to have an additional test, and that more actual assistance would have been rendered by merely providing the appellant with a telephone and a local directory.</p>
+                <p pgmap="111" id="b111-7">I respectfully dissent.</p>
+                <p pgmap="111" id="b111-8">Robbins, J., joins in this dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="106" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.2" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="108" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00054_1"/>
+        <fptr FILEID="jp2_00054_1"/>
+        <fptr FILEID="alto_00054_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_108.2" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="109" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00055_0"/>
+        <fptr FILEID="jp2_00055_0"/>
+        <fptr FILEID="alto_00055_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_109.3" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="110" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.4" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.5" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfB" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.6" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.9" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.8" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b108-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_108.6" BETYPE="IDREF" FILEID="alto_00054_1"/>
+            <area BEGIN="BL_109.1" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-13" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.13" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.12" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.11" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.10" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.5" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APG" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.8" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.7" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqu" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A26" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.7" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avp" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.16" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.5" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3H" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.3" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.4" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARGG" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-11" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.11" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-10" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.10" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-14" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.14" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            <area BEGIN="BL_111.1" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.6" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-9" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.7" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.6" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.5" BETYPE="IDREF" FILEID="alto_00055_0"/>
+            <area BEGIN="BL_110.1" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b109-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_109.4" BETYPE="IDREF" FILEID="alto_00055_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.12" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            <area BEGIN="BL_108.1" BETYPE="IDREF" FILEID="alto_00054_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A31s" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.15" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.8" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            <area BEGIN="BL_110.9" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

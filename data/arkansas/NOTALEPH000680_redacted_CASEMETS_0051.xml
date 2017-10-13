@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000680_0051" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Lloyd’s of London v. Warren">LLOYD’S OF LONDON v. David WARREN</name>
+          <docketnumber>CA 98-1039</docketnumber>
+          <citation category="official" type="bluebook">66 Ark. App. 370</citation>
+          <citation category="parallel" type="bluebook">990 S.W.2d 589</citation>
+          <decisiondate>1999-05-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T20:32:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:24Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:26:40Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:27:58Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00199_1" MIMETYPE="image/tiff" CHECKSUM="c85c47b7f0d23692bcdc91d8ce4d7dde" CHECKSUMTYPE="MD5" SIZE="21464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00199_1.tif"/>
+      </file>
+      <file ID="tiff_00200_0" MIMETYPE="image/tiff" CHECKSUM="46a490cdd717db56765282eec14f8063" CHECKSUMTYPE="MD5" SIZE="26282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00200_0.tif"/>
+      </file>
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="3735ecd1293f906010103173b87391e7" CHECKSUMTYPE="MD5" SIZE="52026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="7b712fb1fce8ed0f198797b00c8f93ca" CHECKSUMTYPE="MD5" SIZE="55428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="2467330cb614070c3ea1ff498cdc2ec8" CHECKSUMTYPE="MD5" SIZE="11166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00201_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00199_1" MIMETYPE="image/jp2" CHECKSUM="8df989b1e298f9ec8aae0d086fa30a40" CHECKSUMTYPE="MD5" SIZE="1946196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00199_1.jp2"/>
+      </file>
+      <file ID="jp2_00200_0" MIMETYPE="image/jp2" CHECKSUM="ce8255d468f3a4ac570e59cf71c16df8" CHECKSUMTYPE="MD5" SIZE="1849848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00200_0.jp2"/>
+      </file>
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="faaae55f60306371e67a1c660cce3e98" CHECKSUMTYPE="MD5" SIZE="2603240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00200_1.jp2"/>
+      </file>
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="3c9995878964c091571b1cf7b0886204" CHECKSUMTYPE="MD5" SIZE="2579251">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00201_0.jp2"/>
+      </file>
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="3c795a618f0df8a8281037fd6b528020" CHECKSUMTYPE="MD5" SIZE="1905612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00201_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00199_1" MIMETYPE="text/xml" CHECKSUM="a6717b926877f49e8bba0882e86ab51b" CHECKSUMTYPE="MD5" SIZE="33693">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00199_1.xml"/>
+      </file>
+      <file ID="alto_00200_0" MIMETYPE="text/xml" CHECKSUM="c0ab89a80d2865215f5b74e1cdcfb99e" CHECKSUMTYPE="MD5" SIZE="43421">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00200_0.xml"/>
+      </file>
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="294a982067f41385343b7f6c1f6c7ba7" CHECKSUMTYPE="MD5" SIZE="89265">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00200_1.xml"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="32ac2c73e15679731c95fb34da699ada" CHECKSUMTYPE="MD5" SIZE="98544">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00201_0.xml"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="70f7a9e5e548734c314af76855d722c5" CHECKSUMTYPE="MD5" SIZE="15296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00201_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0051" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="374" firstpage="370">
+              <court pgmap="398" id="b398-9">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="398" id="AWq">CA 98-1039</docketnumber>
+              <citation pgmap="398" id="Agg">990 S.W.2d 589</citation>
+              <parties pgmap="398" id="b398-8">LLOYD’S OF LONDON v. David WARREN</parties>
+              <decisiondate pgmap="398" id="b398-10">Opinion delivered May 26, 1999</decisiondate>
+              <judges pgmap="402" id="b402-5">Robbins, C.J., and Roaf, J., agree.</judges>
+              <attorneys pgmap="399" id="b399-10">Daggett, Van Dover, Donovan &amp; Perry, PLLC , by: Jesse B. Daggett, for appellant.</attorneys>
+              <attorneys pgmap="399" id="b399-12">Victor L. Hill, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="399" id="AB5">Terry Crabtree, Judge.</author>
+                <p pgmap="399" id="AXG">This case involves a motion for new trial. A jury sitting in Phillips County Circuit Court returned a verdict in favor of the appellee, David Warren, but failed to award appellee any damages. The court entered judgment for appellee on February 13, 1998. Ten days later, appellee made a written motion for new trial citing Arkansas Rule of Civil Procedure 59(a)(5) &amp; (6). On March 25, 1998, the court entered an order granting appellee’s motion for new trial pursuant to Rule 59. On appeal, the appellant, Lloyd’s of London, chal­lenges that order arguing that the trial judge abused his discretion in granting the motion. We disagree with appellant and affirm.</p>
+                <p pgmap="399(42) 400(55)" id="b399-14">Appellee alleged that on or about June 7, 1993, his 1986 Isuzu I-Mark automobile was stolen from the front lawn of his parents’ home in West Helena, Arkansas, and dragged by thieves into the street fronting the home, where appellee’s personal prop­erty contained within the vehicle was stolen, and the car was set on fire. Appellee filed a claim with appellant under his parents’ homeowner’s insurance policy. Subsequently, an amendment to the claim was submitted with a list of the items that were stolen from appellee’s car. Appellant refused to pay any portion of the claim.</p>
+                <p pgmap="400" id="b400-5">Appellee filed a series of complaints against appellant on the homeowner’s policy issued by appellant to appellee’s father, alleg­ing causes of action for breach of contract, bad faith, and punitive damages. Arguing that he was an “insured” under the policy because he lived with his parents, that the loss of the contents of his vehicle had occurred on the “insured premises,” and that appellant had wrongfully failed to pay for the loss of the contents of the vehicle, appellee filed complaints alleging damages for breach of contract and bad faith in the amount of $14,593.70. Subsequently, he argued that he had suffered lost income as a part-­time musician due to appellant’s failure to pay the claim for a musical instrument alleged to have been contained within the vehicle at the time of the loss.</p>
+                <p pgmap="400" id="b400-6">Appellant responded to each of appellee’s complaints, argu­ing that even if appellee was an insured under the policy, the loss had not occurred on the insured premises. As a result, appellant denied any liability under its homeowner’s policy. At trial, the jury heard the testimony of eight witnesses. After deliberating, the jury returned two completed verdict forms. Ten members of the jury found for appellee on both of his causes of action, but they assessed no damages against appellant on either of the claims. On the second verdict form, signed only by the foreman, the jury returned a unanimous verdict for appellant and assessed no damages.</p>
+                <p pgmap="400(81) 401(210)" id="b400-7">
+                   Appellant argues on appeal that the circuit judge abused his discretion in setting aside the jury verdict and in grant­ing appellee’s motion for new trial. Rule 59(a)(6) of the Arkansas Rules of Civil Procedure provides that a new trial may be granted to all or any of the parties on all or part of the issues on the appli­cation of the party aggrieved when the verdict or decision is clearly against the preponderance of the evidence. While the trial court has some discretion in setting aside a jury verdict, there is no longer the broad discretion that the supreme court formerly rec­ognized. Ray v. Green, 310 Ark. 571, 839 S.W.2d 515 (1992). The trial court has limited discretion in the matter, as it may not substitute its view of the evidence for the jury’s except when the verdict is clearly against the preponderance of the evidence. Young v. Honeycutt, 324 Ark. 120, 919 S.W.2d 216 (1996); see Collins v. Treadwell, 54 Ark. App. 100, 923 S.W.2d 882 (1996). The test this court applies in reviewing the trial court’s granting of a motion for new trial is whether the judge abused his discretion; a showing of abuse of discretion is more difficult when a new trial has been granted because the party opposing the motion will have another opportunity to prevail. Richardson v. Flanery, 316 Ark. 310, 871 S.W.2d 589 (1994); Nationwide Mut. Fire Ins. Co. v. Bryson, 60 Ark. App. 293, 962 S.W.2d 824 (1998). The supreme court has described this standard as requiring a showing of “clear” or “mani­fest” abuse of discretion by acting improvidently or thoughtlessly without due consideration. See Razorback Cab of Fort Smith, Inc. v. Martin, 313 Ark. 445, 856 S.W.2d 2 (1993).</p>
+                <p pgmap="401" id="b401-5">
+                   First, appellant asserts that the trial court improperly made reference to an inconsistency in the verdict forms in its order granting a new trial. We note that appellee never contended or raised the issue of the inconsistent verdict forms as a basis for the new trial. Although the trial court made reference to the incon­sistent verdict forms, the judge based his order on Ark. R. Civ. P. 59. Therefore, it is not necessary for us to entertain appellant’s argument regarding inconsistent verdict forms.</p>
+                <p pgmap="401(126) 402(20)" id="b401-6">
+                   Appellant further argues that the lower court lacked a sufficient basis to order a new trial and therefore abused its discre­tion. Appellee requested a new trial based upon the inadequacy of damages and the fact that the jury’s decision was contrary to a preponderance of the evidence adduced at trial. Rule 59(a) of the Arkansas Rules of Civil Procedure allows a motion for a new trial to be granted upon a showing of one of eight reasons. See Esry v. Carden, 328 Ark. 153, 942 S.W.2d 846 (1997). One permissible reason is that “the verdict or decision is clearly contrary to the preponderance of the evidence or is contrary to law.” Ark. R. Civ. P. 59(a)(6). In this instance, we believe that the trial judge reasonably found that the jury’s verdicts for both appellant and appellee were against the preponderance of the evidence and affirm.</p>
+                <p pgmap="402" id="b402-4">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="398" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00199_1"/>
+        <fptr FILEID="jp2_00199_1"/>
+        <fptr FILEID="alto_00199_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_398.2" BETYPE="IDREF" FILEID="alto_00199_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="399" ORDERLABEL="371" TYPE="page">
+        <fptr FILEID="tiff_00200_0"/>
+        <fptr FILEID="jp2_00200_0"/>
+        <fptr FILEID="alto_00200_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_399.3" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="400" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.2" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="373" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="374" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.2" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXG" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.11" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_399.12" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_399.13" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-9" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.11" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.8" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-12" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.9" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agg" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.10" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWq" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.9" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-10" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.8" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b399-14" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.14" BETYPE="IDREF" FILEID="alto_00200_0"/>
+            <area BEGIN="BL_400.1" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b398-10" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_398.12" BETYPE="IDREF" FILEID="alto_00199_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_399.10" BETYPE="IDREF" FILEID="alto_00200_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.6" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_401.1" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.5" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

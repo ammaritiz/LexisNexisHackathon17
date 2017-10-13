@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000684_0004" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Dye v. State">Robert DYE and Christopher Stowell v. STATE of Arkansas</name>
+          <docketnumber>CA 99-366</docketnumber>
+          <citation category="official" type="bluebook">69 Ark. App. 15</citation>
+          <citation category="parallel" type="bluebook">9 S.W.3d 539</citation>
+          <decisiondate>2000-01-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:48:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:11:22Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:39:02Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:40:12Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="4d517cf6ce97ceadc53bf0c1b5187452" CHECKSUMTYPE="MD5" SIZE="7212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="f383e11659621add764855efc02a939c" CHECKSUMTYPE="MD5" SIZE="47796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00022_1.tif"/>
+      </file>
+      <file ID="tiff_00023_0" MIMETYPE="image/tiff" CHECKSUM="3a0c49019d6685571b4ecc6a758207a6" CHECKSUMTYPE="MD5" SIZE="57932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00023_0.tif"/>
+      </file>
+      <file ID="tiff_00023_1" MIMETYPE="image/tiff" CHECKSUM="551fc622d409fd3633d8477a003a9f8a" CHECKSUMTYPE="MD5" SIZE="58084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00023_1.tif"/>
+      </file>
+      <file ID="tiff_00024_0" MIMETYPE="image/tiff" CHECKSUM="3a66103efe028dc3fadd78a2d6378501" CHECKSUMTYPE="MD5" SIZE="55736">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00024_0.tif"/>
+      </file>
+      <file ID="tiff_00024_1" MIMETYPE="image/tiff" CHECKSUM="ebd028010c230d217839c9c414f407fa" CHECKSUMTYPE="MD5" SIZE="9768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00024_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00022_0" MIMETYPE="image/jp2" CHECKSUM="f076d1bd95005ea8633d4756ead2e137" CHECKSUMTYPE="MD5" SIZE="1423690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00022_0.jp2"/>
+      </file>
+      <file ID="jp2_00022_1" MIMETYPE="image/jp2" CHECKSUM="353075ce439feb373dea19a1af7e0852" CHECKSUMTYPE="MD5" SIZE="2521329">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00022_1.jp2"/>
+      </file>
+      <file ID="jp2_00023_0" MIMETYPE="image/jp2" CHECKSUM="2be3fc78df3519021233497153a17b39" CHECKSUMTYPE="MD5" SIZE="2725180">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00023_0.jp2"/>
+      </file>
+      <file ID="jp2_00023_1" MIMETYPE="image/jp2" CHECKSUM="29274ec974c56affffbcc2971caf0112" CHECKSUMTYPE="MD5" SIZE="2680797">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00023_1.jp2"/>
+      </file>
+      <file ID="jp2_00024_0" MIMETYPE="image/jp2" CHECKSUM="82c63ee3bb31c156f69ea46812fdc292" CHECKSUMTYPE="MD5" SIZE="2644464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00024_0.jp2"/>
+      </file>
+      <file ID="jp2_00024_1" MIMETYPE="image/jp2" CHECKSUM="128383f9b7d69a4218d146fe2b66d7f1" CHECKSUMTYPE="MD5" SIZE="1599103">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000684_00024_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00022_0" MIMETYPE="text/xml" CHECKSUM="73a37205f7d397aac6e362692a7a92f9" CHECKSUMTYPE="MD5" SIZE="8665">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00022_0.xml"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml" CHECKSUM="4c54317e24aeb90643e2a8ff38eb6d9d" CHECKSUMTYPE="MD5" SIZE="80381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00022_1.xml"/>
+      </file>
+      <file ID="alto_00023_0" MIMETYPE="text/xml" CHECKSUM="b7225d5416b3e57a36ba682bce1a2a65" CHECKSUMTYPE="MD5" SIZE="91749">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00023_0.xml"/>
+      </file>
+      <file ID="alto_00023_1" MIMETYPE="text/xml" CHECKSUM="31ced25e28eef546ccb6a650cb7abddf" CHECKSUMTYPE="MD5" SIZE="101187">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00023_1.xml"/>
+      </file>
+      <file ID="alto_00024_0" MIMETYPE="text/xml" CHECKSUM="94f0084a8ef8fad0093f59ec576e212e" CHECKSUMTYPE="MD5" SIZE="91542">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00024_0.xml"/>
+      </file>
+      <file ID="alto_00024_1" MIMETYPE="text/xml" CHECKSUM="cbed0749beae0e1b62b713dfcbaa6fb6" CHECKSUMTYPE="MD5" SIZE="12060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000684_redacted_ALTO_00024_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="15" lastpage="20">
+              <court pgmap="43" id="b43-6">Court of Appeals of Arkansas Division III</court>
+              <docketnumber pgmap="43" id="b43-4">CA 99-366</docketnumber>
+              <citation pgmap="43" id="b43-5">9 S.W.3d 539</citation>
+              <parties pgmap="43" id="b43-3">Robert DYE and Christopher Stowell v. STATE of Arkansas</parties>
+              <decisiondate pgmap="43" id="b43-7">Opinion delivered January 12, 2000</decisiondate>
+              <judges pgmap="48" id="b48-5">Bird and Rogers, JJ., agree.</judges>
+              <attorneys pgmap="44" id="b44-7">Leigh Zuerker, Deputy Public Defender, for appellants.</attorneys>
+              <attorneys pgmap="44" id="b44-8">Mark Pryor, Att’y Gen., by: James R. Gowen, Jr., Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="44" id="b44-9">John E. JENNINGS, Judge.</author>
+                <p pgmap="44" id="A7J">Appellants, Robert Dye and Chris­topher Stowell, appeal from an order adjudging them to be delinquent juveniles. Appellant Dye, age ten, was found to have committed one count of felony criminal mischief for which he was placed on probation for a year. Appellant Stowell, age fifteen, was found to have committed two counts of felony criminal mischief, and one count of misdemeanor criminal mischief. His probation on a previous sentence was also revoked. He was placed on a suspended sentence to the Division of Youth Services and was placed on probation for two years. Stowell was also ordered to pay restitution in the amount of $5,064.67. Of that amount, Dye was ordered to be jointly responsible for the payment of $3,301.90. On appeal, appellants contend that the trial court erred in denying their motion to suppress statements that were made to a police officer. We affirm.</p>
+                <p pgmap="44" id="b44-10">In late July of 1998, several acts of vandalism took place in Fort Smith over the course of several evenings. A number of vehicles were damaged on the car lot of Fort City Motors; tires were slashed on a vehicle owned by Alfred Barter; and tires on a service truck were cut and six storefront windows were damaged at Darrell’s Tire Company. Appellants were arrested on the evening of July 26, 1998, for violating curfew after they were observed by an off-duty officer throwing stones into the lot of Fort Motors. The officer had been hired to watch the lot because of the damage that had been done the preceding nights.</p>
+                <p pgmap="44(55) 45(88)" id="b44-11">The next day, Detective Ron Lockhart went to the home of appellant Stowell and spoke to Stowell’s uncle and grandmother. Lockhart advised them of his suspicion that Stowell was involved in the acts of vandalism, and he asked them to bring Stowell to the police station for an interview. They complied with this request and arrived at the station before Lockhart. Without giving Miranda warnings, Lockhart conducted an interview, during which Stowell made incriminating statements. Afterwards, Lockhart advised Stow-­ell of his rights for the purpose of taking a formal statement. When Stowell invoked his right to counsel, Lockhart advised Stowell and the adults that he could not speak with them any further and that they were free to leave. Stowell changed his mind about wanting an attorney and gave a statement confessing his guilt after executing a written waiver of his rights.</p>
+                <p pgmap="45" id="b45-6">Lockhart also visited the home of appellant Dye that day, and he spoke with Dye in the presence of his mother. Dye made admissions of his own guilt and implicated Stowell as being involved as well. Lockhart asked Dye’s mother to bring him to the police station at 8:30 the following morning for an interview. The next morning, Mrs. Dye called Lockhart and asked if the interview could be postponed until 10:30 a.m., but Lockhart advised her that the later time was inconvenient because he had another interview scheduled at that time. Without giving Miranda warnings, Lockhart interviewed Dye who once again admitted guilt. Lockhart then advised Dye of his rights, and Dye gave a statement, after waiving his rights in writing, admitting his involvement in the vandalism that occurred at Fort City Motors.</p>
+                <p pgmap="45" id="b45-7">At issue on appeal are the statements made by the appellants during the initial interviews at the police station and the statements made by them after they had been advised of their rights. Appellant Dye makes no argument that the admissions he made at his home were subject to suppression. Appellants argue that the first, unwarned statements were invalid and that the subsequent state­ments were tainted as “fruits of the poisonous tree.” Specifically, appellants argue that their initial statements were invalid because Detective Lockhart failed to advise them that they were under no obligation to meet with him at the police station in violation of Rules 2.2 and 2.3 of the Arkansas Rules of Criminal Procedure. Secondly, appellants contend that their first statements were a prod­uct of custodial interrogation made without being advised of the Miranda warnings.</p>
+                <p pgmap="45(30) 46(31)" id="b45-8">
+                   In making these arguments, appellants recognize the Supreme Court’s decision in Oregon v. Elstad, 470 U.S. 298 (1985), where the Court held that a confession made after a suspect has been warned of his rights is not necessarily subject to suppression because it was preceded by statements made in response to custodial questioning without benefit of Miranda warnings. The Court stated:</p>
+                <blockquote pgmap="46" id="b46-4">We must conclude that, absent deliberately coercive and improper tactics in obtaining the initial statement, the mere fact that a suspect has made an unwarned admission does not warrant a pre­sumption of compulsion. A subsequent administration of Miranda warnings to a suspect who has given a voluntary but unwarned statement ordinarily should suffice to remove the conditions that precluded the admission of the earlier statement. In such circum­stances, the finder of fact may reasonably conclude that the suspect made a rational and intelligent choice whether to waive or invoke his rights.</blockquote>
+                <p pgmap="46" id="b46-5">Id. at 314. The Court ruled that the second confession was admissi­ble because the first, unwarned remark was voluntarily made as there was nothing coercive about the environment in which it was given. In its decision, the Court also observed that the lapse of time between the two statements was not a controlling factor.</p>
+                <p pgmap="46(254) 47(35)" id="b46-6">Appellants argue, however, that in contrast to the decision in Elstad, their first statements were made in a coercive atmosphere and were thus involuntary. They liken the facts of this case to those found in Shelton v. State, 287 Ark. 322, 699 S.W.2d 728 (1985). In that case, a police officer had been brutally murdered by Shelton’s accomplice, Porier. Shelton, age seventeen, and another accom­plice, age fourteen, had been haled out of a bunkhouse by officers at 2:30 a.m. by use of a P.A. system. The boys were told that the officers were looking for Porier and another suspect in the killing, and they were driven in a patrol unit to the home of Shelton’s parents. When they arrived at the home, Shelton was left alone in the vehicle with a police officer who stressed the seriousness of the crime and told Shelton that he had better tell if he knew the location of the suspects or anything about the murder. Shelton then began crying and said, “We did it. We did it. We were there. We were there.” Shelton was then administered Miranda warnings and was taken to the police station where he gave a detailed statement after again being advised of his rights. Focusing on Shelton’s age and the place of interrogation, the supreme court determined that Shelton’s initial statement was the product of custodial interroga­tion, and it reversed the trial court’s denial of the motion to sup­press. The court also held that the subsequent statement given at the police station should also have been excluded. In so holding, the court discussed the rule in Elstad and found it inapplicable because of the coercive elements present at the time the initial admission was made.</p>
+                <p pgmap="47" id="b47-6">
+                   In the present case, we need not directly address appel­lants’ arguments that the first statements were subject to suppression either because the officer failed to advise them that they were not obligated to come to the police station or because they were in custody and not advised of their rights before the interview began. From our review of the record, no references were made to the initial statements at the adjudication portion of the hearing; thus, those statements were not introduced into evidence and used against them. Rather, even assuming that the initial statements should have been excluded for the reasons advanced by appellant, the issue in this case is whether the first statements were made involuntarily so as to render the second, warned statements inad­missible. In reviewing a trial judge’s ruling on a motion to suppress, we make an independent determination based upon the totality of the circumstances, and we reverse only if the ruling is clearly against the preponderance of the evidence. Wright v. State, 335 Ark. 395, 983 S.W.2d 397 (1998).</p>
+                <p pgmap="47" id="b47-7">
+                   Considering the totality of the circumstances, we cannot conclude that the first statements were involuntary. Officer Lock-­hart did not immediately escort the appellants to the police station; instead, he asked them to come there later for the purpose of giving an interview. Appellants, although minors, were interviewed in the presence of their adult caretakers, and there was no testimony that Officer Lockhart made use of any improper tactics to compel them to speak. We are also particularly struck by Lockhart’s statement to Stowell that he was free to leave when Stowell invoked his right to counsel. Although appellants argue that there is a degree of com­pulsion associated with the interviews being conducted at the police station, we are not convinced that this alone rendered the environment coercive in view of all of the attending circumstances. In sum, absent in this case are any of the coercive elements found in Shelton v. State, supra. We thus cannot say that the trial court’s decision to deny appellants’ motion to suppress is clearly against the preponderance of the evidence.</p>
+                <p pgmap="47" id="b47-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="43" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jp2_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.2" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jp2_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.2" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="45" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00023_0"/>
+        <fptr FILEID="jp2_00023_0"/>
+        <fptr FILEID="alto_00023_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_45.3" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="46" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00023_1"/>
+        <fptr FILEID="jp2_00023_1"/>
+        <fptr FILEID="alto_00023_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.2" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="47" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00024_0"/>
+        <fptr FILEID="jp2_00024_0"/>
+        <fptr FILEID="alto_00024_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.3" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="48" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00024_1"/>
+        <fptr FILEID="jp2_00024_1"/>
+        <fptr FILEID="alto_00024_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_48.1" BETYPE="IDREF" FILEID="alto_00024_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7J" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.10" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_44.11" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_44.12" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.4" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.5" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.6" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.7" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.14" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_45.1" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.13" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.6" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.6" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            <area BEGIN="BL_47.1" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b48-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_48.3" BETYPE="IDREF" FILEID="alto_00024_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.4" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.5" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.4" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.5" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.7" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.5" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.4" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.9" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.8" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.6" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            <area BEGIN="BL_46.1" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000698_0003" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Phillips v. State">Fred PHILLIPS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-1152</docketnumber>
+          <citation category="official" type="bluebook">88 Ark. App. 17</citation>
+          <citation category="parallel" type="bluebook">194 S.W.3d 222</citation>
+          <decisiondate>2004-09-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T20:25:41Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:58:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:34:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:37:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="ac959c18e84411b8da606521b9144a60" CHECKSUMTYPE="MD5" SIZE="19420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00021_0.tif"/>
+      </file>
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="b9e5253eaac0b226ed48446d32e8c130" CHECKSUMTYPE="MD5" SIZE="51016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00021_1.tif"/>
+      </file>
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="c2c3ada618a980ff08e0f70773917bc0" CHECKSUMTYPE="MD5" SIZE="60144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="7f6989ea0422f771fef330a7db697f3e" CHECKSUMTYPE="MD5" SIZE="51096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00022_1.tif"/>
+      </file>
+      <file ID="tiff_00023_0" MIMETYPE="image/tiff" CHECKSUM="54ff083341c9459a404b0fcfc52fc859" CHECKSUMTYPE="MD5" SIZE="55036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00023_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="f7239768d618d0862974ef68f8e698f9" CHECKSUMTYPE="MD5" SIZE="1839680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00021_0.jp2"/>
+      </file>
+      <file ID="jp2_00021_1" MIMETYPE="image/jp2" CHECKSUM="27d5cc869cc06dd41ac5e6172c331560" CHECKSUMTYPE="MD5" SIZE="2489254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00021_1.jp2"/>
+      </file>
+      <file ID="jp2_00022_0" MIMETYPE="image/jp2" CHECKSUM="aa23f01b42fb25d7b731b4578611ab8d" CHECKSUMTYPE="MD5" SIZE="2560562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00022_0.jp2"/>
+      </file>
+      <file ID="jp2_00022_1" MIMETYPE="image/jp2" CHECKSUM="be822f191a9ea7aaa4a2f5b3a4ea8fd1" CHECKSUMTYPE="MD5" SIZE="2429901">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00022_1.jp2"/>
+      </file>
+      <file ID="jp2_00023_0" MIMETYPE="image/jp2" CHECKSUM="c87113b01abc5dea3ecf480db7d0e2c3" CHECKSUMTYPE="MD5" SIZE="2891996">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00023_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="13b4602f9850024fa308ca1e9979e548" CHECKSUMTYPE="MD5" SIZE="31989">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00021_0.xml"/>
+      </file>
+      <file ID="alto_00021_1" MIMETYPE="text/xml" CHECKSUM="061bf7e4286b68ebe8e6bb8594210575" CHECKSUMTYPE="MD5" SIZE="85630">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00021_1.xml"/>
+      </file>
+      <file ID="alto_00022_0" MIMETYPE="text/xml" CHECKSUM="a432fca412825b7afb63753bc6e848b3" CHECKSUMTYPE="MD5" SIZE="100275">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00022_0.xml"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml" CHECKSUM="13769b199ae652e53c481c666797e2c9" CHECKSUMTYPE="MD5" SIZE="91993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00022_1.xml"/>
+      </file>
+      <file ID="alto_00023_0" MIMETYPE="text/xml" CHECKSUM="587e1166e9ae9d97992a109166858b85" CHECKSUMTYPE="MD5" SIZE="91924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00023_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="17" lastpage="21">
+              <court pgmap="41" id="b41-11">Court of Appeals of Arkansas Division II and III</court>
+              <docketnumber pgmap="41" id="b41-9">CA CR 03-1152</docketnumber>
+              <citation pgmap="41" id="AzM">194 S.W.3d 222</citation>
+              <parties pgmap="41" id="b41-8">Fred PHILLIPS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="41" id="b41-12">Opinion delivered September 29, 2004</decisiondate>
+              <judges pgmap="44" id="b44-8">Pittman, Robbins and Vaught, JJ., agree.</judges>
+              <judges pgmap="44" id="b44-9">Hart and Roaf, JJ., dissent.</judges>
+              <attorneys pgmap="42" id="b42-5">William R. Simpson, Jr., Public Defender, Tracey Overman, Deputy Public Defender, by: T.K. Smith, Rule XV Law Student, and Erin Vinett, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="42" id="b42-6">Mike Beebe, Att’y Gen., by: Brad Newman, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="42" id="pAYu">Karen R. Baker, Judge.</author>
+                <p pgmap="42" id="ALt">At a bench trial in Pulaski County Circuit Court, appellant, Fred Phillips, was con­victed of breaking or entering in violation of Arkansas Code Anno­tated section 5-39-202 (Repl. 1997) and theft of property in violation of Arkansas Code Annotated section 5-36-103(a)(1), (b)(4) (Repl. 1997). He was sentenced to a term of 120 months in the Arkansas Department of Correction. Appellant’s sole point on appeal is a challenge of the sufficiency of the evidence based on the State’s fingerprint evidence.</p>
+                <p pgmap="42" id="b42-8">The State’s case against the appellant was entirely circum­stantial, consisting of appellant’s fingerprints found inside the passenger door of the car along the top edge of the window where the window meets the rubber seal. The supreme court has affirmed convictions where the only evidence the State presented against the defendants was their fingerprints found inside the building. See Howard v. State, 286 Ark. 479, 695 S.W.2d 375 (1985) (appellant’s fingerprints were found on the glass rim of a wall inside the store where the robber had vaulted into the office booth); Ebsen v. State, 249 Ark. 477, 459 S.W.2d 548 (1970) (a burglar broke a pharma­cy’s plate glass window to gain entry, and appellant’s fingerprints were found on a large piece of broken glass found inside the building).</p>
+                <p pgmap="42(106) 43(55)" id="b42-9">The test for determining the sufficiency of the evidence is whether substantial evidence, direct or circumstantial, supports the verdict. Dye v. State, 70 Ark. App. 329, 331, 17 S.W.2d 505, 507 (2000). Substantial evidence is that which is of sufficient force to compel reasonable minds to reach a conclusion beyond suspicion and conjecture. Id. Circumstantial evidence may constitute sub­stantial evidence to support a conviction. Medlock v. State, 79 Ark. App. 447, 456, 89 S.W.3d 357, 363 (2002). The evidence must exclude every other reasonable hypothesis than that of the guilt of the accused, and the question of whether it does is for the trier of fact to decide. Id. On review, this court must determine whether the fact-finder resorted to speculation and conjecture in reaching its verdict. Id. It is in the province of the fact-finder to determine the weight of the evidence and the credibility of witnesses. Johnson v. State, 337 Ark. 196, 202, 987 S.W.2d 694, 698 (1999).</p>
+                <p pgmap="43" id="b43-5">Applying the case law to the facts of this case, we cannot say that the fact-finder resorted to speculation and conjecture in reaching its verdict. On April 17, 2002, Detective Mickey Schuetzle with the North Little Rock Police Department found his personal car in his apartment parking lot with the passenger door partially open. He testified that the vehicle had been secured the previous evening around 9:00. He approached the car and discovered that it appeared to have been broken into, and that items of personal property were strewn about inside the car, and eventually ascertained that approximately fifty compact discs were taken from his car. He did not observe any damage to the car door.</p>
+                <p pgmap="43" id="b43-6">Upon discovering that his car had been broken into, Detec­tive Schuetzle notified his supervisor and began to process the car for physical evidence. The Detective’s police car was parked next to his personal car and contained all the items necessary to collect the evidence. He took photographs of the exterior of the car, showing the condition and position of the door. He dusted the interior of the passenger-side window for fingerprints and located several prints along the top edge of the passenger window, where the window meets the convertible’s rubber seal. Detective Schuetzle removed the prints with fingerprint tape and attached the tape to fingerprint evidence cards. He did not fill out the back of the fingerprint-evidence cards, but stated the only place in the car that he took fingerprints was from the interior of the passenger window. He took the fingerprint-cards directly to the North Little Rock Police Department, where he completed an evidence enve­lope and sealed the fingerprint-cards awaiting their submission to the crime lab. He then placed the sealed envelope in a locked filing cabinet until he could take it to the state crime lab.</p>
+                <p pgmap="43" id="b43-7">The analysis of the fingerprint evidence cards by the Arkan­sas State Crime Laboratory revealed three valuable prints, and one with sufficient value that could be entered into the Automatic Fingerprint Identification System. The fingerprints collected from the interior passenger window of the car matched appellant’s fingerprints.</p>
+                <p pgmap="43(21) 44(77)" id="b43-8">Appellant’s argument for reversal relies upon the Standridge v. State, 310 Ark. 408, 837 S.W.2d 447 (1992), in which the court held that a fingerprint found on an easily movable cup located several feet away from marijuana plants was insufficient to compel the conclusion that the defendant was engaged in the manufacture of marijuana. Our supreme court found it significant that the State’s fingerprint expert stated that the cup could have been located anywhere in the world when the defendant touched it. The witness also testified that the print could have been made up to a year earlier.</p>
+                <p pgmap="44" id="b44-5">Unlike Standridge, appellant’s fingerprints were not found on an easily moveable object, but were located at the apparent location of entry to the car, the location of the crime, on the interior of the car’s window. The photographs of the car that Schueltze took just after discovering the break-in show that its exterior was covered with dew, but the interior of the car was dry. The fingerprint analyst testified that a fingerprint or latent print is nothing more than almost one hundred percent water. The analyst testified that moisture is detrimental to obtaining a print, unless the print is a greasy print in which case there’s a possibility that the print would not be totally destroyed by the moisture. While the analyst also testified there was no way of telling whether the print analyzed was from grease or moisture, there was no evidence that there was moisture in the interior of the car from where the print was taken.</p>
+                <p pgmap="44" id="b44-6">
+                   Because appellant’s fingerprint was located at the apparent point of entry into the car, the fingerprint was placed while the window was dry and it was not degraded by the morning dew, and from its location and position the trier of fact could reasonably infer that the person had pried the window back to gain entry to the car where there was no damage to the car door itself, we cannot say that the fact-finder resorted to speculation and conjecture.</p>
+                <p pgmap="44" id="b44-7">Accordingly, we affirm.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="44" id="pAyv">Andree Layton Roaf, Judge,</author>
+                <p pgmap="44(55) 45(155)" id="AYr">dissenting. I would reverse this case. The sole item of evidence tying Phillips to the offenses of breaking and entering and theft of property is a single fingerprint on the inside of the window of the car in question. The owner found the car door ajar in a parking lot after it had been parked there overnight, and there was at least one unidentified fingerprint out of the three prints removed from the window. Although neither this court nor the supreme court has held that a single fingerprint is insufficient to support a conviction in circumstances analogous to this case, the published authorities all go to the length of setting out additional corroborating evidence. See Lamb v. State, 74 Ark. App. 245, 45 S.W.3d 869 (2001) (affirming conviction where appellant’s palm print found inside passenger window of stolen truck, vehicle was found within a block of appellant’s home, and appellant fled to another state when he learned the police were looking for him); Tucker v. State, 50 Ark. App. 203, 901 S.W.2d 865 (1995) (affirming conviction where, in addition to fingerprint evidence, stolen vehicle was found near appellant’s apartment and appellant had relatives living near the car lot from which the vehicle was stolen). There is none in this case.</p>
+                <p pgmap="45" id="b45-4">The law in fingerprint cases is clear. If there is corroborating evidence in addition to the fingerprint, then this court has deter­mined that the fingerprint evidence sufficiently supports the con­viction. This is clearly shown in Lamb, supra and Tucker, supra. In this case there is no additional corroborating testimony. There was no testimony from an eyewitness who saw Phillips leave the fingerprint on Schuetzle’s window as in Howard v. State, 286 Ark. 479, 695 S.W.2d 375 (1985), where an eyewitness testified that she observed the defendant touch the glass rim of the office wall. There was no corroborating testimony indicating that Phillips lived nearby, or was seen near or in the vehicle, and none of the victim’s property was recovered from Phillips at the time of his arrest. Further, although the victim, a police officer, dusted for fingerprints inside the car, other than the single print on the window of the door standing ajar, Phillips’ prints did not turn up, even though the perpetrator removed the contents of the glove box and center console and scattered them throughout the car. Because the State’s case is entirely circumstantial, there is not a strong enough link between the inferences that would prove Phillips’ guilt to a moral certainty. The trial court was left to speculate as to whether Phillips actually entered the vehicle or took Schuetzle’s property. According, I would reverse and dismiss.</p>
+                <p pgmap="45" id="b45-5">Hart, J., joins.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="41" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="42" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jp2_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.1" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="43" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jp2_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jp2_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.2" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="45" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00023_0"/>
+        <fptr FILEID="jp2_00023_0"/>
+        <fptr FILEID="alto_00023_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_45.3" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-12" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.12" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.8" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.6" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.7" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.6" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.11" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.12" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_43.1" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAYu" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.7" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.5" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.7" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_44.1" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.5" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.4" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.5" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.6" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-11" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.11" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.5" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.9" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYr" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.10" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_44.11" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_44.12" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_45.1" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAyv" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.9" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzM" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.10" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.8" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.4" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALt" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.8" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_42.9" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_42.10" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.4" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

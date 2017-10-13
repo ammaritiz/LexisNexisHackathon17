@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000643_0052" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Warren v. Warren">Jon D. WARREN v. Sue WARREN</name>
+          <docketnumber>CA 83-412</docketnumber>
+          <citation category="official" type="bluebook">12 Ark. App. 260</citation>
+          <citation category="parallel" type="bluebook">675 S.W.2d 371</citation>
+          <decisiondate>1984-09-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:55:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:03Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:11:57Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:12:53Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="85ff3fd591ad4d4c90f5bf581acd63d0" CHECKSUMTYPE="MD5" SIZE="10272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00145_1.tif"/>
+      </file>
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="fa0571800d2e434686f7b507c978e7aa" CHECKSUMTYPE="MD5" SIZE="50624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00146_0.tif"/>
+      </file>
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="37261226e572a298cb0576009c033cad" CHECKSUMTYPE="MD5" SIZE="49340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00146_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="b0d316b659b1d69a80dc37d8a023beb7" CHECKSUMTYPE="MD5" SIZE="1687957">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00145_1.jp2"/>
+      </file>
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="32ea5bf285d3c9a6382eee8c05598428" CHECKSUMTYPE="MD5" SIZE="2529980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00146_0.jp2"/>
+      </file>
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="a0f37b7dab290daa1efecf731f5792c3" CHECKSUMTYPE="MD5" SIZE="2507339">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00146_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="d9b746e85da0ca039d4f973b8eb3e4c5" CHECKSUMTYPE="MD5" SIZE="14313">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00145_1.xml"/>
+      </file>
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="0c15a01fc138dd0c43c9823c66faf9d2" CHECKSUMTYPE="MD5" SIZE="82016">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00146_0.xml"/>
+      </file>
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="088716aadbe5e8ef7375d898c4049b5b" CHECKSUMTYPE="MD5" SIZE="81625">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00146_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="260" lastpage="262">
+              <court id="b290-4" pgmap="290">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="AW3" pgmap="290">CA 83-412</docketnumber>
+              <citation id="A_b" pgmap="290">675 S.W.2d 371</citation>
+              <parties id="b290-3" pgmap="290">Jon D. WARREN v. Sue WARREN</parties>
+              <decisiondate id="b290-5" pgmap="290">Opinion delivered September 19, 1984</decisiondate>
+              <judges id="b292-8" pgmap="292">Cracraft, C.J., and Cooper, J., agree.</judges>
+              <attorneys id="b290-12" pgmap="290">W. Q. Hall, for appellant.</attorneys>
+              <attorneys id="b290-13" pgmap="290">Everett &lt;b Whitlock, by: John C. Everett, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="AA3l" pgmap="290">Tom Glaze, Judge.</author>
+                <p id="AFG" pgmap="290(6) 291(120)">This appeal is from the property settlement provisions of a divorce decree entered May 2, 1983. The appellant contends the chancellor erred in awarding the appellee an undivided one-half interest of appellant’s one-third interest in a partnership. Appellant also contends the chancellor erred in the distribution of the parties’ debts, particularly partnership debts, contracted during the marriage. We agree with appellant that the chancellor erred in awarding the appellee an undivided one-sixth interest in the partnership. However, the chan­cellor was correct in determining that the partnership was marital property subject to being divided equally between the parties. Therefore, we modify his decision to reflect the proper manner of determining the amount to which appellee is entitled, and we remand for that determination to be made.</p>
+                <p id="b291-4" pgmap="291">The appellant is in business with his father and his brother. Each owns an undivided one-third interest in J-W Foods, a retail grocery store in Huntsville. The chancellor found that the grocery business was marital property to be divided equally between the appellant and the appellee. As a part of his order, the Chancellor found:</p>
+                <blockquote id="b291-5" pgmap="291">Sue Warren [appellee] becomes the owner of an undivided one-sixth interest in such partnership and partnership assets.. . . [T]he interest of. . .Sue Warren in such partnership is subject to the liabilities of such partnership existing on the date of this order.</blockquote>
+                <p id="b291-6" pgmap="291(127) 292(44)">The appellant contends the chancellor should have awarded the appellee a sum in cash equal to one-half of appellant’s net interest in the partnership. We agree. Under the Uniform Partnership Act, a partner’s rights in specific partnership assets are those of a tenant in partnership. Ark. Stat. Ann. § 65-125 (Repl. 1980). In determining at divorce the rights of a husband or wife to a spouse’s partnership interest, the court cannot make specific awards of partner­ship assets. The court must first determine the value of the spouse’s interest in the partnership, treating the accounts receivable as assets having a provable fair net present value, and then award the husband or wife a monetary decree equal to one-half that amount, the same to be enforced if necessary by a charging order on the partnership interest. Riegler v. Riegler, 243 Ark. 113, 419 S.W.2d 311 (1967). We cannot make that determination ourselves on the record before us. Further proceedings will be necessary on remand to determine appellant’s net interest in the partnership.</p>
+                <p id="b292-4" pgmap="292">The appellee contends that Glover v. Glover, 4 Ark. App. 27, 627 S.W.2d 30 (1982), is factually similar to the case at bar and that it states the controlling law. Relying upon Glover, appellee contends the chancellor was correct in awarding her a one-half of appellant’s one-third interest in the partnership, giving her a one-sixth interest in the partnership. However, the facts in Glover are disting­uishable. The wife in Glover owned a one-fourth interest in the partnership before the divorce. As part of the property division, the chancellor awarded the husband all of both his and his wife’s interests in the partnership. On appeal, we reinstated to the appellant wife the one-fourth interest in the partnership that was hers all along. In the case at bar, the appellee wife was clearly not a partner in the business. However, she did participate in the acquisition of the business during the parties’ marriage, and she is entitled to a share of the value of that business.</p>
+                <p id="b292-5" pgmap="292">For his second point, appellant contends the appellee should be required to pay a portion of the parties’ marital debts, particularly those involving the partnership. The chancellor specifically ordered the appellee to pay those debts she had incurred personally on the parties’ charge accounts from the date of the parties’ separation until the decree was rendered. The appellant’s argument with respect to partnership debts is rendered moot by our disposition of his first issue.</p>
+                <p id="b292-6" pgmap="292">Therefore, we reverse that part of the chancellor’s decree awarding the appellee a one-sixth interest in the partnership and remand for a determination of the value of appellant’s interest in the partnership and a monetary award in appellant’s favor for one-half of that amount.</p>
+                <p id="b292-7" pgmap="292">Affirmed in part; reversed and remanded in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="290" ORDERLABEL="260" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.1" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="291" ORDERLABEL="261" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.3" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="292" ORDERLABEL="262" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.2" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFG" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.18" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_291.1" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.8" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.7" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            <area BEGIN="BL_292.1" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.5" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.4" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.4" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.5" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.6" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-12" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.15" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-13" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.16" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.7" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA3l" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.17" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_b" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.5" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.3" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

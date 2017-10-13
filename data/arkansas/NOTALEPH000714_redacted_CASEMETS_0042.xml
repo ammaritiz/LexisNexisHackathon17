@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000714_0042" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Etheredge v. State">Clark ETHEREDGE v. STATE of Arkansas</name>
+          <docketnumber>CACR 04-512</docketnumber>
+          <citation category="official" type="bluebook">89 Ark. App. 288</citation>
+          <citation category="parallel" type="bluebook">202 S.W.3d 543</citation>
+          <decisiondate>2005-02-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T16:16:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:34:19Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:42:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:43:43Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00157_1" MIMETYPE="image/tiff" CHECKSUM="e7f099bceeea45c9b6f5178c61148d7f" CHECKSUMTYPE="MD5" SIZE="7526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00157_1.tif"/>
+      </file>
+      <file ID="tiff_00158_0" MIMETYPE="image/tiff" CHECKSUM="2718f15b0f502851e27b542bdc5473d5" CHECKSUMTYPE="MD5" SIZE="50460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00158_0.tif"/>
+      </file>
+      <file ID="tiff_00158_1" MIMETYPE="image/tiff" CHECKSUM="bed98ef80785a30726efb79387773bff" CHECKSUMTYPE="MD5" SIZE="57112">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00158_1.tif"/>
+      </file>
+      <file ID="tiff_00159_0" MIMETYPE="image/tiff" CHECKSUM="33f1956597ea957198909259abdd292e" CHECKSUMTYPE="MD5" SIZE="57540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00159_0.tif"/>
+      </file>
+      <file ID="tiff_00159_1" MIMETYPE="image/tiff" CHECKSUM="539850f5735ca6d1ca47ca1f25aceac1" CHECKSUMTYPE="MD5" SIZE="50582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00159_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00157_1" MIMETYPE="image/jp2" CHECKSUM="ce147aa27b67a504aa62330eb630717e" CHECKSUMTYPE="MD5" SIZE="1327812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00157_1.jp2"/>
+      </file>
+      <file ID="jp2_00158_0" MIMETYPE="image/jp2" CHECKSUM="17ecc2d91430fd11fd928d9e7288dde9" CHECKSUMTYPE="MD5" SIZE="2460502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00158_0.jp2"/>
+      </file>
+      <file ID="jp2_00158_1" MIMETYPE="image/jp2" CHECKSUM="6de69b62c231d4b26c68bf4ba3fd007d" CHECKSUMTYPE="MD5" SIZE="2585511">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00158_1.jp2"/>
+      </file>
+      <file ID="jp2_00159_0" MIMETYPE="image/jp2" CHECKSUM="91356bd2fcbe0da5ce4e3d1613ad6028" CHECKSUMTYPE="MD5" SIZE="2595684">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00159_0.jp2"/>
+      </file>
+      <file ID="jp2_00159_1" MIMETYPE="image/jp2" CHECKSUM="6b2d8e1d15d9a647fa46182423f98094" CHECKSUMTYPE="MD5" SIZE="2478970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00159_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00157_1" MIMETYPE="text/xml" CHECKSUM="0dd80ff61c19b2fc4a217f8233b9b572" CHECKSUMTYPE="MD5" SIZE="7566">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00157_1.xml"/>
+      </file>
+      <file ID="alto_00158_0" MIMETYPE="text/xml" CHECKSUM="84c16a2c56f5e975ce3c4a6d66971186" CHECKSUMTYPE="MD5" SIZE="86534">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00158_0.xml"/>
+      </file>
+      <file ID="alto_00158_1" MIMETYPE="text/xml" CHECKSUM="0368a4bb02518b430aef2b4befa01e9d" CHECKSUMTYPE="MD5" SIZE="101225">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00158_1.xml"/>
+      </file>
+      <file ID="alto_00159_0" MIMETYPE="text/xml" CHECKSUM="2af4e13de7a6820dacb5b97a46dc76e0" CHECKSUMTYPE="MD5" SIZE="95657">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00159_0.xml"/>
+      </file>
+      <file ID="alto_00159_1" MIMETYPE="text/xml" CHECKSUM="2daf7db9cebeacd66478e00076433466" CHECKSUMTYPE="MD5" SIZE="87680">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00159_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="288" lastpage="292">
+              <court pgmap="314" id="b314-6">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="314" id="b314-4">CACR 04-512</docketnumber>
+              <citation pgmap="314" id="b314-5">202 S.W.3d 543</citation>
+              <parties pgmap="314" id="b314-3">Clark ETHEREDGE v. STATE of Arkansas</parties>
+              <decisiondate pgmap="314" id="A8c">Opinion delivered February 9, 2005</decisiondate>
+              <judges pgmap="318" id="b318-6">Pittman, C.J., and Neal, Crabtree and Roaf, JJ., agree.</judges>
+              <judges pgmap="318" id="AdfF">Griffen, J., dissents.</judges>
+              <attorneys pgmap="315" id="b315-5">William R. Daniels, for appellant.</attorneys>
+              <attorneys pgmap="315" id="b315-6">Mike Beebe, Att’y Gen., by. DavidJ. Davies, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="315" id="pATD">Sam Bird, Judge.</author>
+                <p pgmap="315" id="AXp">This is a DWI case in which there is no dispute about the relevant facts. Appellant Clark Etheredge was arrested on October 20, 2002, and was charged with driving while intoxicated and refusal to consent to a breath test. At a trial in Cabot District Court, he was found guilty of DWI but was acquitted on the.refusal-to-consent charge. He appealed his DWI conviction to the Circuit Court of Lonoke County, where he filed a motion in limine to exclude evidence of his refusal to consent. Appellant also moved for and renewed a directed-verdict motion, which the trial court denied. Appellant raises two points on appeal: (1) that the trial court erred in denying his motion in limine, and (2) that the trial court erred in refusing to grant his motion for directed verdict. We affirm on both points.</p>
+                <p pgmap="315" id="b315-8">Etheredge asserted in his motion in limine that evidence of his refusal to consent was inadmissible on two grounds: it was not probative of his truthfulness and thus was not admissible under Ark. R. Evid. 608; and the probative value of the evidence was substantially outweighed by the danger of unfair prejudice, thus rendering it inadmissible under Rule 402. Etheredge argued at the motion hearing that he should not be forced to relitigate the issue of refusal and that his case was distinguishable from Medlock v. State, 332 Ark. 106, 964 S.W.2d 196 (1998). The State asserted that it was not trying to relitigate the issue of refusal and that the evidence was admissible under Medlock. The State argued that any prejudice did not outweigh the probative value of the evidence of refusal because, even though the district court had found Etheredge not guilty of the charge, the refusal to consent had independent relevance showing appellant’s consciousness that he was guilty of DWI. The trial court denied appellant’s motion and permitted evidence of his refusal to consent to be admitted.</p>
+                <p pgmap="315(21) 316(157)" id="b315-9">At appellant’s jury trial for DWI, the arresting officer testi­fied that appellant was found sitting in his automobile, passed out at the steering wheel of his truck at an ATM, with blood-shot and watery eyes and flushed face, and smelling of the odor of alcohol; and that he failed or was unable to complete standard field sobriety tests. The officer also testified that appellant denied having any medical conditions except arthritis and that he never told the officer he could not take a breath test. Appellant testified in his own defense that he had coronary artery disease and diminished lung capacity, that on the night he was arrested he parked at the roadside and passed out at the wheel after experiencing tightness in his chest and shortness of breath, that he did not tell the officer of his physical distress and concerns, and that he told the officer he would not take a breath test but would take a blood test. He admitted that earlier in the night he had “two drinks and a glass of wine.”</p>
+                <p pgmap="316" id="b316-5">Etheredge contends under his first point on appeal that evidence of the refusal to submit was not probative of truthfulness, that any probative value of such evidence was substantially out­weighed by the danger of unfair prejudice, and that acquittal of the refusal charge rendered evidence of the matter inadmissible. He complains that he had a constitutional right not to testify at his trial de novo on the DWI charge, but that admission of refusal-to-submit evidence shifted to him the burden of rebutting inferences to be drawn from the circumstances surrounding the refusal and re­quired him to testify about those circumstances and his particular medical conditions.</p>
+                <p pgmap="316" id="b316-6">In Medlock v. State, 332 Ark. 106, 964 S.W.2d 196 (1998), the supreme court held that evidence of a defendant’s refusal to submit to a breath test is properly admissible at his trial on DWI charges as evidence showing a knowledge or consciousness of guilt, and that such evidence possesses independent relevance bearing on the issue of intoxication. Etheredge argues that Medlock and Felgate v. State, 63 Ark. App. 76, 974 S.W.2d 479 (1998), are distinguishable because in them the defendants were convicted in district court of the refusal to consent charge, but they appealed only the DWI charge. However, in Spicer v. State, 32 Ark. App. 209, 799 S.W.2d 562 (1990), this court said that evidence of the defendant’s refusal to consent to breath testing was admissible at his subsequent DWI trial in circuit court, and we observed that it was immaterial whether he had been acquitted or found guilty of the refusal-to-consent charge in the municipal court. Id. at 210, 799 S.W.2d at 563, n.1.</p>
+                <p pgmap="317" id="b317-4">
+                   The crimes of refusal to consent and driving while intoxicated are two separate crimes although they arose from the same episode. Despite the fact that Etheredge was acquitted on the charge of refusal to consent, we hold that such evidence had independent relevance bearing on the issue of intoxication. As for appellant’s constitutional right not to testify and the burden of proof, we will not address these issues because the argument was not made to the trial court. See, e.g., Morris v. State, 86 Ark. App. 78, 161 S.W.3d 314 (2004). Thus, we affirm the trial court’s ruling that evidence of appellant’s refusal to submit was admissible in his trial for DWI.</p>
+                <p pgmap="317" id="b317-5">
+                   We would also affirm the first point because any error by the court in denying appellant’s motion in limine was harmless. Even without the evidence of appellant’s refusal to consent to breath testing, the evidence of his guilt was overwhelming. Ap­pellant was passed out at the steering wheel; he had bloodshot, watery eyes and a flushed face; he smelled of alcohol; he could not pass field sobriety tests; and he admitted to drinking alcohol earlier. Even without evidence of appellant’s failure to consent, this constituted substantial evidence to uphold his DWI conviction. See State v. Johnson, 326 Ark. 189, 931 S.W.2d 760 (1996) (trial court erroneously granted directed verdict in favor of defendant on charge of driving while intoxicated, when officers testified that defendant had an odor of intoxicants, slurred speech, bloodshot eyes, and where defendant admitted to having had a few drinks); Gavin v. State, 309 Ark. 158, 827 S.W.2d 161 (1992) (where court stated that officer’s testimony that defendant smelled of alcohol, had red eyes and poor balance, and admitted to having consumed a couple of beers was sufficient to support conviction for driving while intoxicated).</p>
+                <p pgmap="317(104) 318(22)" id="b317-6">
+                   Appellant’s second point on appeal is affirmed because it was not preserved for our review. The abstract shows that after the State rested, appellant’s counsel stated, “The defendant moves for directed verdict,” to which the court replied, “Denied.” Appellant’s motion stated no specific reason why the State’s case was not sufficient. In moving for a directed verdict, a defendant is required to state with specificity the grounds upon which he alleges that the state’s proof is insufficient. In a jury trial, a motion for directed verdict shall state the specific grounds therefor. Ark. R. Crim. P. 33.1 (2004). However, were we to address the sufficiency of the evidence, we would affirm for the reasons stated in the immediately preceding paragraph under our analysis of harmless error.</p>
+                <p pgmap="318" id="b318-5">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="318" id="pAV5O">Wendell L. Griffen, Judge,</author>
+                <p pgmap="318" id="Arp">dissenting. I dissent because I believe the trial court committed reversible error in denying appellant’s motion in limine and in admitting evidence that appellant refused to take the breathalyzer test in the DWI trial at the circuit court level. First, I do not agree that Medlock v. State, 332 Ark. 106, 964 S.W.2d 196 (1998) and Spicer v. State, 32 Ark. App. 209, 799 S.W.2d 562 (1990), warrant affirmance on the facts in this case. The glaring difference between the instant case and Medlock is that the Medlock defendant was found guilty of refusal to take a breathalyzer exam, whereas appellant was acquitted of that charge. Further, in Spicer, the disposition of the failure to submit charge was not apparent from the record, and we merely noted in dicta, in a footnote, that it was not necessary for the court to know the disposition of the failure to submit charge to resolve the issue in that case. Thus, neither the Arkansas Supreme Court nor this court has squarely sanctioned the admission of evidence of refusal to submit to a breathalyzer exam as independently relevant evidence of intoxication, where a defendant has been acquitted of the charge at the district court level.</p>
+                <p pgmap="318" id="b318-8">Second, I disagree that any error is harmless. I believe the prejudicial effect of introducing the evidence of appellant’s refusal to submit far outweighed any probative value that the evidence might have offered to establish that he was driving while intoxi­cated. Where the verdict reached is a general verdict, as in the instant case, we cannot determine to what extent the jury’s verdict turned on the proof that the defendant refused to take the breathalyzer exam. Even if appellant here would have been con­victed of DWI in the absence of that proof, he deserved the chance to argue his innocence based on the prosecutor’s case without that evidence, rather than in the face of it.</p>
+                <p pgmap="318" id="b318-9">For these reasons, I respectfully dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="314" ORDERLABEL="288" TYPE="page">
+        <fptr FILEID="tiff_00157_1"/>
+        <fptr FILEID="jp2_00157_1"/>
+        <fptr FILEID="alto_00157_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_314.1" BETYPE="IDREF" FILEID="alto_00157_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="315" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00158_0"/>
+        <fptr FILEID="jp2_00158_0"/>
+        <fptr FILEID="alto_00158_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_315.3" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="316" ORDERLABEL="290" TYPE="page">
+        <fptr FILEID="tiff_00158_1"/>
+        <fptr FILEID="jp2_00158_1"/>
+        <fptr FILEID="alto_00158_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_316.2" BETYPE="IDREF" FILEID="alto_00158_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="317" ORDERLABEL="291" TYPE="page">
+        <fptr FILEID="tiff_00159_0"/>
+        <fptr FILEID="jp2_00159_0"/>
+        <fptr FILEID="alto_00159_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_317.2" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="318" ORDERLABEL="292" TYPE="page">
+        <fptr FILEID="tiff_00159_1"/>
+        <fptr FILEID="jp2_00159_1"/>
+        <fptr FILEID="alto_00159_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_318.2" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.5" BETYPE="IDREF" FILEID="alto_00159_0"/>
+            <area BEGIN="BL_318.1" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.4" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b317-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_317.3" BETYPE="IDREF" FILEID="alto_00159_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.4" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.5" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.12" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b318-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.13" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pATD" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.10" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.15" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            <area BEGIN="BL_316.1" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXp" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.11" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            <area BEGIN="BL_315.12" BETYPE="IDREF" FILEID="alto_00158_0"/>
+            <area BEGIN="BL_315.13" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arp" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.9" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            <area BEGIN="BL_318.10" BETYPE="IDREF" FILEID="alto_00159_1"/>
+            <area BEGIN="BL_318.11" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.5" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b316-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_316.4" BETYPE="IDREF" FILEID="alto_00158_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.4" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.5" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.6" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.7" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b314-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.3" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8c" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_314.7" BETYPE="IDREF" FILEID="alto_00157_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.14" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdfF" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.6" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b315-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_315.8" BETYPE="IDREF" FILEID="alto_00158_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAV5O" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_318.8" BETYPE="IDREF" FILEID="alto_00159_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

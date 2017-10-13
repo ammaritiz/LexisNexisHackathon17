@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000678_0011" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="McDonald v. State">Cletus A. McDONALD v. STATE of Arkansas</name>
+          <docketnumber>CA CR 91-247</docketnumber>
+          <citation category="official" type="bluebook">37 Ark. App. 61</citation>
+          <citation category="parallel" type="bluebook">824 S.W.2d 396</citation>
+          <decisiondate>1992-01-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T19:28:04Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:07Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T21:13:05Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T21:13:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00041_0" MIMETYPE="image/tiff" CHECKSUM="7bf9f2d81b170620ac82de53d3c801e7" CHECKSUMTYPE="MD5" SIZE="7380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00041_0.tif"/>
+      </file>
+      <file ID="tiff_00041_1" MIMETYPE="image/tiff" CHECKSUM="15ef5391ee65934517580e5fb77fe197" CHECKSUMTYPE="MD5" SIZE="46868">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00041_1.tif"/>
+      </file>
+      <file ID="tiff_00042_0" MIMETYPE="image/tiff" CHECKSUM="ba6e48c2decd3fce50e8abe904ccd415" CHECKSUMTYPE="MD5" SIZE="59026">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00042_0.tif"/>
+      </file>
+      <file ID="tiff_00042_1" MIMETYPE="image/tiff" CHECKSUM="22aba76a52621bccba0a9bf97da9d200" CHECKSUMTYPE="MD5" SIZE="57700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00042_1.tif"/>
+      </file>
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="d4e75418f3c8295b237e02bc5e3055d9" CHECKSUMTYPE="MD5" SIZE="56406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00043_0.tif"/>
+      </file>
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="46e64e92fae0e7501dd9d8908b8f4987" CHECKSUMTYPE="MD5" SIZE="56044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="3c3c315029ec7295c30236840597a1a3" CHECKSUMTYPE="MD5" SIZE="39178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00044_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00041_0" MIMETYPE="image/jp2" CHECKSUM="da02762ff6a09a91b116c07624d383f0" CHECKSUMTYPE="MD5" SIZE="1323523">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00041_0.jp2"/>
+      </file>
+      <file ID="jp2_00041_1" MIMETYPE="image/jp2" CHECKSUM="2b035df7399ba885f0e2bbb415865854" CHECKSUMTYPE="MD5" SIZE="2554154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00041_1.jp2"/>
+      </file>
+      <file ID="jp2_00042_0" MIMETYPE="image/jp2" CHECKSUM="bb6cba0b8d71655ccfd16282c31b8bd4" CHECKSUMTYPE="MD5" SIZE="2765692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00042_0.jp2"/>
+      </file>
+      <file ID="jp2_00042_1" MIMETYPE="image/jp2" CHECKSUM="c4d1877c4693fd780e2b136a19e29574" CHECKSUMTYPE="MD5" SIZE="2730354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00042_1.jp2"/>
+      </file>
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="ccd416f4810aaa9e23cfc710c4db7801" CHECKSUMTYPE="MD5" SIZE="2688269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00043_0.jp2"/>
+      </file>
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="72369454ac979e4729e8c2e2107a09ba" CHECKSUMTYPE="MD5" SIZE="3035036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="c3a4de20c2317b36a607d8f608fac103" CHECKSUMTYPE="MD5" SIZE="2799520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00044_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00041_0" MIMETYPE="text/xml" CHECKSUM="713ea95a19b080c3fe159773945c48b2" CHECKSUMTYPE="MD5" SIZE="8499">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00041_0.xml"/>
+      </file>
+      <file ID="alto_00041_1" MIMETYPE="text/xml" CHECKSUM="55653bad517caa6cf83f53a5c22a599c" CHECKSUMTYPE="MD5" SIZE="77588">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00041_1.xml"/>
+      </file>
+      <file ID="alto_00042_0" MIMETYPE="text/xml" CHECKSUM="cd33fe9affde9a2c2310730dc6b19c4c" CHECKSUMTYPE="MD5" SIZE="94610">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00042_0.xml"/>
+      </file>
+      <file ID="alto_00042_1" MIMETYPE="text/xml" CHECKSUM="6372f30e7f9b833da928b1bb37a63d38" CHECKSUMTYPE="MD5" SIZE="97812">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00042_1.xml"/>
+      </file>
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="c2eb1c8758e4dfd83583272e9da78713" CHECKSUMTYPE="MD5" SIZE="92671">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00043_0.xml"/>
+      </file>
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="2d44e98fdabe20371241e21f9178e817" CHECKSUMTYPE="MD5" SIZE="94390">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="042870a352800928866d19c7189dc8e7" CHECKSUMTYPE="MD5" SIZE="61345">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00044_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="67" firstpage="61">
+              <court id="b81-5" pgmap="81">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b81-4" pgmap="81">CA CR 91-247</docketnumber>
+              <citation id="Ar" pgmap="81">824 S.W.2d 396</citation>
+              <parties id="b81-3" pgmap="81">Cletus A. McDONALD v. STATE of Arkansas</parties>
+              <decisiondate id="b81-6" pgmap="81">Opinion delivered January 29, 1992</decisiondate>
+              <judges id="b87-8" pgmap="87">Jennings and Mayfield, JJ., agree.</judges>
+              <attorneys id="b82-6" pgmap="82">G. Christopher Walthall, for appellant.</attorneys>
+              <attorneys id="b82-7" pgmap="82">Winston Bryant, Att’y Gen., by: Jeff Vining, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b82-8" pgmap="82">Judith Rogers, Judge.</author>
+                <p id="AMc" pgmap="82">The appellant, Cletus A. McDon­ald, was charged by information with the offense of first degree murder in connection with the death of Robert Dewayne Wil­liams. He appeals from a judgment of conviction, entered in accordance with the jury’s verdict finding him guilty of second degree murder, and sentencing him to twenty years in prison. For reversal, appellant contends that there was insufficient evidence introduced to corroborate an accomplice’s testimony; that the trial court erred in denying his motion for a new trial, based on the presence of the alternate juror with the jury during its delibera­tions; and that he was denied a fair trial in that the prosecutor elicited testimony referring to uncharged misconduct. We affirm.</p>
+                <p id="b82-9" pgmap="82">Appellant first argues that the testimony of an accomplice, Smead Grubbs, was not adequately corroborated, thus rendering the evidence insufficient to support his conviction. In a separate trial, Mr. Grubbs had been convicted of second degree murder for the death of Mr. Williams.</p>
+                <p id="b82-10" pgmap="82">We initially note that there is nothing in the record to indicate that appellant moved for a directed verdict on the ground that the accomplice’s testimony was not sufficiently corroborated so as to preserve this issue for appeal. See Pilcher v. State, 303 Ark. 335, 796 S.W.2d 845 (1990). Moreover, the jury was not instructed as to the necessity of corroboration and it does not appear that appellant requested such an instruction, which results in a waiver of. this argument. See Garrison v. State, 13 Ark. App. 245, 682 S.W.2d 772 (1985). While we need not do so, we will address the merits of appellant’s issue. See Maynard v. State, 21 Ark. App. 20, 727 S.W.2d 858 (1987).</p>
+                <p id="b82-11" pgmap="82(22) 83(143)">
+                   By statute, a conviction cannot be had in any case of felony upon the testimony of an accomplice unless it is corrobo­rated by other evidence tending to connect the defendant with the commission of the offense. Ark. Code Ann. § 16-89-111(e)(1) (1987). The test for determining the sufficiency of the corroborat­ing evidence is whether, if the testimony of the accomplice were totally eliminated from the case, the other evidence indepen­dently establishes the crime and tends to connect the accused with its commission. Andrews v. State, 305 Ark. 262, 807 S.W.2d 917 (1991). Where circumstantial evidence is used to support accom­plice testimony, all facts of evidence can be considered to constitute a chain sufficient to present a question for resolution by the jury as to the adequacy of the corroboration, and the appellate court will not look to see whether every other reasonable hypothe­sis but that of guilt has been excluded. Johnson v. State, 303 Ark. 12, 792 S.W.2d 863 (1990).</p>
+                <p id="b83-6" pgmap="83">The record reflects that the partially decomposed body of Robert Williams was found on September 26,1989, near a creek and off rural Highway 9 in Hot Spring County. Dr. Fahmy Malak, the State Medical Examiner, testified that Mr. Williams died, as a result of receiving multiple stab wounds to the body. State witnesses Carol Grubbs, the estranged wife of Smead Grubbs, and Mark Buie related that Mr. Williams, a resident of Oklahoma, had arrived in Malvern early on the morning of September 18th, and that they had last seen him at appellant’s home when he left there with appellant and Smead Grubbs in appellant’s vehicle. These witnesses further testified that appel­lant and Grubbs returned some hours later to appellant’s home without Mr. Williams, and that they were told by Grubbs that Williams had become angry and had run away from them on Highway 9. Mr. Buie also recalled that when they returned the pant legs of both appellant and Grubbs appeared to be wet. Mrs. Grubbs stated that appellant changed clothes and started the washing machine upon their arrival.'</p>
+                <p id="b83-7" pgmap="83(83) 84(97)">Smead Grubbs testified that he began living with Mr. Williams in Tulsa, Oklahoma, in August of 1989, after Mrs. Grubbs had left him and returned to Arkansas. He said that he had introduced appellant and Williams to each other by tele­phone, and that he and Williams had traveled to Arkansas for the purpose of transacting a drug deal with appellant. Grubbs testified that on the evening of September 18th, he, appellant and Williams left appellant’s home and were going to Leola to conduct the drug deal. He said that he fell asleep in the backseat of appellant’s car during the ride, but that he woke up to the sound of screaming and a rustling commotion. He related that appellant was standing outside and that appellant leaned inside the car and asked him for his knife. He said that appellant stabbed Williams repeatedly in the back, while Williams was lying motionless and partially outside of the car. Grubbs further testified that they dragged Williams’ body through the creek to a place where they covered him with limbs and pine needles.</p>
+                <p id="b84-4" pgmap="84">Deputy Shawn Garner of the Hot Spring County Sheriff’s Office, investigated the homicide and testified that he went to the location described by those who had discovered the body and found a blood stain on the edge of the road. From that point, he said it appeared that something had been dragged along the edge of the road and down to the creek, and that he followed this trail which led him to the body of Mr. Williams. He stated that he found a checkbook and bank statement, bearing the names of E.K. or Cletus McDonald, in the vicinity of the crime scene; these items were introduced into evidence. He said that appellant’s vehicle was impounded after appellant’s arrest, that the interior was wet and that the flooring was both wet and soapy. He submitted for analysis a hinge cover for the seatbelt attachment which bore a small red stain. Jane Parsons, a serologist at the crime lab, identified this stain as human blood, but said that the sample was too small to determine the blood type.</p>
+                <p id="b84-5" pgmap="84">
+                   We think that the evidence placing appellant in the company of the deceased on the night he disappeared; the evidence that his pant legs were wet when he returned to his house without Williams; the evidence that he changed and washed his clothes; the evidence that blood was found in his vehicle; the evidence that his vehicle appeared to have been cleaned; and the evidence that his bank statement and checkbook were found in close proximity to the location of the body, as a whole, provides ample corroboration of Smead Grubbs’ testimony.</p>
+                <p id="b84-6" pgmap="84(55) 85(65)">When the trial judge submitted the case to the jury, he excused the alternate juror. Nevertheless, due to some misunder­standing on the part of the alternate, she entered the jury room fifteen minutes after the jury had retired, and remained there for some fifteen minutes until the jury took its first break. After this recess, the alternate juror did not return to the jury room, and the jury deliberated several hours before reaching a verdict. As his second issue, appellant contends that the trial court erred in denying his motion for a new trial, arguing that the “mere presence” of the alternate juror compromised the sanctity of the jury’s deliberations and his right to a fair and impartial trial.</p>
+                <p id="b85-6" pgmap="85">At the hearing on appellant’s motion, the impaneled jurors, with the exception of one who could not be located, were called upon to give testimony, which was properly focused on whether improper influence was brought to bear on any of the jurors due to the presence of the alternate. See Ark. R. Evid. 606(b). The jurors vaguely recalled the alternate being in the jury room at the outset of their deliberations, but did not remember her asking any questions or expressing any views concerning any aspect of the case.</p>
+                <p id="b85-7" pgmap="85">Arkansas Code Annotated § 16-30-102(b) (1987) provides in part that “[a]n alternate juror who does not replace a regular juror shall be discharged after the jury retires to consider its verdict.” Applying the language of this statute [formerly Ark. Stat. Ann. § 39-233 (Repl. 1962)], the supreme court in Cantrell v. State, 265 Ark. 263, 577 S.W.2d 605 (1979), reversed and remanded the appellant’s conviction on the ground that, an hour and a half into the jury’s deliberations, the trial court had allowed the substitution of an alternate juror for a seated juror, who for religious reasons was unable to render a guilty verdict or impose punishment. The court reasoned that, since the alternate had been discharged when the jury retired to deliberate, the alternate was severed from the case and no longer maintained the status of a potential juror, and thus could not sit as a member of the jury. Therefore, the replacement of the disqualified juror with the alternate after the jury had begun to deliberate was deemed reversible error.</p>
+                <p id="b85-8" pgmap="85(70) 86(26)">Although the decision in Cantrell v. State, supra, provides no answer to the issue involved in this appeal, it is evident from the court’s interpretation of the above-mentioned statute that an alternate juror is not permitted to accompany the jury in its deliberations. The question then becomes whether the alternate juror’s brief intrusion into the jury room warrants the relief requested by appellant. The standard in making this decision is whether the trial court abused its discretion in overruling the motion for a new. trial. See Mitchell v. State, 299 Ark. 566, 776 S.W.2d 332 (1989).</p>
+                <p id="b86-6" pgmap="86">In Hutcherson v. State, 262 Ark. 535, 558 S.W.2d 156 (1977), it was reported to the trial court that one of the members of the jury was seen talking to the father of the murder victim during a recess. After questioning the father, the trial court was satisfied that nothing had been said which would prejudice a juror. The argument before the court on appeal was that such a meeting in and of itself constituted prejudicial error. In upholding the trial court’s denial of a mistrial, the court found no prejudice indicated in the record simply as a result of such an encounter.</p>
+                <p id="b86-7" pgmap="86">The case of Campbell v. State, 264 Ark. 575, 572 S.W.2d 845 (1978), is more factually similar to the one at bar. There, an intoxicated woman, who had been with the appellant when he was arrested, wandered into the jury room. Citing Hutcherson v. State, supra, the court said that the burden was on appellant to show actual improper influence from the woman’s entry into the jury room. No abuse of discretion was found in the trial court’s refusal to grant a new trial in that the woman was immediately removed from the jury room and she was apparently only looking for a cup of coffee.</p>
+                <p id="b86-8" pgmap="86">
+                   Here, in denying appellant’s motion for a new trial, the trial court found that no extraneous prejudicial information was improperly brought to the jury’s attention, nor was any outside influence brought to bear upon any juror as a result of the alternate juror’s presence. Although the alternate’s entry into the jury room was unauthorized, appellant has not shown that improper influence was occasioned by her “mere presence,” or that he suffered any resulting prejudice. Under these circum­stances, we cannot say that the trial court abused its discretion in denying the motion for a new trial.</p>
+                <p id="b86-9" pgmap="86(73) 87(33)">As his last issue, appellant contends that it was error for the prosecution to have elicited testimony with regard to appellant’s drug dealing and usage. Our review of the record indicates that the testimony adduced on this subject was limited to the drug transaction said to have been arranged between appellant and Mr. Williams. The prosecutor referred to this evidence during voir dire, at which time appellant moved for a mistrial, which was denied by the trial court. The prosecutor again made references to this during his opening statement, without objection, and thereaf­ter elicited testimony about the drug deal from Smead Grubbs, again without objection.</p>
+                <p id="b87-6" pgmap="87">
+                   Arkansas Rule of Evidence 404(b) permits the intro­duction of testimony of other criminal activity when the testi­mony is independently relevant to the main issue — relevant in the sense of tending to prove some material point in the case rather than merely tending to prove that the defendant is a criminal. Baldridge v. State, 32 Ark. App. 160, 798 S.W.2d 127 (1990). Under this rule, evidence of other crimes can be admitted as proof of motive, opportunity, intent, preparation, plan, knowl­edge, identity or absence of mistake or accident. We believe the prosecution was entitled to introduce evidence showing a possible motive for the killing of the victim, whom, as the testimony revealed, appellant had just met the day of the murder. Further­more, any subsequent testimony to that of Mr. Grubbs was merely cumulative and repetitious of his testimony which was admitted without objection, and cannot be claimed to be prejudi­cial. Gonzalez v. State, 306 Ark. 1, 811 S.W.2d 760 (1991). Moreover, the appellant waived any objection he may have had to any testimony on this subject when he introduced the transcript of Smead Grubbs’ testimony taken at Grubbs’ trial, which con­tained references to the planned drug transaction. Aaron v. State, 300 Ark. 13,775S.W.2d894(1989).In short, we find no error on this point.</p>
+                <p id="b87-7" pgmap="87">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="81" ORDERLABEL="61" TYPE="page">
+        <fptr FILEID="tiff_00041_0"/>
+        <fptr FILEID="jp2_00041_0"/>
+        <fptr FILEID="alto_00041_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_81.2" BETYPE="IDREF" FILEID="alto_00041_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="82" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00041_1"/>
+        <fptr FILEID="jp2_00041_1"/>
+        <fptr FILEID="alto_00041_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.2" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="83" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00042_0"/>
+        <fptr FILEID="jp2_00042_0"/>
+        <fptr FILEID="alto_00042_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_83.3" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="84" ORDERLABEL="64" TYPE="page">
+        <fptr FILEID="tiff_00042_1"/>
+        <fptr FILEID="jp2_00042_1"/>
+        <fptr FILEID="alto_00042_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_84.2" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="85" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.3" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="86" ORDERLABEL="66" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.3" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.7" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_87.1" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.6" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.5" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.4" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.5" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.4" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMc" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.10" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            <area BEGIN="BL_82.11" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.6" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            <area BEGIN="BL_85.1" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.6" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-11" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.14" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            <area BEGIN="BL_83.1" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.13" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.5" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            <area BEGIN="BL_84.1" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.6" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            <area BEGIN="BL_86.1" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.5" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-3" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.3" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.4" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.4" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.5" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.8" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.7" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.5" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.4" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.12" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.9" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.4" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.6" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.7" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

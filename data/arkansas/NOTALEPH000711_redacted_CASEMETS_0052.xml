@@ -1,0 +1,563 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000711_0052" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Slater v. State">Barbara SLATER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-842</docketnumber>
+          <citation category="official" type="bluebook">76 Ark. App. 365</citation>
+          <citation category="parallel" type="bluebook">65 S.W.3d 481</citation>
+          <decisiondate>2002-01-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T15:40:11Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:41Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-27T15:27:57Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-27T15:35:32Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00204_0" MIMETYPE="image/tiff" CHECKSUM="03cc3d4ade2aa8e0c348848b6754a440" CHECKSUMTYPE="MD5" SIZE="10886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00204_0.tif"/>
+      </file>
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="b7ff284d6c868934a9446bcec05fe9e4" CHECKSUMTYPE="MD5" SIZE="22384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="1a981cad3371f1f591fd296ce170b0d0" CHECKSUMTYPE="MD5" SIZE="60084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="34f4b15c1ccd598dcccced2197a4362f" CHECKSUMTYPE="MD5" SIZE="58218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00205_1.tif"/>
+      </file>
+      <file ID="tiff_00206_0" MIMETYPE="image/tiff" CHECKSUM="794e7f74f7246ed7a020cddcf6ab4a4d" CHECKSUMTYPE="MD5" SIZE="54984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00206_0.tif"/>
+      </file>
+      <file ID="tiff_00206_1" MIMETYPE="image/tiff" CHECKSUM="57c3fc5d47f2186e744a0fd6e09bbc85" CHECKSUMTYPE="MD5" SIZE="42922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00206_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00204_0" MIMETYPE="image/jp2" CHECKSUM="6478f7639cf245dd156c5bf05d448435" CHECKSUMTYPE="MD5" SIZE="1680948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00204_0.jp2"/>
+      </file>
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="94957cde712f880fd024e660c3f93d34" CHECKSUMTYPE="MD5" SIZE="1718448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="56f4b9e621bf1296425ef111166875ad" CHECKSUMTYPE="MD5" SIZE="2718367">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="840e799f9fff56e5e05830a753f28df5" CHECKSUMTYPE="MD5" SIZE="2645032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00205_1.jp2"/>
+      </file>
+      <file ID="jp2_00206_0" MIMETYPE="image/jp2" CHECKSUM="c2b5dcf131915790d1a3f15f21a06e86" CHECKSUMTYPE="MD5" SIZE="2649197">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00206_0.jp2"/>
+      </file>
+      <file ID="jp2_00206_1" MIMETYPE="image/jp2" CHECKSUM="939240414073bfeb8f953f8e99837e68" CHECKSUMTYPE="MD5" SIZE="2542764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00206_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00204_0" MIMETYPE="text/xml" CHECKSUM="70baca5b381ff12b7dae101c451d761d" CHECKSUMTYPE="MD5" SIZE="14861">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00204_0.xml"/>
+      </file>
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="b1d685367e4f183c9f9fe0fa473e25b6" CHECKSUMTYPE="MD5" SIZE="36503">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="265bc08ef506b05f2ebfb2ca3de3d7a6" CHECKSUMTYPE="MD5" SIZE="105155">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="875048af3e46dc8d57e9cf6fae788cfe" CHECKSUMTYPE="MD5" SIZE="102262">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00205_1.xml"/>
+      </file>
+      <file ID="alto_00206_0" MIMETYPE="text/xml" CHECKSUM="0abf79c90c44a3ac4618c31a814049c9" CHECKSUMTYPE="MD5" SIZE="99332">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00206_0.xml"/>
+      </file>
+      <file ID="alto_00206_1" MIMETYPE="text/xml" CHECKSUM="83d925454c686d77ed4f090c727403c4" CHECKSUMTYPE="MD5" SIZE="77105">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00206_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="365" lastpage="370">
+              <court id="b407-11" pgmap="407">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b407-9" pgmap="407">CA CR 01-842</docketnumber>
+              <citation id="b407-10" pgmap="407">65 S.W.3d 481</citation>
+              <parties id="b407-8" pgmap="407">Barbara SLATER v. STATE of Arkansas</parties>
+              <decisiondate id="b407-12" pgmap="407">Opinion delivered January 30, 2002</decisiondate>
+              <judges id="b412-9" pgmap="412">Jennings and Crabtree, JJ., agree.</judges>
+              <attorneys id="b408-10" pgmap="408">William R. Simpson, Jr., Public Defender, and Don Thompson, Deputy Public Defender, by: Deborah R. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys id="b408-11" pgmap="408">Mark Pryor, Att’y Gen., by: David J. Davies, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b408-12" pgmap="408">JOHN F. STROUD, JR., Chief Judge.</author>
+                <p id="Agq" pgmap="408">Appellant, Barbara Slater, J was found guilty in a bench trial of the offense of theft by receiving. The value of the property was found to be in excess of $500 but less than $2500; therefore, the offense was a Class C felony. At her sentencing hearing, Slater was placed on probation for a period of three years, assessed a $100 fine, and ordered to pay court costs. Slater now appeals, arguing that there is insufficient evidence to support the conviction. We affirm.</p>
+                <p id="b408-14" pgmap="408(22) 409(85)">At trial, Carmen Hearon testified that on March 6, 2000, she was employed at Best Buy in Sherwood, Arkansas. On that date, appellant came to the customer-service desk in Best Buy wanting to purchase merchandise using two vouchers in the amounts of $800.47 and $96.01. Although appellant had the vouchers, she did not have the return receipts. Hearon testified that due to the fact that there was an investigation into the creation of fraudulent vouchers in the West Little Rock store, the management staff had instructed her to look up any voucher over $100 on the computer. Additionally, the voucher was also faded and difficult to read.</p>
+                <p id="b409-6" pgmap="409">When Hearon looked up the vouchers, she learned that they were created in the West Litde Rock store, although she could not tell which employee in that store had created the vouchers. She called the West Litde Rock store and asked Joe Stancheck to look up the actual returns on that store’s computer because she was unable to access that information from the Sherwood store. Stancheck was able to pull up the information immediately, but he was unable to provide the paperwork until the following day. Hea-­ron told appellant that she needed the paperwork from the West Little Rock store before she could process the vouchers; appellant waited awhile and then said she would come back the next day.</p>
+                <p id="b409-7" pgmap="409">Hearon testified that she did not have the actual vouchers at trial, that she only had copies, but that the copies were true and correct copies of the originals. She had given the original vouchers to Joe Stancheck. She testified that one could not tell if the vouch­ers were valid or invalid simply by looking at them; they had to be checked on the computer. She also could not determine when the original vouchers were created. When she asked appellant about the return receipts that were supposed to be attached to the vouchers, appellant said that she only had the vouchers, and that she had received them from a friend as a Christmas gift. However, appellant would not reveal the name of the friend who had given her the vouchers.</p>
+                <p id="b409-8" pgmap="409">Joe Stancheck testified that he worked at the West Little Rock Best Buy in March 2000. He said that there was a problem in the West Little Rock store during that time with employees making no-receipt returns and issuing vouchers for merchandise that was never actually purchased. He said that employees would then give the vouchers to friends and family members or use the vouchers themselves in any of the Best Buy stores. The investigation began when it was discovered that employees of the West Little Rock store were redeeming vouchers in other stores because there was no reason for an employee of one store to go to another store to purchase merchandise.</p>
+                <p id="b410-5" pgmap="410">Stancheck testified that he was contacted by Carmen Hearon on March 6, 2000, and asked to verify two vouchers. He verified that the vouchers were issued from the West Little Rock store, and he identified what merchandise was allegedly returned in exchange for the vouchers. However, when he performed a “cycle count” he found that neither product was in the store. Stancheck described a “cycle count” as the process by which it is determined whether an item is in the store. It is performed by first looking at the computer and determining what product is supposed to be in the store, and then doing an in-store accounting to see if the product is there. Stancheck verified that the vouchers had come from his store, but no product was in the store that had been returned from those vouchers. He also stated that he was unable to tell from merely looking at the vouchers whether they were stolen or not.</p>
+                <p id="b410-6" pgmap="410">Brian Kaelin testified that he was working at the Sherwood Best Buy on March 6, 2000, when Carmen Hearon came to him questioning some vouchers. He said that Morie Artis, the Sher­wood store’s inventory manager, was contacted at the West Litde Rock store. He stated that Artis and Stancheck researched the vouchers and determined that they were issued on merchandise that was never purchased. Kaelin said that through research, it was deter­mined that both vouchers had originally been issued from the West Little Rock store, but one voucher had been partially redeemed at the Sherwood store, with a subsequent voucher being issued from the Sherwood store for the remaining credit.</p>
+                <p id="b410-7" pgmap="410">When appellant came back to the Sherwood store the follow­ing day, Kaelin was told by Artis and Stancheck to call the Sher­wood Police Department and have appellant arrested. When Kaelin asked appellant where, she had obtained the vouchers, she said that she had gotten them from a friend, but she would not give any other information. Kaelin stated that you could not tell by looking at the vouchers that they were stolen, but reiterated that through research it was determined that products were never returned in exchange for the vouchers in question.</p>
+                <p id="b410-8" pgmap="410">The State rested after Kaelin’s testimony. At the close of the State’s evidence, appellant’s counsel made the following directed-­verdict motion:</p>
+                <blockquote id="b410-9" pgmap="410(49) 411(101)">The burden of proof is on the state, Your Honor, to prove that whoever possessed the vouchers knew they were stolen, that they were stolen. And if they didn’t know, that they had good reason to believe that they were stolen and they also have to know what the value of them are. And I don’t believe the state has, first off, proved that the vouchers were stolen. They say employees from their own store issued those vouchers to somebody. They can’t tell us who they issued them to and I don’t even know if they could tell us when they were issued. And we’ve had a conflicting testimony from their state’s witnesses where the vouchers were even issued from. And I think the state has failed to meet their burden of proof on this matter and so I’d ask the Court to direct a verdict in the defendant’s behalf.</blockquote>
+                <p id="b411-5" pgmap="411">The trial court denied the directed-verdict motion. Appellant rested without calling any witnesses and renewed her motion for directed verdict, which was again denied. Appellant now argues on appeal that there is insufficient evidence to support her conviction for theft by receiving. Specifically, appellant argues that the State failed to prove that the vouchers were stolen, that the vouchers had any intrinsic value, or that she knew the vouchers were fraudulent.</p>
+                <p id="b411-6" pgmap="411">
+                   A directed-verdict motion is a challenge to the suffi­ciency of the evidence. Ward v. State, 64 Ark. App. 120, 981 S.W.2d 96 (1998). When the sufficiency of the evidence is challenged, we consider only the evidence that supports the verdict, viewing the evidence in the light most favorable to the State. Harris v. State, 72 Ark. App. 227, 35 S.W.3d 819 (2000). The test is whether there is substantial evidence to support the verdict, which is evidence that is of sufficient force and character that it will, with reasonable cer­tainty, compel a conclusion one way or another. Id. Resolution of conflicts in testimony and assessment of witness credibility is for the fact-finder. Id.</p>
+                <p id="b411-7" pgmap="411">
+                   A person commits the offense of theft by receiving if he receives, retains, or disposes of stolen property of another person, knowing that it was stolen or having good reason to believe it was stolen. Ark. Code Ann. § 5-36-106(a) (Repl. 1997); Austin v. State, 26 Ark. App. 70, 760 S.W.2d 76 (1988). The unexplained posses­sion or control by a person of recendy stolen property or the acquisition by a person of property for a consideration known to be far below its reasonable value shall give rise to a presumption that he knows or believes that the property was stolen. Ark. Code Ann. § 5-36-106(c).</p>
+                <p id="b411-8" pgmap="411(29) 412(17)">
+                   Appellant’s first argument, that the State failed to prove that the vouchers were stolen, is unpersuasive. The testimony from Joe Stancheck and Brian Kaelin established that the vouchers, which are in-store credits that can be used like money, were issued for merchandise that was never purchased.</p>
+                <p id="b412-6" pgmap="412">
+                   Appellant also argues that the State failed to prove that the vouchers had any intrinsic value. However, this argument was not made to the trial court. We will not address arguments made for the first time on appeal. Ramaker v. State, 345 Ark. 225, 46 S.W.3d 519 (2001).</p>
+                <p id="b412-7" pgmap="412">
+                   Appellant’s last argument is that the State failed to prove that she had knowledge that the vouchers were fraudulent. We disagree. Appellant told the employees at the Sherwood Best Buy store that she had received the vouchers from a friend as a Christ­mas gift, but she refused to give any more' information, including the friend’s name. In Jenkins v. State, 60 Ark. App. 1, 959 S.W.2d 57 (1997), this court upheld the appellant’s conviction for theft by receiving, although she testified that she had received the jewelry (bracelet slides) in question as a gift from her boyfriend in Dallas, Texas, and did not know that the slides were stolen. In that case, the appellant also argued that it would be illogical for her to steal slides from a jewelry store and then return to the same store to have the slides put on her bracelet. In the present case, appellant contends that the fact that she returned to the store the next day is inconsis­tent with her having knowledge that the vouchers were stolen. However, when questioned about where she obtained almost $900 in vouchers, she would only say that she received them from a friend for Christmas and refused to give any further information. The finder of fact was not required to believe this explanation, especially in view of the fact that appellant refused to provide any information as to who had given her the vouchers. There is suffi­cient evidence to support appellant’s conviction for theft by receiving.</p>
+                <p id="b412-8" pgmap="412">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="407" ORDERLABEL="365" TYPE="page">
+        <fptr FILEID="tiff_00204_0"/>
+        <fptr FILEID="jp2_00204_0"/>
+        <fptr FILEID="alto_00204_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_407.3" BETYPE="IDREF" FILEID="alto_00204_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="408" ORDERLABEL="366" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="367" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="368" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="411" ORDERLABEL="369" TYPE="page">
+        <fptr FILEID="tiff_00206_0"/>
+        <fptr FILEID="jp2_00206_0"/>
+        <fptr FILEID="alto_00206_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.3" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="412" ORDERLABEL="370" TYPE="page">
+        <fptr FILEID="tiff_00206_1"/>
+        <fptr FILEID="jp2_00206_1"/>
+        <fptr FILEID="alto_00206_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.2" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agq" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.12" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_408.13" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.6" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.9" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-11" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.10" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-12" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.11" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.7" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-14" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.14" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            <area BEGIN="BL_409.1" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-11" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.10" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.9" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-12" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.11" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.7" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b407-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_407.8" BETYPE="IDREF" FILEID="alto_00204_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.6" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.7" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_411.1" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.7" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            <area BEGIN="BL_412.1" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.3" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.4" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.5" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.4" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.6" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.4" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.6" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.5" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.5" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000653_0003" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Ballard v. State">Larry BALLARD v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-115</docketnumber>
+          <citation category="official" type="bluebook">75 Ark. App. 15</citation>
+          <citation category="parallel" type="bluebook">53 S.W.3d 53</citation>
+          <decisiondate>2001-08-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:11:56Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:01Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:33:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:34:13Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="f6d0b109d58de976d019f7d543fb0550" CHECKSUMTYPE="MD5" SIZE="7084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00021_0.tif"/>
+      </file>
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="90895dedde582ca90bacffba56ac44f2" CHECKSUMTYPE="MD5" SIZE="49730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00021_1.tif"/>
+      </file>
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="42d86fedf616c98e32280b2c6694a678" CHECKSUMTYPE="MD5" SIZE="63376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="681085ee926143df57bbc6566f1a5055" CHECKSUMTYPE="MD5" SIZE="55502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00022_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="cb15423c972f46d0df44e7366b598ac3" CHECKSUMTYPE="MD5" SIZE="1436956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00021_0.jp2"/>
+      </file>
+      <file ID="jp2_00021_1" MIMETYPE="image/jp2" CHECKSUM="38c69a4137e072fb36192b390ed71593" CHECKSUMTYPE="MD5" SIZE="2466501">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00021_1.jp2"/>
+      </file>
+      <file ID="jp2_00022_0" MIMETYPE="image/jp2" CHECKSUM="5f2c0592657280904f0f886de2a74c24" CHECKSUMTYPE="MD5" SIZE="2738013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00022_0.jp2"/>
+      </file>
+      <file ID="jp2_00022_1" MIMETYPE="image/jp2" CHECKSUM="85eb889024adae48228ccfd4254e7da1" CHECKSUMTYPE="MD5" SIZE="2625080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00022_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="a1fde64318445816b68da681f6b99ae3" CHECKSUMTYPE="MD5" SIZE="8166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00021_0.xml"/>
+      </file>
+      <file ID="alto_00021_1" MIMETYPE="text/xml" CHECKSUM="7387e463bee936b1e6b2cbb790af554d" CHECKSUMTYPE="MD5" SIZE="86252">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00021_1.xml"/>
+      </file>
+      <file ID="alto_00022_0" MIMETYPE="text/xml" CHECKSUM="da1436c67df35fb439101ce35b42c6f5" CHECKSUMTYPE="MD5" SIZE="112748">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00022_0.xml"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml" CHECKSUM="34852de9b96ffb84d02c9f8edc43a347" CHECKSUMTYPE="MD5" SIZE="97539">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00022_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="18" firstpage="15">
+              <court id="b41-6" pgmap="41">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b41-4" pgmap="41">CA CR 01-115</docketnumber>
+              <citation id="b41-5" pgmap="41">53 S.W.3d 53</citation>
+              <parties id="A-" pgmap="41">Larry BALLARD v. STATE of Arkansas</parties>
+              <decisiondate id="b41-7" pgmap="41">Opinion delivered August 29, 2001</decisiondate>
+              <judges id="b44-10" pgmap="44">BIRD and Roaf, JJ., agree.</judges>
+              <attorneys id="b42-7" pgmap="42">William R. Simpson, Jr., Public Defender; Sandra S. Cordi, Dep­uty Public Defender, by: Deborah R. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys id="b42-8" pgmap="42">Mark Pryor, Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAcp" pgmap="42">Baker, Judge.</author>
+                <p id="pAk" pgmap="42">Appellant, Larry Ballard, was con­victed of terroristic threatening in the first degree, a Class D felony. Following a bench trial, he was sentenced to three years’ probation, a fine of $300, and court costs. Appellant argues that the trial court erred in denying his motion to dismiss for lack of a speedy trial. We reverse and dismiss.</p>
+                <p id="b42-10" pgmap="42">A felony information was filed on April 9, 1999, alleging that appellant had committed the act of terroristic threatening in viola­tion of Ark. Code Ann. § 5-13-301 (Repl. 1997). Appellant was arrested and taken into custody on October 27, 1998, and released on bond. He was granted a motion for continuance on December 27, 1999; a continuance was also granted on a joint motion by appellant and the State on May 22, 2000. A bench trial was held on July 10, 2000. On that date, appellant moved to dismiss the charges against him, alleging a violation of his right to a speedy trial pursu­ant to Ark. R. Crim. P. 28.2(a) and (c). Specifically, appellant argued that he did not appear at his arraignment on April 26, 1999, because he was not given notice of his plea and arraignment. Therefore, the time period between April 26, 1999, and September 20, 1999, when appellant appeared for his plea and arraignment, should not be excluded from the one-year statutory requirement for a speedy trial. The trial court denied his motion.</p>
+                <p id="b42-11" pgmap="42(88) 43(111)">Sandra Gaisbauer, case coordinator, testified as to the proce­dure for notifying a defendant to appear for plea and arraignment. She stated that once a felony information is filed in circuit court, a card is sent to the circuit court clerk’s office stating the defendant’s name and address, and a computer generated form letter is created from the information on the card. Gaisbauer then places the letter in the mailbox, and the bailiff is responsible for taking the mail. Gaisbauer testified that appellant’s card stated that appellant’s address was 3212 Whitfield in Little Rock, and that in accordance with general procedure, a letter would have been sent to appellant at that address. Because the letter was not returned, she presumed it was received. According to Gaisbauer, although it was not her practice to keep a copy of the letter, a copy of the letter should have been placed in the defendant’s file. However, there was no copy of the letter in appellant’s file. Appellant and his mother both testified that appellant was living at 3212 Whitfield in Little Rock in April 1999, and that appellant never received notice to appear at his plea and arraignment on April 26, 1999.</p>
+                <p id="b43-6" pgmap="43">Appellant argues that he was denied a speedy trial in violation of Ark. R. Crim. P. 28.1. He claims that his right to a speedy trial was violated because he never received notice of his plea-and-­arraignment date, and as a result, he failed to appear. Thus, the trial court erred by denying his motion to dismiss. The State contends that appellant’s right to a speedy trial was not violated because evidence was provided that proved that the letter notifying appellant of the plea and arraignment was sent to him, and that the trial court did not err by denying appellant’s motion to dismiss. We disagree.</p>
+                <p id="b43-7" pgmap="43">
+                   The right to a speedy trial is expressed in the Bill of Rights, U.S. Const, amend. 6, and guaranteed to state criminal defendants by the Fourteenth Amendment. Klopfer v. North Caro­lina, 386 U.S. 213 (1967). Arkansas Rules of Criminal Procedure 28.1(c) and 28.2(a) require the State to bring a defendant to trial within twelve months from the date the charge is filed in circuit court or, if the defendant has been lawfully set at liberty pending trial, from the date of arrest. See also Rose v. State, 72 Ark. App. 175, 35 S.W.3d 365 (2000). We have placed responsibility on the defend­ant to be available for trial; therefore, such time delays which result from a failure to appear for trial are excluded. Henson v. State, 38 Ark. App. 155, 832 S.W.2d 269 (1992); see also Ark. R. Crim. P. 28.3(e). However, the State has the burden to show that any delay was the result of the defendant’s conduct or was otherwise justified. Scott v. State, 337 Ark. 320, 989 S.W.2d 891 (1999). The State also has the duty to show that it made diligent, good-faith effort to bring the accused to trial. Brown v. State, 330 Ark. 239, 952 S.W.2d 673 (1997); Duncan v. Wright, 318 Ark. 153, 883 S.W.2d 834 (1994); Chandler v. State, 284 Ark. 560, 683 S.W.2d 928 (1985).</p>
+                <p id="b43-8" pgmap="43(45) 44(93)">Appellant challenges only the time period from April 26, 1999, to September 20, 1999. In support of his assertion that this time period should not be excluded, he contends that the State has failed to demonstrate that notice of his plea and arraignment was actually sent. Testimony from Gaisbauer showed that it is standard policy to send a letter to appear for plea and arraignment; however, the State’s case lacked any independent evidence that notice was actu­ally sent to appellant. Without a copy of the letter in appellant’s file, it was impossible to determine whether a mistake was made in the contents of the letter, the date and address of the letter, or whether a letter was actually sent. Appellant asserts that the State has failed to meet its burden of proof in this case. We agree.</p>
+                <p id="b44-6" pgmap="44">Appellant relies on the case of Glover v. State, 287 Ark. 19, 695 S.W.2d 829 (1985). In Glover, our supreme court held that the State failed to meet its burden of proving that it did not know the whereabouts of Glover, for purposes of justifying untimely delay under speedy-trial rules. The State in Glover provided testimony that a deputy sheriff mailed a letter to Glover at the address Glover had given, and the letter was never returned. Id. at 20-21, S.W.2d at 380.</p>
+                <p id="b44-7" pgmap="44">
+                   Glover is similar to the case at hand. Appellant and his mother both testified that in April 1999, at the time the notice was allegedly sent, appellant was living at 3212 Whitfield in Litde Rock. This fact is undisputed. Appellant and his mother both testified that appellant never received a letter at 3212 Whitfield in Litde Rock regarding his plea-and-arraignment date. The State relied solely on the testimony of Gaisbauer that it was her standard policy to send a notice to appellant, but as in Glover, the State’s reliance on Gais­bauer’s testimony that a letter was sent and not returned is simply insufficient. At a minimum, a copy of the notice should remain in appellant’s file in order to demonstrate that a letter was actually sent. Furthermore, it is troublesome that no further effort was made to contact appellant in the five months following his failure to appear on April 26, 1999. Here, the State has not met its burden of proof that notice of the plea-and-arraignment date was sent to appellant. Instead, the State has only proven that it is standard procedure to send such notices. Likewise, the State has failed to prove that the delay was the result of appellant’s conduct, and that the State made a diligent, good-faith effort to bring appellant to trial.</p>
+                <p id="b44-8" pgmap="44">Accordingly, we hold that the trial court erred by denying appellant’s motion to dismiss.</p>
+                <p id="b44-9" pgmap="44">Reversed and dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="41" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.2" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="42" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jp2_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.2" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="43" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jp2_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jp2_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.2" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-11" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.14" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_43.1" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.4" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.7" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.6" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.5" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAcp" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.9" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.5" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.4" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.5" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.6" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.7" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.4" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.6" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_44.1" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-10" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.13" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-10" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.8" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAk" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.10" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_42.11" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_42.12" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.7" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.6" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

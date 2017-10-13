@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000699_0011" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Simpson v. State">Tyrone SIMPSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-963</docketnumber>
+          <citation category="official" type="bluebook">82 Ark. App. 76</citation>
+          <citation category="parallel" type="bluebook">119 S.W.3d 83</citation>
+          <decisiondate>2003-04-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:01:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:47Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T10:16:21Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T10:20:31Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="f83bb256c31a825c1451dee5b45f6094" CHECKSUMTYPE="MD5" SIZE="7482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00051_1.tif"/>
+      </file>
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="175e7b4d10a270b6727c72c1af94e718" CHECKSUMTYPE="MD5" SIZE="19728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="63f53596c0bf8f8c334058e6ef9d9c63" CHECKSUMTYPE="MD5" SIZE="54698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="2052a60f8227ad5c4c5edb290574da30" CHECKSUMTYPE="MD5" SIZE="55706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="845e6ff41ffd51dac8b95d24bce55136" CHECKSUMTYPE="MD5" SIZE="58838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="37fefb280fc74740544dc159a839a4a0" CHECKSUMTYPE="MD5" SIZE="51812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00054_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="80a03795a214e589c90ef816d0c20967" CHECKSUMTYPE="MD5" SIZE="1333752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00051_1.jp2"/>
+      </file>
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="2e7e84e85788270b37600cba8c2c0e21" CHECKSUMTYPE="MD5" SIZE="1714867">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="0d4687e24414aaf21efe8f3247eb8511" CHECKSUMTYPE="MD5" SIZE="2509765">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="6c7b179a2b3c427f7b522a813239e3cd" CHECKSUMTYPE="MD5" SIZE="2536790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="7502e7e5ac4b68b78539f00e733b40b8" CHECKSUMTYPE="MD5" SIZE="2547881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="9926d1dbad46804f3a4d9d33a120bb4c" CHECKSUMTYPE="MD5" SIZE="2498471">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00054_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="38900570b7a5ce7b59917ea333360d76" CHECKSUMTYPE="MD5" SIZE="8331">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00051_1.xml"/>
+      </file>
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="555ace1ec68f72e775d4ab096be4e3ab" CHECKSUMTYPE="MD5" SIZE="31631">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="efb2adf8f9f80e1f332398f597e732cb" CHECKSUMTYPE="MD5" SIZE="97408">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="1af4bdcf6466686ae22bf936111d3618" CHECKSUMTYPE="MD5" SIZE="99117">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="b035d866c65b1c2dedd3589e54509376" CHECKSUMTYPE="MD5" SIZE="103025">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="a80a70077cb63ade2b5909d9ab6405f5" CHECKSUMTYPE="MD5" SIZE="88523">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00054_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="81" firstpage="76">
+              <court id="b102-4" pgmap="102">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber id="AzD" pgmap="102">CA CR 02-963</docketnumber>
+              <citation id="AgX" pgmap="102">119 S.W.3d 83</citation>
+              <parties id="b102-3" pgmap="102">Tyrone SIMPSON v. STATE of Arkansas</parties>
+              <decisiondate id="b102-5" pgmap="102">Opinion delivered April 30, 2003</decisiondate>
+              <judges id="b107-7" pgmap="107">Pittman and Neal, JJ., agree.</judges>
+              <attorneys id="b103-8" pgmap="103">S. Butler Bernard, Jr., for appellant.</attorneys>
+              <attorneys id="b103-9" pgmap="103">J. Leon Johnson, Att’y Gen., by: Kent G; Holt, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAPq" pgmap="103">Andree Layton Roaf, Judge.</author>
+                <p id="A6b" pgmap="103">Appellant Tyrone Simpson was convicted by a jury of second-degree murder and sentenced to twelve years’ imprisonment. On appeal, Simpson argues that the trial court abused its discretion by refusing to allow lay-opinion testimony by an eyewitness that the shooting was accidental. We agree that the trial court erred, and we reverse and remand.</p>
+                <p id="b103-11" pgmap="103(45) 104(172)">Simpson was charged with first-degree murder in connection with the shooting death of Rufus Lytle, which occurred on October 20, 2001. At trial, the State called as a witness James Lytle, a brother of the victim and an owner of Lytle’s Grocery and Arcade, the establishment where the shooting took place. Lytle testified that, on the evening of October 20, there was a fight taking place in the back room, known as the poolroom, of the store. Lytle stated that he went from the poolroom into the front room of the store and encountered Simpson, who was carrying a shotgun. Lytle testified that he told Simpson that he did not need to be in the store with a shotgun, but that Simpson remained there pointing his shotgun in the air and trying to see what was going on in the poolroom. While talking to Simpson, Lytle stated that his brother, Ralph Lytle, Sr., came into the store carrying a shotgun. According to Lytle, Ralph came up behind Simpson and struck him on the side of the head with the butt of the gun. As Simpson fell to the floor, Lytle testified that Simpson’s gun discharged, striking another brother, Rufus Lytle, in the head and killing him. Lytle stated that both Simpson and Ralph immediately left the premises.</p>
+                <p id="b104-5" pgmap="104">On cross-examination, Simpson asked Lytle, “What kind of shooting would you characterize this as?” The State objected, arguing that the question called for a conclusion and invaded the province of the jury to determine the circumstances of the shoot­ing. Simpson replied that it was permissible for a witness to a shooting to testify as to whether in his opinion, the shooting was accidental or intentional. The trial court sustained the objection and disallowed the testimony, stating that it was not demonstrated that the testimony would be helpful to the jury and that it invaded the province of the jury for a layperson to testify as to the ultimate conclusion. Simpson was allowed to proffer the expected testi­mony of Lytle. In the proffered testimony, Lytle stated that he witnessed every moment of the events surrounding the shooting and that he would characterize the shooting as an accident. Lytle testified that in his opinion, Simpson was not intending to shoot the gun when he fell.</p>
+                <p id="b104-6" pgmap="104(78) 105(180)">
+                   Simpson’s sole argument on appeal is that the trial court erred in refusing to allow the opinion testimony of the eye­witness. The decision on whether to admit relevant opinion evi­dence rests in the sound discretion of the trial court, and the trial court’s ruling will not be reversed absent an abuse of discretion. Marts v. State, 332 Ark. 628, 968 S.W.2d 41 (1998). Arkansas Rule of Evidence 701 (2002) permits lay witnesses to testify in the form of opinions or inferences, as long as those opinions or infer­ences are (1) rationally based on the perception of the witness and (2) helpful to a clear understanding of his testimony or the deter­mination of a fact in issue. Testimony in the form of an opinion or inference that is otherwise admissible is not objectionable because it embraces an ultimate issue to be decided by the trier of fact. Ark. R. Evid. 704 (2002); Marts v. State, supra. Although opinion testimony on the ultimate issue is admissible, if the opin­ion mandates a legal conclusion or “tells the jury what to do,” the testimony should be excluded. Marts v. State, supra (citing Salley v. State, 303 Ark. 278, 796 S.W.2d 335 (1990)). For example, an opinion by an expert witness in a medical malpractice case that a doctor was not negligent was held to be inadmissible because it did not merely embrace the ultimate issue, but was tantamount to tell­ing the jury what result to reach. Gramling v. Jennings, 274 Ark. 346, 625 S.W.2d 463 (1982).</p>
+                <p id="b105-5" pgmap="105(243) 106(45)">
+                   Simpson contends that the proffered opinion in this case, which was that the shooting was accidental, was rationally based on James Lytle’s perception, that it would have been helpful to a clear understanding of his testimony or a determination of a fact in issue, and that it does not mandate a legal conclusion. As support for his argument, Simpson cites Mathis v. State, 267 Ark. 904, 591 S.W.2d 679 (Ark. App. 1979). In Mathis, the defendant was convicted of second-degree murder for the shooting death of his girlfriend. According to the testimony of an eyewitness, the parties were arguing, and the defendant went to get his gun. The witness placed herself in between the defendant and his girlfriend, and she testified that the defendant then reached around and shot his girlfriend. The witness was allowed to testify that in her opin­ion, the shooting was not accidental. On appeal, the defendant argued that the trial court erred in allowing an opinion on the ultimate issue. He also argued that her opinion was not rationally based on her perception because it went to his state of mind and not to something that could be perceived by her senses. This court held that the opinion was properly admitted, finding that the opinion was rationally based on her observations of the struggle and that it was helpful to the trier of fact to know whether the eyewitness felt the shooting was accidental. Id. We stated that opinion testimony is no longer viewed as “usurping the function of the trier-of-fact” and that the “trier of fact considers the opin­ion along with the other evidence and determines the weight to be attached to the testimony.” Id. at 907, 591 S.W.2d at 681.</p>
+                <p id="b106-5" pgmap="106">Also, in Salley v. State, supra, police officers were allowed to testify that the defendant appeared to be “shooting to kill,” when he pointed the handgun at one of the officers. The court found that this type of testimony is quite different from an expert who utilizes established facts and from those facts makes a conclusory statement that the actor was “negligent” or “guilty of malprac­tice.” Id. at 283, 796 S.W.2d at 338; see also Long v. State, 284 Ark. 21, 680 S.W.2d 686 (1984) (finding officer’s testimony that the defendant was intoxicated was admissible although it embraced the ultimate issue, since it did not mandate a legal conclusion); Tillman v. State, 275 Ark. 275, 630 S.W.2d 5 (1982) (finding that the trial court properly admitted a witness’s opinion that a car had backed out of a driveway just before he saw it, where the witness’s observations as to the car’s position relative to the driveway and as to its movement provided a rational basis for his opinion).</p>
+                <p id="b106-6" pgmap="106">
+                   Here, Lytle testified that he observed every moment of the events leading up to the shooting by Simpson, and he observed Simpson’s fall and the discharge of the gun. Lytle described the fall and the subsequent shooting as happening so quickly that he was not sure if Simpson had even hit the ground when the gun fired. Thus, the proffered opinion that the shooting was accidental is rationally based on Lytle’s perception of the events. The State argues that this case can be distinguished from Mathis, supra, because Lytle did not know where the victim was before the shooting. However, Simpson’s actions, not the victim’s, were the ones relevant to the issue in this case. Thus, the State’s argument that Lytle did not observe the entire transaction is without merit. In addition, this opinion would have been helpful to a clear under­standing of his testimony describing the shooting, since he testified that “it happened so fast” that he could not say whether the shot went off before or after Simpson fell to the ground. Given Simp­son’s defense that the shooting was accidental, this opinion testi­mony would also have been helpful to a determination of a fact in issue, namely, whether Simpson committed first-degree murder or some other lesser-included offense. Therefore, this opinion testi­mony is proper under Ark. R. Evid. 701.</p>
+                <p id="b107-4" pgmap="107">
+                   The trial court’s ruling that it would have “invaded the province of the jury” for Lytle to testify as to the ultimate conclu­sion in this case is contrary to the holding in Mathis v. State, supra. As in Mathis, the opinion in this case would not have mandated that the jury reach a certain conclusion. Instead, the jury should have been able to consider this opinion along with all of the other evidence and determine the weight to be attached to the testi­mony. Id. Thus, the trial court abused its discretion in excluding this testimony.</p>
+                <p id="b107-5" pgmap="107">Finally, we note that other jurisdictions have reached a differ­ent conclusion when considering whether lay opinion testimony is admissible under analogous circumstances. United States v. Skeet, 665 F.2d 983 (9th Cir. 1982) (holding witness should not be allowed to give opinion as to whether shooting was accidental where jury could be put into a position of equal vantage with the witness for drawing the opinion); State v. Turner, 136 Idaho 629, 38 P.3d 1285 (2001) (holding that opinion testimony that shoot­ing was accidental was properly struck where witness testified to facts and circumstances surrounding the shooting, and jurors from their common experience and knowledge could draw their own conclusions about whether shooting was an accident); State v. Parks, 71 Or. App. 630, 693 P.2d 657 (1985) (holding witness’s opinion that shooting was an accident not admissible where wit­ness was not better able than jury to reach a conclusion on that issue); Fairow v. State, 943 S.W.2d 895 (Tex. Ct. App. 1997) (holding opinion from witness as to whether shooting was acci­dental not admissible because it would not be helpful from a witness able to articulate his perceptions in great detail, thus increasing the likelihood that the jury could form its own opin­ion). These authorities, while soundly reasoned, are not in fine with the holdings in Mathis v. State, supra, and Salley, supra, where admission of opinion testimony about the accidental nature of a shooting was upheld even though the witness appeared to testify to sufficient facts and circumstances to allow the jury to form its own opinion. We therefore' must reverse and remand.</p>
+                <p id="b107-6" pgmap="107">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="102" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.1" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="103" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.3" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.2" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAPq" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.9" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgX" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.5" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-11" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.13" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-3" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.3" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.7" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.6" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6b" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.10" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.11" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.12" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.8" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzD" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

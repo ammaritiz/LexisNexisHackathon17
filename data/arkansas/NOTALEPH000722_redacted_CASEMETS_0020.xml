@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000722_0020" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Sitz v. State">James SITZ v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-88</docketnumber>
+          <citation category="official" type="bluebook">23 Ark. App. 126</citation>
+          <citation category="parallel" type="bluebook">743 S.W.2d 18</citation>
+          <decisiondate>1988-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:12:55Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:49Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T08:27:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T08:27:56Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="decef48b94192d70e730cd8cc1141e46" CHECKSUMTYPE="MD5" SIZE="20878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="12fad7856150c5c9a43169fc433f01ec" CHECKSUMTYPE="MD5" SIZE="54926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00075_0.tif"/>
+      </file>
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="0d723cc972a39a84756208eaba604b8d" CHECKSUMTYPE="MD5" SIZE="55066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00075_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00074_1" MIMETYPE="image/jp2" CHECKSUM="ecb113d4216ecbd02c81248ad6787243" CHECKSUMTYPE="MD5" SIZE="2031639">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00074_1.jp2"/>
+      </file>
+      <file ID="jp2_00075_0" MIMETYPE="image/jp2" CHECKSUM="fd84099e8a6f6613b0d977fe121b9a5f" CHECKSUMTYPE="MD5" SIZE="2706507">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00075_0.jp2"/>
+      </file>
+      <file ID="jp2_00075_1" MIMETYPE="image/jp2" CHECKSUM="93c49ae37f97c12bbe55f0cd7be01e73" CHECKSUMTYPE="MD5" SIZE="2647495">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000722_00075_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00074_1" MIMETYPE="text/xml" CHECKSUM="183729a477bbf00b694d1f9aaa180eee" CHECKSUMTYPE="MD5" SIZE="32553">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00074_1.xml"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml" CHECKSUM="f42bd3529bfadd39d6c9b7c94325e599" CHECKSUMTYPE="MD5" SIZE="92617">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00075_0.xml"/>
+      </file>
+      <file ID="alto_00075_1" MIMETYPE="text/xml" CHECKSUM="33cd6155d6cce7f33773311fc9cc2f51" CHECKSUMTYPE="MD5" SIZE="90526">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000722_redacted_ALTO_00075_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="128" firstpage="126">
+              <court id="b148-11" pgmap="148">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b148-9" pgmap="148">CA CR 87-88</docketnumber>
+              <citation id="b148-10" pgmap="148">743 S.W.2d 18</citation>
+              <parties id="b148-8" pgmap="148">James SITZ v. STATE of Arkansas</parties>
+              <decisiondate id="b148-12" pgmap="148">Opinion delivered January 27, 1988</decisiondate>
+              <judges id="b150-10" pgmap="150">Corbin, C.J., and Cooper, J., agree.</judges>
+              <attorneys id="b148-16" pgmap="148">Michael Everett, for appellant.</attorneys>
+              <attorneys id="b148-17" pgmap="148">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b149-5" pgmap="149">John E. Jennings, Judge.</author>
+                <p id="Aas" pgmap="149">After a jury trial, James Sitz was convicted of driving while intoxicated. The State’s only witness was James Walker, the Tyronza Chief of Police.</p>
+                <p id="b149-6" pgmap="149">On cross-examination, appellant’s counsel sought to ask Walker about the circumstances surrounding his leaving his position as the Chief of Police for the City of Harrisburg. The trial court sustained the State’s objection to the question, and defense counsel sought to make his record. The trial court ruled that the record could be made at the first recess. Apparently the case was submitted to the jury before the court went into recess. At that time defense counsel made his record, explaining that he was seeking to show that Walker had embezzled funds from the City of Harrisburg. The trial court declined to change his mind.</p>
+                <p id="b149-7" pgmap="149">Rule 608(b) of the Arkansas Rules of Evidence provides:</p>
+                <blockquote id="b149-8" pgmap="149">Specific instances of the conduct of a witness, for the purpose of attacking or supporting his credibility, other than conviction of crime as provided in Rule 609, may not be proved by extrinsic evidence. They may, however, in the discretion of the court, if probative of truthfulness or untruthfulness, be inquired into on cross-examination of the witness (1) concerning his character for truthfulness or untruthfulness. . . .</blockquote>
+                <p id="b149-9" pgmap="149">
+                   Appellant first argues that the court, in effect, denied him the opportunity to make a proffer. We do not agree. We recently held that it is generally error for the trial court to refuse counsel the opportunity to proffer evidence which has been excluded by a ruling of the court. Jones v. Jones, 22 Ark. App. 267, 739 S.W.2d 171 (1987). The primary reason that a proffer is required is so that the appellate court will have a record upon which to determine the admissibility of the evidence. But while the trial court has very limited discretion to refuse to permit counsel to proffer evidence, it has great discretion in controlling the form of the proffer and the time at which it is to be made. Rule 103 (b) of the Arkansas Rules of Evidence provides that the court may direct that an offer of proof be made in question and answer form. Rule 103(c) generally requires that proffers be made outside the hearing of the jury. We find no abuse of discretion in the procedure followed by the trial judge.</p>
+                <p id="b150-5" pgmap="150">Appellant’s second argument is that the evidence he sought to elicit was relevant and it was error to exclude it. In Gustafson v. State, 267 Ark. 278, 590 S.W.2d 853 (1979), the supreme court held that theft was probative of untruthfulness and therefore could be inquired about on cross under Rule 608(b). Gustafson was overruled in Rhodes v. State, 276 Ark. 203, 634 S.W.2d 107 (1982), in which the court held that, although theft is probative of dishonesty, it is not probative of untruthfulness and therefore cannot be inquired about on cross under Rule 608(b). Although Gustafson involved theft by receiving and Rhodes involved shoplifting, we do not believe that either decision turned on the particular type of theft offense involved. Appellant relies primar­ily on the dissenting opinion in Rhodes. While we might agree with appellant that the dissent is well reasoned we are not at liberty to follow it.</p>
+                <p id="b150-6" pgmap="150">Embezzlement was not an offense at common law. It has been defined as common-law larceny extended by statute to cover cases where the stolen property comes originally into the posses­sion of the defendant without a trespass. Moody v. People, 65 Colo. 339, 176 P. 476 (1918). It was made a separate offense by statute in this state until the adoption of the Arkansas Criminal Code in 1975, at which time it was consolidated with other theft offenses. Arkansas Statutes Annotated § 41-2202 (Repl. 1977). There is dicta in at least two federal cases stating that inquiry into specific acts which would have constituted embezzlement is permissible under Rule 608(b) of the Federal Rules of Evidence. United States v. Amahia, 825 F.2d 177 (8th Cir. 1987); United States v. Leake, 642 F.2d 715 (4th Cir. 1981). These statements appear to be derived from an article by Dean Ladd, Credibility Tests-Current Trends, 89 U. Pa. L. Rev. 166, 180 (1940). But Dean Ladd also argued that robbery, larceny, and burglary might be probative of untruthfulness.</p>
+                <p id="b150-7" pgmap="150">
+                   Our conclusion is that this case is controlled by the supreme court’s holding in Rhodes. We do not think a meaningful distinction can be drawn, for purposes of Rule 608(b), between embezzlement and other forms of theft.</p>
+                <p id="b150-8" pgmap="150">We hold that the trial court did not err in excluding this evidence.</p>
+                <p id="b150-9" pgmap="150">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="148" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jp2_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.2" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jp2_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.2" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="150" ORDERLABEL="128" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jp2_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.1" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.3" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.4" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.5" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.6" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.7" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-17" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.17" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-16" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.16" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-12" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.11" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-11" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.10" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.9" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.6" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.7" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.3" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.8" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.7" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.8" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.9" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.8" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aas" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.4" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_149.5" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

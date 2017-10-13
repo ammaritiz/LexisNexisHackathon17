@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000699_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Polk v. State">Raymond POLK v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-1264</docketnumber>
+          <citation category="official" type="bluebook">82 Ark. App. 210</citation>
+          <citation category="parallel" type="bluebook">105 S.W.3d 797</citation>
+          <decisiondate>2003-05-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:01:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:47Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T10:16:21Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T10:20:32Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00118_1" MIMETYPE="image/tiff" CHECKSUM="8f662f03b1eade7e589395349df71138" CHECKSUMTYPE="MD5" SIZE="6518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00118_1.tif"/>
+      </file>
+      <file ID="tiff_00119_0" MIMETYPE="image/tiff" CHECKSUM="a1714d69a455f0fd5bfb09b054c85c6c" CHECKSUMTYPE="MD5" SIZE="21258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00119_0.tif"/>
+      </file>
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="3de877d4b83a1e465ba176cc5e86d0af" CHECKSUMTYPE="MD5" SIZE="53866">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00119_1.tif"/>
+      </file>
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="e62394dde096e2388273d05be2c2ccc1" CHECKSUMTYPE="MD5" SIZE="53602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00120_0.tif"/>
+      </file>
+      <file ID="tiff_00120_1" MIMETYPE="image/tiff" CHECKSUM="cfc74316fccbf36537712e7dcbef4c75" CHECKSUMTYPE="MD5" SIZE="53734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00120_1.tif"/>
+      </file>
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="b307d138fb3cc29d5f1e4dbe8b84462a" CHECKSUMTYPE="MD5" SIZE="43890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00121_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00118_1" MIMETYPE="image/jp2" CHECKSUM="9c7aacea5e09f273ff93effd19bb1d65" CHECKSUMTYPE="MD5" SIZE="1338892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00118_1.jp2"/>
+      </file>
+      <file ID="jp2_00119_0" MIMETYPE="image/jp2" CHECKSUM="ffb74706fea7c8548a212b5c8ff58144" CHECKSUMTYPE="MD5" SIZE="1750555">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00119_0.jp2"/>
+      </file>
+      <file ID="jp2_00119_1" MIMETYPE="image/jp2" CHECKSUM="8acc2ccb7a7e5802bae70844c30309a0" CHECKSUMTYPE="MD5" SIZE="2541767">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00119_1.jp2"/>
+      </file>
+      <file ID="jp2_00120_0" MIMETYPE="image/jp2" CHECKSUM="f025052050ed8e0397e70211c1f898f3" CHECKSUMTYPE="MD5" SIZE="2501030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00120_0.jp2"/>
+      </file>
+      <file ID="jp2_00120_1" MIMETYPE="image/jp2" CHECKSUM="601324c7fe174744234a226f96c669b3" CHECKSUMTYPE="MD5" SIZE="2556493">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00120_1.jp2"/>
+      </file>
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="0aebfbcd549e6066a04df5d91d236625" CHECKSUMTYPE="MD5" SIZE="2470231">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00121_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00118_1" MIMETYPE="text/xml" CHECKSUM="9ff97a626462091459de6fcbf8bad731" CHECKSUMTYPE="MD5" SIZE="8375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00118_1.xml"/>
+      </file>
+      <file ID="alto_00119_0" MIMETYPE="text/xml" CHECKSUM="ba9eda2ca570eb43df7025e0b353b31e" CHECKSUMTYPE="MD5" SIZE="36824">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00119_0.xml"/>
+      </file>
+      <file ID="alto_00119_1" MIMETYPE="text/xml" CHECKSUM="eaaa0318cfed69c17fe2682e525884de" CHECKSUMTYPE="MD5" SIZE="101031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00119_1.xml"/>
+      </file>
+      <file ID="alto_00120_0" MIMETYPE="text/xml" CHECKSUM="12888dfa307d6850fa0c7f34c2271e9a" CHECKSUMTYPE="MD5" SIZE="97730">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00120_0.xml"/>
+      </file>
+      <file ID="alto_00120_1" MIMETYPE="text/xml" CHECKSUM="d6c482e42259e2e2fbe265093cd94943" CHECKSUMTYPE="MD5" SIZE="94592">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00120_1.xml"/>
+      </file>
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="a8344e3763463622779ce26ce7dacd59" CHECKSUMTYPE="MD5" SIZE="77438">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00121_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="215" firstpage="210">
+              <court id="b236-6" pgmap="236">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber id="b236-4" pgmap="236">CA CR 02-1264</docketnumber>
+              <citation id="Ad2" pgmap="236">105 S.W.3d 797</citation>
+              <parties id="b236-3" pgmap="236">Raymond POLK v. STATE of Arkansas</parties>
+              <decisiondate id="b236-7" pgmap="236">Opinion delivered May 21, 2003</decisiondate>
+              <judges id="b241-11" pgmap="241">Pittman and Baker, JJ., agree.</judges>
+              <attorneys id="b237-9" pgmap="237">Mark S. Fraiser, Chief Public Defender, by: Wallace &amp; Associ­ates, by: Kimberly Bosshart, for appellant.</attorneys>
+              <attorneys id="b237-10" pgmap="237">Mike Beebe, Att’y Gen., by: Katherine Adams, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b237-11" pgmap="237">John F. Stroud, Jr., Chief Judge.</author>
+                <p id="AP3" pgmap="237">Appellant, Raymond Polk, was charged with theft of property over $2500, a Class B felony. He was tried by a jury and found guilty of the offense of theft of property over $500, a Class C felony. He was sentenced to serve twelve years in the Arkansas Department of Correction. On appeal, he contends (1) that the trial court erred when it allowed the State to go forward with an accomplice the­ory when the information failed to allege such, and (2) that the trial court erred when it refused to reduce the charge to a Class A misdemeanor due to the value of the merchandise taken. Finding no error, we affirm.</p>
+                <p id="b238-4" pgmap="238">Terry Woodfork, a security officer for J.C. Penney, testified that he was employed in that capacity on December 2, 2001. He said that, on that date, he was observing the store from “the tow­ers,” looking for shoplifters, and that he observed appellant “walk­ing around and just observing,” not shopping. He stated that appellant purchased a pillow in the domestic area and got a large sack, and that he then returned to the menswear area, where he began putting several shirts and other menswear items into the sack. Woodfork said that he left the tower to get closer and that he observed appellant from ten to twenty feet away, concealing merchandise. Woodfork stated that he followed appellant out of the store to his car; that appellant got in the car; and that two other people, a male and a female, then got out of the car with Penney’s bags and headed toward the store. He said that he con­tacted mall security before the two entered the store and asked for assistance, reporting his belief that a “circle” was going on. He said that he told mall security that he needed assistance because there were three persons involved; that he wanted security “to be there” when the two came out of the store; and that he gave them a description of the automobile. He said that he observed the male and female go into the store, and that he returned to the towers for a better view. He said that the male was concealing shirts and pants and that the female was taking costume jewelry and ladies’ outfits. Woodfork testified that when the two left the store, he came down from the towers, walked out behind them, identified himself, and asked them to step back into the store. He said that the security officers, Dukes and House, were already there and that they “converged on the car all at once.” He said that the officers took over from that point.</p>
+                <p id="b238-5" pgmap="238">Woodfork testified that the merchandise that was taken was present in the car; that most of it was in the back seat; and that a few items were in the trunk. He said that a J.C. Penney’s employee, Tracy Farr, joined him and that they took possession of the merchandise. He said that he and Tracy calculated how much the merchandise was worth and then placed it in a storage area that had limited access. He said that he then went to the security sub­station in the mall, and that he and the security officers took photos of the shoplifters.</p>
+                <p id="b239-4" pgmap="239">He testified that he thought the suspects were acting in a “circle” because of the manner they entered the store; that when appellant got in the car, the other two got out; that the other two then entered the store and split up; and that they then exited the store together, as if they knew what time to leave. He said that appellant was never in the store at the same time as the other two; that he assumed appellant and the other two were working together; and that his assumption was based on the fact that they were in one car.</p>
+                <p id="b239-5" pgmap="239">Officer Jessie Dukes testified that he worked off-duty security at Hot Springs Mall on December 2, 2001. He said that he worked with Deputy Bill House and that Terry Woodfork con­tacted them, advising them that he had two shoplifters in the store and one outside by a white Ford Taurus. He said that he and House drove around and observed the car; that they ran the tags just as normal procedure; and that the car was reported stolen from Little Rock. He said that a black male, later identified as appellant, was sitting on the hood, looking at a paper. He said that they “backed off a little ways away from the car”; that Wood-­fork subsequently notified them that he was following two people out of the store; and that he and House subsequently advised the three that they were under arrest.</p>
+                <p id="b239-6" pgmap="239">Tracy Farr, a member of management at the Penney’s store, testified that her job gives her familiarity with prices and pricing merchandise at the store. She said that she was working on Decem­ber 2, 2001, and that she was called to help recover some merchan­dise, photograph it, inventory it, and “add it up.” She said that she, Woodfork, and Mr. Jones, the store manager, compiled a list of the pieces and their prices. She then identified and reviewed the fist that they compiled, explaining how they did it. She said that the grand retail-value total for all of the merchandise was $4,006.43, and that the actual cost to J.C. Penney was $1,602.57.</p>
+                <p id="b239-7" pgmap="239(57) 240(148)">
+                   We address appellant’s second point of appeal first because it essentially challenges the sufficiency of the evidence supporting his conviction. Double-jeopardy considerations require us to consider a challenge to the sufficiency of the evi­dence prior to examining other issues on appeal. Clem v. State, 351 Ark. 112, 90 S.W.3d 428 (2002). A motion for a directed verdict is a challenge to the sufficiency of the evidence. Id. In reviewing a challenge to the sufficiency of the evidence, we view the evidence in the light most favorable to the State and consider only the evidence that supports the verdict. Fields v. State, 349 Ark. 122, 76 S.W.3d 868 (2002). We do not reweigh the evi­dence but determine instead whether the evidence supporting the verdict is substantial. Clem v. State, supra. We affirm a conviction if substantial evidence exists to support it. Id. Evidence, whether direct or circumstantial, is sufficient to support a conviction if it is forceful enough to compel reasonable minds to reach a conclusion without having to resort to speculation or conjecture. Id. We do not, however, weigh the evidence presented at trial, as that is a matter for a factfinder. Id. Nor will we weigh the credibility of the witnesses. Id.</p>
+                <p id="b240-5" pgmap="240">
+                   Here, appellant contends that witness Farr had no inde­pendent actual knowledge of the value of the articles and that the knowledge she did have came solely from the retail price tags. He cites the case of Brooks v. State, 303 Ark. 188, 792 S.W.2d 617 (1990), to support his contention that her testimony was thus inadmissible. We are not persuaded. In Brooks, the value testi­mony came from a security guard, who based his value testimony solely on the price tags, which was found to be inadmissible hear­say. Here, Ms. Farr testified that she was a manager-level employee, that she handled the store when the manager was absent, and that as such she was familiar with store merchandise pricing. Clearly, unlike the security guard in Brooks, Ms. Farr had sufficient knowledge to support her value testimony.</p>
+                <p id="b240-6" pgmap="240">
+                   Moreover, appellant contends that Farr failed to testify concerning the wholesale value of the articles and that the State failed to elicit such testimony, concluding that the merchandise value was not sufficiently shown to be an amount in excess of the statutorily required amount. However, contrary to appellant’s con­tention, Farr testified not only about the retail value of the mer­chandise, $4,006.43, she also testified about the actual cost to the store of the stolen merchandise, stating that it amounted to $1,602.57. The value evidence submitted by the State was more than sufficient to support the verdict for theft of property over $500. See Christian v. State, 54 Ark. App. 191, 925 S.W.2d 428 (1996).</p>
+                <p id="b241-4" pgmap="241">In his remaining point of appeal, appellant contends that the trial court erred when it allowed the State to go forward with an accomplice theory when the information failed to allege such. Again, we disagree.</p>
+                <p id="b241-5" pgmap="241">The original information filed in this matter charged appel­lant and two other persons with the offense of theft of property over $2500, a Class B felony. The first amended information only named appellant, charged him with the offense of theft of prop­erty over $2500, and added the allegation that appellant’s punish­ment should be enhanced because he had previously been convicted of more than four felonies, which were named. Both the original and the amended information alleged that the theft involved merchandise taken from the J.C. Penney’s store at the Hot Springs Mall.</p>
+                <p id="b241-6" pgmap="241">
+                   In Dunlap v. State, 303 Ark. 222, 228, 795 S.W.2d 920, 923-24 (1990), our supreme court explained:</p>
+                <blockquote id="b241-7" pgmap="241">We have held that it is only necessary that an indictment name the offense and the party to be charged. Defendants may be charged by either indictments or informations. The state is not required to include a statement of the act or acts constituting the offense, unless the offense cannot be charged without doing so. The true test of the sufficiency of an indictment is not whether it could have been made more definite and certain, but whether it contains the elements of the offense intended to be charged, and sufficiently apprises the defendant of what he must be prepared to meet.</blockquote>
+                <p id="b241-8" pgmap="241">(Citations omitted.) Moreover, there is no distinction between the criminal responsibility of an accomplice and a principal. Lee v. State, 297 Ark. 421, 762 S.W.2d 790 (1989).</p>
+                <p id="b241-9" pgmap="241">
+                   Here, the information named the offense and the party to be charged, and it was sufficient because it contained the elements of the offense intended to be charged and it apprised appellant of what he had to be prepared to meet.</p>
+                <p id="b241-10" pgmap="241">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="236" ORDERLABEL="210" TYPE="page">
+        <fptr FILEID="tiff_00118_1"/>
+        <fptr FILEID="jp2_00118_1"/>
+        <fptr FILEID="alto_00118_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_236.1" BETYPE="IDREF" FILEID="alto_00118_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="237" ORDERLABEL="211" TYPE="page">
+        <fptr FILEID="tiff_00119_0"/>
+        <fptr FILEID="jp2_00119_0"/>
+        <fptr FILEID="alto_00119_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_237.3" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="238" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jp2_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.1" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="239" ORDERLABEL="213" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jp2_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.2" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="240" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00120_1"/>
+        <fptr FILEID="jp2_00120_1"/>
+        <fptr FILEID="alto_00120_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.2" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="241" ORDERLABEL="215" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.2" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.13" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            <area BEGIN="BL_237.14" BETYPE="IDREF" FILEID="alto_00119_0"/>
+            <area BEGIN="BL_237.15" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.3" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad2" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.5" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.5" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.11" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.12" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.8" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.7" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.4" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.6" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.5" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.4" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b237-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_237.10" BETYPE="IDREF" FILEID="alto_00119_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.3" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.4" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.5" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.6" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_240.1" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.7" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.6" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b236-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_236.4" BETYPE="IDREF" FILEID="alto_00118_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.4" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.3" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.10" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.9" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

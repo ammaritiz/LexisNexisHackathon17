@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000654_0018" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Chadwell v. State">Ross CHADWELL v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-1331</docketnumber>
+          <citation category="official" type="bluebook">80 Ark. App. 133</citation>
+          <citation category="parallel" type="bluebook">91 S.W.3d 530</citation>
+          <decisiondate>2002-12-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:41:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:30:45Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:33:50Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="490d9b3a90184cb349293cb730857cdc" CHECKSUMTYPE="MD5" SIZE="7666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="b29da3154c8cf952ed8ef8ee1927ce9d" CHECKSUMTYPE="MD5" SIZE="47418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="84192a3c29fe00975d096d71251059a0" CHECKSUMTYPE="MD5" SIZE="52114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="56caaa0120f2210f3009532b8308a22b" CHECKSUMTYPE="MD5" SIZE="51980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="eff5abf997127b398d631134391b37b2" CHECKSUMTYPE="MD5" SIZE="11780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00082_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="596e1f38ac0db4171c145fe23c396085" CHECKSUMTYPE="MD5" SIZE="1507261">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="7312160b794a8e238a83be4b909e8afc" CHECKSUMTYPE="MD5" SIZE="2505798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="794df9fa6e9b95e9782bfa9e6dba5eeb" CHECKSUMTYPE="MD5" SIZE="2569270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00081_0.jp2"/>
+      </file>
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="33021fbf69f1503b4a040eb1a8632b6f" CHECKSUMTYPE="MD5" SIZE="2595442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="c01b72b3be81e0f67eef4f4181fe682e" CHECKSUMTYPE="MD5" SIZE="1714773">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000654_00082_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="3a4796d5b4bd7f0695e662318d8a6fa4" CHECKSUMTYPE="MD5" SIZE="8239">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="6aa3f580649229628a203b6030bd4864" CHECKSUMTYPE="MD5" SIZE="79993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="31335ea6b8b03c26770ed92b3fedf539" CHECKSUMTYPE="MD5" SIZE="89162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00081_0.xml"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="8aff06e2e782f4b2a4bb443e9bf70237" CHECKSUMTYPE="MD5" SIZE="88928">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="3adec05785ad2dacd87913d20e0d6142" CHECKSUMTYPE="MD5" SIZE="16165">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000654_redacted_ALTO_00082_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0018" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="133" lastpage="137">
+              <court pgmap="159" id="b159-4">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="159" id="ArI">CA CR 01-1331</docketnumber>
+              <citation pgmap="159" id="ASa">91 S.W.3d 530</citation>
+              <parties pgmap="159" id="b159-3">Ross CHADWELL v. STATE of Arkansas</parties>
+              <decisiondate pgmap="159" id="b159-5">Opinion delivered December 11, 2002</decisiondate>
+              <judges pgmap="163" id="b163-5">Neal and Vaught, JJ., agree.</judges>
+              <attorneys pgmap="160" id="b160-4">Douglas Coppernoll, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="160" id="b160-5">Mark Pryor, Att’y Gen., by: Valerie L. Kelly, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="160" id="pA2i">Andree Layton Roaf, Judge.</author>
+                <p pgmap="160" id="ADk">Ross Chadwell appeals from a Benton County Circuit Court order revoking his suspended sentence and sentencing him to ten years in the Department of Correction. On appeal, Chadwell argues that (1) the trial court erred in sentencing him to ten years when two years of his ten-year suspended sentence had elapsed, and (2) the trial court lacked authority to sentence him because the ten-year suspended sentence was illegal on its face and in violation of the statute prohibiting suspension of sentences of habitud offenders. We, agree that this case should be reversed and remanded on Chadwell’s first point, and affirm on the second point.</p>
+                <p pgmap="160" id="b160-7">Ross Chadwell pled guilty in 1992 to several drug-related charges. Chadwell was sentenced to twenty years’ imprisonment with ten years suspended. Chadwell was paroled in 1998. He was arrested in March 2000 for violating the terms of his suspended sentence.</p>
+                <p pgmap="160" id="b160-8">At the revocation proceeding, Chadwell argued to the trial court that it was prohibited from amending or modifying his sen­tence because it was put into execution back in 1992. Chadwell also argued that the original sentence imposed was illegal because the trial court was not authorized to suspend a portion of his sen­tence due to his habitual-offender status. Chadwell alternatively argued that, if the trial court granted the revocation, he could be sentenced to a maximum of eight years because his ten-year sus­pended sentence began to run when he was paroled two years earlier. The trial court found that Chadwell had violated the con­ditions of his suspended sentence and sentenced him to ten years’ imprisonment.</p>
+                <p pgmap="160(45) 161(14)" id="b160-9">On appeal, Chadwell first argues that the trial court erred in sentencing him to an additional ten years’ imprisonment; he con­tends that his suspended sentence began to run two years earlier when he was paroled and that the trial court was thus limited to sentencing him to the amount of time remaining on his suspended sentence. We agree.</p>
+                <p pgmap="161" id="b161-5">Arkansas Code Annotated section 5-4-307(c) states that “[i]f the court sentences the defendant to a term of imprisonment and suspends imposition of sentence as to an additional term of imprisonment, the period of the suspension commences to run on the day the defendant is lawfully set at liberty from the imprison­ment.” Ark. Code Ann. § 5-4-307(c) (2001) (emphasis added); see also Vann v. State, 16 Ark. App. 199, 698 S.W.2d 497 (1985) (holding that the suspended portion of a sentence of imprison­ment commences to run upon release from confinement); Mat­thews v. State, 265 Ark. 298, 578 S.W.2d 30 (1979) (holding that the trial court could revoke a five-year suspended sentence only during those five years, which began upon release from incarcera­tion, and not after the suspended sentence is completed).</p>
+                <p pgmap="161" id="b161-6">
+                   Where the trial court imposes a sentence for a spe­cific number of years, and suspends a portion of it, the sentence has been imposed, and the suspended portion has been referred to as a suspended execution of sentence. See Jones v. State, 52 Ark. App. 179, 918 S.W.2d 766 (1996). The suspended portion of Chadwell’s sentence commenced running when he was released from confinement, and the trial court did not have the authority to require Chadwell to serve more than the remainder of his origi­nal sentence. See Lyons v. State, 35 Ark. App. 29, 813 S.W.2d 262 (1991). The record before us does not indicate precisely how much time remained in Chadwell’s ten-year period of suspension. Accordingly, we reverse and remand for entry of a judgment with a sentence of no more than ten years less the length of time from Chadwell’s release in 1998 until his revocation.</p>
+                <p pgmap="161" id="b161-7">Chadwell also argues that the trial court erred in sentencing him to an additional ten years because the original sentence imposed in 1992 was illegal on its face. He asserts that the trial court lacked the authority to suspend any portion of his sentence because he was an habitual offender. He asks only that this case be remanded for resentencing. Although the State has conceded error on this point, we do not agree that the trial court erred in this respect.</p>
+                <p pgmap="162" id="b162-4">At the time of his plea and sentencing in 1992, Chadwell was an habitual offender with two or more prior felony convictions. The version of Ark. Code Ann. § 5-4-104(e)(4) in effect at the time Chadwell’s crimes were committed provided that “[t]he court shall not suspend imposition of sentence, place the defendant on probation, or sentence him to pay a fine if it is determined, pursu­ant to § 5-4-502, that the defendant has previously been convicted of two or more felonies.” Ark. Code Ann. § 5-4-104 (1987) (emphasis added).</p>
+                <p pgmap="162" id="b162-5">The State concedes that the trial court erred in suspending a portion of Chadwell’s sentence; it relies on State v. Freeman, 312 Ark. 34, 846 S.W.2d 669 (1993), in which the supreme court reversed, holding that the trial court did not have authority to suspend any part of an habitual offender’s minimum sentence (emphasis added). In Freeman, the mandatory sentence range was six to twenty years, and the trial court had sentenced Freeman to the minimum of six years but suspended imposition of five of those years. The State further relies on Lambert v. State, 286 Ark. 408, 692 S.W.2d 238 (1985), in which the supreme court affirmed the trial court’s correction of the appellants’ sentences. The appellants pled guilty to escape from the Department of Cor­rection, and the trial court had suspended the sentences of both appellants. The court later imposed six and eight year sentences when the State requested reconsideration based upon the statutory version of Ark. Code Ann § 5-4-104(e)(4) then in effect. The supreme court affirmed, stating that the sentences of only proba­tion were beyond the trial court’s authority and were void, and that a trial court can correct an illegal sentence even though par­tially executed.</p>
+                <p pgmap="162(84) 163(18)" id="b162-6">
+                   We do not agree that the statute or two case authorities relied upon by the State mandate reversal of this case. Here, the trial court was authorized to sentence Chadwell as an habitual offender to a range of ten to twenty years’ imprisonment. The court sentenced Chadwell to ten years’ imprisonment, the statu­tory minimum. Thus, the court did not lack authority to impose an additional ten-year suspended sentence, pursuant to Ark. Code. Ann. § 5-4-104, State v. Freeman, supra, which involved a sentence of imprisonment below the minimum, or Lambert v. State, supra, which involved no sentence of imprisonment at all.</p>
+                <p pgmap="163" id="b163-4">Reversed and remanded in part; affirmed in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="159" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.2" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.1" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.3" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.4" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArI" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-8" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.11" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-9" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.12" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.3" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-7" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.10" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASa" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADk" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.7" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_160.8" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_160.9" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.7" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pA2i" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.6" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-3" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-4" BETYPE="IDREF" FILEID="casebody_0018"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000714_0026" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Curry v. State">Nathan Eugene CURRY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-271</docketnumber>
+          <citation category="official" type="bluebook">89 Ark. App. 176</citation>
+          <citation category="parallel" type="bluebook">201 S.W.3d 429</citation>
+          <decisiondate>2005-01-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T16:16:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:34:19Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:42:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:43:43Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="60236722f6ca70ba834e5b0efb294742" CHECKSUMTYPE="MD5" SIZE="24682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="56b97c3a2a72277c991486f05f7b35d9" CHECKSUMTYPE="MD5" SIZE="54068">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="dd2411d9495f67bb59566caa2472ceb6" CHECKSUMTYPE="MD5" SIZE="39738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="dc49e058a82b2f1b2c94b9e165835c0f" CHECKSUMTYPE="MD5" SIZE="38786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00103_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="3a2eba757486194370f1c9f176a53f11" CHECKSUMTYPE="MD5" SIZE="2062627">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="936ecc92574052c1ac91ddffb67a0e1a" CHECKSUMTYPE="MD5" SIZE="2523953">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00102_0.jp2"/>
+      </file>
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="30565751546f0be7c48bc0b22446b5d8" CHECKSUMTYPE="MD5" SIZE="2418119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="87015b7464eed8372b81077e0cdceddd" CHECKSUMTYPE="MD5" SIZE="2430752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00103_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="8cab4b87151e1c18d2d65352d50c7958" CHECKSUMTYPE="MD5" SIZE="39799">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="d7528ae449e87c22451a71bd668e6960" CHECKSUMTYPE="MD5" SIZE="94284">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00102_0.xml"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="885822fd00fde7f8a0959c21cb4a78c1" CHECKSUMTYPE="MD5" SIZE="76439">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="82e54a934dea1dd53d5d35e465624e0e" CHECKSUMTYPE="MD5" SIZE="66309">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00103_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="176" lastpage="179">
+              <court pgmap="202" id="b202-8">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="202" id="b202-7">CA CR 04-271</docketnumber>
+              <citation pgmap="202" id="AHp">201 S.W.3d 429</citation>
+              <parties pgmap="202" id="b202-6">Nathan Eugene CURRY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="202" id="AO-">Opinion delivered January 19, 2005</decisiondate>
+              <judges pgmap="205" id="b205-6">Glover and Baker, JJ., agree.</judges>
+              <attorneys pgmap="203" id="b203-4">Baxter, Jensen, Young &amp; Houston, by: Brent Houston, for appel­lant.</attorneys>
+              <attorneys pgmap="203" id="b203-5">Mike Beebe, Att’y Gen., by: Laura Shue, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="203" id="pAI5">John Mauzy Pittman, Chief Judge.</author>
+                <p pgmap="203" id="AxT">The appellant was charged with filing a false police report in violation of Ark. Code Ann. § 5-54-122 (Repl. 1997). After a jury trial, he was found guilty of committing that offense, sentenced to 180 days in jail, and fined $7,000. On appeal, appellant argues that the trial court erred in denying his motion for a directed verdict on the grounds that there was no evidence that he had filed a report within the meaning of the statute. We affirm.</p>
+                <p pgmap="203" id="b203-7">Directed-verdict motions are treated as challenges to the sufficiency of the evidence. Harris v. State, 73 Ark. App. 185, 44 S.W.3d 347 (2001). In reviewing a challenge to the sufficiency of the evidence, we view the evidence in the light most favorable to the State and affirm the conviction if there is substantial evidence to support it. Vergara-Soto v. State, 77 Ark. App. 280, 74 S.W.3d 683 (2002). Evidence, whether direct or circumstantial, is substan­tial if it is of sufficient force and character that it will, with reasonable certainty, compel a conclusion one way or another, without resort to speculation or conjecture. Id.</p>
+                <p pgmap="203(182) 204(26)" id="b203-8">Viewing the evidence in the light most favorable to the State, the record shows that police officers investigated the disap­pearance of Dale Mills. Appellant was questioned several times during the course of these investigations. After being informed of his Miranda rights, he waived his right to remain silent and gave several voluntary statements. Initially he told police officers that he saw Dennis Bailey murder Dale Mills. Upon investigation, how­ever, the officers determined that this statement was false and that Dennis Bailey could not have committed the murder. Appellant then gave a statement asserting that he himself shot Dale Mills four times and, with the help of Nick Webster, disposed of the body in a creek. This statement resulted in a search of the creek area and the arrest of Nick Webster, and was subsequently shown to be false when the body was recovered elsewhere and did not bear any gunshot wounds. Appellant later stated to police officers that his own father had killed Dale Mills, resulting in his father’s arrest. On another occasion appellant suggested to police officers that the body of Dale Mills might be found in a certain pond. This statement resulted in the pond being drained, but the body was not found there.</p>
+                <p pgmap="204" id="b204-4">Appellant concedes on appeal that he gave false statements to police officers that sent them “on numerous wild goose chases,” but argues that his statements did not constitute a “filing” within the meaning of the statute. We do not agree. Arkansas Code Annotated § 5-54-122 (Repl. 1997) provides that:</p>
+                <blockquote pgmap="204" id="b204-5">(a) For the purpose of this section, “report” means any communi­cation, either written or oral, sworn or unsworn.</blockquote>
+                <blockquote pgmap="204" id="b204-6">(b) A person commits the offense of filing a false report if he files a report with any law enforcement agency or prosecuting attorney’s office of any alleged criminal wrongdoing on the part of another knowing that such report is false.</blockquote>
+                <blockquote pgmap="204" id="b204-7">(c)(1) Filing a false report is a Class D felony if:</blockquote>
+                <blockquote pgmap="204" id="b204-8">(A) The crime is a capital offense, Class Y felony, Class A felony, or Class B felony; or</blockquote>
+                <blockquote pgmap="204" id="b204-9">(B) The agency or office to whom the report is made has expended in excess of five hundred dollars ($500) in order to investigate said report, including the costs of labor; or</blockquote>
+                <blockquote pgmap="204" id="b204-10">(C) Physical injury results to any person as a result of the false report; or</blockquote>
+                <blockquote pgmap="204" id="b204-11">(D) The false report is made in an effort by the person filing said false report to conceal his own criminal activity; or</blockquote>
+                <blockquote pgmap="204" id="b204-12">(E) The false report results in another person being arrested.</blockquote>
+                <blockquote pgmap="204" id="b204-13">(2) Otherwise, filing a false report is a Class A misdemeanor.</blockquote>
+                <p pgmap="204" id="b204-14">Appellant argues that this statute, being penal in nature, should be strictly construed, and that the answers he gave in response to interrogation do not, under such a construction, constitute a “filing.”</p>
+                <p pgmap="204(28) 205(271)" id="b204-15">
+                   We recognize that criminal statutes are strictly con­strued, and any doubts are resolved in favor of the defendant. Vergara-Soto v. State, supra. Nevertheless, in determining the mean­ing of statutory language we are first and foremost concerned with ascertaining the intent of the General Assembly. Sansevero v. State, 345 Ark. 307, 45 S.W.3d 840 (2001). In matters of statutory interpretation, we construe the statute just as it reads, employing common sense and giving the words their ordinary and usually accepted meaning in common language. Stephens v. State, 328 Ark. 570, 944 S.W.2d 836 (1997); Vergara-Soto v. State, supra. Constru­ing the statute in this light, we find no merit in the argument that a statement made in response to questioning cannot constitute a “filing” under Ark. Code Ann. § 5-54-122. First, there is no question that an oral communication may be a report under the statute, because the statute expressly provides for this in subsection (a). Second, the General Assembly, in enacting § 5-54-122, uti­lized no qualifying or limiting words that would remove state­ments made in response to questioning from the definition of “filing.” Third, although it is true that penal statutes should be construed strictly, resolving any doubts in favor of the accused, it is equally true that such statutes must not be so strictly construed as to defeat an obvious intent of the legislature. Puckett v. State, 328 Ark. 355, 944 S.W.2d 111 (1997). Here, the legislature’s intent is plainly expressed in the penalty provisions of the statute, which impose greater penalties where the false report results in significant expense to police agencies or results in another person being arrested. These are clearly among the evils the statute is designed to prevent, and both of them resulted from the false report made by appellant.</p>
+                <p pgmap="205" id="b205-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="202" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.2" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.2" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAI5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.11" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.7" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.8" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.10" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.10" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxT" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.9" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.12" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHp" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.9" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.10" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-11" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.11" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-14" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.14" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-15" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.15" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-13" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.13" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO-" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.11" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.4" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.8" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.9" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.7" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

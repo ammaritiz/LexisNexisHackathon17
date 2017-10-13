@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000677_0033" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Walton v. State">Jeff T. WALTON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-395</docketnumber>
+          <citation category="official" type="bluebook">94 Ark. App. 229</citation>
+          <citation category="parallel" type="bluebook">228 S.W.3d 524</citation>
+          <decisiondate>2006-02-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T18:26:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:12Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T18:44:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T18:46:31Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00128_0" MIMETYPE="image/tiff" CHECKSUM="379dc4324ce9ae9e8ad5c39308c7c4cb" CHECKSUMTYPE="MD5" SIZE="19606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00128_0.tif"/>
+      </file>
+      <file ID="tiff_00128_1" MIMETYPE="image/tiff" CHECKSUM="fc7858c530335a97ba33b89c333999bc" CHECKSUMTYPE="MD5" SIZE="55970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00128_1.tif"/>
+      </file>
+      <file ID="tiff_00129_0" MIMETYPE="image/tiff" CHECKSUM="6e6e098b3f804f36bacc51be63089d0f" CHECKSUMTYPE="MD5" SIZE="59548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00129_0.tif"/>
+      </file>
+      <file ID="tiff_00129_1" MIMETYPE="image/tiff" CHECKSUM="848706adc9206bd2e56892bda7b3c758" CHECKSUMTYPE="MD5" SIZE="56360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00129_1.tif"/>
+      </file>
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="bc6a993c6da15f53062b12a0c7a97673" CHECKSUMTYPE="MD5" SIZE="52058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00130_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00128_0" MIMETYPE="image/jp2" CHECKSUM="e6d136c328577188f49980026e5ec127" CHECKSUMTYPE="MD5" SIZE="1838050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00128_0.jp2"/>
+      </file>
+      <file ID="jp2_00128_1" MIMETYPE="image/jp2" CHECKSUM="c176a3eff25f2d86989e3f440a71d1a5" CHECKSUMTYPE="MD5" SIZE="2626320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00128_1.jp2"/>
+      </file>
+      <file ID="jp2_00129_0" MIMETYPE="image/jp2" CHECKSUM="2b8392dec2e4b3f0bd212abc51f94749" CHECKSUMTYPE="MD5" SIZE="2662132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00129_0.jp2"/>
+      </file>
+      <file ID="jp2_00129_1" MIMETYPE="image/jp2" CHECKSUM="56051dc37843f9ab7d8c824261046455" CHECKSUMTYPE="MD5" SIZE="2631379">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00129_1.jp2"/>
+      </file>
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="2eec092a181cb10829df2a19df86d1eb" CHECKSUMTYPE="MD5" SIZE="2996046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000677_00130_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00128_0" MIMETYPE="text/xml" CHECKSUM="d1140480c90f5cbfd80d69bd82e19d42" CHECKSUMTYPE="MD5" SIZE="29103">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00128_0.xml"/>
+      </file>
+      <file ID="alto_00128_1" MIMETYPE="text/xml" CHECKSUM="0afbdde50344f6cef93ba9b9702f4b6a" CHECKSUMTYPE="MD5" SIZE="103974">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00128_1.xml"/>
+      </file>
+      <file ID="alto_00129_0" MIMETYPE="text/xml" CHECKSUM="74cf4a1ccdce78849f2dc9aacbdbf47f" CHECKSUMTYPE="MD5" SIZE="104509">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00129_0.xml"/>
+      </file>
+      <file ID="alto_00129_1" MIMETYPE="text/xml" CHECKSUM="894bc6aac1bd34f244b95f9d42ad2a6c" CHECKSUMTYPE="MD5" SIZE="110361">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00129_1.xml"/>
+      </file>
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="54dbd09e1515e246dee140448052d335" CHECKSUMTYPE="MD5" SIZE="89772">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000677_redacted_ALTO_00130_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="229" lastpage="233">
+              <court pgmap="255" id="b255-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="255" id="ASy">CA CR 03-395</docketnumber>
+              <citation pgmap="255" id="AyS">228 S.W.3d 524</citation>
+              <parties pgmap="255" id="b255-3">Jeff T. WALTON v. STATE of Arkansas</parties>
+              <decisiondate pgmap="255" id="Aq7">Opinion delivered February 15, 2006</decisiondate>
+              <judges pgmap="259" id="b259-7">Pittman, C.J., and Crabtree, J., agree.</judges>
+              <attorneys pgmap="255" id="b255-8">Garnet E. Norwood, for appellant.</attorneys>
+              <attorneys pgmap="255" id="b255-9">Mike Beebe, Ark. Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="255" id="Ajp">Wendell L. Griffen, Judge.</author>
+                <p pgmap="255(66) 256(71)" id="AlC">A Howard County jury convicted appellant Jeff Walton of delivery of crack cocaine and sentenced him to 360 months in the Arkansas Depart­ment of Correction. Garnet Norwood, appellant’s attorney, petitions this court to withdraw as counsel. The motion was accompanied by a no-merit brief, pursuant to Anders v. California, 386 U.S. 738 (1967), and Ark. Sup. Ct. R. 4-3(j) (2005), wherein counsel contends that all rulings adverse to his client were abstracted and discussed. Appellant was provided a copy of this brief and was notified of his right to file pro se points for reversal. He subsequently filed a brief containing eight points for reversal. Counsel’s brief does not comply with the Arkansas Rules of the Supreme Court; therefore, for the fourth time, we must deny counsel’s motion to withdraw and remand this case for rebriefing.</p>
+                <p pgmap="256" id="b256-4">In Anders v. California, supra, the United States Supreme Court discussed an attorney’s obligation to his client when con­fronted with an appeal that he believes would be wholly without merit. Even though it recognized that an attorney may correctly conclude that an appeal on behalf of client would be without merit, it still recognized his obligation to protect his client’s Sixth Amendment rights:</p>
+                <blockquote pgmap="256" id="b256-5">The constitutional requirement of substantial equality and fair process can only be attained where counsel acts in the role of an active advocate in behalf of his client, as opposed to that of amicus curiae. . . . Counsel should, and can with honor and without conflict, be of more assistance to his client and to the court. His role as advocate requires that he support his client’s appeal to the best of his ability. Of course, if counsel finds his case to be wholly frivolous, after a conscientious examination of it, he should so advise the court and request permission to withdraw. That request must, however, be accompanied by a brief referring to anything in the record that might arguably support the appeal. A copy of counsel’s brief should be furnished the indigent and time allowed him to raise any points that he chooses; the court — not counsel — then proceeds, after a full examination of all the proceedings, to decide whether the case is wholly frivolous. If it so finds it may grant counsel’s request to withdraw and dismiss the appeal insofar as federal requirements are concerned, or proceed to a decision on the merits, if state law so requires. On the other hand, if it finds any of the legal points arguable on their merits (and therefore not frivolous) it must, prior to decision, afford the indigent the assistance of counsel to argue the appeal.</blockquote>
+                <p pgmap="256(68) 257(105)" id="b256-6">Id. at 744 (footnote reference omitted). Although the Supreme Court later held that this exact procedure was not mandated upon the States and that the States were free to adopt their own procedures, see Smith v. Robbins, 528 U.S. 259 (2000), this procedure forms much of the basis for our Rule 4-3(j) of the Rules of the Supreme Court. Subparagraph (1) of the rule reads in pertinent part: A request to withdraw on the ground that the appeal is wholly without merit shall be accompanied by a brief including an abstract and Addendum. The brief shall contain an argument section that consists of a list of all rulings adverse to the defendant made by the circuit court on all objections, motions and requests made by either party with an explanation as to why each adverse ruling is not a meritorious ground for reversal. The abstract and Addendum of the brief shall contain, in addition to the other material parts of the record, all rulings adverse to the defendant made by the circuit court.</p>
+                <p pgmap="257" id="b257-5">(Emphasis added.) See also Eads v. State, 74 Ark. App. 363, 47 S.W.3d 918 (2001). As we oftentimes state, it is imperative that counsel follow the appropriate procedure when filing a motion to withdraw as counsel. Brown v. State, 85 Ark. App. 382, 155 S.W.3d 22 (2004). This framework is a “method of ensuring that indigents are afforded their Constitutional rights.” Campbell v. State, 74 Ark. App. 277, 279, 47 S.W.3d 915, 917 (2001) (citing Smith v. Robbins, supra). In furtherance of the goal of protecting Constitutional rights, it is both the duty of counsel and of this court to perform a full examination of the proceedings as a whole to decide if an appeal would be wholly frivolous. Id.</p>
+                <p pgmap="257" id="b257-6">When this case was first before this court in Walton v. State, CACR 03-395 (Ark. App. June 30, 2004) (not designated for publication), Mr. Norwood only addressed the sufficiency of the evidence and the trial court’s admission of appellant’s statement. These constituted only two of the over twenty adverse rulings in this case. Meanwhile, his client sought review of nine points, six of which were indeed addressed at trial. Mr. Norwood’s brief in Walton v. State, CACR 03-395 (Ark. App. Jan. 12, 2005) (not designated for publication) still failed to abstract or discuss the voir dire proceedings, in which several objections were made. In some cases, he identified the ruling but merely stated, without explana­tion, that the trial court’s ruling did not constitute reversible error. Other rulings went completely unaddressed. Again, we denied his motion to withdraw and ordered rebriefing. This case was before us a third time in Walton v. State, CACR 03-395 (Ark. App. June 29, 2005) (not designated for publication). Mr. Norwood included several adverse rulings that were identified in our previous opin­ions; however, other rulings remained absent from his brief. We particularly noted his failure to address the denial of his motion for a new trial and the denial for individual voir dire ofjurors. We once again reordered rebriefing but not before making it clear that:</p>
+                <blockquote pgmap="258" id="b258-4">[Counsel] is to address all adverse rulings, regardless of whether we identified that ruling for him or not. While it is this court’s duty to fully examine the record to determine if an appeal would be wholly without merit, it is not our duty to do so with the purpose of instructing counsel what to include in a no-merit brief.</blockquote>
+                <p pgmap="258" id="b258-5">
+                   With these words, we hoped that Mr. Norwood would thoroughly review the record in this case and submit a brief (either adversarial or no-merit) that complied with our rules. However, like his previous briefs, it is clear that counsel has merely taken those flaws that we identified for him and appended those sections to the end of his existing brief.<footnotemark>1</footnotemark> Today, we are concerned that counsel’s discussion of the motion to suppress the statement was not adequately addressed. Several arguments were made with regard to the statement, including that said statement was general in nature and that the statement was induced by false promises.<footnotemark>2</footnotemark> Yet, counsel merely restates a portion of the relevant facts and contends that the statement was harmlessly admitted. We are also dissatisfied with counsel’s abstract of the proceedings. Our rules require that the abstract in a no-merit brief contain all rulings adverse to his client. In many places, counsel merely summarized the objection and noted the adverse ruling. A record on appeal is limited to that which is properly abstracted, see Hood v. State, 329 Ark. 21, 947 S.W.2d 328 (1997), and such abstracting does not allow us to perform a review of the record that ensures that the right to counsel is fully protected.</p>
+                <p pgmap="258(40) 259(168)" id="b258-6">Rule 16(a) of the Arkansas Rules of Appellate Procedure - Criminal (2005) requires appellant’s counsel to remain as his counsel throughout any appeal unless permitted by this court to withdraw in the interest of justice or for other sufficient cause. Rule 1.1 of the Arkansas Rules of Professional Conduct states, “A lawyer shall provide competent representation to a client.” The requirement of competent representation of a client’s interest is not set aside simply because counsel is of the opinion that an appeal of his client’s case is wholly without merit. Appellant chose Mr. Norwood to be his counsel, and as long as appellant continues to have him as his counsel, Mr. Norwood has an obligation to submit a brief in which his client’s Sixth Amendment rights are protected, be it in the form of an adversarial brief or a no-merit brief. Mr. Norwood’s work in this appeal falls short of meeting his obliga­tions under our rules of professional conduct and the Sixth Amendment to the Constitution. We are unable to assess why counsel persists in filing no-merit briefs that come so short of the constitutional and procedural standard. However, we are certain that the latest submission, like the briefs that were previously rejected, does not pass muster.</p>
+                <p pgmap="259" id="b259-5">
+                   In the case of an indigent appellant, we would have removed Mr. Norwood as counsel and appointed new appellate counsel to represent appellant. Because we have no knowledge of either the current relationship between Mr. Norwood and appel­lant or appellant’s ability to pay for legal services, we cannot do so in this case. See James v. State, 329 Ark. 58, 945 S.W.2d 941 (1997). A decision to allow Mr. Norwood to withdraw would potentially leave appellant without counsel and without an ability to properly appeal his case before this court. Accordingly, we deny Mr. Norwood’s motion to withdraw and remand this case for rebrief­ing. Finally, we grant Mr. Norwood fifteen days to demonstrate by affidavit why he should not be held in contempt for his constant failure to submit a brief in this case that complies with our rules and meets the constitutional standard. When a lawyer persistently fails to file a satisfactory brief such as has been the case in this instance, fundamental fairness requires that counsel be allowed to show why that persistence is not an effort to defy court rules or does not result from a disability that would render counsel unfit to continue in the representation.</p>
+                <p pgmap="259" id="b259-6">Remanded for rebriefing.</p>
+                <footnote label="1">
+                  <p pgmap="258" id="b258-7">1 In his latest brief, counsel did address the denial of the motion for new trial, and this section of the brief was inserted after his discussion of why the denial of his motion for continuance during that hearing was without merit. However, this is one of the few arguments that was not simply appended to the end of his existing brief.</p>
+                </footnote>
+                <footnote label="2">
+                  <p pgmap="258" id="b258-8">2 If counsel decides to submit another no-merit brief, we would also like him to address the material-witness rule which states that “whenever an accused offers testimony that his confession was induced by violence, threats, coercion or offers of reward, the State has the burden to produce all material witnesses who were connected with the controverted confession or give an adequate explanation of their absence.” Criffin v. State, 322 Ark. 206, 213, 909 S.Wad 625, 629 (1995); see also Anderson v. State, 357 Ark. 180, 163 S.W.3d 333 (2004); Smith v. State, 254 Ark. 538, 494 S.W.2d 489 (1973).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="255" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00128_0"/>
+        <fptr FILEID="jp2_00128_0"/>
+        <fptr FILEID="alto_00128_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_255.2" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="256" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00128_1"/>
+        <fptr FILEID="jp2_00128_1"/>
+        <fptr FILEID="alto_00128_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_256.2" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="257" ORDERLABEL="231" TYPE="page">
+        <fptr FILEID="tiff_00129_0"/>
+        <fptr FILEID="jp2_00129_0"/>
+        <fptr FILEID="alto_00129_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_257.3" BETYPE="IDREF" FILEID="alto_00129_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="258" ORDERLABEL="232" TYPE="page">
+        <fptr FILEID="tiff_00129_1"/>
+        <fptr FILEID="jp2_00129_1"/>
+        <fptr FILEID="alto_00129_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_258.1" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="259" ORDERLABEL="233" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.3" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.5" BETYPE="IDREF" FILEID="alto_00129_1"/>
+            <area BEGIN="BL_259.1" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.6" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.3" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.4" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASy" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.4" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajp" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.15" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlC" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.16" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_255.17" BETYPE="IDREF" FILEID="alto_00128_0"/>
+            <area BEGIN="BL_256.1" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b258-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_258.7" BETYPE="IDREF" FILEID="alto_00129_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.6" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.4" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.4" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.5" BETYPE="IDREF" FILEID="alto_00128_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b256-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_256.6" BETYPE="IDREF" FILEID="alto_00128_1"/>
+            <area BEGIN="BL_257.1" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.4" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b257-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_257.5" BETYPE="IDREF" FILEID="alto_00129_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyS" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.5" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.7" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.14" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.13" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-3" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.3" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b255-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_255.6" BETYPE="IDREF" FILEID="alto_00128_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

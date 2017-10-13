@@ -1,0 +1,832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000721_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Speer v. Speer">Harold SPEER v. Carolyn SPEER</name>
+          <docketnumber>CA 85-328</docketnumber>
+          <citation category="official" type="bluebook">18 Ark. App. 186</citation>
+          <citation category="parallel" type="bluebook">712 S.W.2d 659</citation>
+          <decisiondate>1986-07-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:14:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:50:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:34:36Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:35:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="3117f5f71408070b69beb63a3d1a941f" CHECKSUMTYPE="MD5" SIZE="7516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="5f425deb736ce534ff2f422e18ce72b9" CHECKSUMTYPE="MD5" SIZE="30656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="35177adc951b078ea74a14089127bb4c" CHECKSUMTYPE="MD5" SIZE="54076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="c4d35c770d472ba5b7c274c620e79a5e" CHECKSUMTYPE="MD5" SIZE="48280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="01e5ac02a57b112cbebbd8559b1a106d" CHECKSUMTYPE="MD5" SIZE="53944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00105_1.tif"/>
+      </file>
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="2a898e6e1ef9217934d94a9b56738051" CHECKSUMTYPE="MD5" SIZE="51078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="07f35e80640f3bc39263c4f009b66db7" CHECKSUMTYPE="MD5" SIZE="50948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="c54e00893f1c4ba839a364989fdd7535" CHECKSUMTYPE="MD5" SIZE="33864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00107_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="a6be3dd12aa9c61f49437273a2fc3c9b" CHECKSUMTYPE="MD5" SIZE="1263839">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="ccad07587852a37a18c8ad3a5b128542" CHECKSUMTYPE="MD5" SIZE="1988100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="c21d0a6665d50d8c07c33e9270b091c1" CHECKSUMTYPE="MD5" SIZE="2618079">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="f57230dd2210d9d0744b35083759382e" CHECKSUMTYPE="MD5" SIZE="2632693">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00105_0.jp2"/>
+      </file>
+      <file ID="jp2_00105_1" MIMETYPE="image/jp2" CHECKSUM="52c4fb5fc0decc22f61494b4cd2df35c" CHECKSUMTYPE="MD5" SIZE="2582209">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00105_1.jp2"/>
+      </file>
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="53bc4111e7619a664d5b330f6d49e8a4" CHECKSUMTYPE="MD5" SIZE="2587381">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00106_0.jp2"/>
+      </file>
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="bb642d804c99575911fb1c117176415d" CHECKSUMTYPE="MD5" SIZE="2601836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="002a1be58c57fb7d9bd06edc68e50a51" CHECKSUMTYPE="MD5" SIZE="2315992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00107_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="74c7b8f69b18a3b13f847d916f45fe93" CHECKSUMTYPE="MD5" SIZE="7777">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="5c52a561d77d28b81bf95a486f451ce9" CHECKSUMTYPE="MD5" SIZE="48662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="16fe57504c2fc509da779d3c58b70bbb" CHECKSUMTYPE="MD5" SIZE="84896">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="bec926652427676e7def4ba9d4fb0197" CHECKSUMTYPE="MD5" SIZE="77477">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00105_0.xml"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml" CHECKSUM="e84bc3a7a40c8d1f1fc296c04dc1baf6" CHECKSUMTYPE="MD5" SIZE="85491">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00105_1.xml"/>
+      </file>
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="a0c4b265972649bf26d857f87354cadb" CHECKSUMTYPE="MD5" SIZE="87218">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00106_0.xml"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="165ec8fe7ab840e0a2826408858a9e27" CHECKSUMTYPE="MD5" SIZE="83267">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="77cf72382033f27759de608dd8020e17" CHECKSUMTYPE="MD5" SIZE="52981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00107_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="186" lastpage="193">
+              <court pgmap="206" id="b206-5">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="206" id="b206-4">CA 85-328</docketnumber>
+              <citation pgmap="206" id="AbO">712 S.W.2d 659</citation>
+              <parties pgmap="206" id="b206-3">Harold SPEER v. Carolyn SPEER</parties>
+              <decisiondate pgmap="206" id="b206-6">Opinion delivered July 2, 1986</decisiondate>
+              <judges pgmap="213" id="b213-9">Cracraft, C.J., and Cloninger, J., agree.</judges>
+              <attorneys pgmap="207" id="b207-10">Steve Imboden, for appellant.</attorneys>
+              <attorneys pgmap="207" id="b207-11">Knauts &amp; Cole, by: C.W. Knauts, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="207" id="b207-12">Tom Glaze, Judge.</author>
+                <p pgmap="207" id="Aqo">Appellant Harold Speer appeals from a divorce decree. For reversal, he contends that the chancellor erred by (1) finding rental income from certain non-marital farmlands was marital property, (2) deciding a tract described as the Glenn farm was marital property, and (3) awarding attorney’s fees and costs to appellee. Appellee Carolyn Speer cross-appeals, alleging, that the trial court erred by (1) failing to award her one-half of the balance of the parties’ joint checking account, and (2) fixing an inadequate amount of child support.<footnotemark>1</footnotemark>
+                </p>
+                <p pgmap="207" id="b207-13">Harold and Carolyn were married on September 27, 1975, and they separated in September 1983. Each party previously had been married, and had'children resulting from their respec­tive marriages. Harold adopted Carolyn’s minor daughter in 1978. The Speers lived on a farm near Greenway, Arkansas, and Harold owned a land leveling business in addition to his farming operation.</p>
+                <p pgmap="208" id="b208-5">Before, and at the time of, the marriage, Harold owned four farms, known as the Speer farm, the old home place, the Crowson farm, and the Marmaduke farm. During their marriage, Harold and Carolyn maintained only one bank account, a joint checking account at the Bank of Rector, from which all personal and business expenses were paid. Also, after their marriage, Harold purchased, in his own name, a tract of land known as the Glenn farm, paying $3,000 down. The remaining amount of the purchase price was paid from money he borrowed from the Bank of Rector.</p>
+                <p pgmap="208" id="b208-6">In March 1978, Harold and his son, Jim Speer, entered into a series of transactions to effect an exchange of property. Jim purchased two farms, the Nicholas farm and the Girrard farm, and then gave them to Harold in exchange for Harold’s Marmaduke farm. Jim additionally gave Harold $47,000, which Harold claims he applied towards the indebtedness on the Glenn farm. About this same time, Harold and Carolyn jointly bor­rowed $225,000 from the Bank of Rector, and from those loan proceeds, they satisfied several notes, including the Glenn farm note.</p>
+                <p pgmap="208" id="b208-7">On October 13, 1981, Harold leased a large portion of his farmlands to Joe Burns. Most of these tracts, excepting the Glenn farm, were undisputably non-marital properties owned by Har­old. He testified that the lease payments had been used to pay off bank notes, but he related the 1984 payments were not deposited in the parties’ joint checking account. Because the ownership of these 1984 payments was in dispute, the chancellor, at a tempo­rary hearing, ordered one-half of those rents, $29,500, paid into the court registry. In the final decree, Carolyn was awarded this money, plus interest, as marital property.</p>
+                <p pgmap="208" id="b208-8">We first consider Harold’s argument that the chancellor erred in finding Carolyn was entitled to one-half of the 1984 rental income as marital property. Harold offers four reasons, supporting his argument, that require our consideration of Ark. Stat. Ann. § 34-1214(B) (Supp. 1985), which in pertinent part provides:</p>
+                <blockquote pgmap="208" id="b208-9">For the purpose of this statute “marital property” means all property acquired by either spouse subsequent to the marriage except:</blockquote>
+                <blockquote pgmap="209" id="b209-5">* * *</blockquote>
+                <blockquote pgmap="209" id="b209-6">(2) Property acquired in exchange for property acquired prior to the marriage or in exchange for property acquired by gift, bequest, devise, or descent;</blockquote>
+                <blockquote pgmap="209" id="b209-7">(3) Property acquired by a spouse after a decree of divorce from bed and board;</blockquote>
+                <blockquote pgmap="209" id="b209-8">* * *</blockquote>
+                <blockquote pgmap="209" id="b209-9">(5) The increase in value of property acquired prior to the marriage.</blockquote>
+                <p pgmap="209" id="b209-10">
+                   Harold first argues that rent paid on non-marital property is the equivalent of “increase in value” under subsection (B)(5) of the statute and, therefore, by definition is non-marital property. While we find no Arkansas cases which have addressed this point, the courts in other states, having marital property provisions like Arkansas’, have held that any accumulation of income — during the marriage — from the husband’s non-marital property constituted marital property. Brunson v. Brunson, 569 S.W.2d 173 (Ky. App. 1978); see also In re Marriage of Reed, 427 N.W.2d 282 (Ill. App. 1981) (court held that although property acquired before marriage is non-marital and its increase in value is likewise non-marital, any income derived from such property during marriage is deemed marital). The Missouri Court of Appeals, construing an identical marital property provision to our subsection (B)(5), reached the same result as did the Kentucky court in Brunson. See Cain v. Cain, 536 S.W.2d 866 (Mo. App. 1976); In re Marriage of Williams, 639 S.W.2d 236 (Mo. App. 1982). In Cain, the Missouri court quoted with approval the following commissioner’s note which explained an identical, counterpart provision contained in the Uniform Mar­riage and Divorce Act:</p>
+                <blockquote pgmap="209" id="b209-11">The phrase “increase in value” used in subsection (b)(5) is not intended to cover the income from property acquired prior to the marriage. Such income is marital property.</blockquote>
+                <p pgmap="209" id="b209-12">In accordance with the foregoing authorities, we hold that the 1984 rental income on Harold’s farmland was not an increase in value of his non-marital property under § 34-1214(B)(5).</p>
+                <p pgmap="209(9) 210(86)" id="b209-13">
+                   Nor can we agree with Harold’s contention that those rents were derived from his non-marital properties in an exchange for part of his fee in those lands under subsection (B)(2). Although his argument is somewhat unclear, Harold seems to suggest that the lease proceeds from his non-marital properties should be viewed as an exchange for the relinquishment of his right, during the lease term, to sell, farm or rent his leased properties. We dispose of this argument simply by stating that Harold cites no legal authority or offers any convincing argument to support this contention.</p>
+                <p pgmap="210" id="b210-6">
+                   We must also reject Harold’s assertion that the rental income accumulated after the parties separated is non-­marital property. Subsection (B)(3) of § 34-1214, set out above, clearly exempts property acquired after a decree of divorce from bed and board — not property acquired after separation. Because the 1984 lease payments come within the marital property definition in § 34-1214(B) and do not fall within any exception thereunder, we conclude the chancellor correctly awarded one-­half of that rental income to Carolyn.</p>
+                <p pgmap="210" id="b210-7">Next, Harold argues the trial court erred in finding the Glenn farm was marital property. While he concedes he pur­chased the Glenn farm while he was married to Carolyn, Harold argues the purchase was effectually an exchange for the non-­marital Marmaduke farm he previously had transferred to Jim Speer. He reasons that Jim gave him an additional $47,000 to consummate the Marmaduke transaction and that sum — as non-­marital monies resulting from his exchange of non-marital property — was traceably applied towards satisfying the loan obligation he made when purchasing the Glenn farm.</p>
+                <p pgmap="210" id="b210-8">Carolyn counters Harold’s argument, explaining that the evidence failed to show the $47,000 received from the Marmaduke farm transaction was traceable in any way to the Glenn farm acquisition. We agree. In fact, Harold’s accountant testified to his difficulty in allocating monies Harold received and paid over the years. In this respect, the accountant testified:</p>
+                <blockquote pgmap="210" id="b210-9">Q. And we have tried to sit down and come up with a dollar figure, based on what Harold borrowed for this and what Harold owes for that, et cetera, trying to figure out the equity, did we ever finish doing that?</blockquote>
+                <blockquote pgmap="211" id="b211-5">A. No.</blockquote>
+                <blockquote pgmap="211" id="b211-6">Q. Why can’t we do that?</blockquote>
+                <blockquote pgmap="211" id="b211-7">A. In a lot of ways, you have to compare Harold’s operation with a grocery store and that you have cans of beans on the shelf that are for sale, and it won’t be the same can of beans today as it was yesterday. It’s a moving target. The same with the tractors, he uses up a tractor in a year and a-half to two years, it just passes through. Looking at individual items, the result is meaningless, it would be trying to identify one can of beans on the shelf at the grocery store.</blockquote>
+                <blockquote pgmap="211" id="b211-8">Q. So, it’s impossible to tell, at this point, debt ratio is to any particular item, is that right, or equity?</blockquote>
+                <blockquote pgmap="211" id="b211-9">A. Any attempt to do so would be arbitrary allocation.</blockquote>
+                <p pgmap="211" id="b211-10">
+                   As previously noted, Harold undisputably purchased the Glenn farm during his marriage to Carolyn. Later, both Harold and Carolyn obtained loans amounting to $225,000 which involved the further encumbrance of the Glenn farm. Our supreme court has held that property acquired by either spouse during the marriage is presumed to be marital property. Potter v. Potter, 280 Ark. 38, 655 S.W.2d 382 (1982). Based upon the court’s holding in Potter, the complexity of the many transactions described in this cause, and the specific testimony noted above, we are unable to say the chancellor erred in finding the Glenn farm to be marital property.</p>
+                <p pgmap="211" id="b211-11">Harold’s final argument is that the chancellor abused his discretion in awarding attorney’s fees and costs of $1,000 to Carolyn. He contends that he gave Carolyn $5,000 at the time of their separation, and allowed her to use the joint checking account. Carolyn argues that her attorney did a considerable amount of work on this case over a period of seventeen months, that she had every right to use the checking account, and that she used the $5,000 as support until the trial court ordered monthly payments at a temporary hearing. She also points to deficiencies in Harold’s abstract as a basis for an additional award of attorney’s fees on appeal.</p>
+                <p pgmap="211(20) 212(5)" id="b211-12">
+                   In Paulson v. Paulson, 8 Ark. App. 306, 652 S.W.2d 46 (1983), we listed factors the chancellor should consider in awarding attorney’s fees. We concluded:</p>
+                <blockquote pgmap="212" id="b212-6">On appellate review considerable weight is given to the opinion of the judge before whom the proceedings are conducted. The chancellor is in a much better position to evaluate the services of counsel than an appellate court, and unless a clear abuse of discretion is evident, the chancellor’s action in fixing attorney’s fees will not be disturbed on appeal.</blockquote>
+                <p pgmap="212" id="b212-7">In Paulson, we upheld an award of fees and costs totalling $6,598.60. Here, considering the complexity of the case, the lengthy proceedings, and the extensive preparation by counsel, we cannot say the chancellor abused his discretion in awarding fees and costs to Carolyn. Concerning Carolyn’s request for an additional award in this appeal, we will consider that question upon the filing of a proper motion.</p>
+                <p pgmap="212" id="b212-8">
+                   In her cross-appeal, Carolyn contends that the chancel­lor erred by failing to award her one-half of the balance of the joint checking account. The account was closed on November 25, 1983, with a balance of $4,672.92. Carolyn claims that the chancellor failed to make any disposition of this account in the decree. Although Harold contends that the subject account was included in section seventeen of the decree, that section merely awarded Carolyn $35,000 “in settlement of all other claims that the plaintiff has against the defendant for marital property in his possession in the way of grain bins, motor vehicles, improvements to real estate, and farm tools and equipment.” Clearly, section seventeen fails to recite the disputed account, and those items listed can in no way be construed to include that account. In Gorchik v. Gorchik, 10 Ark. App. 331, 663 S.W.2d 941 (1984), we held that money the husband inherited from his father became marital property when he deposited it in a joint bank account.<footnotemark>2</footnotemark> Here, we hold the parties’joint account was marital property, and accordingly we modify the chancellor’s decision to reflect our holding.</p>
+                <p pgmap="212(10) 213(48)" id="b212-9">Carolyn next argues that the chancellor erred by fixing an inadequate amount of child support. Harold was ordered to pay $200 a month beginning April 1, 1985. Carolyn contends that, based upon Harold’s financial status, and considering the ex­penses incurred in raising the child, particularly orthodontic bills, child support should have been fixed at $950 a month.</p>
+                <p pgmap="213" id="b213-6">
+                   Because we agree with Harold that the record sup­ports the chancellor’s earlier award, we affirm; but at the same time, we realize that Carolyn’s death may well pose a change in circumstances which could warrant a different child support award. In this respect, the chancery court retains the right to review and modify, in accordance with changing circumstances, awards for support of children, either increasing or decreasing such awards as warranted. Johnston v. Johnston, 241 Ark. 551, 408 S.W.2d 885 (1966).</p>
+                <p pgmap="213" id="b213-7">For the reasons stated above, we affirm the chancellor’s decision except for his failure to award the parties’ joint account as marital property. On that point, we modify his holding and remand with directions to make an appropriate award of that account.</p>
+                <p pgmap="213" id="b213-8">Affirmed on direct appeal; affirmed as modified and re­manded on cross-appeal.</p>
+                <footnote label="1">
+                  <p pgmap="207" id="b207-14">1 Carolyn died intestate on July 18, 1985. Her interest in this appeal is being pursued by her father, as administrator of her estate, on behalf of her minor daughter, who is the sole surviving heir at law.</p>
+                </footnote>
+                <footnote label="2">
+                  <p pgmap="212" id="b212-10">2 Gorchik was overruled by the supreme court on other grounds in Liles v. Liles, 289 Ark. 159, 711 S.W.2d 447 (1986).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="206" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.2" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jp2_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="211" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.2" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-13" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.16" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.13" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.12" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.11" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-14" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.17" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.6" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.8" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbO" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.7" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.6" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.7" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.6" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.6" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.7" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.8" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.9" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.10" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            <area BEGIN="BL_212.1" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.7" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.5" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqo" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.14" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.15" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.6" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.7" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.5" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.3" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.3" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.6" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.7" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_213.1" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.4" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.9" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.8" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-13" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.11" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.10" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.5" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

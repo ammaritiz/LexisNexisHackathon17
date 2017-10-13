@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000724_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Woods v. State">Eric WOODS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 92-497</docketnumber>
+          <citation category="official" type="bluebook">40 Ark. App. 204</citation>
+          <citation category="parallel" type="bluebook">846 S.W.2d 186</citation>
+          <decisiondate>1993-01-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:45:26Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:52Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:57:52Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:58:31Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00116_1" MIMETYPE="image/tiff" CHECKSUM="b6d6692d59997fefb78554e2616ef9b1" CHECKSUMTYPE="MD5" SIZE="10966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00116_1.tif"/>
+      </file>
+      <file ID="tiff_00117_0" MIMETYPE="image/tiff" CHECKSUM="90e1a0a1cc20cdc06f5b6ccd97ef5c0f" CHECKSUMTYPE="MD5" SIZE="57650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00117_0.tif"/>
+      </file>
+      <file ID="tiff_00117_1" MIMETYPE="image/tiff" CHECKSUM="f7098d5361a8958485a20bd687727ad7" CHECKSUMTYPE="MD5" SIZE="52606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00117_1.tif"/>
+      </file>
+      <file ID="tiff_00118_0" MIMETYPE="image/tiff" CHECKSUM="dda04ab32e5bc26abc430029f781765a" CHECKSUMTYPE="MD5" SIZE="52042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00118_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00116_1" MIMETYPE="image/jp2" CHECKSUM="87456f089c945477439c874af5c65093" CHECKSUMTYPE="MD5" SIZE="1599737">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00116_1.jp2"/>
+      </file>
+      <file ID="jp2_00117_0" MIMETYPE="image/jp2" CHECKSUM="0b788b47c1646d1e3a0a9836ee80d444" CHECKSUMTYPE="MD5" SIZE="2753228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00117_0.jp2"/>
+      </file>
+      <file ID="jp2_00117_1" MIMETYPE="image/jp2" CHECKSUM="b3bad523a16121e5ef1f8ba94f140930" CHECKSUMTYPE="MD5" SIZE="2641999">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00117_1.jp2"/>
+      </file>
+      <file ID="jp2_00118_0" MIMETYPE="image/jp2" CHECKSUM="0da6a03e28428a7fe64a16d64273a477" CHECKSUMTYPE="MD5" SIZE="2681096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00118_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00116_1" MIMETYPE="text/xml" CHECKSUM="5cbc815e0fca4abaf4747b14ab63624e" CHECKSUMTYPE="MD5" SIZE="15037">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00116_1.xml"/>
+      </file>
+      <file ID="alto_00117_0" MIMETYPE="text/xml" CHECKSUM="255a4ccbe5920609f9796696e93c1edd" CHECKSUMTYPE="MD5" SIZE="96161">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00117_0.xml"/>
+      </file>
+      <file ID="alto_00117_1" MIMETYPE="text/xml" CHECKSUM="3f529a5552ae5bfa55e1a8581891b41d" CHECKSUMTYPE="MD5" SIZE="86257">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00117_1.xml"/>
+      </file>
+      <file ID="alto_00118_0" MIMETYPE="text/xml" CHECKSUM="37fa9d2d0e49e1f6bbb377fac7aeb56b" CHECKSUMTYPE="MD5" SIZE="85889">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00118_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="204" lastpage="207">
+              <court id="b232-5" pgmap="232">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b232-4" pgmap="232">CA CR 92-497</docketnumber>
+              <citation id="ACK" pgmap="232">846 S.W.2d 186</citation>
+              <parties id="b232-3" pgmap="232">Eric WOODS v. STATE of Arkansas</parties>
+              <decisiondate id="b232-6" pgmap="232">Opinion delivered January 27, 1993</decisiondate>
+              <judges id="b235-9" pgmap="235">Cooper and Rogers, JJ., agree.</judges>
+              <attorneys id="b232-14" pgmap="232">William R. Simpson, Jr., Public Defender, by: Richard Lewallen, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys id="b232-15" pgmap="232">Winston Bryant, Att’y. Gen., by: Kent G. Holt, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b233-5" pgmap="233">John B. Robbins, Judge.</author>
+                <p id="A2F" pgmap="233">Appellant, Eric J. Woods, was convicted of battery in the first degree and sentenced to a term of ten years in the Arkansas Department of Correction. Appellant contends on appeal that the trial court erred in requiring his alibi witness, Ray Lewis, to be handcuffed when he was introduced to the jury and when he testified. We find no error and affirm.</p>
+                <p id="b233-6" pgmap="233">The appellant was charged with violation of Ark. Code Ann. § 5-13-201, and a jury trial was held on January 15, 1992. Just prior to commencement of the trial, while the court was disposing of some pretrial matters, appellant’s attorney brought to the court’s attention the fact that his witness, Ray Lewis, was presently in the custody of the Pulaski County jail. He also reported that he had taken the liberty of having Lewis dressed in civilian street clothes for the trial and requested that he not be brought into the courtroom in handcuffs. He further informed the court that Lewis had two prior convictions and was currently charged with two counts of armed robbery. The trial court, initially stated that the matter would be decided by the court’s bailiff, who was of the opinion that Lewis was a security risk. Upon further protest by appellant, the court allowed counsel to call witnesses to discover the basis for believing Lewis was a security risk.</p>
+                <p id="b233-7" pgmap="233">The court’s chief probation officer and bailiff, G. L. Smith, was called and testified that because the last two prisoners who escaped from court did so in civilian clothes the rule was adopted that prisoner-witnesses could not come to court in civilian clothes unless the prisoner was being tried in a jury trial. The trial court indicated it would make the same ruling, and stated that it was not convinced that appellant would suffer any prejudice by having Lewis handcuffed while testifying.</p>
+                <p id="b233-8" pgmap="233">The trial court noted that it would allow appellant to voir dire potential jurors for possible prejudice due to the handcuffs and allow challenges for cause. The trial court also noted appellant’s continuing objection to the ruling on the handcuffs.</p>
+                <p id="b233-9" pgmap="233">When the witness, Lewis, was introduced before the jury in handcuffs, the trial court stated that its policy was to introduce witnesses and it was not the intention of the trial court to draw attention to this witness. Lewis was again brought before the jury in handcuffs during the appellant’s presentation of his case.</p>
+                <p id="b234-5" pgmap="234">
+                   The trial court has discretion to use physical restraints on a defendant for security purposes and to maintain order in the courtroom. Terry v. State, 303 Ark. 270, 796 S.W.2d 332 (1990). The United States Supreme Court has said that where it is essential to maintain dignity, order, and decorum in the court­room restraints may be used. Illinois v. Allen, 397 U.S. 337 (1970). Rule 33.1 of the Arkansas Rules of Criminal Procedure addresses the matter as follows:</p>
+                <blockquote id="b234-6" pgmap="234">Defendants and witnesses shall not be subjected to physical restraints while in the court unless the trial judge has found such restraint reasonably necessary to maintain order. If the trial judge orders such restraint, he shall enter into the record of the case the reasons therefor. Whenever physical restraint of a defendant or witness occurs in the presence of jurors trying the case, the judge shall upon request of the defendant or his attorney instruct the jury that such restraint is not to be considered in assessing the proof and determining the guilt.</blockquote>
+                <p id="b234-7" pgmap="234">(Emphasis added.) The rule leaves the issue of whether to subject a defendant or a witness to physical restraints while in the courtroom to the discretion of the trial judge.</p>
+                <p id="b234-8" pgmap="234">As clearly reflected in the record, restraint was reasonable because of the witness’s prior felony convictions and the two pending charges of aggravated robbery for which he was being held in jail. The testimony of Chief Smith explained the security risks involved when a prisoner in the courthouse wears street clothes. The pending charges against Lewis and his exposure to increased punishment due to his prior felony convictions added to Lewis’s risk of flight. The trial judge is in a better position to evaluate the potential for danger and disruptions than this court on appeal.</p>
+                <p id="b234-9" pgmap="234">
+                   Under Rule 33.1 of the Arkansas Rules of Criminal Procedure, “the judge shall upon request of the defendant or his attorney instruct the jury that such restraint is not to be considered in assessing the proof and determining guilt.” Al­though appellant made a continuing objection to his witness being seen by the jury in handcuffs, he never requested an admonition pursuant to Ark. R. Crim. P. 33.1.</p>
+                <p id="b235-5" pgmap="235">
+                   Appellant contends on appeal that the trial court erred in requiring his witness to be handcuffed while testifying and during his introduction to the jury, because this resulted in prejudice to him and his right to a fair trial. It is not prejudicial, per se, when the defendant is brought into a courtroom handcuffed. Townsend v. State, 308 Ark. 266, 824 S.W.2d 821 (1992); Hill v. State, 285 Ark. 77, 685 S.W.2d 495 (1985). In Williams v. State, 304 Ark. 218, 800 S.W.2d 713 (1990), the Arkansas Supreme Court said “we have held that it is not prejudicial, per se, when a defendant [witness] is brought into court handcuffed and that the defendant must affirmatively demonstrate prejudice.” The Arkansas Supreme Court has also stated that it “would not presume prejudice when there was nothing in the record to indicate what impression may have been made on the jurors . . . where the appellant did not offer any proof of prejudice.” Hill v. State, supra at 79, citing Gregory v. United States, 365 F.2d 203 (8th Cir. 1966). The appellant has offered no proof of prejudice and the record and abstract do not reflect any voir dire of the jury to substantiate his allegations that prejudice resulted from use of the handcuffs. See Ark. Sup. Ct. R. 9(d) and Johnson v. State, 261 Ark. 183, 546 S.W.2d 719 (1977).</p>
+                <p id="b235-6" pgmap="235">Counsel for the appellant offered an alternative to hand­cuffing by suggesting that bailiffs be placed at the exits to the courtroom, and that they escort the witness to the witness stand. As pointed out in Townsend v. State, supra, this also would have been obtrusive and would put the jurors on alert that something is different about this witness.</p>
+                <p id="b235-7" pgmap="235">
+                   In close cases regarding security in the courtroom, the trial judge is in a better position to evaluate the potential security risks involved with a witness or defendant. Here, the witness’s dress, his felony record, his pending aggravated robbery charges, and the risk to innocent people in the courtroom, gave the trial judge adequate justification for the use of restraints in this case. The judgment of the Pulaski County Circuit Court is therefore affirmed.</p>
+                <p id="b235-8" pgmap="235">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="232" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00116_1"/>
+        <fptr FILEID="jp2_00116_1"/>
+        <fptr FILEID="alto_00116_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_232.1" BETYPE="IDREF" FILEID="alto_00116_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="233" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00117_0"/>
+        <fptr FILEID="jp2_00117_0"/>
+        <fptr FILEID="alto_00117_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_233.2" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="234" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00117_1"/>
+        <fptr FILEID="jp2_00117_1"/>
+        <fptr FILEID="alto_00117_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_234.1" BETYPE="IDREF" FILEID="alto_00117_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="235" ORDERLABEL="207" TYPE="page">
+        <fptr FILEID="tiff_00118_0"/>
+        <fptr FILEID="jp2_00118_0"/>
+        <fptr FILEID="alto_00118_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_235.2" BETYPE="IDREF" FILEID="alto_00118_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-14" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.16" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-15" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.17" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.7" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.3" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.5" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.4" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACK" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.5" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b235-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_235.6" BETYPE="IDREF" FILEID="alto_00118_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.9" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.8" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.7" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.6" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b233-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.3" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2F" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_233.4" BETYPE="IDREF" FILEID="alto_00117_0"/>
+            <area BEGIN="BL_233.5" BETYPE="IDREF" FILEID="alto_00117_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.7" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.6" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-3" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.3" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.7" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.4" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b232-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_232.6" BETYPE="IDREF" FILEID="alto_00116_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.3" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.4" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b234-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_234.5" BETYPE="IDREF" FILEID="alto_00117_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

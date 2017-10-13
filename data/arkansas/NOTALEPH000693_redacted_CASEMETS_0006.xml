@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000693_0006" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Milton v. State">Willie MILTON Jr. v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-257</docketnumber>
+          <citation category="official" type="bluebook">83 Ark. App. 42</citation>
+          <citation category="parallel" type="bluebook">137 S.W.3d 402</citation>
+          <decisiondate>2003-09-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T22:26:39Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:18:02Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T10:06:25Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T10:08:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="459e8c30c00741a448498d2ff4ab293d" CHECKSUMTYPE="MD5" SIZE="18804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00034_1.tif"/>
+      </file>
+      <file ID="tiff_00035_0" MIMETYPE="image/tiff" CHECKSUM="d6460e36769209fee47e5ce1095fa7ac" CHECKSUMTYPE="MD5" SIZE="53924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00035_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="cde2b3072e271deafc4ce17edd9381a8" CHECKSUMTYPE="MD5" SIZE="2216035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00034_1.jp2"/>
+      </file>
+      <file ID="jp2_00035_0" MIMETYPE="image/jp2" CHECKSUM="257c46bc376f6378476ab41324e720d9" CHECKSUMTYPE="MD5" SIZE="2726617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000693_00035_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="029e20eb31aa9b9e0f893012f5795920" CHECKSUMTYPE="MD5" SIZE="31265">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00034_1.xml"/>
+      </file>
+      <file ID="alto_00035_0" MIMETYPE="text/xml" CHECKSUM="1dc63ada6dda642fd5c8e918456dc1d4" CHECKSUMTYPE="MD5" SIZE="94131">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000693_redacted_ALTO_00035_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="42" lastpage="43">
+              <court id="b68-9" pgmap="68">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="Am" pgmap="68">CA CR 03-257</docketnumber>
+              <citation id="ATZ" pgmap="68">137 S.W.3d 402</citation>
+              <parties id="b68-8" pgmap="68">Willie MILTON Jr. v. STATE of Arkansas</parties>
+              <decisiondate id="b68-10" pgmap="68">Opinion delivered September 3, 2003</decisiondate>
+              <judges id="b69-9" pgmap="69">Gladwin and Griffen, JJ., agree.</judges>
+              <attorneys id="b68-15" pgmap="68">Paul Johnson, for appellant.</attorneys>
+              <attorneys id="b68-16" pgmap="68">Mike Beebe, Att’y Gen., by: Vada Berger, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pATr" pgmap="68">Bird, Judge.</author>
+                <p id="AvE" pgmap="68(29) 69(75)">On May 19, 2001, Willie Milton Jr. was driving an automobile that left the interstate highway and overturned. He fled the scene on foot, but a passenger who was ejected from the automobile died as a result of the injuries he sustained. The Pulaski County Circuit Court subsequently accepted Milton’s guilty plea to the charge of failing to stop after an accident involving death or personal injury. He was sentenced to serve 120 days in the county jail, to pay fees and court costs, and to pay the victim’s family $25,000 restitution. Milton now appeals the portion of the sentence regarding restitution. We affirm.</p>
+                <p id="b69-5" pgmap="69">At the sentencing hearing the victim’s mother testified that his family loved him, that after the accident she took sleeping pills and was tardy to work, and that her oldest son was unable to focus. She testified about her grief as well as that of her sister, who previously had lost a child and “had to go through this again.”</p>
+                <p id="b69-6" pgmap="69">At the conclusion of the hearing the court pronounced sentence from the bench, including its order that Milton pay $25,000 restitution to the victim’s family. The court stated: “We will monitor the restitution payments. . . . $25,000 over six years’ probation will be $350 per month. This will be paid for restitution. Well, it will be paid on a monthly basis... . . Anything else?” The State responded that it had nothing further. Milton’s attorney informed the court, “I am relatively certain that I will appeal this,” but made no further objection or argument regarding the sentence. A judgment and disposition order reflects the order that was pronounced in open court.</p>
+                <p id="b69-7" pgmap="69">
+                   Milton argues for the first time on appeal that the trial court was not justified in ordering him to pay restitution because there is no evidence in the record of actual economic loss by any victim, as is statutorily required. It is true that Ark. Code Ann. § 5-4-205 (a) (2) (A) (Repl. 1997) requires that in ordering restitu­tion, the sentencing authority “shall make a determination of actual economic loss caused to a victim by the crime.” Parties are bound on appeal by the scope and nature of the objections and arguments presented at trial, however, and we will not address arguments that have not been raised at trial. Nix v. State, 54 Ark. App. 302, 304, 925 S.W.2d 802, 803 (1996). Because Milton did not argue to the trial court that there was no evidence of actual economic loss, we will not address the issue on appeal.</p>
+                <p id="b69-8" pgmap="69">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="68" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.2" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="69" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00035_0"/>
+        <fptr FILEID="jp2_00035_0"/>
+        <fptr FILEID="alto_00035_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.4" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pATr" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.20" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.5" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-15" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.18" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-16" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.19" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.13" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.6" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.10" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.12" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b68-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.9" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvE" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.21" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            <area BEGIN="BL_68.22" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            <area BEGIN="BL_69.1" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.8" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-9" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.9" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATZ" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_68.11" BETYPE="IDREF" FILEID="alto_00034_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b69-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_69.7" BETYPE="IDREF" FILEID="alto_00035_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

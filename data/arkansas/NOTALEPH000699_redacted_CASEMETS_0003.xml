@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000699_0003" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Powell v. Powell">Patricia POWELL v. John Charles POWELL</name>
+          <docketnumber>CA 02-133</docketnumber>
+          <citation category="official" type="bluebook">82 Ark. App. 17</citation>
+          <citation category="parallel" type="bluebook">110 S.W.3d 290</citation>
+          <decisiondate>2003-04-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:01:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:47Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T10:16:21Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T10:20:31Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="c129869a568a690c2a9193da255fb73f" CHECKSUMTYPE="MD5" SIZE="7050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="66358e85ce20d8e99a8b4b98db5a5885" CHECKSUMTYPE="MD5" SIZE="9484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00022_1.tif"/>
+      </file>
+      <file ID="tiff_00023_0" MIMETYPE="image/tiff" CHECKSUM="01a384feafc2b25915c698257c1bc852" CHECKSUMTYPE="MD5" SIZE="54466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00023_0.tif"/>
+      </file>
+      <file ID="tiff_00023_1" MIMETYPE="image/tiff" CHECKSUM="ddb7111873a7c41d7ee045821231ebf0" CHECKSUMTYPE="MD5" SIZE="55032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00023_1.tif"/>
+      </file>
+      <file ID="tiff_00024_0" MIMETYPE="image/tiff" CHECKSUM="16df12a478ebca213e9b1e34028a14a3" CHECKSUMTYPE="MD5" SIZE="44848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00024_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00022_0" MIMETYPE="image/jp2" CHECKSUM="c538da99edd1d83f57ba40887d7b8c0d" CHECKSUMTYPE="MD5" SIZE="1349096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00022_0.jp2"/>
+      </file>
+      <file ID="jp2_00022_1" MIMETYPE="image/jp2" CHECKSUM="65420d2d06e5307096e1155c74610375" CHECKSUMTYPE="MD5" SIZE="1312632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00022_1.jp2"/>
+      </file>
+      <file ID="jp2_00023_0" MIMETYPE="image/jp2" CHECKSUM="d254288843f3071cd347de9a4c4a8db0" CHECKSUMTYPE="MD5" SIZE="2971552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00023_0.jp2"/>
+      </file>
+      <file ID="jp2_00023_1" MIMETYPE="image/jp2" CHECKSUM="14705e65c5dc13f774a4b4795b4e0fce" CHECKSUMTYPE="MD5" SIZE="2547119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00023_1.jp2"/>
+      </file>
+      <file ID="jp2_00024_0" MIMETYPE="image/jp2" CHECKSUM="7605d3f85a0cdbb05baea1025b137533" CHECKSUMTYPE="MD5" SIZE="2482799">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000699_00024_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00022_0" MIMETYPE="text/xml" CHECKSUM="f1ce9fb027f9bb8825a2d36e18513645" CHECKSUMTYPE="MD5" SIZE="8379">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00022_0.xml"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml" CHECKSUM="f94b5e4e8052e523681ef3fc57575487" CHECKSUMTYPE="MD5" SIZE="12987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00022_1.xml"/>
+      </file>
+      <file ID="alto_00023_0" MIMETYPE="text/xml" CHECKSUM="06400e79c65cd0ee94ab2e154c4c5879" CHECKSUMTYPE="MD5" SIZE="94608">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00023_0.xml"/>
+      </file>
+      <file ID="alto_00023_1" MIMETYPE="text/xml" CHECKSUM="20bbc9805e3244d10f1a01dcb29e0465" CHECKSUMTYPE="MD5" SIZE="94504">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00023_1.xml"/>
+      </file>
+      <file ID="alto_00024_0" MIMETYPE="text/xml" CHECKSUM="f382319ed60646a565fd4ef7e0ef6f53" CHECKSUMTYPE="MD5" SIZE="78141">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000699_redacted_ALTO_00024_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="21" firstpage="17">
+              <court id="b43-4" pgmap="43">Court of Appeals of Arkansas Divisions I and II</court>
+              <docketnumber id="AcZ" pgmap="43">CA 02-133</docketnumber>
+              <citation id="Aq3" pgmap="43">110 S.W.3d 290</citation>
+              <parties id="b43-3" pgmap="43">Patricia POWELL v. John Charles POWELL</parties>
+              <decisiondate id="AqP" pgmap="43">Opinion delivered April 30, 2003</decisiondate>
+              <judges id="b47-8" pgmap="47">Gladwin, Bird, and Griffen, JJL, agree.</judges>
+              <judges id="b47-9" pgmap="47">Robbins and Hart, JJ., concur.</judges>
+              <attorneys id="b44-14" pgmap="44">Davis &amp; Watson, P.A., by: Charles E. Davis, for appellant.</attorneys>
+              <attorneys id="b44-15" pgmap="44">Russell C. Atchley, PA., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAM" pgmap="44">John Mauzy Pittman, Judge.</author>
+                <p id="AT9" pgmap="44(24) 45(39)">The parties to this marital-­property-division case married in 1993 and divorced in 2001. Appellee owned a farm subject to a mortgage before he married appellant, and appellant had approximately $26,000 in premarital funds at the time of the marriage. The issues at trial focused on the respective rights of the parties to these items of property and on appellant’s request for alimony.</p>
+                <p id="b45-5" pgmap="45">Appellant contends that the trial court erred.in awarding her only one-third of the reduction in indebtedness on the farm mort­gage; in finding that the premarital funds she deposited into the joint account were marital property; and in denying her request for alimony. We find no error, and we affirm. ■</p>
+                <p id="b45-6" pgmap="45">We first address appellant’s contention that the trial court erred in failing to award her a full one-half of the reduction in indebtedness on the farm mortgage over the course of the mar­riage. The record shows that appellee owned a farm before he married appellant. The farm was subject to a mortgage in the amount of $141,508 when the parties married. By the time they divorced, the mortgage indebtedness had been reduced to $5,800. After trial, appellant was awarded one-third of the reduction of indebtedness. She argues on appeal that the trial judge erred in failing to award her one-half of that reduction. We do not agree.</p>
+                <p id="b45-7" pgmap="45(208) 46(73)">
+                   With respect to the division of property in a divorce case, we review the chancellor’s findings of fact and affirm them unless they are clearly erroneous. Jablonski v. Jablonski, 71 Ark. App. 33, 25 S.W.3d 433 (2000). It is true that there is a presump­tion that an increase in the value of nonmarital property resulting from the time, efforts, and skill of a spouse is regarded as a marital asset. See Layman v. Layman, 292 Ark. 539, 731 S.W.2d 771 (1987). However, a mere reduction in a single item of indebted­ness is not the same thing as an increase in the overall value of the property, which would require evidence of the fair-market value of the farm both before and after the marriage. See id. There is evidence in the present case regarding the value of the farm at the time of the divorce, but we find nothing in the record that would allow the trial judge to determine the premarital value of the farm. Without evidence of the before-and-after value of the property to show the existence and extent of any increase in the value of the nonmarital property, any reduction in debt on nonmarital property is not considered to be marital property to be divided equally; instead, the non-owning spouse is simply entitled to have the marital contribution considered in balancing the equi­ties involved in the property division. See Box v. Box, 312 Ark. 550, 851 S.W.2d 437 (1993). The trial judge did so when he awarded appellant one-third of the reduction of indebtedness on the farm and, given the evidence presented at trial, we cannot say that he erred in failing to award her more.</p>
+                <p id="b46-5" pgmap="46">
+                   We next address appellant’s contention that the trial court erred in finding that appellant’s premarital funds did not remain appellant’s individual property after her marriage to appel­lee. Once property, whether personal or real, is placed in the names of persons who are husband and wife without specifying the manner in which they take, there is a presumption that they own the property as tenants by the entirety, and clear and con­vincing evidence is required to overcome that presumption. McLain v. McLain, 36 Ark. App. 197, 820 S.W.2d 295 (1991). Clear and convincing evidence is evidence by a credible witness whose memory of the facts about which he testifies is distinct, whose narration of the details is exact and in due order, and whose testimony is so direct, weighty, and convincing as to enable the fact-finder to come to a clear conviction, without hesitation, of the truth of the facts; on review, the issue is whether the trial judge’s finding that the appellee overcame the presumption that the account was held by the entirety by clear and convincing evi­dence, is against a preponderance of the evidence. Id.</p>
+                <p id="b46-6" pgmap="46(143) 47(14)">
+                   In the present case, the record shows that appellant had approximately $26,000 from the sale of her premarital home in a savings account at the time of her marriage to appellee. After she married appellee, appellant deposited these funds into a joint account she held with him. With regard to her intention regard­ing her separate property, appellant testified that “[w]e did discuss prenuptial things one day. And we planned on being married for the rest of our lives and we could just both put in everything we had and go from there.” Given that appellant admitted that she deposited these funds in a joint account, that she discussed pre­nuptial arrangements with appellee, and that she regarded their property to be jointly held during the marriage, we cannot say that the trial judge erred in finding that she failed to rebut the presumption of gift that arises when premarital funds are commin­gled with marital funds.</p>
+                <p id="b47-5" pgmap="47">
+                   Finally, we address appellant’s contention that the trial court erred in fading to award her alimony. The award of alimony is not mandatory, but is instead discretionary, and the trial court’s decision regarding any such award will not be reversed absent an abuse of discretion. McKay v. McKay, 340 Ark. 171, 8 S.W.3d 525 (2000). The purpose of alimony is to rectify, insofar as is reasonably possible, the frequent economic imbalance in the earning power and standard of living of the divorced parties in light of the particular facts of each case. Holaway v. Holaway, 70 Ark. App. 240, 16 S.W.3d 302 (2000). The primary factors to be considered in awarding alimony are the need of one spouse and the other spouse’s ability to pay; secondary factors that may also be considered in setting alimony include: (1) the financial circum­stances of both parties, (2) the amount and nature of the income, and (3) the extent and nature of the resources and assets of each of the parties. Id.</p>
+                <p id="b47-6" pgmap="47">
+                   The record in the present case shows that appellee was sixty-four years old at the time of the divorce and was in relatively poor health. He had quadruple bypass surgery for a heart condi­tion, and had knee, intestinal, and hernia repair surgery as well since his marriage to appellant. He has a history of repeated hos­pitalizations for heart problems and is no longer able to do much farm work other than bookkeeping. Appellant was fifty-eight years old at the time of the divorce and was in good health. She had previous work experience as a union construction worker earning $18.00 per hour. She is currently employed managing an RV park in Branson, Missouri. Given this evidence, we cannot say that the trial judge abused his discretion in failing to award alimony to appellant.</p>
+                <p id="b47-7" pgmap="47">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="43" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jp2_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.2" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jp2_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.2" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="45" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00023_0"/>
+        <fptr FILEID="jp2_00023_0"/>
+        <fptr FILEID="alto_00023_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_45.3" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="46" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00023_1"/>
+        <fptr FILEID="jp2_00023_1"/>
+        <fptr FILEID="alto_00023_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.2" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="47" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00024_0"/>
+        <fptr FILEID="jp2_00024_0"/>
+        <fptr FILEID="alto_00024_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.3" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.5" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            <area BEGIN="BL_47.1" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqP" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.7" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.15" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_44.16" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_44.17" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_45.1" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.5" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.6" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-15" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.13" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-14" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.12" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.4" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.7" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.8" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.5" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.4" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-5" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.4" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.5" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcZ" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.4" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-3" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.6" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            <area BEGIN="BL_46.1" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAM" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.14" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-4" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.6" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

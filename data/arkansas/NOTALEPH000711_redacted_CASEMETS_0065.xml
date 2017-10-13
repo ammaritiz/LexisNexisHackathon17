@@ -1,0 +1,496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000711_0065" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Curtis v. State">Demetrius CURTIS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-564</docketnumber>
+          <citation category="official" type="bluebook">76 Ark. App. 458</citation>
+          <citation category="parallel" type="bluebook">68 S.W.3d 305</citation>
+          <decisiondate>2002-02-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T15:40:11Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:41Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-27T15:27:57Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-27T15:35:32Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00250_1" MIMETYPE="image/tiff" CHECKSUM="b7bd4a002811969fd41f0ace659eecb8" CHECKSUMTYPE="MD5" SIZE="38454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00250_1.tif"/>
+      </file>
+      <file ID="tiff_00251_0" MIMETYPE="image/tiff" CHECKSUM="08f898489f364cbcbfc2f7d78d040cf5" CHECKSUMTYPE="MD5" SIZE="3950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00251_0.tif"/>
+      </file>
+      <file ID="tiff_00251_1" MIMETYPE="image/tiff" CHECKSUM="b36c338ff039e0efaae430b802b43092" CHECKSUMTYPE="MD5" SIZE="29870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00251_1.tif"/>
+      </file>
+      <file ID="tiff_00252_0" MIMETYPE="image/tiff" CHECKSUM="4c196d6a576e5c2809b5d20b2704ea71" CHECKSUMTYPE="MD5" SIZE="61254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00252_0.tif"/>
+      </file>
+      <file ID="tiff_00252_1" MIMETYPE="image/tiff" CHECKSUM="c1597a60abd4bc96357e8e46906fbe71" CHECKSUMTYPE="MD5" SIZE="63320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00252_1.tif"/>
+      </file>
+      <file ID="tiff_00253_0" MIMETYPE="image/tiff" CHECKSUM="18863063a50b610ed5a24bcffda78024" CHECKSUMTYPE="MD5" SIZE="62428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00253_0.tif"/>
+      </file>
+      <file ID="tiff_00253_1" MIMETYPE="image/tiff" CHECKSUM="9c677bec6011321e1ca19cfd53806ff5" CHECKSUMTYPE="MD5" SIZE="16686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00253_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00250_1" MIMETYPE="image/jp2" CHECKSUM="a892d26d10806e33850e5c4820bbf7d8" CHECKSUMTYPE="MD5" SIZE="2356676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00250_1.jp2"/>
+      </file>
+      <file ID="jp2_00251_0" MIMETYPE="image/jp2" CHECKSUM="df64c6c63fde3bfd7dc5f93ecdab1168" CHECKSUMTYPE="MD5" SIZE="1093270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00251_0.jp2"/>
+      </file>
+      <file ID="jp2_00251_1" MIMETYPE="image/jp2" CHECKSUM="906ccd7a6c73d64f6cb37f3201c15e6a" CHECKSUMTYPE="MD5" SIZE="1931431">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00251_1.jp2"/>
+      </file>
+      <file ID="jp2_00252_0" MIMETYPE="image/jp2" CHECKSUM="d366459ab056ac3441633b56d11c47c7" CHECKSUMTYPE="MD5" SIZE="2727478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00252_0.jp2"/>
+      </file>
+      <file ID="jp2_00252_1" MIMETYPE="image/jp2" CHECKSUM="ce970b8b34bde7e33b66287fe5b5c840" CHECKSUMTYPE="MD5" SIZE="2674851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00252_1.jp2"/>
+      </file>
+      <file ID="jp2_00253_0" MIMETYPE="image/jp2" CHECKSUM="076556c5b33443eff73f1d018ca6cbac" CHECKSUMTYPE="MD5" SIZE="2732803">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00253_0.jp2"/>
+      </file>
+      <file ID="jp2_00253_1" MIMETYPE="image/jp2" CHECKSUM="622b028bc7a82d51dc754e6c1d774296" CHECKSUMTYPE="MD5" SIZE="1845053">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000711_00253_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00250_1" MIMETYPE="text/xml" CHECKSUM="725e3762777f5cc3f52e4a29059b6577" CHECKSUMTYPE="MD5" SIZE="64146">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00250_1.xml"/>
+      </file>
+      <file ID="alto_00251_0" MIMETYPE="text/xml" CHECKSUM="fb4e968bbaee65ca0403b4bf99098a2b" CHECKSUMTYPE="MD5" SIZE="1687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00251_0.xml"/>
+      </file>
+      <file ID="alto_00251_1" MIMETYPE="text/xml" CHECKSUM="706d4f0644bb379368b40475601610d2" CHECKSUMTYPE="MD5" SIZE="49116">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00251_1.xml"/>
+      </file>
+      <file ID="alto_00252_0" MIMETYPE="text/xml" CHECKSUM="a9adf10c79beaae0b9ce36f03bc457a1" CHECKSUMTYPE="MD5" SIZE="107265">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00252_0.xml"/>
+      </file>
+      <file ID="alto_00252_1" MIMETYPE="text/xml" CHECKSUM="c5794bc4bb4df266ddea843c58845284" CHECKSUMTYPE="MD5" SIZE="114465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00252_1.xml"/>
+      </file>
+      <file ID="alto_00253_0" MIMETYPE="text/xml" CHECKSUM="b0cff332cea77e3d4feac6717bb4d632" CHECKSUMTYPE="MD5" SIZE="114401">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00253_0.xml"/>
+      </file>
+      <file ID="alto_00253_1" MIMETYPE="text/xml" CHECKSUM="fd30a7b15d32951c7f61cdcac6d13a36" CHECKSUMTYPE="MD5" SIZE="26070">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000711_redacted_ALTO_00253_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0065" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="458" lastpage="464">
+              <court id="b500-10" pgmap="500">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b500-8" pgmap="500">CA CR 01-564</docketnumber>
+              <citation id="b500-9" pgmap="500">68 S.W.3d 305</citation>
+              <parties id="b500-7" pgmap="500">Demetrius CURTIS v. STATE of Arkansas</parties>
+              <decisiondate id="b500-11" pgmap="500">Opinion delivered February 20, 2002</decisiondate>
+              <judges id="b506-7" pgmap="506">Robbins and Crabtree, JJ„ agree.</judges>
+              <attorneys id="b502-8" pgmap="502">William R. Simpson, Jr., Public Defender, by: Clint Miller, Dep­uty Public Defender, for appellant.</attorneys>
+              <attorneys id="b502-9" pgmap="502">Mark Pryor, Att’y Gen., by: Lauren Elizabeth Heil, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pARC" pgmap="502">Andree LAYTON Roaf, Judge.</author>
+                <p id="A4D" pgmap="502">Demetrius Curtis was charged with possession of cocaine, simultaneous posses­sion of drugs and a firearm, and misdemeanor possession of mari­juana. In a bench trial, Curtis was found guilty of all three charges, and judgment was entered on January 22, 2001, sentencing him to ten years’ imprisonment in the Arkansas Department of Correction. On appeal, Curtis challenges the sufficiency of the evidence sup­porting his conviction for simultaneous possession of drugs and a firearm, based on the State’s failure to prove that the gun he pos­sessed met the statutory definition of a firearm. We affirm.</p>
+                <p id="b502-11" pgmap="502(71) 503(115)">At trial, Pulaski County Deputy Sheriff Stacey Payton testified that on October 12, 1999, she was patrolling in the Baseline Road area. As Payton was traveling east on Baseline Road, Curtis’s vehicle was ahead of her. Payton witnessed several items of trash fly out of the bed of Curtis’s truck. Payton stopped Curtis for littering, and as she was getting out of her vehicle, Curtis got out of his truck and approached her. Payton testified that she explained to Curtis why he was stopped and that he appeared very nervous. After Curtis gave Payton his driver’s license and registration, she called in his driver’s license number, and it came back with warrants. As Payton was checking his license, she testified that she was keeping Curtis in view. Payton testified that she saw Curtis turn to the side, reach into his right front pocket, and drop something down the side of his leg. Payton called for back up and then placed Curtis in custody. She retrieved the items that Curtis had dropped. The items were plastic bags containing what was subsequently determined to be cocaine and marijuana.</p>
+                <p id="b503-6" pgmap="503">After placing Curtis in her vehicle, Payton asked him if there was anything else in his truck that she needed to know about, as she was going to do an inventory report before towing it. Curtis replied that there was a gun under his seat. Payton found the gun under the seat and testified that it had six rounds in the magazine, with one round chambered. Payton identified the gun at trial as the handgun that she found in Curtis’s truck, and it was admitted into evidence without objection. Curtis testified that the handgun was his and that he kept it in his store. After Curtis’s motions to dismiss were denied, the trial court found him guilty of possession of cocaine, simultaneous possession of drugs and a firearm, and misdemeanor possession of marijuana. Curtis was sentenced to ten years’ impris­onment on each offense, to be served concurrently.</p>
+                <p id="b503-7" pgmap="503">
+                   On appeal, Curtis argues that the trial court erred in denying his motion to dismiss the simultaneous possession of drugs and firearms charge because the State failed to introduce substantial evidence that the handgun he possessed was a device designed, made, or adapted to expel a projectile by the action of an explosive. A motion for a directed verdict, or in a non-jury trial, a motion for dismissal, is a challenge to the sufficiency of the evidence. Boston v. State, 69 Ark. App. 155, 12 S.W.3d 245 (2000). When reviewing a challenge to the sufficiency of the evidence, the appellate court will affirm the conviction if there is substantial evidence to support it, when viewed in the light most favorable to the State. Rabb v. State, 72 Ark. App. 396, 39 S.W.3d 11 (2001). Sufficient evidence, whether direct or circumstantial, is evidence that is of sufficient force and character that it will, with reasonable certainty, compel a conclusion one way or another without resort to speculation or conjecture. Id. Where the evidence is circumstantial, the appellate court must consider whether the evidence was sufficient to exclude all other reasonable hypotheses. Boston v. State, supra.</p>
+                <p id="b504-5" pgmap="504">
+                   In order to sustain a conviction for simultaneous posses­sion of a firearm and a controlled substance under Ark. Code Ann. § 5-74-106(a)(l) (Repl. 1997), the evidence must show that the defendant possessed a firearm while in possession of a controlled substance and that a connection existed between the firearm and the controlled substance. Rabb v. State, supra. “Firearm” is defined in Ark. Code Ann. § 5-1-102(6) (Repl. 1997) as “any device designed, made, or adapted to expel a projectile by the action of an explosive or any device readily convertible to that use, including such a device that is not loaded or lacks a clip or other component to render it immediately operable, and components that can readily be assembled into such a device.”</p>
+                <p id="b504-6" pgmap="504(364) 505(21)">
+                   Curtis’s only argument on appeal is that the State failed to present substantial evidence that his handgun was a “firearm” within this definition. The only evidence presented at trial pertain­ing to the gun was the testimony of Deputy Payton, who testified that she found the handgun loaded, with six rounds in the magazine and one round chambered, and Curtis’s testimony that the gun was his, and that he kept it in his store. As Curtis argues, there was no direct evidence presented at trial that the gun was “designed, made, or adapted to expel a projectile by the action of an explosive,” as stated in § 5-1-102(6). However, the cases cited by Curtis in sup­port of his contention that the State was required to present this type of direct evidence to prove that the gun was a firearm are not applicable to this case. In Beck v. State, 12 Ark. App. 341, 676 S.W.2d 740 (1984), the State had an expert testify as to whether a certain gun could fire automatically, where the appellant was charged with a violation of a statute prohibiting machine guns. In S.B. v. State, 318 Ark. 499, 885 S.W.2d 885 (1994), the Court affirmed the convictions of two juveniles for possessing handguns on school property. The testimony established that the handgun was inoperable due to several missing pieces, but the trial court found that the handgun was designed to fire a certain type of ammunition, as required by the statute defining a handgun. Id. Finally, in Ward v. State, 64 Ark. App. 120, 981 S.W.2d 96 (1998), we affirmed convic­tions for theft by receiving a firearm and possession of a firearm by a felon, where the rifles were modified to fire only blanks, due to testimony that the rifles could easily be reconverted to live-fire capability. Not only do all of these cases involve different offenses than the one at issue, there was a question raised as to the weapons’ operability in each of these cases, whether due to a modification, a missing piece, or a specially designed gun. In this case, there was no evidence presented that the handgun was not in working order or that it was modified in any way; to the contrary, the evidence showed that the gun was fully assembled and loaded.</p>
+                <p id="b505-4" pgmap="505">
+                   Although there was no direct evidence that the handgun was designed or made to expel a bullet by the use of an explosive such as gunpowder, circumstantial evidence constitutes substantial evidence where it excludes all other reasonable hypotheses. Boston v. State, supra. There are cases that have held that evidence similar in nature to the evidence in this case was sufficient to establish that a weapon was a firearm. For example, in United States v. Munoz, 15 F.3d 395 (5th Cir. 1994), the evidence established that a shotgun was a firearm, where a witness testified that he purchased a shotgun from defendant and defendant told him that it worked, the gun was identified by the witness and admitted into evidence, and there was no evidence that the shotgun was not designed to, or could not readily be converted to, expel a projectile by action of an explosive. See also United States v. Liles, 432 F.2d 18 (9th Cir. 1970) (evidence supported conviction for being a felon in possession of a firearm, where owner of sporting goods store identified weapon as a com­mon type of revolver, defendant had asked to see ammunition for that type of revolver, and acquaintance of defendant had seen the weapon and described it as being similar to two revolvers he himself owned). Also, in United States v. Polk, 808 F.2d 33 (8th Cir. 1986), the appellant made a similar argument as in the present case, and the court found that the evidence was sufficient to affirm the convic­tion for being a felon in possession of a firearm. The evidence presented at trial was that the weapon was a Smith and Wesson, .38 caliber revolver, and that the gun was loaded with five rounds of ammunition. Id. at 34. No evidence was introduced about the condition of the gun or whether it had been fired. Id. The gun was also introduced into evidence, and the court stated that the fact finder could properly assess whether the gun could fire or was designed to fire. Id.</p>
+                <p id="b505-5" pgmap="505(127) 506(68)">
+                   Here, though circumstantial, the evidence is substantial enough to support the trial court’s finding that Curtis’s gun was a firearm. Deputy Payton identified the handgun at trial as the one she found in Curtis’s truck. Payton testified that the gun was loaded, with one round of ammunition in the chamber and other rounds in the magazine. The handgun was introduced into evi­dence. Also, Curtis testified that the gun was his and that he kept it in his store. This evidence supports the conclusion that the gun was able to be fired, or at the least, that it was designed to be fired. Furthermore, the trial court had the opportunity to view the gun. A trier of fact may consider evidence in light of his observations and experiences and is entided to draw reasonable inferences from both circumstantial and direct evidence. Duncan v. State, 38 Ark. App. 47, 828 S.W.2d 847 (1992). From this evidence, the trial court could reasonably have inferred that the handgun was “a device designed to compel a projectile by action of an explosive.” Thus, substantial evidence supports Curtis’s conviction for simultaneous possession of drugs and a firearm, and we affirm.</p>
+                <p id="b506-6" pgmap="506">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="500" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00250_1"/>
+        <fptr FILEID="jp2_00250_1"/>
+        <fptr FILEID="alto_00250_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.2" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="501" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00251_0"/>
+        <fptr FILEID="jp2_00251_0"/>
+        <fptr FILEID="alto_00251_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.3" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="502" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00251_1"/>
+        <fptr FILEID="jp2_00251_1"/>
+        <fptr FILEID="alto_00251_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.1" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="503" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00252_0"/>
+        <fptr FILEID="jp2_00252_0"/>
+        <fptr FILEID="alto_00252_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.3" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="504" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00252_1"/>
+        <fptr FILEID="jp2_00252_1"/>
+        <fptr FILEID="alto_00252_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.1" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="505" ORDERLABEL="463" TYPE="page">
+        <fptr FILEID="tiff_00253_0"/>
+        <fptr FILEID="jp2_00253_0"/>
+        <fptr FILEID="alto_00253_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.3" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="506" ORDERLABEL="464" TYPE="page">
+        <fptr FILEID="tiff_00253_1"/>
+        <fptr FILEID="jp2_00253_1"/>
+        <fptr FILEID="alto_00253_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.2" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.4" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_505.1" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.6" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-5" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.5" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            <area BEGIN="BL_506.1" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-4" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.4" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.6" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-8" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.7" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.8" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4D" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.9" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_502.10" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-9" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.7" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.4" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.5" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-5" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.3" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-11" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.11" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_503.1" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-7" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.5" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pARC" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.8" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-10" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.9" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-11" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.10" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-6" BETYPE="IDREF" FILEID="casebody_0065"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.4" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000683_0027" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Oliver v. State">Benjamin OLIVER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-988</docketnumber>
+          <citation category="official" type="bluebook">77 Ark. App. 202</citation>
+          <citation category="parallel" type="bluebook">72 S.W.3d 547</citation>
+          <decisiondate>2002-04-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:33:58Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:11:12Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:42:41Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:44:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="7a55dd461b0db8c30f3b53a1ed91058c" CHECKSUMTYPE="MD5" SIZE="19014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="90539bb91664e4a58efce5dea50cdd2a" CHECKSUMTYPE="MD5" SIZE="29794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00113_0.tif"/>
+      </file>
+      <file ID="tiff_00113_1" MIMETYPE="image/tiff" CHECKSUM="576f8b11b3d7b48f344154f447430034" CHECKSUMTYPE="MD5" SIZE="41014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00113_1.tif"/>
+      </file>
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="7013baf6c842214135c69715f650aa08" CHECKSUMTYPE="MD5" SIZE="46864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00114_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="c5cb9da25e43c1660c3f5c335520c206" CHECKSUMTYPE="MD5" SIZE="1877794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00112_1.jp2"/>
+      </file>
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="a83291b115a17f63b17eba69b18accfa" CHECKSUMTYPE="MD5" SIZE="2036784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00113_0.jp2"/>
+      </file>
+      <file ID="jp2_00113_1" MIMETYPE="image/jp2" CHECKSUM="655829c679804edf376a7e7a7a385d40" CHECKSUMTYPE="MD5" SIZE="2424665">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00113_1.jp2"/>
+      </file>
+      <file ID="jp2_00114_0" MIMETYPE="image/jp2" CHECKSUM="f578d19cc582f20d4da179198b99ae06" CHECKSUMTYPE="MD5" SIZE="2500477">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000683_00114_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="5a2bf4f30360cd927a113112c3b1bf03" CHECKSUMTYPE="MD5" SIZE="29472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000683_redacted_ALTO_00112_1.xml"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="3509cc46e72256e804f95f2e70bec3ff" CHECKSUMTYPE="MD5" SIZE="47653">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000683_redacted_ALTO_00113_0.xml"/>
+      </file>
+      <file ID="alto_00113_1" MIMETYPE="text/xml" CHECKSUM="d98731b73b9a3088ef002b5f26e1a720" CHECKSUMTYPE="MD5" SIZE="75934">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000683_redacted_ALTO_00113_1.xml"/>
+      </file>
+      <file ID="alto_00114_0" MIMETYPE="text/xml" CHECKSUM="b97f203e2df1bd9069a4325af166efc4" CHECKSUMTYPE="MD5" SIZE="81828">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000683_redacted_ALTO_00114_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="202" lastpage="205">
+              <court id="b224-8" pgmap="224">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber id="ABO" pgmap="224">CA CR 01-988</docketnumber>
+              <citation id="AlK" pgmap="224">72 S.W.3d 547</citation>
+              <parties id="b224-7" pgmap="224">Benjamin OLIVER v. STATE of Arkansas</parties>
+              <decisiondate id="b224-9" pgmap="224">Opinion delivered April 24, 2002</decisiondate>
+              <judges id="b227-9" pgmap="227">Robbins and Crabtree, JJ., agree.</judges>
+              <attorneys id="b225-11" pgmap="225">Fernando Padilla, Public Defender Conflicts, for appellant.</attorneys>
+              <attorneys id="b225-12" pgmap="225">Mark Pryor, Att’y Gen., by: Lauren Elizabeth Heil, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b225-13" pgmap="225">John E. Jennings, Judge.</author>
+                <p id="ATT" pgmap="225">Benjamin Oliver was charged with first-degree murder in connection with the shooting death of George Dove. Prior to trial, the circuit court conducted a Denno hearing after Oliver moved to suppress a statement he gave to the police. The court ruled that Oliver’s statement was admissible and after a jury trial he was found guilty. Oliver was sentenced to sixty years in prison.</p>
+                <p id="b225-16" pgmap="225">His sole argument on appeal is that the trial court erred in admitting his confession absent the testimony of a material wit­ness. We agree and reverse and remand.</p>
+                <p id="b225-17" pgmap="225">At the suppression hearing, Oliver testified that officers threatened to beat him with a “blackjack” or “billy club” during the course of the questioning. Detective Steve Knowles, who conducted the interview, testified at the suppression hearing. Detective Chuck Ray, who was also present, but took no signifi­cant part in the questioning, was not called as a witness.</p>
+                <p id="b225-18" pgmap="225">
+                   In Smith v. State, 254 Ark. 538, 494 S.W.2d 489 (1973), the supreme court held that:</p>
+                <blockquote id="b226-4" pgmap="226">[Wjhenever the accused offers testimony that his confession was induced by violence, threats, coercion, or offers of reward then the burden is upon the state to produce all material witnesses who were connected with the controverted confession or give adequate explanation for their absence.</blockquote>
+                <p id="b226-5" pgmap="226">The court in Smith relied in part on People v. Armstrong, 282 N.E. 2d 712 (Ill. 1972).</p>
+                <p id="b226-6" pgmap="226">In Griffin v. State, 322 Ark. 206, 909 S.W.2d 625 (1995), the supreme court restated the rule:</p>
+                <blockquote id="b226-7" pgmap="226">The State has the burden to produce all material witnesses who were connected with the controverted confession or give an ade­quate explanation of their absence. (Emphasis in original.)</blockquote>
+                <p id="b226-8" pgmap="226">The court in Griffin noted that since Armstrong the rule had been repudiated in Illinois. See People v. R.D., 155 Ill.2d 122, 613 N.E.2d 706 (1993).</p>
+                <p id="b226-9" pgmap="226">
+                   There is no requirement that the issue of the State’s failure to call all material witnesses be raised in the trial court. Brown v. State, 347 Ark. 44, 60 S.W.3d 422 (2001); Matthews v. State, 261 Ark. 532, 549 S.W.2d 492 (1977).</p>
+                <p id="b226-10" pgmap="226">
+                   The question, then, is whether Detective Ray was a material witness. In Bell v. State, 324 Ark. 258, 920 S.W.2d 821 (1996), the court said:</p>
+                <blockquote id="b226-11" pgmap="226">In determining whether a witness is “material,” this court has stated that there must be some connection between the witness and the alleged acts of coercion or an opportunity to observe the alleged coercion.</blockquote>
+                <p id="b226-12" pgmap="226">In Smith v. State, 256 Ark. 67, 505 S.W.2d 504 (1974), the court said:</p>
+                <blockquote id="b226-13" pgmap="226">The State’s evidence shows that Hale was present when Smith made the statement, and his name was signed as a witness at the end of the statement. It goes without saying that he was a mate­rial witness on the question.</blockquote>
+                <p id="b226-14" pgmap="226(24) 227(36)">The State relies on Hayes v. State, 269 Ark. 47, 598 S.W.2d 91 (1980). In Hayes the State called the two officers who were primarily responsible for conducting the questioning as witnesses at the Denno hearing. The State did not call Lieutenant Moore who was also present. The supreme court held that the State was not required to call Moore.</p>
+                <p id="b227-5" pgmap="227">It is true, as the State contends, that Moore’s participation in the questioning was virtually the same as Detective Ray’s partici­pation in the case at bar. The difference is that in Hayes there was no allegation of coercion or mistreatment, while here Oliver con­tends that he was threatened with physical violence.</p>
+                <p id="b227-6" pgmap="227">In Griffin v. State, 322 Ark. 206, 909 S.W.2d 625 (1995), the court said, “There must be some connection between the alleged acts of coercion or an opportunity to observe the alleged coercion.” Id. at 214 (quoting Bushong v. State, 267 Ark. 113, 589 S.W.2d 559 (1979), cert. denied, 446 U.S. 938 (1980) (emphasis in Griffin)). The court in Griffin found that the absent witnesses (jailers) were not material because “they were not in a position to observe the alleged coercion.”</p>
+                <p id="b227-7" pgmap="227">
+                   In the case at bar Detective Ray, while taking no significant part in the questioning, was in a position to observe the alleged coercion, and therefore it was error not to require that he be called as a witness. We agree with the State, however, that only a “limited remand” is required. Rankin v. State, 329 Ark. 379, 948 S.W.2d 397 (1997); Harris v. State, 271 Ark. 568, 609 S.W.2d 48 (1980); Burnett v. State, 71 Ark. App. 142, 27 S.W.3d 454 (2000); Guinn v. State, 27 Ark. App. 260, 771 S.W.2d 290 (1989). We remand the case to the circuit court for the purpose of conducting a new Denno hearing. If the trial court determines, at the conclu­sion of the hearing, that the statement was not given voluntarily, the court should suppress the statement and order a new trial. If the court determines that the defendant’s statement was volunta­rily given, a new trial will not be required. See e.g., Burnett v. State, supra.</p>
+                <p id="b227-8" pgmap="227">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="224" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.2" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.2" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="226" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00113_1"/>
+        <fptr FILEID="jp2_00113_1"/>
+        <fptr FILEID="alto_00113_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.1" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="227" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jp2_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABO" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.8" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlK" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.9" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.8" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.7" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.9" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-13" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.12" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.11" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.11" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.10" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATT" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.11" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_225.12" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_225.13" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.5" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.7" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.7" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.8" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.4" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.3" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.6" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.5" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-16" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.14" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-17" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.15" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.8" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.9" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-13" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.10" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.4" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.10" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-14" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.13" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_227.1" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.6" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-18" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.16" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000707_0046" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Cox v. State">Terry Joe COX v. STATE of Arkansas</name>
+          <docketnumber>CA CR 05-336</docketnumber>
+          <citation category="official" type="bluebook">93 Ark. App. 419</citation>
+          <citation category="parallel" type="bluebook">220 S.W.3d 231</citation>
+          <decisiondate>2005-12-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T23:23:45Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:35:15Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:14Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:12:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="ac23812b035f2d35fcadf74cfe6da35a" CHECKSUMTYPE="MD5" SIZE="15038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00223_0.tif"/>
+      </file>
+      <file ID="tiff_00223_1" MIMETYPE="image/tiff" CHECKSUM="d1ccaaa313614c339923e637d9566802" CHECKSUMTYPE="MD5" SIZE="59030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00223_1.tif"/>
+      </file>
+      <file ID="tiff_00224_0" MIMETYPE="image/tiff" CHECKSUM="7c921851b769989919b99271b9009109" CHECKSUMTYPE="MD5" SIZE="61934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00224_0.tif"/>
+      </file>
+      <file ID="tiff_00224_1" MIMETYPE="image/tiff" CHECKSUM="83bc3f0f4afe2592aa4b7f22c7451ab6" CHECKSUMTYPE="MD5" SIZE="59758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00224_1.tif"/>
+      </file>
+      <file ID="tiff_00225_0" MIMETYPE="image/tiff" CHECKSUM="1c9f8fbbb95a4761015d3a107294a9a0" CHECKSUMTYPE="MD5" SIZE="40448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00225_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00223_0" MIMETYPE="image/jp2" CHECKSUM="ce4fb20b4505c662c6a63fda4c6dc1b3" CHECKSUMTYPE="MD5" SIZE="1660093">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00223_0.jp2"/>
+      </file>
+      <file ID="jp2_00223_1" MIMETYPE="image/jp2" CHECKSUM="a4c3a330c2bd480a631effa1cd6ce649" CHECKSUMTYPE="MD5" SIZE="2587192">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00223_1.jp2"/>
+      </file>
+      <file ID="jp2_00224_0" MIMETYPE="image/jp2" CHECKSUM="a2d77bb23065a0b5bf1db375f67e091b" CHECKSUMTYPE="MD5" SIZE="2633281">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00224_0.jp2"/>
+      </file>
+      <file ID="jp2_00224_1" MIMETYPE="image/jp2" CHECKSUM="17905d462d97e7d773e5cbe1f96b1096" CHECKSUMTYPE="MD5" SIZE="2538454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00224_1.jp2"/>
+      </file>
+      <file ID="jp2_00225_0" MIMETYPE="image/jp2" CHECKSUM="4b382787de2208baa8cee651373b0540" CHECKSUMTYPE="MD5" SIZE="2455254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00225_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00223_0" MIMETYPE="text/xml" CHECKSUM="ec05a9044302f95d6b3bef65814d7329" CHECKSUMTYPE="MD5" SIZE="21510">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00223_0.xml"/>
+      </file>
+      <file ID="alto_00223_1" MIMETYPE="text/xml" CHECKSUM="4719a41f096a265ce408eeb2a8422764" CHECKSUMTYPE="MD5" SIZE="101978">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00223_1.xml"/>
+      </file>
+      <file ID="alto_00224_0" MIMETYPE="text/xml" CHECKSUM="449aacfdf5fd3c37e8290239b22743da" CHECKSUMTYPE="MD5" SIZE="100663">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00224_0.xml"/>
+      </file>
+      <file ID="alto_00224_1" MIMETYPE="text/xml" CHECKSUM="8d740794e20a427b938f5487a91e7d52" CHECKSUMTYPE="MD5" SIZE="115177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00224_1.xml"/>
+      </file>
+      <file ID="alto_00225_0" MIMETYPE="text/xml" CHECKSUM="761dba05fb9b449f6867f9a3cb024c04" CHECKSUMTYPE="MD5" SIZE="64417">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00225_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="419" lastpage="423">
+              <court id="b445-4" pgmap="445">Court of Appeals of Arkansas</court>
+              <docketnumber id="A6Y" pgmap="445">CA CR 05-336</docketnumber>
+              <citation id="AQ6" pgmap="445">220 S.W.3d 231</citation>
+              <parties id="b445-3" pgmap="445">Terry Joe COX v. STATE of Arkansas</parties>
+              <decisiondate id="An7" pgmap="445">Opinion delivered December 14, 2005</decisiondate>
+              <judges id="b449-8" pgmap="449">Pittman, C.J., and Gladwin, J., agree.</judges>
+              <attorneys id="b445-13" pgmap="445">Gregory Crain, for appellant.</attorneys>
+              <attorneys id="b445-14" pgmap="445">Mike Beebe, Arkansas Attorney General, by: Nicana Corinne Sherman, Assistant Attorney General, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b445-15" pgmap="445">Josephine Linker Hart, J­udge.</author>
+                <p id="AqGC" pgmap="445(22) 446(105)">A jury found appellant, udge. crime of rape for engaging in sexual intercourse or deviate sexual activity with a person who was less than fourteen years old, and he was sentenced to fifteen years’ imprisonment. On appeal, he argues that (1) the evidence was insufficient to support his conviction; (2) the circuit court erred in allowing a witness for the State, Carmen Neighbors, to testify that the victim was telling the truth during an interview with Neighbors; (3) the circuit court erred in excusing Neighbors after she testified for the State. While we conclude that the evidence was sufficient to support his conviction, we reverse and remand for new trial, because we also hold that the court erred in allowing Neighbors to testify regarding the victim’s credibility.</p>
+                <p id="b446-5" pgmap="446">Before addressing appellant’s arguments asserting trial errors, we must first address his challenge to the sufficiency of the evidence. See, e.g., Maples v. State, 16 Ark. App. 175, 698 S.W.2d 807 (1985). A person commits the crime of rape if he “engages in sexual intercourse or deviate sexual activity with another person . . . [w]ho is less that fourteen (14) years of age.” Ark. Code Ann. § 5-14-103(a)(1)(C)(i) (Supp. 2005). “Deviate sexual activity” is defined in pertinent part as “any act of sexual gratification involv­ing” either the “penetration, however slight, of the anus or mouth of one person by the penis of another person” or the “penetration, however slight, of the labia majora or anus of one person by any body member or foreign instrument manipulated by another person.” Ark. Code Ann. § 5-14-101(1) (Supp. 2005). In a chal­lenge to the sufficiency of the evidence, we review the evidence in the light most favorable to the State, considering only that evi­dence that supports the verdict, and we determine whether the verdict is supported by substantial evidence, which is evidence of sufficient force and character to compel reasonable minds to reach a conclusion and pass beyond suspicion and conjecture. Wilson v. State, 320 Ark. 707, 898 S.W.2d 469 (1995).</p>
+                <p id="b446-6" pgmap="446">
+                   At trial, the nine-year-old victim testified that her step-father, appellant, touched her “in a bad way” on ten occa­sions beginning when she was six. She stated that on four occasions he made her touch his “weeny” and “[g]o up and down on it.” She further testified that appellant made her “[l]ick his private,” and that this happened “a bunch,” which was more than twice. Also, she stated that appellant made her “suck his weeny, and lick his weeny.” According to her, when he made her put her mouth on his “private,” it would “[t]aste salty.”</p>
+                <p id="b446-7" pgmap="446(20) 447(87)">As he did in his motions for a directed verdict, appellant argues that, because the victim’s testimony was inconsistent in certain respects, the evidence was insufficient to support his conviction for rape. We note, however, that the uncorroborated testimony of a rape victim is sufficient to support the verdict, and matters of the credibility of witnesses and conflicts in testimony are issues for the trier of fact to decide. Id. We conclude that there was substantial evidence that appellant committed the crime of rape, as the victim’s testimony established that appellant engaged in deviate sexual activity with her and that she was less than fourteen years old.</p>
+                <p id="b447-5" pgmap="447">Appellant next argues that the circuit court erred in allowing a witness for the State, Carmen Neighbors, to testify that the victim was telling the truth during an interview with Neighbors. In response, the State argues that the circuit court, in its discretion, properly admitted Neighbors’s testimony because it was about the interview and Neighbors’s role in the investigation, and the jury was still required to make its own determination regarding the victim’s credibility. Further, the State argues that admission of Neighbors’s testimony was permissible because appellant attacked the credibility of the victim in his opening statement. We, how­ever, conclude that the court erred when it allowed Neighbors to testify that the victim’s statement to Neighbors was credible. Accordingly, we reverse and remand for a new trial.</p>
+                <p id="b447-6" pgmap="447(211) 448(34)">Neighbors, the Director of the Mercy Child Advocacy Center at St. Joseph Hospital in Hot Springs, testified for the State regarding the interview she conducted with the victim. She stated that she frequently gave expert consultation on child-abuse assess­ments and was a licensed social worker and a certified forensic interviewer. At the request of the State, the court qualified Neighbors as a certified forensic examiner. The State asked Neigh­bors if, “[bjased on your interviews in the past and your interviews in this particular case, do you have an opinion as to whether this child is telling the truth?” Appellant objected, stating that “there’s no way she can know about speculating whether this child is lying or not. He’s trying to bolster her testimony.... He’s also giving character evidence. . . .” The court overruled appellant’s objec­tions. Neighbors testified that she always gives a summary and recommendation in her report and speaks about the credibility of the child. She stated, “I believe the interview tape that the jury has seen to be highly credible.” She believed that it was credible because of the victim’s inappropriate sexual knowledge, of which she then gave examples. She also noted the victim’s body language, which showed that the victim was scared, anxious, nervous, embarrassed, and ashamed. Neighbors concluded, “I believe her to be credible, as credible as any child I’ve believed to be credible.” Later, she testified, “I don’t have a single doubt about her credibility. ...”</p>
+                <p id="b448-5" pgmap="448">
+                   Our supreme court has specifically stated that “it is error for the court to permit an expert, in effect, to testify that the victim of a crime is telling the truth.” Hill v. State, 337 Ark. 219, 224, 988 S.W.2d 487, 490 (1999) (citing Logan v. State, 299 Ark. 255, 773 S.W.2d 419 (1989); Johnson v. State, 292 Ark. 632, 732 S.W.2d 817 (1987); Russell v. State, 289 Ark. 533, 534, 712 S.W.2d 916 (1986)).<footnotemark>1</footnotemark> Here, Neighbors testified repeatedly about the victim’s high credibility. We are compelled to conclude that the court committed error in allowing Neighbors to testify regarding the victim’s credibility.<footnotemark>2</footnotemark>
+                </p>
+                <p id="b448-6" pgmap="448(60) 449(80)">In reaching our holding, we are mindful of the State’s alternative rationale for affirming on this point. Citing Rule 608(a) of the Arkansas Rules of Evidence, the State argues that admission of Neighbors’s testimony was permissible because appellant at­tacked the credibility of the victim in his opening statement. We observe, however, that Rule 608(a) allows the credibility of a witness to be “supported by evidence in the form of opinion or reputation,” but “the evidence may refer only to character for truthfulness or untruthfulness.” Here, Neighbors’s testimony did not fall within the strictures of Rule 608(a), as it was not limited to the victim’s “character for truthfulness.” See Collins v. State, 11 Ark. App. 282, 669 S.W.2d 505 (1984) (holding that the circuit court properly allowed the victim’s schoolteacher to testify as to the victim’s general reputation for truthfulness).</p>
+                <p id="b449-5" pgmap="449">Finally, we cannot say that the evidence was so overwhelm­ing and the error so slight so as to constitute harmless error as in Russell. The evidence supporting appellant’s conviction consisted only of the victim’s testimony at trial and her statements to third parties, and the outcome of the trial necessarily turned upon the victim’s credibility. Thus, we are compelled to reverse and remand for new trial.</p>
+                <p id="b449-6" pgmap="449">Appellant also argues that the court erred in excusing Neigh­bors as a witness after she testified for the State, as he also subpoenaed Neighbors. He states that, while testifying about drawings she made during her interview with Neighbors, the victim identified certain marks on the drawings as bug bites, and he argues that, because the court erroneously excused Neighbors, he could not recall Neighbors to the stand to testify that the victim never said anything to Neighbors about bug bites. Because on retrial appellant will have the opportunity to examine Neighbors on this matter, we do not address his argument on appeal, as the asserted error is not likely to recur.</p>
+                <p id="b449-7" pgmap="449">Reversed and remanded.</p>
+                <footnote label="1">
+                  <p id="b448-7" pgmap="448">1 In Logan, our supreme court reversed where it concluded that answers to hypotheti­cal questions resulted in the doctors informing the jury that in their opinion the victim was telling the truth. InJohnson, the court stated that a doctor improperly conveyed to the jury his opinion that the victim was telling truth when the doctor opined that an act had occurred that was detrimental to the victim and that opinion was based only on the victim’s statements to the doctor. And in Russell, the court held that a psychologist improperly testified that a victim’s statements were consistent with a child who had suffered sexual abuse.</p>
+                </footnote>
+                <footnote label="2">
+                  <p id="b448-8" pgmap="448">2 We note that in Hill, a Department of Human Services caseworker testified regarding the criteria used by the Department in evaluating a child’s statement when sexual abuse had been alleged, and the court held that the testimony was “valid evidence of the Department’s procedures in general, and, in specific, constituted evidence of the procedures followed in this case by the Department in its investigation.” Hill, 337 Ark. at 224-25, 988 S.W.2d at 491. The court concluded that the caseworker “testified as a fact witness about the Department’s guidelines employed in this and similar cases to determine whether a child’s allegations warrant an investigation.” Hill, 337 Ark. at 225, 988 S.W.2d at 491. The court further noted that upon Hill’s objection, the circuit court responded that “the jury was entitled to understand the State’s interview and investigation techniques,” and that “the witness would have to stop short of bolstering the children’s testimony.” Id. The case at bar, however, is distinguishable from Hill. Here, rather than Neighbors only providing information regarding the guidelines employed to determine whether the victim’s allegations warranted an inves­tigation, she instead provided bolstering testimony.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="445" ORDERLABEL="419" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jp2_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.2" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="446" ORDERLABEL="420" TYPE="page">
+        <fptr FILEID="tiff_00223_1"/>
+        <fptr FILEID="jp2_00223_1"/>
+        <fptr FILEID="alto_00223_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_446.2" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="447" ORDERLABEL="421" TYPE="page">
+        <fptr FILEID="tiff_00224_0"/>
+        <fptr FILEID="jp2_00224_0"/>
+        <fptr FILEID="alto_00224_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_447.3" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="448" ORDERLABEL="422" TYPE="page">
+        <fptr FILEID="tiff_00224_1"/>
+        <fptr FILEID="jp2_00224_1"/>
+        <fptr FILEID="alto_00224_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_448.2" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="449" ORDERLABEL="423" TYPE="page">
+        <fptr FILEID="tiff_00225_0"/>
+        <fptr FILEID="jp2_00225_0"/>
+        <fptr FILEID="alto_00225_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_449.3" BETYPE="IDREF" FILEID="alto_00225_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-15" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.15" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.7" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.6" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.4" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.4" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.5" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b446-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_446.6" BETYPE="IDREF" FILEID="alto_00223_1"/>
+            <area BEGIN="BL_447.1" BETYPE="IDREF" FILEID="alto_00224_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.7" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.6" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.3" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b447-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_447.5" BETYPE="IDREF" FILEID="alto_00224_0"/>
+            <area BEGIN="BL_448.1" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6Y" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.4" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqGC" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.16" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_445.17" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_446.1" BETYPE="IDREF" FILEID="alto_00223_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.6" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.5" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b449-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_449.4" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.5" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.7" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.5" BETYPE="IDREF" FILEID="alto_00224_1"/>
+            <area BEGIN="BL_449.1" BETYPE="IDREF" FILEID="alto_00225_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-14" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.14" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b448-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_448.4" BETYPE="IDREF" FILEID="alto_00224_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-13" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.13" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000720_0062" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Whitfield v. State">Ben WHITFIELD v. STATE of Arkansas</name>
+          <docketnumber>CA CR 83-13</docketnumber>
+          <citation category="official" type="bluebook">8 Ark. App. 329</citation>
+          <citation category="parallel" type="bluebook">652 S.W.2d 42</citation>
+          <decisiondate>1983-06-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T18:14:52Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:51:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:33:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:35:03Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="5db5af5e7b79f0e4a1312772b37ad224" CHECKSUMTYPE="MD5" SIZE="24852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="470eb3cb721ad622c383320581efb6a1" CHECKSUMTYPE="MD5" SIZE="10448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="cd5b14633d2dbbc175dc6ae801226b4e" CHECKSUMTYPE="MD5" SIZE="54538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00182_0.tif"/>
+      </file>
+      <file ID="tiff_00182_1" MIMETYPE="image/tiff" CHECKSUM="bae5dadea8f153263e1307a4010b01ac" CHECKSUMTYPE="MD5" SIZE="52438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00182_1.tif"/>
+      </file>
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="05ebd918fc33c318a68a90fcb29c57d4" CHECKSUMTYPE="MD5" SIZE="47306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="24ea19901f6b6830898e84bfa0c3a835" CHECKSUMTYPE="MD5" SIZE="52632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="6fd7e025d01371f4bfe98c1fd497786e" CHECKSUMTYPE="MD5" SIZE="53270">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00184_0.tif"/>
+      </file>
+      <file ID="tiff_00184_1" MIMETYPE="image/tiff" CHECKSUM="633cad7850333d3661cfc80871365b86" CHECKSUMTYPE="MD5" SIZE="26842">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00184_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00181_0" MIMETYPE="image/jp2" CHECKSUM="834f9434099f97da137d5d52d4ccfb0d" CHECKSUMTYPE="MD5" SIZE="1969035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00181_0.jp2"/>
+      </file>
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="c444d050fb8fcd96d7ac076706b0eef9" CHECKSUMTYPE="MD5" SIZE="1303927">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="d7c9c571e7511c7a19164c120490b68e" CHECKSUMTYPE="MD5" SIZE="3039565">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00182_0.jp2"/>
+      </file>
+      <file ID="jp2_00182_1" MIMETYPE="image/jp2" CHECKSUM="56ef27f7a54b2487204d52a86c1400e7" CHECKSUMTYPE="MD5" SIZE="2570179">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00182_1.jp2"/>
+      </file>
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="4bb5868461834c2fc8ca8ea2218b9d31" CHECKSUMTYPE="MD5" SIZE="2581165">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="ffcdad1af2504a4438d70e07ce331569" CHECKSUMTYPE="MD5" SIZE="2590288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="9de91a330271106f59303255059a41a0" CHECKSUMTYPE="MD5" SIZE="2561090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00184_0.jp2"/>
+      </file>
+      <file ID="jp2_00184_1" MIMETYPE="image/jp2" CHECKSUM="1adbce74e1302a618db1bdf34ceb9782" CHECKSUMTYPE="MD5" SIZE="2010327">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000720_00184_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00181_0" MIMETYPE="text/xml" CHECKSUM="f16381be0f7814cf2ad4eac454a674dc" CHECKSUMTYPE="MD5" SIZE="38971">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00181_0.xml"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="bbacbe7e3e94b2afde03e520291c9207" CHECKSUMTYPE="MD5" SIZE="13222">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="2cb00d7339ac0a554375139306550cf4" CHECKSUMTYPE="MD5" SIZE="92095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00182_0.xml"/>
+      </file>
+      <file ID="alto_00182_1" MIMETYPE="text/xml" CHECKSUM="2b1368c90717d4b21db9ed2dc38a018f" CHECKSUMTYPE="MD5" SIZE="89177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00182_1.xml"/>
+      </file>
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="2f88cdaaadb739e207d2fd3ead7429c4" CHECKSUMTYPE="MD5" SIZE="75939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="5df6f6fc394495db67a9f1cd22f728b5" CHECKSUMTYPE="MD5" SIZE="87167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="98bb0dc179ad4f2ed53a0eec370b2ff2" CHECKSUMTYPE="MD5" SIZE="83532">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00184_0.xml"/>
+      </file>
+      <file ID="alto_00184_1" MIMETYPE="text/xml" CHECKSUM="c86c392e4a1b4de07b3e6a0392328369" CHECKSUMTYPE="MD5" SIZE="42411">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000720_redacted_ALTO_00184_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0062" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="336" firstpage="329">
+              <court id="b361-9" pgmap="361">Court of Appeals of Arkansas</court>
+              <docketnumber id="b361-8" pgmap="361">CA CR 83-13</docketnumber>
+              <citation id="A8u" pgmap="361">652 S.W.2d 42</citation>
+              <parties id="b361-7" pgmap="361">Ben WHITFIELD v. STATE of Arkansas</parties>
+              <decisiondate id="ArtE" pgmap="361">Opinion delivered June 8, 1983</decisiondate>
+              <attorneys id="b362-13" pgmap="362">William R. Simpson, Jr., Public Defender, by: Carolyn P. Baker, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys id="b362-14" pgmap="362">Steve Clark, Atty. Gen., by: Leslie M. Powell, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b362-15" pgmap="362">Tom Glaze, Judge.</author>
+                <p id="AO2" pgmap="362(13) 363(151)">The defendant was charged by information on September 17, 1982, with aggravated rob­bery in violation of Ark. Stat. Ann. § 41-2102 (Supp. 1981). The State alleged that on August 5, 1982, the defendant, armed with a knife and in the commission of a theft, threatened Dave Cullum, owner of the High Street Discount Store. Before trial, defendant properly moved to suppress all identifications made of him by the two witnesses, arguing essentially the same points to the trial court that he argues on appeal. Defendant was tried by the court on October 19, found guilty as charged, and sentenced to thirty years in the Arkansas Department of Correction. On appeal, defendant alleges two errors in connection with the in-court identifi­cations made by the two witnesses. Defendant contends the identifications were inadmissible: (1) as the product of an illegal search of defendant’s automobile, and (2) as a result of overly suggestive pre-trial procedures. After a careful con­sideration of defendant’s contentions, we affirm.</p>
+                <p id="b363-4" pgmap="363">The two witnesses were working in their store on August 5, 1982, when a man entered and began selecting men’s and women’s clothing. One owner, Dave Cullum, assisted the man for fifteen to twenty minutes. Cullum’s sister and co-owner of the store, Ms. Taylor, observed the man from the office of the store, where she was working at the time. In addition, she observed him when he pulled a knife, scuffled with her brother and ordered her to give him money and to sack up the merchandise he had selected. After the man left the store and the owners notified the police that the robbery had occurred, Ms. Taylor took her brother to the hospital for treatment of a knife wound he had received to his hand.</p>
+                <p id="b363-5" pgmap="363(113) 364(23)">About two hours after the robbery, Bob Spurgers called the police to report that a car was parked in an employee space on a lot between his and the robbery victims’ stores. The police entered the unlocked car and found defendant’s driver’s license in a tape case. Spurgers phoned Cullum’s home and requested that he and Ms. Taylor return to the store to view the picture on the driver’s license. From the driver’s license photo, both Cullum and Taylor identified the defendant as the man who had robbed them earlier that afternoon. On August 26, the two witnesses viewed a line-up of five or six men, from which each selected the defendant as the robber. The final identification was made October 19 at trial, when both Cullum and Taylor again identified the defendant as the robber.</p>
+                <p id="b364-4" pgmap="364">The defendant’s first argument on appeal focuses on the police entry into his parked car on the afternoon of the robbery. The defendant claims that his car was parked on that lot because he had car trouble, so he left his car and walked to a relative’s house, where he spent the rest of the afternoon and night. Two witnesses testified for the defense in support of that alibi. Defendant claims that he never would have been connected with the crime had his car not been parked on the lot and had the police not entered it illegally and obtained his driver’s license. He argues that in entering his car without a warrant and with neither exigent circumstances nor probable cause to enter and search without a warrant, the police violated his Fourth Amend­ment rights to be free of unreasonable searches and seizures. He argues that because the initial entry into his parked car was illegal, all fruits obtained from the entry, i.e., the driver’s license and all subsequent identifications of him which resulted, were inadmissible under the “fruit of the poisonous tree” doctrine. Wong Sun v. United States, 371 U.S. 471 (1963).</p>
+                <p id="b364-5" pgmap="364">When the defendant moved before trial to suppress all products of the allegedly illegal search of his car, the trial court granted that motion, pointing out that the question was “moot” because the State did not intend to introduce into evidence anything that was seized from the car. Defend­ant contends, however, that the infringement of his consti­tutional rights occurred in permitting the State to use the “fruits” of the illegal search to further the identification of him. He maintains that the initial identification and each subsequent identification were tainted fruits of the illegal search. We find, as did the trial court, that United States v. Crews, 445 U.S. 463 (1980), is dispositive of this issue.</p>
+                <p id="b364-6" pgmap="364(42) 365(104)">In Crews, the police picked up a suspected robber on a pretext in order to obtain a photograph of him to show to robbery victims. The photo was included in a photo array, from which each victim identified the defendant as her assailant. Next, each victim identified the defendant in a court-ordered line-up. Last, each victim identified the defendant at trial. The defendant was convicted. The District of Columbia Court of Appeals reversed the con­viction, finding that the in-court identification testimony should have been excluded as a product of a violation of the defendant’s Fourth Amendment rights. The United States Supreme Court reversed and held that the victims’ in-court identifications of the defendant were admissible because both (1) the police’s knowledge of defendant’s identity, and (2) the victims’ independent recollections of him antedated the admittedly unlawful arrest and were therefore untainted by the constitutional violation.</p>
+                <p id="b365-4" pgmap="365">The Court in Crews used the following analysis in determining the admissibility of the in-court identification in light of the illegality of defendant’s arrest which resulted in the police’s obtaining a photo of defendant to show to victims:</p>
+                <blockquote id="b365-5" pgmap="365">A victim’s in-court identification of the accused has three distinct elements. First, the victim is present at trial to testify as to what transpired between her and the offender, and to identify the defendant as the culprit. Second, the victim possesses knowledge of and the ability to reconstruct the prior criminal occurrence and to identify the defendant from her observations of him at the time of the crime. And third, the defendant is also physically present in the courtroom, so that the victim can observe him and compare his appearance to that of the offender. In the present case, it is our conclusion that none of these three elements “has been come at by exploitation” of the violation of the defendant’s Fourth Amendment rights. Wong Sun, supra, at 488, 9 L.Ed. 441, 83 S. Ct. 407.</blockquote>
+                <p id="b365-6" pgmap="365">Id. at 471.</p>
+                <p id="b365-7" pgmap="365">We have applied the above three elements to the facts here to determine whether the in-court identifications made by the two witnesses must be stricken under the “fruit of the poisonous tree” doctrine of Wong Sun.</p>
+                <p id="b366-3" pgmap="366">First, the robbery victims were present at trial to testify and to identify the defendant. No police action was alleged in securing their presence. The identity of the victims was known prior to any police misconduct; their presence in court is not alleged to be the result of any Fourth Amend­ment violation.</p>
+                <p id="b366-4" pgmap="366">Second, the victims had the ability to identify the defendant at trial based upon their independent recollec­tions of the events which occurred on the day of the robbery. The defendant contends that Crews does not apply because in Crews the witnesses gave excellent descriptions of their assailant whereas here the victims gave only the approx­imate age, height and weight of the defendant prior to identifying his driver’s license photo, and that “[t]heir description of the assailant would have fit thousands of black males in the area.” However, the facts support the witnesses’ ability to'identify the defendant independently of the intervening identification of the driver’s license photo. The robber remained in the store for fifteen to twenty minutes prior to the robbery itself. Mr. Cullum had oppor­tunity to observe his assailant at close range while he moved throughout the store making his selections and when Cullum totalled prices just prior to their scuffle. Ms. Taylor testified that she was cognizant of the man’s presence as she moved between the office and the store itself to assist other customers. In addition, Ms. Taylor observed the robber at close range at the time he identified his intentions and began making demands for money and scuffling with Mr. Cullum. Lastly, although the police report indicated that she gave a general description of the assailant, Mr. Taylor testified at trial that she had described the man further as having “a light complexion, a slim face, and his hair in braids.” We find the length of time the victims had to observe their assailant and the conditions of that period of observation persuasive. See Thorne v. State, 274 Ark. 102, 622 S.W.2d 178 (1981).</p>
+                <p id="b366-5" pgmap="366(37) 367(77)">Third, the defendant was physically present in the courtroom for the victims to observe him and to compare his appearance with that of their assailant. Although the Court in Crews found it unnecessary to decide “[wjhether re­spondent’s person should be considered evidence, and therefore a possible ‘fruit’ of police misconduct,” the Court did find that “the illegality of his detention cannot deprive the Government of the opportunity to prove his guilt through the introduction of evidence wholly untainted by the police misconduct.” Crews at 475. The Court pointed out that although illegally obtained evidence must be excluded from trial, the remedy does not extend to barring the prosecution altogether. Id. at 474, n.20.</p>
+                <p id="b367-4" pgmap="367">The defendant’s second point for reversal is that his due process rights were violated because identifications made by the victims were tainted by suggestive pre-trial procedures, in this case, the showing of the driver’s license photo and the line-up. Defendant correctly points out that the inherent unreliability of identification testimony necessitates view­ing “the totality of the circumstances” to ascertain whether such identification is reliable. Manson v. Brathwaite, 432 U.S. 98 (1977); Fountain v. State, 273 Ark. 457, 620 S.W.2d 936 (1981). See also Stovall v. Denno, 388 U.S. 293 (1967). In Manson v. Brathwaite, the Supreme Court set out factors to be considered in evaluating challenged identification tes­timony: (1) the witness’s opportunity to observe the person at the time of the crime, (2) the witness’s degree of attention, (3) the accuracy of the witness’s prior description of the person, (4) the level of certainty demonstrated by the witness at confrontation, and (5) the length of time between the crime and confrontation. Manson v. Brathwaite at 114; Neil v. Biggers, 409 U.S. 188, 199 (1972).</p>
+                <p id="b367-5" pgmap="367">Defendant contends that the pre-trial identification procedures in this case were so suggestive that they created a substantial possibility of irreparable misidentification. He points to the time between the crime and (1) the viewing of the driver’s license photo (two hours) and (2) the line-up (twenty-one days). In addition, he contends that the descrip­tions given by the witnesses were so general that they were almost worthless.</p>
+                <p id="b367-6" pgmap="367(31) 368(133)">Viewing the totality of the circumstances in light of the factors set out by the Supreme Court, we find that the decision of the trial court is not clearly erroneous. Both witnesses had fifteen to twenty minutes to observe the defendant in the daylight hours at the time of the crime. Neither witness’s description was shown to be inaccurate; neither witness misidentified anyone. Both victims ex­pressed certainty that the defendant committed the crime at all three steps of the identification procedures: when view­ing the driver’s license photo, the line-up and the in-court identification. At trial, each victim testified that his or her in-court identification was based upon what occurred at the store on the day of the crime. At all stages, the victims never wavered in their certainty about the defendant’s identity. See Kaestel v. State, 274 Ark. 550, 626 S.W.2d 940 (1982). We find that the pre-trial procedures were not so unnecessarily suggestive that they violated the defendant’s due process rights.</p>
+                <p id="b368-4" pgmap="368">We affirm.</p>
+                <p id="b368-5" pgmap="368">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="361" ORDERLABEL="329" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jp2_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="330" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="331" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="364" ORDERLABEL="332" TYPE="page">
+        <fptr FILEID="tiff_00182_1"/>
+        <fptr FILEID="jp2_00182_1"/>
+        <fptr FILEID="alto_00182_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.2" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="365" ORDERLABEL="333" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="334" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.1" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="335" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="368" ORDERLABEL="336" TYPE="page">
+        <fptr FILEID="tiff_00184_1"/>
+        <fptr FILEID="jp2_00184_1"/>
+        <fptr FILEID="alto_00184_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.2" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.6" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            <area BEGIN="BL_368.1" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.5" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_364.1" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-9" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.11" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-8" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.9" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.6" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArtE" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.12" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.8" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.4" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-7" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.7" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO2" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.13" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_362.14" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.1" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-13" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.10" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8u" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.10" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-14" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.11" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-15" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.12" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.4" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-3" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.3" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.5" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-6" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.6" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            <area BEGIN="BL_365.1" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.5" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-4" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.4" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-5" BETYPE="IDREF" FILEID="casebody_0062"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.5" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

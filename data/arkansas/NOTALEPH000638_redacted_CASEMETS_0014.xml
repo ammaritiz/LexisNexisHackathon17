@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000638_0014" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Eagle Safe Corp. v. Egan">EAGLE SAFE CORPORATION v. John EGAN</name>
+          <docketnumber>CA 92-42</docketnumber>
+          <citation category="official" type="bluebook">39 Ark. App. 79</citation>
+          <citation category="parallel" type="bluebook">842 S.W.2d 438</citation>
+          <decisiondate>1992-10-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:24:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:59:13Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:19:22Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:19:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="f248511d15af0b4ff5c013338a1512c6" CHECKSUMTYPE="MD5" SIZE="13784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="2c5cc101a8e990d37980fcfe10feaeb5" CHECKSUMTYPE="MD5" SIZE="27110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="aade55638298bb1ff02442899778fcd0" CHECKSUMTYPE="MD5" SIZE="55734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="2e7785d265e9a1f425dff63da4c1b641" CHECKSUMTYPE="MD5" SIZE="56044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="90b933ec9538738a68edfd30037d86b1" CHECKSUMTYPE="MD5" SIZE="34692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00054_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="cb906639c1bfc166bc38576d4c6caf8c" CHECKSUMTYPE="MD5" SIZE="1610561">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="adb1130d337785e4962a12ca7e0848bb" CHECKSUMTYPE="MD5" SIZE="1849057">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="1f1b0dcd9ecb3a2b774b2811b6126339" CHECKSUMTYPE="MD5" SIZE="2622337">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="ff57659dec8ca07533eeff61cce8c184" CHECKSUMTYPE="MD5" SIZE="2694100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="fa5b6c84d73504f6d9af5f7f7a956d7e" CHECKSUMTYPE="MD5" SIZE="2428130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000638_00054_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="6f2a0724ad7828eaa74370a82ad3e695" CHECKSUMTYPE="MD5" SIZE="21215">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000638_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="389f50ae7b1a0807c5deb6edb282902a" CHECKSUMTYPE="MD5" SIZE="41838">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000638_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="5335234b737ee706f0603c4660ed0ec4" CHECKSUMTYPE="MD5" SIZE="92362">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000638_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="cdf424d62bd728c55258f1dfbaedf2c5" CHECKSUMTYPE="MD5" SIZE="87072">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000638_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="0291868114764e68675388d28f289326" CHECKSUMTYPE="MD5" SIZE="57604">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000638_redacted_ALTO_00054_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0014" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="83" firstpage="79">
+              <court id="b103-7" pgmap="103">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b103-6" pgmap="103">CA 92-42</docketnumber>
+              <citation id="AT6" pgmap="103">842 S.W.2d 438</citation>
+              <parties id="b103-5" pgmap="103">EAGLE SAFE CORPORATION v. John EGAN</parties>
+              <decisiondate id="b103-8" pgmap="103">Opinion delivered October 7, 1992</decisiondate>
+              <otherdate id="Anp" pgmap="103">[Rehearing denied November 12, 1992.]</otherdate>
+              <judges id="b107-8" pgmap="107">Cooper and Rogers, JJ., agree.</judges>
+              <attorneys id="b104-12" pgmap="104">Roy &amp; Lambert, by: John D. Copeland, for appellant.</attorneys>
+              <attorneys id="b104-13" pgmap="104">Jennifer Morris Horan, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b104-14" pgmap="104">George K. Cracraft, Chief Judge.</author>
+                <p id="AdU" pgmap="104">Eagle Safe Corpora­tion appeals from an order of the Workers’ Compensation Commission awarding death benefits to the minor child of John Egan, deceased. Appellant contends that the findings and deci­sion of the Commission are not supported by substantial evidence. We find no error and affirm.</p>
+                <p id="b104-15" pgmap="104(101) 105(46)">
+                   When the sufficiency of the evidence is challenged in workers’ compensation cases, this court is required to review the evidence in the light most favorable to the findings of the Commission and give the testimony its strongest probative value in favor of those findings. The Commission’s decision will be upheld if supported by substantial evidence. Substantial evidence has been defined as more than a mere scintilla, and means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion; it is evidence of such force and character that it will, with reasonable and material certainty and precision, compel a conclusion one way or another. The issue is not whether the evidence would support a finding contrary to the one made, but whether it supports the finding made by the Commission. College Club Dairy v. Carr, 25 Ark. App. 215, 756 S.W.2d 128 (1988).</p>
+                <p id="b105-4" pgmap="105">When the evidence is viewed in this light, it discloses that on Friday, March 6, 1987, John Egan sustained a painful injury to his right foot. Dr. Leopold H. Garbutt testified; that, although Egan was in great pain, he could not perform corrective surgery on the date of the injury because of the swelling. The surgery was not scheduled, therefore, until the following Monday morning. The doctor prescribed Empirin #4, a pain killer containing codeine, and instructed Egan to take one capsule every four hours. Although Egan was cautioned against ingesting any alcohol or other drugs while taking the Empirin, he was not advised of the danger of taking more than four capsules a day. There was evidence that he was in intense pain over the weekend. He was unable to sleep, and the pain seemed to be worse on Sunday. On Monday morning, Egan could not be awakened. He was taken to the hospital and subsequently pronounced dead. There was testimony that Egan had not been depressed or otherwise unhappy, and the witnesses knew of no reason why he would have taken his own life. Although the number of pills in the prescription bottle was subject to question, it was clear from the evidence that Egan had ingested a number significantly in excess of the number that should have been taken had the doctor’s instructions been followed.</p>
+                <p id="b105-5" pgmap="105">An autopsy was performed by Dr. Fahmy Malak, who testified without objection that “in view of the presence of the injury to the right foot with fracture of the metatarsal bone, in my opinion, the pain killer Empirin #4 accidentally caused [Egan’s] death.” Dr. Malak’s opinion that the overdose was accidental was based on his finding “only a minimal” amount of codeine residue in Egan’s stomach. Malak stated that there was no evidence that Egan had taken one massive dose. Malak stated that his findings were more indicative of a reasonable response to pain by the decedent.</p>
+                <p id="b105-6" pgmap="105(20) 106(29)">The Commission found that there was a causal connection between Egan’s death and the work-related injury to his foot. The Commission also found that the overdose of the prescribed drug was not such an intentional act as would constitute an indepen­dent intervening cause. The Commission concluded as follows:</p>
+                <blockquote id="b106-6" pgmap="106">To deny death benefits in this case, we would have to find that decedent acted unreasonably in taking the medi­cation and intended to overdose. There is simply insuffi­cient evidence to support such a finding. Based on the lack of a credible explanation as to why [decedent] would intentionally overdose, or why decedent would take exces­sive amounts of the medication (other than due to pain) plus Dr. Malak’s opinion that claimant did not intention­ally overdose or necessarily act unreasonably, we find that claimant has proven by a preponderance of the evidence that decedent’s death was causally related to the compen-­sable injury.</blockquote>
+                <p id="b106-7" pgmap="106">
+                   In awarding benefits, the Commission relied on our decision in Preway, Inc. v. Davis, 22 Ark. App. 132, 736 S.W.2d 21 (1987). There, the worker sustained a compensable back injury for which additional medical treatment was necessary. While en route from her home in Paragould to her doctor’s office in Memphis, Tennessee, she sustained a broken ankle in an automobile accident. In upholding the Commission’s determina­tion that the ankle injury was compensable, we applied the concept of “quasi-course of employment” discussed in 1 Larson, Workmen’s Compensation Law, § 13.11(d) (1985). The concept includes as compensable those injuries resulting from activities undertaken by the employee following a compensable injury which, although the activities take place outside the time and space limits of the workplace, are nevertheless related to the employment in the sense that they are necessary or reasonable activities undertaken only because of the compensable injury. We also held in Preway that when an injury arises from such an activity, the chain of causation should not be broken by mere negligence in the performance of that activity, but only by intentional conduct that may be regarded as expressly or im­pliedly prohibited by the employer. See 1 Larson, § 13.11(d).</p>
+                <p id="b106-8" pgmap="106(31) 107(33)">
+                   Although the taking of the pills in this case was not directly connected with Egan’s employment, it was related to his compensable injury in that the doctor had prescribed the medica­tion as part of the treatment for his work-related injury. From our review of the record, we cannot conclude that the Commission’s finding of a causal connection is not supported by substantial evidence.</p>
+                <p id="b107-6" pgmap="107">
+                   Appellant’s argument that the evidence is insuffi­cient to support the Commission’s finding that the overdose was not an intentional act on the part of the decedent is also without merit. It was not necessary for appellee to prove by direct evidence that the death was accidental. A person’s intent ordina­rily cannot be proven by direct evidence, but may be established by circumstantial evidence aided by any legitimate inferences that may arise from it. Moreover, the Commission’s finding in this case is aided by the statutory presumption that an injury is not occasioned by the willful intention of the employee. See Ark. Code Ann. § 11-9-707(3) (1987). While this presumption is a rebuttable one, the issue of whether it was overcome by the evidence was a question of fact for the Commission to determine. We cannot conclude that the Commission’s finding is not sup­ported by substantial evidence.</p>
+                <p id="b107-7" pgmap="107">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="103" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.2" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="82" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="83" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.9" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-12" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.9" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.6" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anp" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.10" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-4" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdU" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.12" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_104.13" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-15" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.14" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-14" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.11" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-13" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.10" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-6" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-7" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.8" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-5" BETYPE="IDREF" FILEID="casebody_0014"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

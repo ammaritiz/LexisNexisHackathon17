@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000725_0034" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Rodgers v. State">Gregory Allen RODGERS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 94-878</docketnumber>
+          <citation category="official" type="bluebook">49 Ark. App. 136</citation>
+          <citation category="parallel" type="bluebook">898 S.W.2d 475</citation>
+          <decisiondate>1995-05-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T22:57:19Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:56Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:27Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:10:50Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="343388b9986a8afeded208f9d75f0f63" CHECKSUMTYPE="MD5" SIZE="17984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="18b6e416e06ff89b90df2f475329614d" CHECKSUMTYPE="MD5" SIZE="51376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="052d31014a9edebfb0b497294f11f768" CHECKSUMTYPE="MD5" SIZE="41146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00083_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="547aabdb32898985d43f33398f8616ed" CHECKSUMTYPE="MD5" SIZE="1788447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="48a1c8b3df806d745b74c91e6d1bc42d" CHECKSUMTYPE="MD5" SIZE="2633744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="4a2d64c2cf7a69ab72e87e56e85f837b" CHECKSUMTYPE="MD5" SIZE="2484369">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000725_00083_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="4b92e9043a8e238a6ec7d4e48a635aaf" CHECKSUMTYPE="MD5" SIZE="29418">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="4031b5b6be576de0f77681ed921ff511" CHECKSUMTYPE="MD5" SIZE="85887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="3bf71f7cea68368dee303349fa71d420" CHECKSUMTYPE="MD5" SIZE="70752">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000725_redacted_ALTO_00083_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0034" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="136" lastpage="138">
+              <court pgmap="164" id="b164-4">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="164" id="A4x">CA CR 94-878</docketnumber>
+              <citation pgmap="164" id="AS9">898 S.W.2d 475</citation>
+              <parties pgmap="164" id="b164-3">Gregory Allen RODGERS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="164" id="b164-5">Opinion delivered May 24, 1995</decisiondate>
+              <judges pgmap="166" id="b166-11">Jennings, C.J., and Rogers, J., agree.</judges>
+              <attorneys pgmap="164" id="b164-12">Gibson &amp; Gibson, P.A., by: Bynum Gibson, for appellant.</attorneys>
+              <attorneys pgmap="164" id="b164-13">Winston Bryant, Att’y Gen., by: Gil Dudley, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="164" id="b164-14">John B. Robbins, Judge.</author>
+                <p pgmap="164(61) 165(37)" id="Afd">In December of 1986, appellant Gregory Allen Rodgers pled guilty to five counts of burglary and ten counts of theft of property. He was placed on probation for a period of five years subject to certain conditions. In February of 1989, a petition to revoke appellant’s probation was filed which alleged that the appellant failed to report to his probation offi­cer, had fled the State without permission, failed to pay restitu­tion and failed to pay his probation fees. In February of 1991, the petition to revoke was nolle prossed because the appellant could not be located.</p>
+                <p pgmap="165" id="b165-6">Appellant was arrested on November 9, 1993, in New York after apparently being stopped for a traffic violation. He was held in custody in New York due to the outstanding warrant from Arkansas. Appellant did not waive extradition until December 2, 1993, at which time he was returned to Arkansas and the pre­sent revocation proceeding was initiated.</p>
+                <p pgmap="165" id="b165-7">On January 31, 1994, a revocation hearing was held at which the appellant argued that the petition to revoke should be dis­missed because the appellant’s hearing was not held within sixty days of his arrest pursuant to Ark. Code Ann. § 5-4-310(b)(2) (Repl. 1993). The trial court, citing White v. State, 310 Ark. 200, 833 S.W.2d 111 (1992), held that the appellant was “unavail­able” for trial until he waived extradition on December 2, 1993. The trial court held that the period from appellant’s arrest on November 9, until December 2, 1993, would not be counted in computing the sixty-day period. Appellant was eventually found to have violated the conditions of his probation and was sen­tenced to five years in the Arkansas Department of Correction.</p>
+                <p pgmap="165" id="b165-8">Appellant contends on appeal that the trial court erred in failing to dismiss the petition to revoke because the sixty-day requirement imposed by Ark. Code Ann. § 5-4-310(b)(2) (Repl. 1993) was violated. Appellant attempts to distinguish White v. State, id., contending that because White involved a defendant who was being held on a separate charge, other than for revoca­tion purposes, the same rationale would not apply.</p>
+                <p pgmap="165" id="b165-9">
+                   Arkansas Code Annotated § 5-4-310(b)(2) (Repl. 1993), states:</p>
+                <blockquote pgmap="165" id="b165-10">(2) The revocation hearing shall be conducted by the court that suspended imposition of sentence on the defen­dant or placed him on probation within á reasonable period of time, not to exceed sixty (60) days, after the defendant’s arrest.</blockquote>
+                <p pgmap="165(24) 166(47)" id="b165-11">This court, as well as the supreme court, has stated.that trial courts may look to the provisions of Ark. R. Crim. P. 28.3 per­taining to speedy trials for guidance in computing excludable periods of time from the sixty-day limitation required for revo­cation hearings. Lark v. State, 276 Ark. 441, 637 S.W.2d 529 (1982); Cheshire v. State, 16 Ark. App. 34, 696 S.W.2d 322 (1985). Rule 28.3 provides in part:</p>
+                <blockquote pgmap="166" id="b166-6">The following periods shall be excluded in comput­ing the time for trial:</blockquote>
+                <blockquote pgmap="166" id="b166-7">(e) The period of delay resulting from the absence or unavailability of the defendant. A defendant shall be con­sidered absent whenever his whereabouts are unknown. A defendant shall also be considered unavailable whenever his whereabouts are known but his presence for the trial can­not be obtained or he resists being returned to the state for trial.</blockquote>
+                <p pgmap="166" id="b166-8">
+                   While the appellant is correct that in White v. State, supra, the defendant was being held on a separate charge, the relevant part of that decision for purposes of the present case was the calculation of time which was excluded under Rule 28.3. In White, the supreme court held that the appellant was “unavail­able” for trial until “the appellant signed the waiver of extradi­tion.”</p>
+                <p pgmap="166" id="b166-9">
+                   The trial court was correct in finding that the appel­lant was unavailable for trial while he was in the custody of the New York authorities. The record indicates that the appellant was returned to Arkansas upon signing the waiver of extradition on December 2, 1993. The record fails to show that any delay in signing the waiver was the result of any actions or neglect on the part of the State of Arkansas. See Cheshire v. State, supra. Appellant’s hearing was held within sixty days of his signing the waiver of extradition and the trial court correctly denied his motion to dismiss.</p>
+                <p pgmap="166" id="b166-10">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="164" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-3" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.3" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.9" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.8" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-4" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.7" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-13" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.14" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-14" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.15" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.6" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-10" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.8" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-11" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.9" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-12" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.13" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4x" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.7" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-8" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-9" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.7" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Afd" BETYPE="IDREF" FILEID="casebody_0034"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.16" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_164.17" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

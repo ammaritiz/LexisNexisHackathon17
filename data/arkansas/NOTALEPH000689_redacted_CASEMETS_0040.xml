@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000689_0040" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Fuller v. State">Robert Lee FULLER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 06-1291</docketnumber>
+          <citation category="official" type="bluebook">99 Ark. App. 264</citation>
+          <citation category="parallel" type="bluebook">259 S.W.3d 486</citation>
+          <decisiondate>2007-06-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T19:34:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:17:50Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-30T08:46:46Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-30T08:50:36Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00150_1" MIMETYPE="image/tiff" CHECKSUM="2e33c574e4924f44f82945e53626bc88" CHECKSUMTYPE="MD5" SIZE="11382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000689_00150_1.tif"/>
+      </file>
+      <file ID="tiff_00151_0" MIMETYPE="image/tiff" CHECKSUM="e8cd8c22929d6e2331f7a6a5ca88bfb3" CHECKSUMTYPE="MD5" SIZE="60556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000689_00151_0.tif"/>
+      </file>
+      <file ID="tiff_00151_1" MIMETYPE="image/tiff" CHECKSUM="cd0dc2d4cfab388e6d79514165068824" CHECKSUMTYPE="MD5" SIZE="53890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000689_00151_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00150_1" MIMETYPE="image/jp2" CHECKSUM="dc2ac09e81e3e3fb98147772d336e1e3" CHECKSUMTYPE="MD5" SIZE="1553272">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000689_00150_1.jp2"/>
+      </file>
+      <file ID="jp2_00151_0" MIMETYPE="image/jp2" CHECKSUM="f5be2308ab471a49f109607e53b073d3" CHECKSUMTYPE="MD5" SIZE="2699623">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000689_00151_0.jp2"/>
+      </file>
+      <file ID="jp2_00151_1" MIMETYPE="image/jp2" CHECKSUM="d484591a78c7024976081d7d021e9783" CHECKSUMTYPE="MD5" SIZE="2605278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000689_00151_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00150_1" MIMETYPE="text/xml" CHECKSUM="af8fedede214121d14a9c4b095939ce0" CHECKSUMTYPE="MD5" SIZE="14915">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000689_redacted_ALTO_00150_1.xml"/>
+      </file>
+      <file ID="alto_00151_0" MIMETYPE="text/xml" CHECKSUM="582fef516e0520e92143e8338d9f28b1" CHECKSUMTYPE="MD5" SIZE="103576">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000689_redacted_ALTO_00151_0.xml"/>
+      </file>
+      <file ID="alto_00151_1" MIMETYPE="text/xml" CHECKSUM="874b08cd890a2f6e996fbd72b000cc9e" CHECKSUMTYPE="MD5" SIZE="89478">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000689_redacted_ALTO_00151_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="266" firstpage="264">
+              <court pgmap="300" id="b300-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="300" id="Apm">CA CR 06-1291</docketnumber>
+              <citation pgmap="300" id="A0l">259 S.W.3d 486</citation>
+              <parties pgmap="300" id="b300-3">Robert Lee FULLER v. STATE of Arkansas</parties>
+              <decisiondate pgmap="300" id="A41">Opinion delivered June 20, 2007</decisiondate>
+              <judges pgmap="302" id="b302-8">Robbins and Heffley, JJ., agree.</judges>
+              <attorneys pgmap="300" id="b300-8">William R. Simpson, Jr., Public Defender, Sharon Kiel, Deputy Public Defender, by: Clint Miller, for appellant.</attorneys>
+              <attorneys pgmap="300" id="b300-9">Dustin McDaniel, Att’y Gen., by: Lauren Elizabeth Heil, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="301" id="pARj">John Mauzy Pittman, Chief Judge.</author>
+                <p pgmap="301" id="AeZp">Appellant was con­victed of third-degree domestic battery for hitting and injur­ing Vonetta Henderson, fined $300, and placed on probation for one year. He argues on appeal that there is no substantial evidence to support his conviction. We affirm.</p>
+                <p pgmap="301" id="b301-5">Arkansas Code Annotated section 5-26-305 (Repl. 2006) provides, in pertinent part, that a person commits domestic bat­tering in the third degree if he purposely or recklessly causes physical injury to a household member. “Family or household member[s]” includes persons who have been in the past or are presently in a dating relationship together. Ark. Code Ann. § 5-­26-302(2)(H) (Repl. 2006). “Dating relationship” is defined, in part, as a romantic or intimate social relationship between two individuals, determined by examining the length of the relation­ship, the type of the relationship, and the frequency of the interaction between the two individuals involved in the relation­ship. Ark. Code Ann. § 5-26-302(l)(A) (Repl. 2006). Appellant contends that the evidence is insufficient to prove that he and the victim were in a “dating relationship” as defined by the statute.</p>
+                <p pgmap="301" id="b301-6">When the sufficiency of the evidence to support a criminal conviction is challenged on appeal, we view the evidence in the light most favorable to the State, considering only the proof that supports the finding of guilt. Payne v. State, 86 Ark. App. 59, 159 S.W.3d 804 (2004). We will affirm if there is substantial evidence to support the decision. Id. Substantial evidence is evidence that is of sufficient force and character that it will, with reasonable certainty, compel a conclusion one way or another. Id.</p>
+                <p pgmap="301(167) 302(89)" id="b301-7">Here, there was evidence that appellant and the victim had been involved in a romantic relationship between September 2004 and February 2005. They spent time outside of work together; they had sexual relations together “multiple times”; they spent the night together; they went to eat and to the movies together; and they spent time together in the presence of the victim’s children. The victim broke off the relationship because “it wasn’t enough for [her] anyway to have him with another woman all the time and [she] wanted to have another relationship with someone else who could be [her] own.” They continued to work together for about eight months at a nursing home, where they interacted as co­workers “except for the fact that while [they] were at work, [appellant] would approach [the victim] and ask . . . [her] to give him one last hug and tell [her] he missed [her] and could we do it again and stuff like that.” Appellant knew that the victim was pregnant by her husband and said “that should have been his child.” On October 2, 2005, they became involved in an argument over their work duties that escalated when appellant told the victim that she was “not going to talk to [him] crazy like she talk[ed] to [her] husband . . . and that’s probably why he left you.” By appellant’s account, that remark “hit a nerve and she went bakooz — well, she went, you know, wow,” and “came running over.” Appellant then struck and bruised the victim.</p>
+                <p pgmap="302" id="b302-5">
+                   Appellant contends that the evidence was insufficient to show a dating relationship, arguing that, because the victim was married to another man during their relationship, theirs could not have been a “dating relationship” under Ark. Code Ann. § 5-26-­302(1)(A) (ii). Appellant cites neither argument nor convincing authority to show why an adulterous relationship does not come under the purview of a statute intended to curb domestic violence. The legislature has expressly included a broad definition of “family or household member” to include “dating relationships” based on three factors, including “type.” Here the relationship was a romantic one that lasted several months and included trips to movies, dinner, overnight visits, and multiple instances of sexual relations. Appellant cites neither law nor reason to support his assertion that persons involved in a relationship of this type do not come under the protection of the statute.</p>
+                <p pgmap="302" id="b302-6">
+                   Appellant next argues that there was insufficient evi­dence of the frequency of the interactions between the victim and appellant during their relationship because the victim failed to state precisely how often she and appellant had sexual relations. We do not agree. A dating relationship need not be sexual; under the statutory language it may be a “romantic or intimate social rela­tionship.” Ark. Code Ann. § 5-26-302(1)(A) (emphasis added). The testimony was sufficient to show that appellant and the victim had numerous romantic and intimate interactions of various types for a sufficient length of time to support a finding that there was a “dating relationship” under the statute — particularly in light of the evidence that bickering over romantic attachments played a considerable part in the altercation leading to the battery of which appellant was convicted.</p>
+                <p pgmap="302" id="b302-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="300" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00150_1"/>
+        <fptr FILEID="jp2_00150_1"/>
+        <fptr FILEID="alto_00150_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_300.1" BETYPE="IDREF" FILEID="alto_00150_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="301" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00151_0"/>
+        <fptr FILEID="jp2_00151_0"/>
+        <fptr FILEID="alto_00151_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_301.2" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="302" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00151_1"/>
+        <fptr FILEID="jp2_00151_1"/>
+        <fptr FILEID="alto_00151_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_302.2" BETYPE="IDREF" FILEID="alto_00151_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.4" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.10" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            <area BEGIN="BL_302.1" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.9" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b301-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.8" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeZp" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.5" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            <area BEGIN="BL_301.6" BETYPE="IDREF" FILEID="alto_00151_0"/>
+            <area BEGIN="BL_301.7" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.3" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.5" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pARj" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_301.4" BETYPE="IDREF" FILEID="alto_00151_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.6" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A41" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.7" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.6" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.12" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b300-9" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.13" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b302-8" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_302.7" BETYPE="IDREF" FILEID="alto_00151_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0l" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.5" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apm" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_300.4" BETYPE="IDREF" FILEID="alto_00150_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

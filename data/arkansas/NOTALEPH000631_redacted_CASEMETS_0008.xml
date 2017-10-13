@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000631_0008" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Thornton v. Bruce">Jerry THORNTON v. Darrell David BRUCE</name>
+          <docketnumber>CA 90-143</docketnumber>
+          <citation category="official" type="bluebook">33 Ark. App. 31</citation>
+          <citation category="parallel" type="bluebook">800 S.W.2d 723</citation>
+          <decisiondate>1990-12-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T21:40:11Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:51:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T13:44:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T13:44:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00027_0" MIMETYPE="image/tiff" CHECKSUM="67786883a8e6ad9f3dc1ebd4052d9202" CHECKSUMTYPE="MD5" SIZE="24982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00027_0.tif"/>
+      </file>
+      <file ID="tiff_00027_1" MIMETYPE="image/tiff" CHECKSUM="0b814b85767158f87f99f99520fb112d" CHECKSUMTYPE="MD5" SIZE="53304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00027_1.tif"/>
+      </file>
+      <file ID="tiff_00028_0" MIMETYPE="image/tiff" CHECKSUM="49b97feb02e31ffc81443b1ee3ea8704" CHECKSUMTYPE="MD5" SIZE="25062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00028_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00027_0" MIMETYPE="image/jp2" CHECKSUM="9e8cdfeaf36dd3d2c65a39062f2a532d" CHECKSUMTYPE="MD5" SIZE="1897409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00027_0.jp2"/>
+      </file>
+      <file ID="jp2_00027_1" MIMETYPE="image/jp2" CHECKSUM="3b584620a91310dfc177d505611c2aaf" CHECKSUMTYPE="MD5" SIZE="2519326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00027_1.jp2"/>
+      </file>
+      <file ID="jp2_00028_0" MIMETYPE="image/jp2" CHECKSUM="44ea379a1cedc00223d0544a46d596f5" CHECKSUMTYPE="MD5" SIZE="1876237">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00028_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00027_0" MIMETYPE="text/xml" CHECKSUM="5f15af1059516842b44bfd3e6a843ac3" CHECKSUMTYPE="MD5" SIZE="40956">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00027_0.xml"/>
+      </file>
+      <file ID="alto_00027_1" MIMETYPE="text/xml" CHECKSUM="04c3f69e42c82dcb4c9a52cc27397f8b" CHECKSUMTYPE="MD5" SIZE="83881">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00027_1.xml"/>
+      </file>
+      <file ID="alto_00028_0" MIMETYPE="text/xml" CHECKSUM="f12c22ea1875933828fb8409dc0b40d0" CHECKSUMTYPE="MD5" SIZE="38250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00028_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0008" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="33" firstpage="31">
+              <court id="b53-8" pgmap="53">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b53-7" pgmap="53">CA 90-143</docketnumber>
+              <citation id="Aj1" pgmap="53">800 S.W.2d 723</citation>
+              <parties id="b53-6" pgmap="53">Jerry THORNTON v. Darrell David BRUCE</parties>
+              <decisiondate id="b53-9" pgmap="53">Opinion delivered December 19, 1990</decisiondate>
+              <judges id="b55-6" pgmap="55">Mayfield and Rogers, JJ., agree.</judges>
+              <attorneys id="b54-6" pgmap="54">Daily, West, Core, Coffman &amp; Canfield, by: Eldon F. Coffman, and Douglas M. Carson, for appellant.</attorneys>
+              <attorneys id="b54-7" pgmap="54">Shaw, Ledbetter, Hornberger, Cogbill &amp; Arnold, by: R. Gunner DeLay, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b54-8" pgmap="54">George K. Cracraft, Judge.</author>
+                <p id="AN8" pgmap="54">Jerry Thornton appeals from an order of the Arkansas Workers’ Compensation Commission denying him benefits for a back injury alleged to have occurred in the scope of his employment with appellee Darrell David Bruce. The only issue presented on appeal is whether the administrative law judge erred in refusing to allow appellant’s wife to testify as a witness. We affirm.</p>
+                <p id="b54-9" pgmap="54">In December 1, 1988, the administrative law judge ordered that lists of witnesses be provided to the Commission and opposing counsel no later than January 15, 1989, and that all depositions be completed by February 15, 1989. The hearing on the merits was scheduled for February 16. On January 24,1989, appellant’s attorney advised the ALJ and appellee’s counsel that he was adding appellant’s wife to his list of witnesses that was previously provided pursuant to the prehearing order. Appellee objected to appellant’s wife being permitted to testify because her name had not been provided to either the Commission or counsel for appellee by January 15, as required by the pre-hearing order. Appellee’s objection was sustained. At the conclusion of the hearing on the merits, the ALJ found that appellant had sustained a compensable injury to his right leg and awarded benefits, but denied appellant any benefits attributable to his back problems. The Commission affirmed, adopting the findings made by the ALJ. There was no mention in either the opinion of the Commission or that of the ALJ of the latter’s ruling prohibiting appellant’s wife from testifying.</p>
+                <p id="b54-10" pgmap="54">On appeal, appellant argues that the ALJ erred in ruling that appellant’s wife not be'permitted to testify because an ALJ has no authority to prohibit a witness from testifying under the rules of the Commission or the rules of civil procedure. For the reasons stated below, we do not address appellant’s argument.</p>
+                <p id="b54-11" pgmap="54(20) 55(115)">
+                   In workers’ compensation cases, the Commission conducts a de novo review of the record; it is not its function to review the decision made by the ALJ for error. On appeal to this court, we review the decision of the Commission and not that of the ALJ. Johnson v. Hux, 28 Ark. App. 187, 772 S.W.2d 362 (1989). The Commission is authorized to take testimony by deposition or otherwise, Ark. Code Ann.-§ 11-9-207(a) (10) (1987), or to remand the matter to the ALJ for the purpose of taking additional evidence. Ark. Code Ann. § 1l-9-704(b)(7) (1987). Here, appellant sought neither remedy with regard to this witness but simply asks us to reverse the case, contending that the ALJ committed error. Because we find no error in the proceedings before the Commission, the case is affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="53" ORDERLABEL="31" TYPE="page">
+        <fptr FILEID="tiff_00027_0"/>
+        <fptr FILEID="jp2_00027_0"/>
+        <fptr FILEID="alto_00027_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_53.3" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="54" ORDERLABEL="32" TYPE="page">
+        <fptr FILEID="tiff_00027_1"/>
+        <fptr FILEID="jp2_00027_1"/>
+        <fptr FILEID="alto_00027_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_54.2" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="55" ORDERLABEL="33" TYPE="page">
+        <fptr FILEID="tiff_00028_0"/>
+        <fptr FILEID="jp2_00028_0"/>
+        <fptr FILEID="alto_00028_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_55.3" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.9" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.8" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.6" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.8" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_54.9" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.6" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.5" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj1" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.7" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.4" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.12" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_55.1" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.11" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.5" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.7" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.10" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

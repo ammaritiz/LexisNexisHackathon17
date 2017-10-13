@@ -1,0 +1,783 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000710_0007" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Whitmire v. State">Charles WHITMIRE v. STATE of Arkansas</name>
+          <docketnumber>CA CR 94-768</docketnumber>
+          <citation category="official" type="bluebook">50 Ark. App. 34</citation>
+          <citation category="parallel" type="bluebook">901 S.W.2d 20</citation>
+          <decisiondate>1995-06-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:30:49Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:16Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:32:43Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:33:22Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00029_1" MIMETYPE="image/tiff" CHECKSUM="ae201cf94a41961db92846db68d81838" CHECKSUMTYPE="MD5" SIZE="6668">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00029_1.tif"/>
+      </file>
+      <file ID="tiff_00030_0" MIMETYPE="image/tiff" CHECKSUM="3fdb2facbe7ee06e55560d1f29208e5e" CHECKSUMTYPE="MD5" SIZE="25236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00030_0.tif"/>
+      </file>
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="bed59c4b193f53050507b29a207fdfff" CHECKSUMTYPE="MD5" SIZE="53030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="8ea185dda16000633c18fbe054812e4e" CHECKSUMTYPE="MD5" SIZE="52720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="a7c87c995ddfd333a6beead7ee3f4a9d" CHECKSUMTYPE="MD5" SIZE="50938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="09825a5bb0ba026cf852cac2fd514c1b" CHECKSUMTYPE="MD5" SIZE="52552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="cf39238c9e23463d3151dad1d5178c93" CHECKSUMTYPE="MD5" SIZE="53334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="cd665bcc1b12b1da638d8bf71552c0e6" CHECKSUMTYPE="MD5" SIZE="55852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00033_0.tif"/>
+      </file>
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="ed2be45e926f3abbf44cf20a2dcb5d34" CHECKSUMTYPE="MD5" SIZE="17062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00033_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00029_1" MIMETYPE="image/jp2" CHECKSUM="ff18cad711ea52b80a937ef6c9c1374a" CHECKSUMTYPE="MD5" SIZE="1312128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00029_1.jp2"/>
+      </file>
+      <file ID="jp2_00030_0" MIMETYPE="image/jp2" CHECKSUM="39da1474f3fb52a2488a2ce089a204f3" CHECKSUMTYPE="MD5" SIZE="1832481">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00030_0.jp2"/>
+      </file>
+      <file ID="jp2_00030_1" MIMETYPE="image/jp2" CHECKSUM="9744a00f7085f50f2b49e77f14180f8d" CHECKSUMTYPE="MD5" SIZE="2647642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00030_1.jp2"/>
+      </file>
+      <file ID="jp2_00031_0" MIMETYPE="image/jp2" CHECKSUM="6b5dc0c3da457219ca49038eca9c549c" CHECKSUMTYPE="MD5" SIZE="2660216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00031_0.jp2"/>
+      </file>
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="2846b2e49e8f00cfefb8465a67a928a5" CHECKSUMTYPE="MD5" SIZE="2644921">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00031_1.jp2"/>
+      </file>
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="1bf87698920fd6bf435ea291778adbb4" CHECKSUMTYPE="MD5" SIZE="2629456">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="4bec8a7b726d98237649eed08f91ad71" CHECKSUMTYPE="MD5" SIZE="2661900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="bb52212cb864d35023beb6abaef7ff2e" CHECKSUMTYPE="MD5" SIZE="2671120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00033_0.jp2"/>
+      </file>
+      <file ID="jp2_00033_1" MIMETYPE="image/jp2" CHECKSUM="c8b9a50cd919d4c3f44d62960f86d883" CHECKSUMTYPE="MD5" SIZE="1757149">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00033_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00029_1" MIMETYPE="text/xml" CHECKSUM="24df49511e2d31cbdc7ad7f42c3d85c7" CHECKSUMTYPE="MD5" SIZE="8125">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00029_1.xml"/>
+      </file>
+      <file ID="alto_00030_0" MIMETYPE="text/xml" CHECKSUM="29aff889bba70ea933abcb21e2299d05" CHECKSUMTYPE="MD5" SIZE="39561">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00030_0.xml"/>
+      </file>
+      <file ID="alto_00030_1" MIMETYPE="text/xml" CHECKSUM="100a1b4474d901040fb23734f9a86830" CHECKSUMTYPE="MD5" SIZE="95375">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00030_1.xml"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml" CHECKSUM="d6b3bb8944582def5278461df75f8e83" CHECKSUMTYPE="MD5" SIZE="87875">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00031_0.xml"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="ca71c0baffe7ede089f9de77cc00840a" CHECKSUMTYPE="MD5" SIZE="88771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00031_1.xml"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="53c99d960e0b220a1431334827f02e93" CHECKSUMTYPE="MD5" SIZE="95555">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="0e73e397510282dae6189ebf7d61e847" CHECKSUMTYPE="MD5" SIZE="94717">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="71238a5cc59cec063e6ea01f10bca831" CHECKSUMTYPE="MD5" SIZE="101579">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00033_0.xml"/>
+      </file>
+      <file ID="alto_00033_1" MIMETYPE="text/xml" CHECKSUM="889b44e8b35a5d81842a0c06b36500f4" CHECKSUMTYPE="MD5" SIZE="28110">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00033_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0007" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="42" firstpage="34">
+              <court id="b58-4" pgmap="58">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="AFP" pgmap="58">CA CR 94-768</docketnumber>
+              <citation id="A0" pgmap="58">901 S.W.2d 20</citation>
+              <parties id="b58-3" pgmap="58">Charles WHITMIRE v. STATE of Arkansas</parties>
+              <decisiondate id="b58-5" pgmap="58">Opinion delivered June 21, 1995</decisiondate>
+              <judges id="b66-7" pgmap="66">Cooper and Robbins, JJ., agree.</judges>
+              <attorneys id="b59-11" pgmap="59">Jeanne Ann Whitmire, for appellant.</attorneys>
+              <attorneys id="b59-12" pgmap="59">Winston Bryant, Att’y Gen., by: J. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b59-13" pgmap="59">Melvin Mayfield, Judge.</author>
+                <p id="Ai" pgmap="59">This appeal was originally filed in the Arkansas Supreme Court and was transferred to this court.</p>
+                <p id="b59-14" pgmap="59">The appellant was given a traffic citation for violating Ark. Code Ann. § 5-65-103 (Repl. 1993), which makes it unlawful for a person who is intoxicated, or who has a blood alcohol con­tent of 0.10% or more, to be in actual physical control of a motor vehicle.</p>
+                <p id="b59-15" pgmap="59(73) 60(24)">Appellant was found guilty in the Municipal Court of Prairie Grove, Arkansas, and by a judgment dated September 15, 1993, he was fined $350, plus costs, and his driver’s license was sus­pended for 90 days. No period of incarceration is mentioned in the municipal court judgment, and from a presentence screening report it appears that appellant had not been convicted for DW1 within three years prior to this September 15, 1993, judgment. Therefore, under Credit v. State, 25 Ark. App. 309, 758 S.W.2d 10 (1988), it seems clear that appellant was convicted of a mis­demeanor.</p>
+                <p id="b60-6" pgmap="60">Appellant perfected an appeal to Washington County Circuit Court, and on December 10, 1993, a continuance was granted until March 17, 1994. On March 15, 1994, defense counsel advised the court that she had a health problem, and at counsel’s request the case was continued again, but the court advised counsel that the case would be reset within the next ten days or two weeks. It was then — as the trial judge put it — “set immediately” for March 30, 1994.</p>
+                <p id="b60-7" pgmap="60">On the day set for trial, defense counsel filed another motion for continuance which stated that the appellant had gone to Iowa on his job; that the case was set for trial on Wednesday, March 30, 1994; and that defense counsel had received notice of the trial date, only two days before the trial was to be held, by tele­phone call from the assistant deputy prosecuting attorney. Defense counsel stated in her motion for continuance that she told the prosecutor she was on her way to a hearing and asked that the prosecutor advise the court of defense counsel’s failure to receive notice of the trial date and that the defendant was “out of pocket.” Upon returning to her office at 5:30 p.m. that day she found this message: “Judge says try case on Wednesday.”</p>
+                <p id="b60-8" pgmap="60">At a hearing on Wednesday, March 30, 1994, defense coun­sel told the trial judge that she was not notified of the trial date until 1:20 Monday afternoon and that appellant was in Iowa work­ing, and she had been unable to contact him. She asked for a continuance, or in the alternative, that appellant be tried in absen-­tia. The trial court refused both requests, stating that the case had been continued twice at the request of the defense; that the last time it was continued defense counsel was informed that the case would be reset for trial within ten days or two weeks; and that the case was immediately reset for March 30. As to trying appellant in absentia the judge stated:</p>
+                <blockquote id="b60-9" pgmap="60(43) 61(15)">[T]he right to confront witnesses is a fundamental right guaranteed to all of our citizens. I think it would be gross error to try your client in absentia. I don’t think that’s per­missible within Arkansas law or any other law, for that matter, so I’m not going to proceed in that regard. I’m dis­missing the appeal.</blockquote>
+                <p id="b61-6" pgmap="61">The judge then had the bailiff call for the defendant three times, and when he did not appear the judge instructed the prosecuting attorney to prepare a precedent dismissing the appeal. An order was filed for record on April 7, 1994, which stated that the pros­ecutor and defense counsel appeared for trial, but the defendant “appearing not” the appeal was dismissed and the order of the lower court was reinstated.</p>
+                <p id="b61-7" pgmap="61">Appellant argues on appeal that, “The trial court erred when it denied appellant’s motion for continuance for lack of proper and sufficient notice of the trial date. The court’s action denied appellant his constitutional right to due process of law.” In sup­port, the appellant cites Goss v. Lopez, 419 U.S. 565 (1975), and Rawls v. State, 266 Ark. 919, 587 S.W.2d 602 (1979).</p>
+                <p id="b61-8" pgmap="61">In Goss v. Lopez, the United States Supreme Court stated:</p>
+                <blockquote id="b61-9" pgmap="61">There are certain benchmarks to guide us, however. Mul­lane v. Central Hanover Trust Co., 339 U.S. 306, 70 S.Ct. 642, 94 L.Ed. 865 (1950), a case often invoked by later opinions, said that “[m]any controversies have raged about the cryptic and abstract words of the Due Process Clause but there can be no doubt that at a minimum they require that deprivation of life, liberty or property by adjudication be preceded by notice and opportunity for hearing appro­priate to the nature of the case.”</blockquote>
+                <p id="b61-10" pgmap="61">419 U.S. at 578-79.</p>
+                <p id="b61-11" pgmap="61(123) 62(60)">
+                   In Rawls, supra, our supreme court reversed and remanded a circuit court affirmance of a municipal court con­viction because appellant had not received adequate notice of his trial date. He had been convicted in the Municipal Court of Mon­ticello on April 29, 1977, of driving while intoxicated and per­fected an appeal to Drew County Circuit Court. On September 19, 1977, appellant’s case was set for trial on September 26, 1977, and appellant was advised to notify his attorney of the trial date. Neither appellant nor his attorney appeared on September 26. The docket reflected no action was taken on appellant’s case that day. On September 18,1978, the circuit court affirmed appel­lant’s conviction without appellant or his attorney being present. On January 17, 1979, appellant’s attorney received notice of the “call of the docket” scheduled for February 1, 1979, and appel­lant appeared for trial on that day. However, the judge entered an order remanding the case to municipal court upon finding that his predecessor had affirmed appellant’s conviction on Septem­ber 18, 1978. On appeal, our supreme court stated:</p>
+                <blockquote id="b62-6" pgmap="62">While Ark. Stat. Ann. § 44-507 (Repl. 1964) [now Ark. Code Ann. § 16-96-508] authorizes a circuit court to affirm a judgment of a lower court if the appellant fails to appear when his case has been scheduled for trial, due process dictates that appellant be afforded proper notice and an opportunity to be heard in a proceeding involving the deprivation of life, liberty or property. Renfro v. City of Conway, 260 Ark. 852, 545 S.W.2d 69. Moreover, Ark. Stat. Ann. § 22-311 (1962 Repl) [now Ark. Code Ann. §§ 16-13-206, 207, and 209], requires that interested par­ties as well as their attorneys receive notice from the clerk of the court of proceedings scheduled; and that time shall be afforded counsel to prepare for trial.</blockquote>
+                <blockquote id="b62-7" pgmap="62">We conclude that the oral notice given by the circuit court to appellant on September 19, 1977, that the case would be tried on September 26, 1977, did not comply with the requirements of Ark. Stat. Ann. § 22-311 (Repl. 1962) and the requirement of due process under the Four­teenth Amendment to the United States Constitution. See: Goss v. Lopez, 419 U.S. 565 (1975).</blockquote>
+                <p id="b62-8" pgmap="62">266 Ark. at 921-22, 587 S.W.2d at 603.</p>
+                <p id="b62-9" pgmap="62">In the present case, the appellant admits that he had been granted two continuances prior to the one requested on March 30, 1994. He argues, however, that at the continuance granted on March 15, 1994, no definite trial date was set and the judge just said the case would be reset in the next ten days or two weeks. Appellant’s counsel contends that even after the case was reset for March 30, 1994, she did not receive notice of this setting until March 28, 1994, when she was notified by a telephone call from the prosecutor’s office. She argues that appellant was not properly or adequately notified of his trial date and therefore his right to due process was violated.</p>
+                <p id="b63-5" pgmap="63">We do not agree. Obviously the appellant’s attorney had two days notice before the March 30 trial .date. However, she knew on March 15 that the case would be reset for a day within ten days or two weeks. Despite the fact that appellant had been given two continuancés at his attorney’s request, and despite the fact that his attorney knew a new trial setting was imminent, thé appel­lant went to his job in Iowa and there is no reason shown for the attorney’s stated inability to contact appellant in Iowa so that he could be present for trial on March 30.</p>
+                <p id="b63-6" pgmap="63">
+                   We recognize that in the Rawls case, supra, the court held that the notice of trial setting did not comply with what is now Ark. Code Ann. § 16-13-209 (Repl. 1994) or with the require­ments of due process. However, the present case is unlike the Rawls case, and is more like the case of Harris v. State, 6 Ark. App. 89, 638 S.W.2d 698 (1982), where we said, “Appellant’s attorney was certainly aware of the trial date, since he advised the court eight days prior to the trial date that he had been unable to locate his client.” In Harris we pointed out that in Rawls the appellant did not have an attorney at the time his case was set for trial, and we said that what is now Ark. Code Ann. § 16-13-­209 only requires notice by the court clerk in those cases where the parties are not required by law to take notice. In the present case the appellant’s attorney was present in court when he was advised that the case would be reset for trial within ten days or two weeks. We think the statutory and due process requirements were met in this case.</p>
+                <p id="b63-7" pgmap="63">
+                   Moreover, we cannot say that the trial court erred in refusing to grant appellant another continuance on March 30, 1994. The Arkansas Supreme Court set out the rules regarding a continuance in Goins v. State, 318 Ark. 689, 890 S.W.2d 602 (1995) (substituted opinion) as follows: -</p>
+                <blockquote id="b63-8" pgmap="63">In order to obtain a continuance, the appellant must make a showing of good cause. A motion for a continuance is addressed to the sound discretion of the trial court and will not be reversed absent an abuse of that discretion. The defendant has the burden of proof in demonstrating the abuse of discretion. That burden entails a showing of prej­udice.</blockquote>
+                <blockquote id="b64-5" pgmap="64">When a motion for a continuance is based on a lack of time to prepare, this court will consider the totality of the circumstances.</blockquote>
+                <p id="b64-6" pgmap="64">318 Ark. at 696-98, 890 S.W.2d at 605-06. When deciding whether a continuance should be granted, several factors should be con­sidered, including (1) the diligence of the movant, (2) the prob­able effect of the testimony or evidence, and (3) the relevance of the testimony and the likelihood of procuring the evidence or witness sought. Wesley v. State, 318 Ark. 83, 883 S.W.2d 478 (1994)5 Parker v. State, 292 Ark. 421, 731 S.W.2d 756 (1987).</p>
+                <p id="b64-7" pgmap="64">
+                   In Cagle v. State, 47 Ark. App. 1, 882 S.W.2d 674 (1994), appellant failed to appear for trial and his attorney, who was present, moved for a continuance on the basis that appellant was working out of town. Defense counsel told the court that until the day before trial Cagle’s trial was eighth out and that he had advised his client that it would not be tried that day. The motion for continuance was denied and appellant was tried in absentia and convicted. On appeal, appellant did not challenge the circuit court’s authority to proceed in his absence but con­tended only that, under the particular circumstances of that case, it was an abuse of discretion for the trial court to refuse to con­tinue the case until appellant could be present. We said:</p>
+                <blockquote id="b64-8" pgmap="64">A motion for a continuance is addressed to the sound discretion of the trial court. The motion should be granted only upon a showing of good cause and only for so long as is necessary, taking into consideration not only the request or consent of counsel, but also the public interest in prompt disposition of the case. The trial court’s action will not be reversed absent a clear abuse of discretion amounting to a denial of justice. The burden is on the appel­lant to establish both prejudice and an abuse of discretion.</blockquote>
+                <p id="b64-9" pgmap="64">47 Ark. App. at 2-3, 882 S.W.2d at 675 (citations omitted).</p>
+                <p id="b64-10" pgmap="64(67) 65(172)">
+                   As to the appellant’s request to be tried in absentia in the present case, in Taylor v. State, 44 Ark. App. 106, 866 S.W.2d 849 (1993), the appellant had failed to appear for trial, and the circuit judge refused to hold the trial in appellant’s absence, dismissed the appeal, and ordered that the municipal court sen­tence be put into execution. Appellant argued that the court abused its discretion in not holding the trial despite his absence, but we did not agree. In making our decision we noted that the appel­lant had cited only Ark. Code Ann. § 16-89-103(b) (1987) in sup­port of his argument and said while that statute made it permis­sible for a court to hold the trial for an accused misdemeanant in absentia (if the accused consents), it was not mandatory. And we cited the century-old case of Owen v. State, 38 Ark. 512 (1882), in support of our statement and pointed out that it construed the same statute as is now Ark. Code Ann. § 16-89-103(b). Also, we note that in Elms v. State, 299 Ark. 419, 773 S.W.2d 89 (1989) (the rule that an appellant is not required to be present when a plea of guilty is entered applies in misdemeanor cases where only a fine is imposed), the appellant was opposing the plea made by his counsel without appellant’s presence. Here, however, the appellant wanted to be tried in absentia.</p>
+                <p id="b65-6" pgmap="65">We might end this opinion at this point, but because of the State’s footnote at the point in its brief where the Cagle case is cited, and because of the reference to certain statutes in the Rawls case, we think it might be helpful to make the following obser­vations.</p>
+                <p id="b65-7" pgmap="65">The Rawls case referred to Ark. Stat. Ann. § 44-507 (Repl. 1964), which is now Ark. Code Ann. § 16-96-508 (1987), and the State’s brief also makes reference to the same statute. The statute provides, in substance, that where a criminal case has been appealed to circuit court and the appellant fails to appear for trial, or if the appeal has not been perfected by the failure to file the required transcript, the circuit court may — subject to some exceptions — affirm the judgment appealed from and enter the same judgment in circuit court “and the same shall have the same force and effect as other judgments of the circuit court in cases of convictions or indictments for misdemeanors.”</p>
+                <p id="b65-8" pgmap="65(97) 66(80)">
+                   Of course in the instant case, the circuit court sim­ply dismissed the municipal court appeal. The extent of this dis­tinction is not an issue in this appeal; however, we point out that in a number of cases the circuit court has only dismissed the appeal as did the court in the instant case. See Owen v. State, supra; Sheridan v. State, 239 Ark. 322, 389 S.W.2d 232 (1965); and Ottens v. State, 316 Ark. 1, 871 S.W.2d 329 (1994). And in Wilson v. C &amp; M Used Cars, 46 Ark. App. 281, 878 S.W.2d 427 (1994), we held that the circuit court’s dismissal of the munici­pal court appeal “simply did away with the appeal and left the municipal court judgment valid and enforceable.” 46 Ark. App. at 286, 878 S.W.2d at 430. Although Wilson was a civil case, our supreme court has held that Inferior Ct. R. 9, which provides the method of appeal from municipal court to circuit court, is applic­able to both criminal and civil cases. See Ottens v. State, supra.</p>
+                <p id="b66-6" pgmap="66">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="58" ORDERLABEL="34" TYPE="page">
+        <fptr FILEID="tiff_00029_1"/>
+        <fptr FILEID="jp2_00029_1"/>
+        <fptr FILEID="alto_00029_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_58.1" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="59" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00030_0"/>
+        <fptr FILEID="jp2_00030_0"/>
+        <fptr FILEID="alto_00030_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.3" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="60" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jp2_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.2" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jp2_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.3" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.2" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.2" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="66" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jp2_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.2" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.4" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.7" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.6" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.5" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.5" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.5" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.4" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.6" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.7" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.5" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.4" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.6" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.6" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.5" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.7" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-3" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.3" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-8" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_66.1" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.7" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-4" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.6" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.4" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-9" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.7" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.9" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.8" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_65.1" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-10" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.8" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.12" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            <area BEGIN="BL_59.13" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-14" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.14" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-15" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.15" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            <area BEGIN="BL_60.1" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-11" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.9" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-12" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.10" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-13" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.11" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFP" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.4" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-5" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.3" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0007"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.5" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000724_0004" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Martindill v. State">Randall D. MARTINDILL v. STATE of Arkansas</name>
+          <docketnumber>CA CR 92-135</docketnumber>
+          <citation category="official" type="bluebook">40 Ark. App. 16</citation>
+          <citation category="parallel" type="bluebook">839 S.W.2d 545</citation>
+          <decisiondate>1992-11-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:45:26Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:52Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:57:52Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:58:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="c788d33ee9b06985b6277dbddd45fb57" CHECKSUMTYPE="MD5" SIZE="19556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00018_1.tif"/>
+      </file>
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="427d50962666960cadb341c6a50e6655" CHECKSUMTYPE="MD5" SIZE="51600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="8701d0ed31206450c3a2a819862c598e" CHECKSUMTYPE="MD5" SIZE="58172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00019_1.tif"/>
+      </file>
+      <file ID="tiff_00020_0" MIMETYPE="image/tiff" CHECKSUM="6c59a61384c4807bb94a341440e8ef40" CHECKSUMTYPE="MD5" SIZE="37856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00020_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="bb037432e5fd53aa7dabc4d735268c2a" CHECKSUMTYPE="MD5" SIZE="1823717">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00018_1.jp2"/>
+      </file>
+      <file ID="jp2_00019_0" MIMETYPE="image/jp2" CHECKSUM="10dfc59b071aa63453be45bac87f266e" CHECKSUMTYPE="MD5" SIZE="2680713">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00019_0.jp2"/>
+      </file>
+      <file ID="jp2_00019_1" MIMETYPE="image/jp2" CHECKSUM="2906c9da32322e92aa4dcf9be3a626ab" CHECKSUMTYPE="MD5" SIZE="2751580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00019_1.jp2"/>
+      </file>
+      <file ID="jp2_00020_0" MIMETYPE="image/jp2" CHECKSUM="1d5877a5d77ad6bbd76a6105f54ffa9e" CHECKSUMTYPE="MD5" SIZE="2530678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000724_00020_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="cd6d373b4d59200003d07aa654ca85fc" CHECKSUMTYPE="MD5" SIZE="29302">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00018_1.xml"/>
+      </file>
+      <file ID="alto_00019_0" MIMETYPE="text/xml" CHECKSUM="4cbd2ba4c9046ea389fffd3d9cb8c16d" CHECKSUMTYPE="MD5" SIZE="80758">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00019_0.xml"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml" CHECKSUM="473d99650db8d70ac12541d7e03b116b" CHECKSUMTYPE="MD5" SIZE="93233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00019_1.xml"/>
+      </file>
+      <file ID="alto_00020_0" MIMETYPE="text/xml" CHECKSUM="419b6131beebd727cd1148c30182c4be" CHECKSUMTYPE="MD5" SIZE="58870">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000724_redacted_ALTO_00020_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="16" lastpage="19">
+              <court id="b36-5" pgmap="36">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b36-4" pgmap="36">CA CR 92-135</docketnumber>
+              <citation id="AK" pgmap="36">839 S.W.2d 545</citation>
+              <parties id="b36-3" pgmap="36">Randall D. MARTINDILL v. STATE of Arkansas</parties>
+              <decisiondate id="b36-6" pgmap="36">Opinion delivered November 4, 1992</decisiondate>
+              <judges id="b39-8" pgmap="39">Jennings and Danielson, JJ., agree.</judges>
+              <attorneys id="b36-11" pgmap="36">Paul Petty &amp; Robert Meurer, for appellant.</attorneys>
+              <attorneys id="b36-12" pgmap="36">Winston Bryant, Att’y Gen., by: Brad Newman, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b36-13" pgmap="36">Judith Rogers, Judge.</author>
+                <p id="Au" pgmap="36(64) 37(64)">The appellant, Randall D. Mar-­tindill, was arrested for driving while intoxicated by David Newman, an auxiliary police officer for the City of McRae. The arrest occurred when Newman stopped appellant’s vehicle after twice observing it cross the center line of the roadway. During the stop, Newman concluded that appellant was intoxicated, and he transported appellant to the police station in Beebe where there was a breathalyzer machine. At the station, Newman issued appellant citations for driving while intoxicated and driving left of center. Appellant refused to submit to a blood-alcohol test, and the operator of the breathalyzer machine also cited appellant for violating the implied consent law. This appeal follows appellant’s convictions on all charges at a bench trial held in the Circuit Court of White County.</p>
+                <p id="b37-6" pgmap="37">For reversal, appellant contends that at the time of his arrest . the auxiliary officer was not acting under the direct supervision of a designated, on-duty law enforcement officer as is required under the provisions found in Ark. Code Ann. § 12-9-301 (1987) and § 12-9-303 (1987). Consequently, he asserts that he was not legally arrested or validly charged with the offenses of driving while intoxicated and left of center, and argues that the trial court erred in denying his motions to dismiss and to suppress the evidence arising from the arrest. Because we do not accept appellant’s proposition that the auxiliary officer was not properly supervised, we affirm.</p>
+                <p id="b37-7" pgmap="37">Arkansas Code Annotated § 12-9-303 (1987) provides as follows:</p>
+                <blockquote id="b37-8" pgmap="37">(a) An auxiliary law enforcement officer shall have the authority of a police officer as set forth by the statutes of this state when the auxiliary law enforcement officer is performing an assigned duty and is under the direct supervision of a full-time certified law enforcement officer.</blockquote>
+                <blockquote id="b37-9" pgmap="37">(b) When not performing an assigned duty and when not working under the direct supervision of a full-time certified law enforcement officer, an auxiliary law enforce­ment officer shall have no authority other than that of a private citizen.</blockquote>
+                <p id="b37-10" pgmap="37(74) 38(54)">According to Ark. Code Ann. § 12-9-301(8) (1987), “direct supervision” means having a designated on-duty, full-time certi­fied law enforcement officer responsible for the direction, con­duct, and performance of the auxiliary law enforcement officer when that auxiliary law enforcement officer is working an assigned duty. The statute further provides that direct supervi­sion does not mean that the full-time law enforcement officer must be in the physical presence of the auxiliary law enforcement officer when the auxiliary officer is working an assigned duty. It is the appellant’s contention in this appeal that there was no “direct supervision” when the arrest occurred because the supervising officer was not “on-duty” based on evidence that the supervisor was at home and had turned down the volume of his police radio.</p>
+                <p id="b38-6" pgmap="38">As disclosed by the record in this case, Officer Newman stopped appellant’s vehicle at roughly 2:30 a.m. on August 5, 1990. Some five minutes before initiating the stop, Newman had been in contact with Marshall Mark Bishop, who was the officer designated as Newman’s supervisor. Bishop informed Newman that he was going home and he instructed Newman to make one last patrol through town before Newman retired for the evening. Bishop further advised Newman to call him at his residence if any problems were encountered. Newman stopped appellant’s vehicle during this last sweep through town. Newman phoned Bishop immediately upon his arrival at the Beebe police station and he informed Bishop about what had transpired. Bishop told New­man to have the breathalyzer test administered and to call him back when the results were obtained. Newman then informed appellant of the law concerning implied consent and advised appellant of his rights with respect to taking the test. When appellant refused the test, Newman contacted Bishop who directed Newman to issue citations for driving left of center and driving while intoxicated.</p>
+                <p id="b38-7" pgmap="38(166) 39(74)">
+                   Our courts have had occasion to address questions concerning auxiliary police officers in the context of Ark. Code Ann. §§ 12-9-301 and 12-9-303. First, in Brewer v. State, 286 Ark. 1, 688 S.W.2d 736 (1985), the supreme court ruled that unsupervised auxiliary officers did not have the authority to arrest the defendant or validly charge him with the offense of DWI, second offense. The court observed that unsupervised auxiliary officers only had the authority to act as private citizens, who are authorized to make an arrest if it is believed that a felony had been committed, but not a misdemeanor offense such as DWI, second offense. As the auxiliary officers’ citation was the only charging instrument, the supreme court dismissed the case since the unsupervised officers had no authority to issue the citation. Later, in McAfee v. State, 290 Ark. 446, 720 S.W.2d 307 (1986), the court held that the supervisor’s physical presence was not required to validate an arrest by the auxiliary officer. There, the court was also of the opinion that it would be an unreasonable interpretation of the statue to require the auxiliary officer to speak to his supervisor before proceeding with an arrest. Next, in Turnbull v. State, 22 Ark. App. 18, 731 S.W.2d 794 (1987), we rejected the contention that radio contact between the auxiliary officer and his supervisor did not provide direct supervision, noting that the physical presence of the supervisor was not required.</p>
+                <p id="b39-6" pgmap="39">
+                   Here, we think the record amply demonstrates that the auxiliary officer was acting under the direct supervision of his supervisor to the extent required under the statutes. Both New­man and Bishop were aware of each other’s whereabouts at the time of the arrest. Newman was specifically instructed to make one more patrol through the area and was directed to contact Bishop should anything occur. Newman complied with this directive when he phoned Bishop from the police station. More­over, Newman received further instructions from Bishop as to how he should proceed in handling the situation. Notwithstand­ing appellant’s argument that Bishop was not “on-duty” because he was at home, the record supports the view that Bishop, in fact, maintained his role as Newman’s supervisor. Therefore, we find no merit in appellant’s argument that direct supervision was lacking.</p>
+                <p id="b39-7" pgmap="39">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="36" ORDERLABEL="16" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.1" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="37" ORDERLABEL="17" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jp2_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.3" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="18" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jp2_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.2" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="39" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00020_0"/>
+        <fptr FILEID="jp2_00020_0"/>
+        <fptr FILEID="alto_00020_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.3" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.6" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.4" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.7" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.3" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.5" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.7" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.8" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_39.1" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.4" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-13" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.15" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-12" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.14" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.13" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AK" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.5" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.6" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.4" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.5" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.16" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            <area BEGIN="BL_36.17" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            <area BEGIN="BL_37.1" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.6" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

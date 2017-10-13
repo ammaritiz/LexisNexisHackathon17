@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000665_0020" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hancock v. State">Joe Keith HANCOCK v. STATE of Arkansas</name>
+          <docketnumber>CA CR 88-5</docketnumber>
+          <citation category="official" type="bluebook">26 Ark. App. 107</citation>
+          <citation category="parallel" type="bluebook">760 S.W.2d 391</citation>
+          <decisiondate>1988-11-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:43:08Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:56:13Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:19:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:19:48Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00067_0" MIMETYPE="image/tiff" CHECKSUM="ade609e777cd316608a88c2b8a321c3a" CHECKSUMTYPE="MD5" SIZE="12508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00067_0.tif"/>
+      </file>
+      <file ID="tiff_00067_1" MIMETYPE="image/tiff" CHECKSUM="16264dd34d6e867ee74daa4255488271" CHECKSUMTYPE="MD5" SIZE="54218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00067_1.tif"/>
+      </file>
+      <file ID="tiff_00068_0" MIMETYPE="image/tiff" CHECKSUM="46ab6f1f72adb1070f52734131ff8b1b" CHECKSUMTYPE="MD5" SIZE="22066">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00068_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00067_0" MIMETYPE="image/jp2" CHECKSUM="36be5e05cf5d20d80bd0f5d395f06628" CHECKSUMTYPE="MD5" SIZE="1602035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00067_0.jp2"/>
+      </file>
+      <file ID="jp2_00067_1" MIMETYPE="image/jp2" CHECKSUM="cf435e74d8f086fbc92cf6ccc5f93268" CHECKSUMTYPE="MD5" SIZE="2560044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00067_1.jp2"/>
+      </file>
+      <file ID="jp2_00068_0" MIMETYPE="image/jp2" CHECKSUM="74e476acae62d5362f8659810587302d" CHECKSUMTYPE="MD5" SIZE="2261044">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00068_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00067_0" MIMETYPE="text/xml" CHECKSUM="5f2e6f1d30ce3e1d606ccc79eb45baeb" CHECKSUMTYPE="MD5" SIZE="18193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00067_0.xml"/>
+      </file>
+      <file ID="alto_00067_1" MIMETYPE="text/xml" CHECKSUM="ed99ee59c9f37d0be809665d36aa94a9" CHECKSUMTYPE="MD5" SIZE="90126">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00067_1.xml"/>
+      </file>
+      <file ID="alto_00068_0" MIMETYPE="text/xml" CHECKSUM="3b4865ecd350794350f90ba8ea0594a7" CHECKSUMTYPE="MD5" SIZE="36890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00068_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="109" firstpage="107">
+              <court pgmap="133" id="b133-5">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="133" id="b133-4">CA CR 88-5</docketnumber>
+              <citation pgmap="133" id="AvTl">760 S.W.2d 391</citation>
+              <parties pgmap="133" id="b133-3">Joe Keith HANCOCK v. STATE of Arkansas</parties>
+              <decisiondate pgmap="133" id="b133-6">Opinion delivered November 30, 1988</decisiondate>
+              <judges pgmap="135" id="b135-7">Cracraft and Coulson, JJ., agree.</judges>
+              <attorneys pgmap="133" id="b133-16">Hankins &amp; Childers, for appellant.</attorneys>
+              <attorneys pgmap="133" id="b133-17">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="133" id="b133-18">John E. Jennings, Judge.</author>
+                <p pgmap="133(16) 134(113)" id="Azu">The defendant was charged in Pike County Circuit Court with second degree battery, a class D felony. Two days after his arrest, the defendant was released on a $5,000.00 corporate surety bond. At arraignment, he appeared without counsel, asserted that he was indigent, and asked the court to appoint an attorney to represent him. It is clear from the record that the trial court declined to appoint counsel solely on the basis that the defendant had made a corporate surety bond. The court did appoint “standby” counsel to help the defendant with jury selection. After a jury trial, at which the defendant pro­ceeded pro se, he was convicted of battery in the third degree, a class A misdemeanor, and sentenced to one year in jail, and fined $1,000.00.</p>
+                <p pgmap="134" id="b134-6">
+                   The issue presented on appeal is whether the trial court may constitutionally refuse to appoint counsel for an indigent defendant on the sole ground that he has been released on bail furnished by a professional bondsman. Because the answer is no, the case must be reversed and remanded for new trial.</p>
+                <p pgmap="134" id="b134-7">
+                   The sixth amendment to the United States Constitution provides that a criminal defendant shall have the right to the assistance of counsel. In Gideon v. Wainwright, 372 U.S. 335 (1963), the United States Supreme Court held that the right to counsel in a criminal prosecution was made applicable to the states through the due process clause of the fourteenth amendment.</p>
+                <p pgmap="134" id="b134-8">While the issue has not arisen in this state, other courts have held that the posting of bail by a defendant does not conclusively establish that he is non-indigent. People v. Wood, 91 Ill. App. 3d 414, 414 N.E.2d 759 (1980); People v. Eggers, 27 Ill. 2d 85, 188 N.E.2d 30 (1963); State v. Gardner, 626 S.W.2d 721 (Tenn. Ct. App. 1981); People v. Gillespie, 42 Mich. App. 679, 202 N.W.2d 552 (1972); Moore v. State, 401 N.E.2d 676 (Ind. 1980); People v. Valdery, 41 Ill. App. 3d 201, 354 N.E.2d 7 (1976); Williams v. Superior Court, 226 Cal. 2d 666, 38 Cal. Rptr. 291 (1964). See also Sizemore v. Commonwealth, 450 S. W.2d 497 (Ky. Ct. App. 1970); McCraw v. State, 476 P.2d 370 (Okla. Crim. App. 1970); Sapio v. State, 223 So.2d 759 (Fla. Dist. Ct. App. 1969), State v. Brown, 557 S.W.2d 687 (Mo. Ct. App. 1977); 1 American Bar Association, Standards For Criminal Justice § 5-6.1 (2nd ed. 1986). There appear to be no cases holding to the contrary.</p>
+                <p pgmap="135" id="b135-5">
+                   We recognize that a defendant’s ability to post bond may be a factor to be considered by the trial court in making its determination of indigency. See Toomer v. State, 263 Ark. 595, 566 S.W.2d 393 (1978). On appeal, we do not reverse the trial court’s ruling as to indigency vel non, absent an abuse of discretion. See Jordan v. State, 273 Ark. 75, 616 S.W.2d 480 (1980). In the case at bar, we hold only that the trial court failed to exercise that discretion by accepting the defendant’s release on bail as conclusive evidence of non-indigency. On remand, the trial court should determine whether the defendant is in fact indigent, prior to re-trial.</p>
+                <p pgmap="135" id="b135-6">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="133" ORDERLABEL="107" TYPE="page">
+        <fptr FILEID="tiff_00067_0"/>
+        <fptr FILEID="jp2_00067_0"/>
+        <fptr FILEID="alto_00067_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_133.2" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="134" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00067_1"/>
+        <fptr FILEID="jp2_00067_1"/>
+        <fptr FILEID="alto_00067_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_134.2" BETYPE="IDREF" FILEID="alto_00067_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="135" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00068_0"/>
+        <fptr FILEID="jp2_00068_0"/>
+        <fptr FILEID="alto_00068_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_135.2" BETYPE="IDREF" FILEID="alto_00068_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-18" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.17" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-16" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.15" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-17" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.16" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Azu" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.18" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_133.19" BETYPE="IDREF" FILEID="alto_00067_0"/>
+            <area BEGIN="BL_134.1" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.6" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvTl" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.5" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.7" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.4" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.6" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b133-3" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_133.3" BETYPE="IDREF" FILEID="alto_00067_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.5" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b134-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_134.4" BETYPE="IDREF" FILEID="alto_00067_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.3" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.4" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b135-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_135.5" BETYPE="IDREF" FILEID="alto_00068_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

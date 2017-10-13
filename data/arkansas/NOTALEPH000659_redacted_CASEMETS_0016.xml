@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000659_0016" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Roberts v. Roberts">Michael H. ROBERTS v. Jennifer Kay ROBERTS</name>
+          <docketnumber>CA 99-722</docketnumber>
+          <citation category="official" type="bluebook">70 Ark. App. 94</citation>
+          <citation category="parallel" type="bluebook">14 S.W.3d 529</citation>
+          <decisiondate>2000-04-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T02:07:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:23:30Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:27:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="a5ce59755bfff29ab7247802dc88e795" CHECKSUMTYPE="MD5" SIZE="18680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="db8413236b827e025d64125337c4ae47" CHECKSUMTYPE="MD5" SIZE="37964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="c799527fc09ec5f738ebfb2b37b339fe" CHECKSUMTYPE="MD5" SIZE="28594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00063_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="b2b72823ae2f665c46766416e77d9a35" CHECKSUMTYPE="MD5" SIZE="2019239">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="237726c0822fbb13cd0f853562659b33" CHECKSUMTYPE="MD5" SIZE="2214674">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="f34394ee38042bca3bbc4b60d3745212" CHECKSUMTYPE="MD5" SIZE="2556717">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00063_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="5a9f280ff2eb49cee65ae4f280e79eaf" CHECKSUMTYPE="MD5" SIZE="28248">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="6f34c0c10f36d96cf93d11c6a057f8d3" CHECKSUMTYPE="MD5" SIZE="65911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="0aaa056234045ffcfc710bb53e2e65c1" CHECKSUMTYPE="MD5" SIZE="48906">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00063_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0016" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="94" lastpage="96">
+              <court id="b124-9" pgmap="124">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="Ahpt" pgmap="124">CA 99-722</docketnumber>
+              <citation id="A4s" pgmap="124">14 S.W.3d 529</citation>
+              <parties id="b124-8" pgmap="124">Michael H. ROBERTS v. Jennifer Kay ROBERTS</parties>
+              <decisiondate id="b124-10" pgmap="124">Opinion delivered April 19, 2000</decisiondate>
+              <judges id="b126-8" pgmap="126">Robbins, C.J., and Bird, J., agree.</judges>
+              <attorneys id="b125-7" pgmap="125">Henry Law Farm, PA., by; David P. Henry, for appellant.</attorneys>
+              <attorneys id="b125-8" pgmap="125">Meredith Wineland, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="AaF" pgmap="125">Terry Crabtree, Judge.</author>
+                <p id="AOA" pgmap="125">Appellant Michael Roberts appeals the March 16, 1999, Decree of Divorce from his wife, Jennifer Roberts. On appeal he argues the following points: (1) the trial court erred in entering a final decree of divorce without distributing all marital property as required by Ark. Code Ann § 9-­12-315 (a)(1)(A) (Repl. 1998), and (2) the trial court erred in ruling that the property which is to be distributed should be divided as of the date of the hearing of statutory grounds for divorce, rather than when the decree is entered. We dismiss.</p>
+                <p id="b125-10" pgmap="125(163) 126(13)">
+                   Rule 2(a)(1) of the Appellate Rules of Procedure— Civil provides that an appeal may be taken from a final judgment or decree entered by the trial court. When the order appealed from is not final, this court will not decide the merits of the appeal. Arkan­sas Dep’t of Human Servs. v. Lopez, 302 Ark. 154, 787 S.W.2d 686 (1990). Whether a final judgment, decree, or order exists is a jurisdictional issue that we have the duty to raise, even if the parties do not, in order to avoid piecemeal litigation. Id. For a judgment to be final, it must dismiss the parties from the court, discharge them from the action, or conclude their rights to the subject matter in controversy. Id. Thus, the order must put the trial court’s directive into execution, ending the litigation, or a separable branch of it. K.W. v. State, 327 Ark. 205, 937 S.W.2d 658 (1997). Where the order appealed from reflects that further proceedings are pending, which do not involve merely collateral matters, the order is not final. Id.</p>
+                <p id="b126-6" pgmap="126">
+                   The March 16, 1999, Decree of Divorce does not con­clude the parties’ property rights in respect to a number of issues including but not limited to the following: the appellant’s entitle­ment to one-half of the amount of principal reduction from the date of marriage until the date of separation on the Foster Street home, division of the pension plans, division of the property on Johnson Road, and the disclosure of assets not included. This order does not dismiss the parties from the court, discharge them from the action, or conclude their rights to the subject matter in controversy. Furthermore, where the record reflects that both parties did agree that no property division was to be made at the time the decree was entered, not distributing the property at that time was not error. Forest v. Forest, 279 Ark. 115, 649 S.W.2d 173 (1983). In this case, the parties acknowledged that they would have to determine what property was to be divided in kind or sold. Therefore, this order is not a final appealable order, and we dismiss this appeal.</p>
+                <p id="b126-7" pgmap="126">Dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="124" ORDERLABEL="94" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.2" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="95" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.2" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.11" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaF" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.9" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4s" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.9" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOA" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.10" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_125.11" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_125.12" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-10" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.13" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-9" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.10" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.7" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.8" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahpt" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.8" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b125-7" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_125.7" BETYPE="IDREF" FILEID="alto_00063_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-8" BETYPE="IDREF" FILEID="casebody_0016"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000636_0019" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Turley v. State">Theresa Ann TURLEY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 89-301</docketnumber>
+          <citation category="official" type="bluebook">32 Ark. App. 89</citation>
+          <citation category="parallel" type="bluebook">796 S.W.2d 851</citation>
+          <decisiondate>1990-10-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T15:39:09Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:59:30Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:27:11Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:27:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00057_0" MIMETYPE="image/tiff" CHECKSUM="e7d0269a4852f5f8007a97cd4f813952" CHECKSUMTYPE="MD5" SIZE="25222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00057_0.tif"/>
+      </file>
+      <file ID="tiff_00057_1" MIMETYPE="image/tiff" CHECKSUM="0fbbf9aa2bffa2422ecd42f015a6dc85" CHECKSUMTYPE="MD5" SIZE="56512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00057_1.tif"/>
+      </file>
+      <file ID="tiff_00058_0" MIMETYPE="image/tiff" CHECKSUM="867aef817f133585e977a91022120806" CHECKSUMTYPE="MD5" SIZE="51944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00058_0.tif"/>
+      </file>
+      <file ID="tiff_00058_1" MIMETYPE="image/tiff" CHECKSUM="7f37fccdc04b19dd0276f80a470efdb5" CHECKSUMTYPE="MD5" SIZE="57798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00058_1.tif"/>
+      </file>
+      <file ID="tiff_00059_0" MIMETYPE="image/tiff" CHECKSUM="6d2dfe4056ac65c9b270001b18cd77aa" CHECKSUMTYPE="MD5" SIZE="53252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00059_0.tif"/>
+      </file>
+      <file ID="tiff_00059_1" MIMETYPE="image/tiff" CHECKSUM="6fde962d550f6e0a91ca17df943dee75" CHECKSUMTYPE="MD5" SIZE="31712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00059_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00057_0" MIMETYPE="image/jp2" CHECKSUM="2b8b1d8c651d7a84fd4d45c176df1caa" CHECKSUMTYPE="MD5" SIZE="1984844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00057_0.jp2"/>
+      </file>
+      <file ID="jp2_00057_1" MIMETYPE="image/jp2" CHECKSUM="0b3bdfeec154c4d2a5d1cb6d636fab45" CHECKSUMTYPE="MD5" SIZE="2581553">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00057_1.jp2"/>
+      </file>
+      <file ID="jp2_00058_0" MIMETYPE="image/jp2" CHECKSUM="d062ef69c28e12975d2e22703e42c7ef" CHECKSUMTYPE="MD5" SIZE="2563423">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00058_0.jp2"/>
+      </file>
+      <file ID="jp2_00058_1" MIMETYPE="image/jp2" CHECKSUM="b470d1752180d176cf6aebdd739d8190" CHECKSUMTYPE="MD5" SIZE="2638934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00058_1.jp2"/>
+      </file>
+      <file ID="jp2_00059_0" MIMETYPE="image/jp2" CHECKSUM="c273ddbb7188a8046193d0877485de41" CHECKSUMTYPE="MD5" SIZE="2603748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00059_0.jp2"/>
+      </file>
+      <file ID="jp2_00059_1" MIMETYPE="image/jp2" CHECKSUM="b2e96928ec999431008eff6c9473e150" CHECKSUMTYPE="MD5" SIZE="2075496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000636_00059_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00057_0" MIMETYPE="text/xml" CHECKSUM="c6836fa40c095e9cc86575720b620063" CHECKSUMTYPE="MD5" SIZE="42342">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000636_redacted_ALTO_00057_0.xml"/>
+      </file>
+      <file ID="alto_00057_1" MIMETYPE="text/xml" CHECKSUM="fef980c921703ae07c703a2c1c3e8b39" CHECKSUMTYPE="MD5" SIZE="94510">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000636_redacted_ALTO_00057_1.xml"/>
+      </file>
+      <file ID="alto_00058_0" MIMETYPE="text/xml" CHECKSUM="6eac3e6eb2ffa17dd93b7849ac05d162" CHECKSUMTYPE="MD5" SIZE="86324">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000636_redacted_ALTO_00058_0.xml"/>
+      </file>
+      <file ID="alto_00058_1" MIMETYPE="text/xml" CHECKSUM="69b62e21869ba389c126b1b8b662853b" CHECKSUMTYPE="MD5" SIZE="95794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000636_redacted_ALTO_00058_1.xml"/>
+      </file>
+      <file ID="alto_00059_0" MIMETYPE="text/xml" CHECKSUM="264a0ac5ce04b50d400370dc05b519dd" CHECKSUMTYPE="MD5" SIZE="87465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000636_redacted_ALTO_00059_0.xml"/>
+      </file>
+      <file ID="alto_00059_1" MIMETYPE="text/xml" CHECKSUM="157aa57741c45754eb4035a5a5f23231" CHECKSUMTYPE="MD5" SIZE="52417">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000636_redacted_ALTO_00059_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="94" firstpage="89">
+              <court id="b113-5" pgmap="113">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber id="b113-4" pgmap="113">CA CR 89-301</docketnumber>
+              <citation id="AH0" pgmap="113">796 S.W.2d 851</citation>
+              <parties id="b113-3" pgmap="113">Theresa Ann TURLEY v. STATE of Arkansas</parties>
+              <decisiondate id="b113-6" pgmap="113">Opinion delivered October 17, 1990</decisiondate>
+              <judges id="b115-9" pgmap="115">Cooper, J., concurs.</judges>
+              <judges id="b115-10" pgmap="115">Wright, Acting C.J., dissents.</judges>
+              <attorneys id="b113-10" pgmap="113">William R. Simpson, Jr., Public Defender, by: Jerry J. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys id="b113-11" pgmap="113">Steve Clark, Att’y Gen., by: Paul L. Cherry, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b113-12" pgmap="113">Judith Rogers, Judge.</author>
+                <p id="ARt" pgmap="113">The appellant, Theresa Ann Turley, was found guilty by a jury of theft of property having a value of $2,500 or more, a class B felony, in violation of Ark. Code Ann. § 5-36-103 (Supp. 1989). Upon conviction, appellant was sentenced as an habitual offender to a term of thirty years in prison. For reversal, appellant argues that the trial court erred in refusing to instruct the jury on the lesser degree of theft of property, valued at less than $2,500 but more than $200, which is a class C felony, and in permitting the introduction of hearsay testimony. We find merit in the first issue raised, and reverse and remand.</p>
+                <p id="b114-3" pgmap="114">The victim in this case was Ben Gibson. He testified that on December 15, 1988, numerous items were stolen from him, totalling $4,508 in value. He related on direct examination that he had recovered one of the items, a gold bracelet, and without objection, he testified that he valued it at $2,700, based on what he had paid for it three years ago.</p>
+                <p id="b114-4" pgmap="114">The state also presented the testimony of George Ikard, a pawn shop owner. He told the jury that appellant pawned this gold bracelet on December 16, 1988, in exchange for $283. On cross-examination, Ikard explained that the amount he gave the appellant for the bracelet was sixty percent of what he thought it was worth, and that he could duplicate the piece new for $500. He also stated that $500 represented the wholesale cost, and that one probably could not purchase the bracelet at retail for that amount.</p>
+                <p id="b114-5" pgmap="114">Appellant first argues that, based on Ikard’s testimony, the trial court erred in refusing to give the proffered instruction on theft of property having a value of less than $2,500, but more than $200. We agree.</p>
+                <p id="b114-6" pgmap="114">
+                   According to Ark. Code Ann. § 5-36-103(b)(l)(A) (Supp. 1989), theft of property is classified as a class B felony if the value of the property is $2,500 or more. Under subsection (b)(2)(A), the offense is a class C felony if the value is greater than $200, but less than $2,500. We have held that where there is the slightest evidence to warrant an instruction on a lesser included offense, it is error to refuse to give it. Johnson v. State, 28 Ark. App. 256, 773 S.W.2d 450 (1989).</p>
+                <p id="b114-7" pgmap="114(126) 115(9)">
+                   Here, the victim testified that the total value of the items stolen was $4,508, and included in his estimation was the $2,700 value placed on the gold bracelet. Mr. Ikard, however, gave testimony valuing the bracelet at only $500, which, if believed by the jury, would have reduced the total value of the property to less than $2,500. Thus, the evidence was not so conclusive as to demonstrate that only the greater offense could have been committed by the appellant. The jury was entitled to consider Mr. Ikard’s testimony; therefore, it was error to refuse an instruction on the lesser degree of theft. Although we hold that the instruction should have been given, the evidence was conflict­ing, and thus susceptible to more than one interpretation. Accordingly, we reverse and remand for a new trial.</p>
+                <p id="b115-6" pgmap="115">As her second point on appeal, appellant contends that the trial court erred in allowing the admission of hearsay testimony. The subject of this objection concerns the victim’s testimony regarding the use of his stolen credit cards. Mr. Gibson testified that several credit cards were taken from him, which he reported missing to the issuers on December 16, 1988. Gibson testified, over the appellant’s objection, that he received monthly state­ments from the credit card companies showing that four charges were made on December 16th, and one on December 21st, for a total of $275.05. He further stated that he did not make these charges and that he did not authorize anyone to use his credit cards.</p>
+                <p id="b115-7" pgmap="115">Under Ark. R. Evid. 801(c) hearsay is defined as “a statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted.” Thus, to determine whether testimony is hearsay, it is necessary to consider the, purpose for which it is offered. It is not clear, from the record in the instant case, what the testimony objected to was intended to prove. Furthermore, the hearsay argument is made in general terms without applica­tion to specific objections. We, therefore, have concluded that discussion of the hearsay issue in this opinion would not be helpful as the same situation is not likely to arise on retrial. See Bennett v. State, 302 Ark. 179, 186, 789 S.W.2d 436 (1990); Hodge v. State, 27 Ark. App. 93, 99, 766 S.W.2d 619 (1989).</p>
+                <p id="b115-8" pgmap="115">Reversed and Remanded.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author id="b115-11" pgmap="115">James R. Cooper, Judge,</author>
+                <p id="A6J" pgmap="115">concurring. An issue not argued, but which arose in our conference, concerns the proper disposition of a case where a conviction is reversed because the trial court erroneously failed to instruct the jury on a lesser-included offense. The sufficiency of the evidence to support the greater offense of which the appellant was convicted was not challenged on appeal. The only relief requested by the appellant was a new trial. This is the relief granted in the majority opinion.</p>
+                <p id="b116-5" pgmap="116">The dissent maintains that we can and should modify the judgment appealed from in this case and fix punishment in conformity with the permissible sentence for the lesser included offense for which no instruction was given, citing Hamilton v. State, 262 Ark. 366, 556 S.W.2d 884 (1977); Richie v. State, 261 Ark. 7, 545 S.W.2d 638 (1977); Osborne v. State, 237 Ark. 170, 371 S.W.2d 518 (1963); Bailey v. State, 206 Ark. 121, 173 S.W.2d 1010 (1943); and Woodall v. State, 200 Ark. 665, 140 S.W.2d 424 (1940) as authority for such a disposition. It should, perhaps, be noted in passing that several of those cases are distinguishable from the situated presented in the case at bar. In Osborne, the punishment was reduced, but the attorney general was given seventeen days to file a request for a new trial if desired. 237 Ark. at 172. In both Ritchie and Bailey, the Supreme Court reversed and remanded unless the attorney general elected that the judgment be modified to impose sentence for the lesser offense. 261 Ark. at 9; 206 Ark. at 132. Hamilton is something of an anomoly: although it did result in the disposition urged by the dissent, it did so without citation to authority, see 262 Ark. at 375, and it has not been followed. I have found no case since 1977 which reduces punishment rather than remanding for new trial under the circumstances presented by the case at bar. Recent cases that do remand in this situation include Campbell v. State, 300 Ark. 606, 780 S.W.2d 567 (1989); Henson v. State, 296 Ark. 472, 757 S.W.2d 560 (1987); Johnson v. State, 28 Ark. App. 256, 773 S.W.2d 450 (1989); and Savannah v. State, 7 Ark. App. 161, 645 S.W.2d 694 (1983).</p>
+                <p id="b116-6" pgmap="116">Although I do not dispute that there is some authority for the proposition that we are authorized to modify the judgment and fix a reduced sentence when we reverse solely on the basis of error in failing to instruct the jury on a lesser-included offense, I submit that it is the better practice to reverse and remand for a new trial in such cases.</p>
+                <p id="b116-7" pgmap="116">There is an inherent contradiction between a reversal based on failure to instruct the jury on a lesser included offense, and a disposition which forcloses consideration of that issue by a jury by judicial modification of the sentence. In this sense, the Bailey opinion is instructive. In discussing the merits of Bailey’s argu­ment, the Supreme Court said”</p>
+                <blockquote id="b117-5" pgmap="117">It is not a question of whether we believe the defendant; the point is that he had a right to have his story submitted to the jury. That is the purpose of our jury system; and the court denied him this right; and for the failure to submit the issue of voluntary manslaughter to the jury this cause must be reversed.</blockquote>
+                <p id="b117-6" pgmap="117">106 Ark. at 130. Nevertheless, although the Bailey Court recognized the importance of allowing a criminal defendant to exercise his right to “have his story submitted to the jury” under our system of law, it ultimately denied Bailey this right by modifying the judgment and setting punishment, rather than remanding for a new trial in which both of those issues would be submitted to the jury. This same contradiction is apparent in Hamilton, which cited a case which remanded for a new trial as support for the proposition that it is “the prerogative of the jury to evaluate the conflicting evidence and resolve the issue [of a lesser included offense and its punishment].” Hamilton, supra, citing Milburn v. State, 260 Ark. 553, 542 S.W.2d 490 (1976). The Hamilton court, however, departed from Milburn by modifying the judgment to impose sentence on the lesser included offense without remand.</p>
+                <p id="b117-7" pgmap="117">As noted, Arkansas appellate courts have since 1977 estab­lished a practice of reversing and remanding in cases similar to the one at bar. I believe that it would be unwise to depart from that long-standing practice, especially in a case where a new trial is the only remedy requested. The disposition favored by the dissent does promote judicial economy, but it does so, in may view, by discounting the importance of the jury as the arbiter of guilt and punishment under Arkansas law. Adoption of the dissenting viewpoint would mean that the Court’s error would cost the appellant his right to “have his story submitted to the jury.”</p>
+                <p id="b117-8" pgmap="117">I concur.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author id="b117-9" pgmap="117">Ernie E. Wright, Acting Chief Judge,</author>
+                <p id="Ahe" pgmap="117">dissenting. I concur with the majority opinion holding it was prejudicial error for the trial judge to refuse appellant’s request to instruct the jury on the lesser included degree of theft of property.</p>
+                <p id="b117-10" pgmap="117(9) 118(21)">I respectfully dissent from the majority decision to reverse and remand the case for a new trial because of the failure to instruct on the lesser included degree of theft.</p>
+                <p id="b118-6" pgmap="118">Here the evidence of theft was overwhelming and reversal for a new trial is not required. The error in failing to give the instruction on the lesser included degree of theft had no bearing upon the jury’s determination of guilt or innocence. The error affected only the punishment imposed. In these circumstances the appellate court may modify the judgment appealed from and fix a reduced sentence. The following cases are authority for this procedure. Hamilton v. State, 262 Ark. 366, 556 S.W.2d 884 (1977); Richie v. State, 261 Ark. 7, 545 S.W.2d 638 (1977); Osborne v. State, 237 Ark. 170, 371 S.W.2d 518 (1963); Bailey v. State, 206 Ark. 121, 173 S.W.2d 1010 (1943); Woodall v. State, 200 Ark. 665, 140 S.W.2d 424 (1940).</p>
+                <p id="b118-7" pgmap="118">Reversing and remanding the case for a new trial is, in my view, a very inefficient way to deal with the error.</p>
+                <p id="b118-8" pgmap="118">The sentence should simply be modified to a sentence in conformity with the permissible sentence for the lesser included degree of theft, and the case affirmed as modified.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="113" ORDERLABEL="89" TYPE="page">
+        <fptr FILEID="tiff_00057_0"/>
+        <fptr FILEID="jp2_00057_0"/>
+        <fptr FILEID="alto_00057_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.2" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="114" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00057_1"/>
+        <fptr FILEID="jp2_00057_1"/>
+        <fptr FILEID="alto_00057_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.1" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="115" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00058_0"/>
+        <fptr FILEID="jp2_00058_0"/>
+        <fptr FILEID="alto_00058_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.3" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="116" ORDERLABEL="92" TYPE="page">
+        <fptr FILEID="tiff_00058_1"/>
+        <fptr FILEID="jp2_00058_1"/>
+        <fptr FILEID="alto_00058_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_116.1" BETYPE="IDREF" FILEID="alto_00058_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="117" ORDERLABEL="93" TYPE="page">
+        <fptr FILEID="tiff_00059_0"/>
+        <fptr FILEID="jp2_00059_0"/>
+        <fptr FILEID="alto_00059_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_117.2" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="118" ORDERLABEL="94" TYPE="page">
+        <fptr FILEID="tiff_00059_1"/>
+        <fptr FILEID="jp2_00059_1"/>
+        <fptr FILEID="alto_00059_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_118.2" BETYPE="IDREF" FILEID="alto_00059_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.7" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            <area BEGIN="BL_115.1" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.6" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.13" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.14" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.15" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AH0" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.5" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.5" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6J" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.10" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            <area BEGIN="BL_115.11" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.5" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.4" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.8" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.9" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.10" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            <area BEGIN="BL_118.1" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARt" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.16" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_113.17" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.6" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.7" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.5" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.4" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b116-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_116.3" BETYPE="IDREF" FILEID="alto_00058_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ahe" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.8" BETYPE="IDREF" FILEID="alto_00059_0"/>
+            <area BEGIN="BL_117.9" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.3" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.7" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b118-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_118.4" BETYPE="IDREF" FILEID="alto_00059_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.4" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.5" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.5" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.4" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.6" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.7" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.4" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.6" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.6" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.3" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b117-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_117.3" BETYPE="IDREF" FILEID="alto_00059_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

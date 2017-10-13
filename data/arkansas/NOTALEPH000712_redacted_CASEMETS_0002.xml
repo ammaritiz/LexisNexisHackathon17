@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000712_0002" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Garland v. Garland">Dorothy M. GARLAND v. James R. GARLAND</name>
+          <docketnumber>CA 01-1194</docketnumber>
+          <citation category="official" type="bluebook">79 Ark. App. 10</citation>
+          <citation category="parallel" type="bluebook">84 S.W.3d 44</citation>
+          <decisiondate>2002-08-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T02:12:41Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:41:47Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T12:54:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T12:57:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="da28f152ff113b26630383490e5034bd" CHECKSUMTYPE="MD5" SIZE="17164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00018_1.tif"/>
+      </file>
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="fe471990238b057bd4f9f9b862f72885" CHECKSUMTYPE="MD5" SIZE="15840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="628fab8ba428e1741804a4f74747d428" CHECKSUMTYPE="MD5" SIZE="50980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00019_1.tif"/>
+      </file>
+      <file ID="tiff_00020_0" MIMETYPE="image/tiff" CHECKSUM="2c0f0d37373326ac9ca3ff4bdc18df1e" CHECKSUMTYPE="MD5" SIZE="51334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00020_0.tif"/>
+      </file>
+      <file ID="tiff_00020_1" MIMETYPE="image/tiff" CHECKSUM="db1ef3ecbcb71d554698a30795505e4d" CHECKSUMTYPE="MD5" SIZE="49368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00020_1.tif"/>
+      </file>
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="56fc18171319f4c2067a0f94afbf9f3e" CHECKSUMTYPE="MD5" SIZE="12220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00021_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="29d8db1f4accf56f54f959c51fefcedf" CHECKSUMTYPE="MD5" SIZE="1817643">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00018_1.jp2"/>
+      </file>
+      <file ID="jp2_00019_0" MIMETYPE="image/jp2" CHECKSUM="1a4189e8bc5b65dee13a4a64ba11a0c6" CHECKSUMTYPE="MD5" SIZE="1548445">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00019_0.jp2"/>
+      </file>
+      <file ID="jp2_00019_1" MIMETYPE="image/jp2" CHECKSUM="051d59c8b23e9e966a62d2803332a004" CHECKSUMTYPE="MD5" SIZE="2530625">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00019_1.jp2"/>
+      </file>
+      <file ID="jp2_00020_0" MIMETYPE="image/jp2" CHECKSUM="2c7a3ec4b897a464705f4a5029b895c8" CHECKSUMTYPE="MD5" SIZE="2549073">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00020_0.jp2"/>
+      </file>
+      <file ID="jp2_00020_1" MIMETYPE="image/jp2" CHECKSUM="20c98c18144217102be1ecf54ee93115" CHECKSUMTYPE="MD5" SIZE="2578617">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00020_1.jp2"/>
+      </file>
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="513bed33f6c30c84bd643344f3d53a61" CHECKSUMTYPE="MD5" SIZE="1736067">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000712_00021_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="4b887b756b001859c0b2ab42a2bb513b" CHECKSUMTYPE="MD5" SIZE="24860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00018_1.xml"/>
+      </file>
+      <file ID="alto_00019_0" MIMETYPE="text/xml" CHECKSUM="26ec3d6af6c5824dae8205f522ad6f96" CHECKSUMTYPE="MD5" SIZE="21534">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00019_0.xml"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml" CHECKSUM="52e183463f851479a53bea09520b6ed0" CHECKSUMTYPE="MD5" SIZE="85796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00019_1.xml"/>
+      </file>
+      <file ID="alto_00020_0" MIMETYPE="text/xml" CHECKSUM="f96d41c9420f6634bd03a5981cd9c17a" CHECKSUMTYPE="MD5" SIZE="87454">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00020_0.xml"/>
+      </file>
+      <file ID="alto_00020_1" MIMETYPE="text/xml" CHECKSUM="82455858c81fabce9be269a656ca8172" CHECKSUMTYPE="MD5" SIZE="85463">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00020_1.xml"/>
+      </file>
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="628a203ea7d013ce3092f4384f51184f" CHECKSUMTYPE="MD5" SIZE="18167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000712_redacted_ALTO_00021_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="10" lastpage="15">
+              <court pgmap="36" id="b36-9">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="36" id="AnA">CA 01-1194</docketnumber>
+              <citation pgmap="36" id="AA">84 S.W.3d 44</citation>
+              <parties pgmap="36" id="b36-8">Dorothy M. GARLAND v. James R. GARLAND</parties>
+              <decisiondate pgmap="36" id="b36-10">Opinion delivered August 28, 2002</decisiondate>
+              <otherdate pgmap="36" id="Au1">[Petition for rehearing denied October 2, 2002.]</otherdate>
+              <judges pgmap="41" id="b41-6">Stroud, C.J., and Crabtree, J., agree.</judges>
+              <attorneys pgmap="37" id="b37-12">Sharon M. Fortenberry, for appellant.</attorneys>
+              <attorneys pgmap="37" id="b37-13">Brockman, Norton &amp; Taylor, by:’ C. Mac Norton, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="37" id="b37-14">Sam Bird, Judge.</author>
+                <p pgmap="37(63) 38(60)" id="APJ">James and Dorothy Garland, who were married thirty-four years, were divorced in 1987. James was employed by International Paper Company and participated in its retirement pension plan. Upon the divorce, Dorothy was awarded a portion of this retirement pension in the amount of $208.60 per month, which she would begin receiving when James retired. No qualified domestic relations order relating to the pen­sion benefits was entered in connection with the 1987 divorce. In December of 1997, James and Dorothy remarried. In January of 1998, James retired and elected to have a portion of his retirement pension paid in the form of a survivor annuity, which would pro­vide $337.29 per month for his wife after his death should he pre­decease her.</p>
+                <p pgmap="38" id="b38-4">In 1999, the parties separated once again and their second divorce was finalized in April of 2000. In the 2000 divorce decree, the trial court ruled that Dorothy’s right to the $208.60 under the first decree became unenforceable upon her remarriage to James; that, even if it were enforceable, Dorothy waived any right to the $208.60 in the parties’ 2000 settlement agreement; and that, for the foregoing reasons, the court could not enter a qualified domestic relations order relating to the 1987 property division.</p>
+                <p pgmap="38" id="b38-5">Dorothy appeals, contending that the trial court erred in finding that the 1987 property division of the retirement benefits became unenforceable upon the parties’ remarriage in 1997 and that the trial court erred in its finding that Dorothy had waived her share of those benefits. We agree with her points of appeal, and we hold that the 1987 property division was not affected by the parties’ remarriage and that Dorothy did not waive her bene­fits under the 1987 decree. Dorothy’s right to receive her $208.60 share of James’s retirement benefits matured upon James’s retire­ment in January 1998. Although Dorothy did not receive that sum in cash during the brief period between James’s retirement and their separation, she did receive the benefit in the form of marital support until the date of their separation. Therefore, we reverse and remand with directions to the trial court as set forth hereunder.</p>
+                <p pgmap="38(71) 39(90)" id="b38-6">
+                   It is generally said that a separation agreement is abrogated when the parties resume a marital relationship because the consideration for the settlement fails, at least insofar as the executory provisions are concerned. Arnold v. Arnold, 261 Ark. 734, 553 S.W.2d 251 (1977). A property settlement, however, is generally held to be a final and binding contract between the par­ties that can only be voided by mutual agreement. Id. Reconcili­ation alone does not terminate the settlement. Id. The settlement survives the reconciliation unless the court can find an intention or an express agreement that it shall not survive. McMurtray v. McMurtray, 275 Ark. 303, 629 S.W.2d 285 (1982); Arnold, supra. We will not reverse a trial court’s findings of fact unless the find­ings are clearly erroneous, nor will we reverse a trial court’s divi­sion of property unless it is clearly against the preponderance of the evidence. See Bagwell v. Bagwell, 282 Ark. 403, 668 S.W.2d 949 (1984).</p>
+                <p pgmap="39" id="b39-5">James contends that the 1987 division is unenforceable because the parties, by their remarriage, intended to abrogate the prior agreement; and that such intent was further evidenced by James’s election, and by Dorothy’s acquiescence in his election, of the survivor annuity benefit at the time of his retirement. He fur­ther contends that Dorothy waived any right to the 1987 award by her failure to seek enforcement of her right when he retired and by her express waiver in their 2000 settlement agreement. We disagree.</p>
+                <p pgmap="39" id="b39-6">
+                   Waiver occurs when a person has full knowledge of the material facts and then acts inconsistendy with that right or inconsistendy with an intention to rely on that right. Eckels v. Arkansas Real Estate Comm’n, 30 Ark. App. 69, 783 S.W.2d 864 (1990). By the 1987 divorce decree, Dorothy obtained a future interest in James’s retirement account, which she could collect only when James began receiving the retirement benefits. James did not retire until 1998, and the parties had already remarried at that time. Clearly, Dorothy’s failure to seek enforcement of an award that she could not have collected at the time cannot consti­tute a waiver of her right to the award. When James did retire, and Dorothy could have collected the retirement awarded to her by the 1987 divorce decree award, the parties had remarried. We cannot say that Dorothy’s decision to receive the $208.60 awarded to her in the 1987 divorce decree in the form of marital support from James, rather than by receiving that amount by separate pay­ment from her husband, amounted to a waiver of her property interest in the retirement benefits or evidence of an intent to abro­gate the 1987 agreement.</p>
+                <p pgmap="40" id="b40-4">James further contends that Dorothy waived her interest in his retirement benefits by the provision in the 2000 divorce decree that:</p>
+                <blockquote pgmap="40" id="b40-5">Each party waives and hereby relinquishes to the other party any and all interest each may have in the pension or retirement plan of the other, such that each shall have sole and absolute ownership of, or claim to, all rights and benefits pertaining to each’s personal IRA’s or 401K’s or any employment retirement or pension plans or deferred savings plans.</blockquote>
+                <p pgmap="40" id="b40-6">James’s attorney, however, acknowledged to the trial court during the hearing in which the settlement agreement was approved, that James did not seek to abrogate the prior property division, stating that:</p>
+                <blockquote pgmap="40" id="b40-7">[James and Dorothy] do, in fact, have separate retirement pack­ages, which were probably involved in their first divorce, and Mrs. Garland will keep and have all interest in hers. Mr. Garland will keep and have all interest in his, except it may have been modi­fied by the first divorce decree, and I’m not sure what all it did, but we’re not trying to modify the first divorce if it affected these retirements in any way, because those were handled through the first divorce.</blockquote>
+                <p pgmap="40" id="b40-8">(Emphasis added.)</p>
+                <p pgmap="40" id="b40-9">James and Dorothy each confirmed that this, and other mod­ifications to and explanations of the settlement agreement that occurred during the hearing, were correct recitations of their agreement. While the parties could have more clearly articulated their written agreement concerning the retirement benefits, the court and the parties accepted the settlement agreement as modi­fied by the above clarification by James’s attorney.</p>
+                <p pgmap="40(99) 41(29)" id="b40-10">
+                   We hold that the trial court clearly erred in finding that the 1987 division of the retirement benefits was unenforceable and that Dorothy waived the right to her $208.60 share of James’s retirement benefits. Dorothy, as James’s spouse, received the ben­efit of the retirement fund from the time of James’s retirement until the date of their separation. The record does not reflect a finding by the trial court of the date of the parties’ separation. Therefore, we reverse and remand to the trial court with direc­tions to determine the date of separation and to enter an order requiring the payment of the $208.60 per month to Dorothy, ret­roactive to the date of separation and prospectively so long as the retirement benefit is payable to James.</p>
+                <p pgmap="41" id="b41-5">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="36" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="37" ORDERLABEL="11" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jp2_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.2" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="12" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jp2_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.2" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="39" ORDERLABEL="13" TYPE="page">
+        <fptr FILEID="tiff_00020_0"/>
+        <fptr FILEID="jp2_00020_0"/>
+        <fptr FILEID="alto_00020_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.3" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="40" ORDERLABEL="14" TYPE="page">
+        <fptr FILEID="tiff_00020_1"/>
+        <fptr FILEID="jp2_00020_1"/>
+        <fptr FILEID="alto_00020_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_40.1" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="41" ORDERLABEL="15" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.4" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.8" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.10" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.7" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.5" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnA" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.8" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.11" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.3" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.4" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.5" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.6" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.4" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-14" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.11" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.9" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-13" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.10" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APJ" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.12" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_37.13" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au1" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.12" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.9" BETYPE="IDREF" FILEID="alto_00020_1"/>
+            <area BEGIN="BL_41.1" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.5" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b40-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_40.7" BETYPE="IDREF" FILEID="alto_00020_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.9" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.6" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_39.1" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

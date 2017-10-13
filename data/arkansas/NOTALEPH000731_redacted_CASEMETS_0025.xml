@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000731_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Brown v. Smith">James F. BROWN v. Amanda Brown SMITH</name>
+          <docketnumber>CA 80-498</docketnumber>
+          <citation category="official" type="bluebook">1 Ark. App. 141</citation>
+          <citation category="parallel" type="bluebook">613 S.W.2d 598</citation>
+          <decisiondate>1981-04-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-06-16T16:17:37Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T23:28:16Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:33:21Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:34:05Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="bb813264ed2e84f8733833683c6e17ea" CHECKSUMTYPE="MD5" SIZE="7706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="fb20843dfb31c8cd4756591ef614115e" CHECKSUMTYPE="MD5" SIZE="45288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="d9e4e4c92411003df98571073f26a65d" CHECKSUMTYPE="MD5" SIZE="53732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="efa1ce05789a1494b3dbbc449e729cd8" CHECKSUMTYPE="MD5" SIZE="52526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00082_1.tif"/>
+      </file>
+      <file ID="tiff_00083_0" MIMETYPE="image/tiff" CHECKSUM="879e2aab53ff1eec8eb16452aa8a5204" CHECKSUMTYPE="MD5" SIZE="52478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00083_0.tif"/>
+      </file>
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="54e6c9b34a6657298b8cb4f9e6ce7539" CHECKSUMTYPE="MD5" SIZE="29486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00083_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="cb90023cd1a84519b6ca841d09e07a8a" CHECKSUMTYPE="MD5" SIZE="1331571">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00081_0.jp2"/>
+      </file>
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="6fd54428ebd3e3f590da46b7507e46e0" CHECKSUMTYPE="MD5" SIZE="2442129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="8439a71794918420dc935f571edc8ad3" CHECKSUMTYPE="MD5" SIZE="2656993">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="60fab709058d06101582fbbdd88dce02" CHECKSUMTYPE="MD5" SIZE="2575568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00082_1.jp2"/>
+      </file>
+      <file ID="jp2_00083_0" MIMETYPE="image/jp2" CHECKSUM="0d58ee8819c48b7f80877aeb27d3c0e6" CHECKSUMTYPE="MD5" SIZE="2659584">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00083_0.jp2"/>
+      </file>
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="8accd863489f4efd54898a9e2d6da1cb" CHECKSUMTYPE="MD5" SIZE="2149234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00083_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="1c0f21482a1f82d1ae0d255583cbd892" CHECKSUMTYPE="MD5" SIZE="8081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00081_0.xml"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="228137ac31cbbd5a75d1038467da72bd" CHECKSUMTYPE="MD5" SIZE="74070">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="b480e7d24a65436323b153c6bba3b446" CHECKSUMTYPE="MD5" SIZE="91855">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="1bbdb4720cd314a95370753290321ae2" CHECKSUMTYPE="MD5" SIZE="90475">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00082_1.xml"/>
+      </file>
+      <file ID="alto_00083_0" MIMETYPE="text/xml" CHECKSUM="8900f8fef0824a4ef3f31d3cd3a395f8" CHECKSUMTYPE="MD5" SIZE="90582">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00083_0.xml"/>
+      </file>
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="422bfbfdb4021f0716c2ba321f5cd380" CHECKSUMTYPE="MD5" SIZE="46442">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00083_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="146" firstpage="141">
+              <court pgmap="161" id="b161-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="161" id="A9Z">CA 80-498</docketnumber>
+              <citation pgmap="161" id="A2y">613 S.W. 2d 598</citation>
+              <parties pgmap="161" id="b161-3">James F. BROWN v. Amanda Brown SMITH</parties>
+              <decisiondate pgmap="161" id="AbN">Opinion delivered April 8, 1981</decisiondate>
+              <judges pgmap="166" id="b166-7">Corbin, J., not participating.</judges>
+              <judges pgmap="166" id="b166-8">Glaze, J., concurs with this opinion.</judges>
+              <attorneys pgmap="162" id="b162-5">Mitchell, Williams, Gill &amp; Selig, by: Joseph W. Gelzine, for appellant.</attorneys>
+              <attorneys pgmap="162" id="b162-6">Harrison &amp; Hewett, by: Ronald D. Harrison, , for ap-­pellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="162" id="b162-7">George K. Cracraft, Judge.</author>
+                <p pgmap="162" id="A-9">In 1971 the appellant, James F. Brown, and appellee, Amanda Brown Smith, were granted a divorce in the Sebastian County Chancery Court. A property settlement agreement entered into between the parties prior thereto was approved by the court and incorpo­rated in its decree. Their agreement provided that the appel­lant should pay to appellee for the support and maintenance of their daughter the sum of $125 per month and for the support and maintenance of their son the sum of $175 per month, said payments to continue “until said children obtain majority or marry, whichever occurs first.” The agreement recited that the reason for the larger sum being awarded for the support of the minor son was due to the requirement that he receive special education beyond the requirements of an average child.</p>
+                <p pgmap="162" id="b162-8">At the time these agreements were made in 1971 our law provided that all males under the age of twenty-one years were deemed to be minors. Ark. Stat. Ann. § 57-103 (Repl. 1973). In 1975 the legislature changed the law by providing that all persons upon reaching the age of eighteen years shall. be considered to have reached the age of majority. Ark. Stat. Ann. § 57-103 (Supp. 1979). When the minor son reached his eighteenth birthday in December of 1979 appellant ceased making child support payments relying upon the latter act.</p>
+                <p pgmap="162(53) 163(118)" id="b162-9">In February of 1980 the appellee filed her petition requesting that the court hold appellant in contempt for discontinuing the support payments for the minor child without prior court order, for arrearages accumulated from and after his eighteenth birthday, and for an increase in child support payments. After hearing evidence on the mat­ter the chancellor entered his order directing that the appel­lant pay all installments of child support which had accrued since the date the child reached his eighteenth birthday, directed him to continue those support payments pending further order of the court and increased the child support payments to the sum of $50 per week. The chancellor in his findings found that the child “became of age at the age of eighteen under the present law, but the fact that a child becomes of age does not necessarily mean that support should be terminated.” He found that the child was handi­capped and that support should be continued even beyond the age of majority in the increased amount.</p>
+                <p pgmap="163" id="b163-6">The appellant appeals from that order of the court asserting that the court erred in awarding the arrearage, and that there was not sufficient evidence to show that the child was handicapped or required further support from his par­ent. While we do not agree with the chancellor’s conclusion that the obligation to pay support was terminated on the child’s eighteenth birthday, we do find that he reached the correct result and affirm the order entered by him, Morgan v. Downs, 245 Ark. 328, 432 S.W. 2d 454.</p>
+                <p pgmap="163" id="b163-7">The pivotal question presented by this appeal is wheth­er a statutory reduction in the age at which a minor is deemed to reach his majority has the effect of establishing an earlier date for the termination of the obligation to support a child under a contract entered into before its effective date, and providing for the support to continue “until he reaches his majority.” We are unable to find any cases in our courts dealing directly with the subject. Both parties have provided us with excellent briefs discussing many cases from sister states which have dealt with the question and the issue was the subject of an exhaustive annotation found in 75 ALR 3rd 228 (1977) at page 260.</p>
+                <p pgmap="163(64) 164(180)" id="b163-8">Some of these courts have held that minority is a status rather than a vested right, there being no vested right in the personal privilege of minority and a child has no vested right in further child support. Such agreements have been construed to intend no greater liability for child support than that imposed by law. Rice v. Rice, 213 Kan. 800, 518 P. 2d 477 (1974); Jungjohann v. Jungjohann, 213 Kan. 329, 516 P. 2d 904 (1973). The majority rule, and we believe the better reasoned one, is best expressed in Wilcox v. Wilcox, 406 S.W. 2d 152 (Ky. 1966). There the parties had entered, into a property settlement in which the father agreed to make child support payments until the child reached its majority or became self-supporting. Some nine years after that divorce was granted and property settlement approved, the legislature of the State of Kentucky passed an act reducing the age of ma­jority from twenty-one to eighteen years of age. The husband, upon the child reaching its eighteenth birthday, filed a petition to be relieved of further payments under the contract and decree upon the child reaching its eighteenth birthday. The trial court found as a matter of law that the age of majority was reduced from twenty-one to eighteen years by the legislation and there was no obligation for support after the child’s eight­eenth birthday. There the appellate court in reversing the action of the trial court, stated:</p>
+                <blockquote pgmap="164" id="b164-6">We cannot agree with the finding of the court that there was no obligation of support on the husband after the child’s eighteenth birthday. At the time the parties entered in the contract, the age of majority was twenty-­one and not eighteen. In construing a contract the intention of the parties governs. ... Furthermore, in construing a contract, we must seek out the intention of the parties and ascertain how they meant the agreement to operate at the time they entered into it. ... In Whitaker v. Louisville Transit Co., Ky., 274 S.W. 2d 391, 394 (1954), this court stated: ‘It is a familiar princi­ple of constitutional law that constitutional and statu­tory provisions in effect at the time a contract is made become a part of the contract.’ Therefore, since the age of majority was twenty-one when the parties entered into the contract, the father is not relieved of his obliga­tion of support to the child until she reaches her twenty-first birthday or becomes self-supporting.</blockquote>
+                <blockquote pgmap="164(34) 165(25)" id="b164-7">See also Strum v. Strum, 22 Ill. App. 3rd 147, 317 N.E. 2d 59 (4th Dist. 1974); Waldron v. Waldron, 13 Ill. App. 3rd 964, 301 N.E. 2d 167 (5th Dist. 1973); Istnick v. Istnick, 37 Ohio Misc. 91, 307 N.E. 2d 922 (C. P. 1973); and Baker v. Baker, 80 Wash. 2d 736, 498 P. 2d 315 (1972).</blockquote>
+                <p pgmap="165" id="b165-6">The agreement now before the court provided that the appellant should pay child support for the support and maintenance of his son “until he reached his majority.” At the time of the making of that agreement in January of 1971 the age of majority for the son was twenty-one years of age as set out in Ark. Stat. Ann. § 57-103 (Repl. 1973). In construing contracts we seek to determine the intent of the parties at the time the contract was made and in so seeking we place ourselves in the position of the parties to determine what they meant by the words they might have used. Asimos v. T. L. Reynolds &amp; Sons, Inc., 244 Ark. 1042, 429 S.W. 2d 103 (1968). At the time this agreement was entered into the word “majority” was, by statutory definition, the age of twenty-­one years for males. We hold that the parties entered into that agreement with reference to that statutory age, and intended for child support to continue until their son reached the age of twenty-one years or married.</p>
+                <p pgmap="165" id="b165-7">The child in question has not yet reached the age of twenty-one and therefore, although we do not agree with the chancellor’s reason for ordering continued child support, we would affirm his action in doing so for the reasons herein stated. The appellant also urges as error the chancellor’s order increasing the child support from if 175 per month to #50 per week and in extending those obligations beyond the child’s majority. Appellant concedes that chancery courts may either reduce or increase amounts of child support payments provided for by such agreements because of changed circumstances and order such payments to con­tinue past the age of majority. Collie v. Collie, 242 Ark. 297, 413 S.W. 2d 42. Elkins v.Elkins, 262 Ark. 65, 553 S.W. 2d 31. He argues, however, that while the power exists there was insufficient evidence to warrant its exercise.</p>
+                <p pgmap="165(37) 166(141)" id="b165-8">The court in its order recited that it had considered the defendant’s present earnings, his circumstances and ability to pay support, and the son’s need therefor. The chancellor, therefore, could properly consider that the appellant was no longer required to support his married daughter, and that his present gross income exceeded @22,000 a year. He also considered the testimony of the appellee as to the increasing demands for child care for her son who was subject to dis­ability and handicap and that appellant’s earnings far exceeded those of appellee. The record reflects that the trial judge had the opportunity to observe the child and his assessment of his handicap would be much superior to ours from the written record. We do not reverse the chancellor unless his findings are clearly against the preponderance of the record. Elkins v. Elkins, supra. Such awards rest largely within the sound discretion of the trial court. We cannot find from the record that this discretion was abused or the findings of the trial judge are against the preponderance of the evidence.</p>
+                <p pgmap="166" id="b166-6">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="161" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.2" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="165" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00083_0"/>
+        <fptr FILEID="jp2_00083_0"/>
+        <fptr FILEID="alto_00083_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_165.3" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="166" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.2" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2y" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbN" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.7" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.5" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.13" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.12" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            <area BEGIN="BL_165.1" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.10" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_162.11" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9Z" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.9" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.8" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.4" BETYPE="IDREF" FILEID="alto_00083_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b165-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_165.6" BETYPE="IDREF" FILEID="alto_00083_0"/>
+            <area BEGIN="BL_166.1" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.6" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.5" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

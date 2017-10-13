@@ -1,0 +1,607 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000631_0010" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. State">Ronald Shane SMITH v. STATE of Arkansas</name>
+          <docketnumber>CA CR 90-51</docketnumber>
+          <citation category="official" type="bluebook">33 Ark. App. 37</citation>
+          <citation category="parallel" type="bluebook">801 S.W.2d 655</citation>
+          <decisiondate>1990-12-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T21:40:11Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:51:00Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T13:44:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T13:44:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00030_0" MIMETYPE="image/tiff" CHECKSUM="4121a5690473eff0210860f9bf12373f" CHECKSUMTYPE="MD5" SIZE="25786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00030_0.tif"/>
+      </file>
+      <file ID="tiff_00030_1" MIMETYPE="image/tiff" CHECKSUM="d3eeb9020642678f6f00a70faf9d9ed5" CHECKSUMTYPE="MD5" SIZE="17890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00030_1.tif"/>
+      </file>
+      <file ID="tiff_00031_0" MIMETYPE="image/tiff" CHECKSUM="ae17bc10636ea91a787f8d1b357b1eef" CHECKSUMTYPE="MD5" SIZE="53402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00031_0.tif"/>
+      </file>
+      <file ID="tiff_00031_1" MIMETYPE="image/tiff" CHECKSUM="218ff7213fce7b35388de400ab6bede2" CHECKSUMTYPE="MD5" SIZE="56892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00031_1.tif"/>
+      </file>
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="418dfd771da511d7f7c2bf80edd8677e" CHECKSUMTYPE="MD5" SIZE="57680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="83e53c411ccc190a3aa93ef0666e3036" CHECKSUMTYPE="MD5" SIZE="52268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="90dfd4d8b31d50d8cad3af25cc470d21" CHECKSUMTYPE="MD5" SIZE="42638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00033_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00030_0" MIMETYPE="image/jp2" CHECKSUM="3fbc739fad21a0c832965f99aeae1850" CHECKSUMTYPE="MD5" SIZE="1971057">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00030_0.jp2"/>
+      </file>
+      <file ID="jp2_00030_1" MIMETYPE="image/jp2" CHECKSUM="ca52b3a9fbe2915ef6749f85b5f7fbec" CHECKSUMTYPE="MD5" SIZE="1444128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00030_1.jp2"/>
+      </file>
+      <file ID="jp2_00031_0" MIMETYPE="image/jp2" CHECKSUM="8fd0a1c27600fb781908933951870c1f" CHECKSUMTYPE="MD5" SIZE="2582107">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00031_0.jp2"/>
+      </file>
+      <file ID="jp2_00031_1" MIMETYPE="image/jp2" CHECKSUM="a4098247ac83e3f2fac751eaf3f99be0" CHECKSUMTYPE="MD5" SIZE="2530333">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00031_1.jp2"/>
+      </file>
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="82a3be508bbceef17e57913361771950" CHECKSUMTYPE="MD5" SIZE="2606718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="18d269c79e2dac4dc744165381d06bfc" CHECKSUMTYPE="MD5" SIZE="2733518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="76a08a53e37c35f945d26124f66d5763" CHECKSUMTYPE="MD5" SIZE="2457527">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000631_00033_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00030_0" MIMETYPE="text/xml" CHECKSUM="5c8f9b98142ce428b85c7eb3d3fa8adb" CHECKSUMTYPE="MD5" SIZE="43319">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00030_0.xml"/>
+      </file>
+      <file ID="alto_00030_1" MIMETYPE="text/xml" CHECKSUM="f0bdb449d7e35f859d7ccd0874b8d1f0" CHECKSUMTYPE="MD5" SIZE="25709">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00030_1.xml"/>
+      </file>
+      <file ID="alto_00031_0" MIMETYPE="text/xml" CHECKSUM="3de2b099690fd06e981b916c90bd0759" CHECKSUMTYPE="MD5" SIZE="91266">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00031_0.xml"/>
+      </file>
+      <file ID="alto_00031_1" MIMETYPE="text/xml" CHECKSUM="61c9778815f96401ce7c3d3a8a7cea56" CHECKSUMTYPE="MD5" SIZE="91285">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00031_1.xml"/>
+      </file>
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="a1e02c2b2a70824708150b40ccd22d26" CHECKSUMTYPE="MD5" SIZE="94750">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="0e1c96afcb2e3deac7c611c146d0f2d4" CHECKSUMTYPE="MD5" SIZE="88348">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="a4d6df732a8fb48537a8ebb83098a66f" CHECKSUMTYPE="MD5" SIZE="66092">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000631_redacted_ALTO_00033_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="43" firstpage="37">
+              <court id="b59-10" pgmap="59">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b59-9" pgmap="59">CA CR 90-51</docketnumber>
+              <citation id="A4K" pgmap="59">801 S.W.2d 655</citation>
+              <parties id="b59-8" pgmap="59">Ronald Shane SMITH v. STATE of Arkansas</parties>
+              <decisiondate id="b59-11" pgmap="59">Opinion delivered December 19, 1990</decisiondate>
+              <judges id="b65-8" pgmap="65">Corbin, C.J., and Rogers, J., agree.</judges>
+              <attorneys id="b60-10" pgmap="60">Grisham A. Phillips, for appellant.</attorneys>
+              <attorneys id="b60-11" pgmap="60">Steve Clark, Att’y Gen., by: Ann Purvis, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b60-12" pgmap="60">John E. Jennings, Judge.</author>
+                <p id="AvB" pgmap="60(78) 61(24)">Shane Smith was convicted of the second degree murder of Keith McCaskill and was sentenced to ten years imprisonment. On appeal, Smith argues that the trial court erred in: (1) overruling his motion to suppress, (2) exclud­ing evidence of the victim’s fighting ability, (3) excluding evidence offered to show that other persons had threatened the victim and that he was in fear for his life, and (4) restricting his cross-examination of the medical examiner. We find sufficient merit in the third point raised to require reversal. Because the other issues raised may arise again on retrial, they must also be discussed.</p>
+                <p id="b61-4" pgmap="61">Keith McCaskill, 44, was a bouncer in a local nightclub. His body was found by some friends in the garage of his home on November 10, 1988. He had been stabbed approximately one hundred times. While the police were investigating the scene of the crime, they were approached by Ronnie Smith, McCaskill’s neighbor, who told them that his nineteen-year-old son, Shane, had witnessed the murder.</p>
+                <p id="b61-5" pgmap="61">Police officers promptly interviewed Shane Smith in his home. Midway through the questioning, the officers asked that the interview be moved to the police department and Smith agreed. Smith told them that early in the morning of November 10 he was watching a movie at home when he saw three men in clown masks knocking at the front door of McCaskill’s house. He then saw the men go into McCaskill’s garage. According to Smith he got up and put on his coat and went over to McCaskill’s house. Two of the men “jumped” him and threw him up against a wall. One of the men stabbed him in the hand and told him to be quiet. Smith said at least one of the men was black. Shortly afterwards, McCaskill arrived home and entered the garage. Smith said that he saw one of the men, “the blond-headed one,” stab McCaskill. The men then gave Smith a silver tray and a paper bag containing video cassettes and told him to leave. Smith said that as he was running he slipped in the blood on the garage floor and fell. He saw the men run off in different directions. Smith said that when he got home he washed his clothes, but because he could still smell blood on them, he put them in a garbage bag and threw them into a nearby river. After the interview, Shane Smith went home.</p>
+                <p id="b61-6" pgmap="61">The police subsequently found his blood-stained clothing in the river. They also found the silver tray and a bag containing seven pornographic video tapes in an outbuilding behind the Smith home.</p>
+                <p id="b61-7" pgmap="61">The police questioned the appellant again on the following day, November 11, but this time Smith was advised of his rights and signed a waiver. This statement was basically Consistent with the earlier one.</p>
+                <p id="b62-5" pgmap="62">The third and final statement was taken at Smith’s request on November 12, after he had been charged with capital murder. There were significant differences between this version and the two previous statements. Some of the more significant differences were that appellant claimed there were five men present, rather than three; that all the men were dressed in black and were wearing black masks, rather than clown masks; and that he did not actually see McCaskill stabbed but only heard the struggle. Smith’s testimony at trial was consistent with this last statement given to the police. His explanation for the variations in his statements was that he was scared and confused.</p>
+                <p id="b62-6" pgmap="62">The state medical examiner, Dr. Fahmy Malak, placed the time of death at about the time Smith said it happened. Tennis shoe prints were found at McCaskill’s home, but it appears they did not match the shoes worn by appellant that night. Human hair was found clutched in the victim’s fist; it did not match the appellant’s, but could have been McCaskill’s own hair. The murder weapon was never found and no clear motive for the killing was ever established.</p>
+                <p id="b62-7" pgmap="62">As part of his case-in-chief the appellant proffered the testimony of Kenneth Kitler, an inmate in the Department of Correction. Kitler testified that in October of 1988 one Rick Cotton, Sr., offered him $4,000.00 to kill Keith McCaskill, but that Kitler declined. The trial court ruled that the evidence was not relevant and that any probative value was outweighed by the prejudicial effect and the confusion it would cause the jury. Appellant also proffered the testimony of several witnesses to the effect that, shortly before his death, McCaskill had expressed to them that he was in fear for his life because of something he knew. One witness, a long-time police officer, testified that McCaskill had approached him about ten days before his death and told him that three men, one black and two white, had been following him. The witness described McCaskill as very frightened. Again, the trial court excluded the evidence because the probative value was outweighed by prejudice and on the additional basis that it was hearsay.</p>
+                <p id="b62-8" pgmap="62(30) 63(101)">Generally, all relevant evidence is admissible. Ark. R. Evid. 402. Relevant evidence is defined as “evidence having any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence.” Ark. R. Evid. 401. Even relevant evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice or confusion of the issues. Ark. R. Evid. 403. The balancing of probative value as against unfair prejudice is a matter, in the first instance, for the trial court. See Parrish v. Newton, 298 Ark. 404, 768 S.W.2d 17 (198 9). The trial court has considerable discretion in such matters. Carter v. State, 295 Ark. 218, 748 S.W.2d 127 (1988).</p>
+                <p id="b63-6" pgmap="63">
+                   Under the circumstances presented here, evidence of the offer to pay for the murder of Keith McCaskill should have been admitted. “Fundamental standards of relevancy, subject to the discretion of the court to exclude cumulative evidence and to ensure orderly presentation of a case, require the admission of testimony which tends to prove that a person other than the defendant committed the crime that is charged.” United States v. Armstrong, 621 F.2d 951 (9th Cir. 1980); see also Barnes v. State, 415 So.2d 1280, 1284 (Fla. Dist. Ct. App. 1982) (Grimes, Acting Chief Judge, dissenting). When, as in the case at bar, the evidence is circumstantial, threats to kill made by other parties are relevant to prove motive on the part of someone other than the accused. Murphy v. State, 36 Tex. Cr. R. 24, 35 S.W. 174 (1896); see also McAdams v. State, 378 So.2d 1197 (Ala. Crim. App. 1979). Here, the proffered evidence went beyond a mere threat.</p>
+                <p id="b63-7" pgmap="63">Under the peculiar circumstances of this case we also hold that it was error to exclude the proffered evidence of McCaskill’s expressions of fear for his life, made shortly before his death. While such evidence might ordinarily be properly excluded, it should be admitted in a proper case. See 40 Am. Jur. 2d Homicide § 321 (1968). Evidence of the victim’s expressions of fear for her life were held admissible in Karnes v. Commonwealth, 125 Vir. 758, 99 S.E. 562 (1919). The Virginia Supreme Court said:</p>
+                <blockquote id="b63-8" pgmap="63(62) 64(35)">In this case the evidence tending to show that the accused had any motive for committing the crime is very slight indeed, if not negligible, whereas, there is much tending to create the suspicion that possibly [a third party] was the guilty agent. . . . [I]t is well settled that, where there is a trend of facts and circumstances tending clearly to point out some other person is the guilty party, the prisoner may introduce any legal evidence which is availa­ble tending to prove that another person committed the crime with which he is charged.</blockquote>
+                <blockquote id="b64-6" pgmap="64">While a large discretion must and should remain vested in the trial court as to the admission of this class of tesitmony, it is always safer, in cases depending upon circumstantial evidence alone, to admit rather than to reject, and this is the tendency of modern statutes and decisions relating to evidence.</blockquote>
+                <p id="b64-7" pgmap="64">99 S.E. at 565 (Citations omitted).</p>
+                <p id="b64-8" pgmap="64">
+                   In the case at bar the expressions of fear on behalf of the victim are admissible because of the circumstantial nature of the evidence against the appellant, the nature of appellant’s defense, and the evidence of solicitation of murder by a third party. The evidence also should not have been excluded as hearsay as it comes within the state of mind exception of Ark. R. Evid. 803(3). See Karnes, supra. In a slightly different context the Court in United States v. Brown, 490 F.2d 758 (D.C. Cir. 1973), said, “The rule then to be distilled from the better reasoned decisions is that a victim’s extra-judicial declarations of fear of the defendant are admissible under the state of mind exception to the hearsay rule with a limiting instruction only if there is a manifest need for such evidence, i.e., if it is relevant to a material issue in a case.” See also State v. Parr, 606 P.2d 263 (Wash. 1980).</p>
+                <p id="b64-9" pgmap="64">
+                   The appellant also sought to introduce testimony of several witnesses that they had seen the deceased in his capacity as a bouncer throw people out of bars, and that they had seen him win some fist fights. We find no error in the exclusion of this evidence. The jury had before it evidence that the deceased was a “bouncer,” evidence of his height and weight, and statements made by police officers that described the deceased as “a multiple bad ass” who would “more than hold his own in a fight.” If the evidence was relevant, it was cumulative and need not have been admitted. See Ark. R. Evid. 403.</p>
+                <p id="b64-10" pgmap="64(15) 65(69)">
+                   During the cross-examination of the state medical examiner, Dr. Fahmy Malak, defense counsel asked whether Malak “had ever instructed one of his assistants to fabricate a photograph to have it show something in an inaccurate manner.” The trial court sustained the state’s objection to the question. We do not think it was error to do so. The matter was collateral, the question was indefinite as to time, and there was no contention that any of the photographs in the case at bar were misleading.</p>
+                <p id="b65-6" pgmap="65">
+                   Finally, we hold that the circuit judge’s denial of the appellant’s motion to suppress statements given to the police was not error. Appellant emphasizes that he was nineteen years old at the time of questioning, and expert testimony showed that his IQ was 81. Appellant also contends that Richard Garrett, a deputy prosecuting attorney involved in the investigation, was the “family attorney.” This contention is not borne out by the record. Appellant’s father did testify that he had known Garrett for a long time, that he trusted him, and that he had once spoken to him about some legal matters. The appellant testified that he did not know who Garrett was and that it was the police he wanted to talk to. The record also adequately establishes that the police officers initially believed appellant to be merely a witness; that when appellant became a suspect and the interrogation became custo­dial, he was given proper Miranda warnings; and that appellant was able to adequately understand the warnings given. Based on our independent review of the totality of the circumstances, we find that the appellant’s statements were freely and voluntarily given. See Hurst v. State, 296 Ark. 448, 757 S.W.2d 558 (1988).</p>
+                <p id="b65-7" pgmap="65">Reversed and Remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="59" ORDERLABEL="37" TYPE="page">
+        <fptr FILEID="tiff_00030_0"/>
+        <fptr FILEID="jp2_00030_0"/>
+        <fptr FILEID="alto_00030_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_59.2" BETYPE="IDREF" FILEID="alto_00030_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="60" ORDERLABEL="38" TYPE="page">
+        <fptr FILEID="tiff_00030_1"/>
+        <fptr FILEID="jp2_00030_1"/>
+        <fptr FILEID="alto_00030_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_60.2" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="61" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00031_0"/>
+        <fptr FILEID="jp2_00031_0"/>
+        <fptr FILEID="alto_00031_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_61.2" BETYPE="IDREF" FILEID="alto_00031_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="62" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00031_1"/>
+        <fptr FILEID="jp2_00031_1"/>
+        <fptr FILEID="alto_00031_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_62.1" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="63" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.3" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.7" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.4" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.5" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-12" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.11" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.10" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b60-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.9" BETYPE="IDREF" FILEID="alto_00030_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.10" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.6" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            <area BEGIN="BL_64.1" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.5" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.6" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.4" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4K" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.9" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvB" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_60.12" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_60.13" BETYPE="IDREF" FILEID="alto_00030_1"/>
+            <area BEGIN="BL_61.1" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.8" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_65.1" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.8" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.7" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.7" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.3" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b59-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_59.11" BETYPE="IDREF" FILEID="alto_00030_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.4" BETYPE="IDREF" FILEID="alto_00031_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.4" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b62-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_62.6" BETYPE="IDREF" FILEID="alto_00031_1"/>
+            <area BEGIN="BL_63.1" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b61-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_61.5" BETYPE="IDREF" FILEID="alto_00031_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.5" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.4" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000643_0040" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Coleman v. State">Narvell COLEMAN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 84-13</docketnumber>
+          <citation category="official" type="bluebook">12 Ark. App. 214</citation>
+          <citation category="parallel" type="bluebook">671 S.W.2d 221</citation>
+          <decisiondate>1984-07-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:55:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:03Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:11:57Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:12:53Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00122_1" MIMETYPE="image/tiff" CHECKSUM="7e4c614c9bde1e38418fdf1a5b5d4913" CHECKSUMTYPE="MD5" SIZE="12900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00122_1.tif"/>
+      </file>
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="36f65857071bece97787246843b711c9" CHECKSUMTYPE="MD5" SIZE="53376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00123_0.tif"/>
+      </file>
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="2e03438e09960fd9e617483f8531471e" CHECKSUMTYPE="MD5" SIZE="54462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00123_1.tif"/>
+      </file>
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="846e89156c0f5ee8ef326365c004dda3" CHECKSUMTYPE="MD5" SIZE="57276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="0289c4affff203c979d24eeb0772a2af" CHECKSUMTYPE="MD5" SIZE="50558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00124_1.tif"/>
+      </file>
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="9ab8469217a752bd77946c7f10f656ff" CHECKSUMTYPE="MD5" SIZE="48700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="a521c661c5e454d9976e2f553cb28b27" CHECKSUMTYPE="MD5" SIZE="13256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00125_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00122_1" MIMETYPE="image/jp2" CHECKSUM="578ada77c2c0c40fcff3eb663a9788a1" CHECKSUMTYPE="MD5" SIZE="1545253">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00122_1.jp2"/>
+      </file>
+      <file ID="jp2_00123_0" MIMETYPE="image/jp2" CHECKSUM="d11580905324ee7a8a167df4021004ff" CHECKSUMTYPE="MD5" SIZE="2558973">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00123_0.jp2"/>
+      </file>
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="c1a7d197ee76a657a8a0b73d7d9f31ff" CHECKSUMTYPE="MD5" SIZE="2584818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00123_1.jp2"/>
+      </file>
+      <file ID="jp2_00124_0" MIMETYPE="image/jp2" CHECKSUM="3406b502df0ec5e0704bdbf87a94998a" CHECKSUMTYPE="MD5" SIZE="2583971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00124_0.jp2"/>
+      </file>
+      <file ID="jp2_00124_1" MIMETYPE="image/jp2" CHECKSUM="d68b604b3a0ba4fb1ac88de012de73b1" CHECKSUMTYPE="MD5" SIZE="2986342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00124_1.jp2"/>
+      </file>
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="fbc0b5d7f4154d9b40c1c971ad5578ab" CHECKSUMTYPE="MD5" SIZE="2519098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="ed22ed4c899202c2130710e8d93d12e5" CHECKSUMTYPE="MD5" SIZE="1694730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000643_00125_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00122_1" MIMETYPE="text/xml" CHECKSUM="38d466e4c23bd0e7db842a3a88e97fc8" CHECKSUMTYPE="MD5" SIZE="20034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00122_1.xml"/>
+      </file>
+      <file ID="alto_00123_0" MIMETYPE="text/xml" CHECKSUM="31363773ba288f1843eb44356ff480fb" CHECKSUMTYPE="MD5" SIZE="86357">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00123_0.xml"/>
+      </file>
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="938ad2e4e015f817533710819779e273" CHECKSUMTYPE="MD5" SIZE="86734">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00123_1.xml"/>
+      </file>
+      <file ID="alto_00124_0" MIMETYPE="text/xml" CHECKSUM="018cbeced3fbf7de5c548f874f7c25a7" CHECKSUMTYPE="MD5" SIZE="94750">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00124_0.xml"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml" CHECKSUM="23e064e721d444c0591700a2d341daac" CHECKSUMTYPE="MD5" SIZE="83358">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00124_1.xml"/>
+      </file>
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="e40371e8136a48b655a8afbb6f7919c4" CHECKSUMTYPE="MD5" SIZE="84736">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="d7dd1f4d3902b29858187c97cc01ed24" CHECKSUMTYPE="MD5" SIZE="18381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000643_redacted_ALTO_00125_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0040" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="214" lastpage="220">
+              <court id="b244-4" pgmap="244">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber id="AZs" pgmap="244">CA CR 84-13</docketnumber>
+              <citation id="AXl" pgmap="244">671 S.W.2d 221</citation>
+              <parties id="b244-3" pgmap="244">Narvell COLEMAN v. STATE of Arkansas</parties>
+              <decisiondate id="b244-5" pgmap="244">Opinion delivered July 5, 1984</decisiondate>
+              <judges id="b248-6" pgmap="248">Mayfield, C.J., and Corbin, J., concur.</judges>
+              <attorneys id="b244-13" pgmap="244">V. Benton Rollins, for appellant.</attorneys>
+              <attorneys id="b244-14" pgmap="244">Steve Clark, Atty. Gen., by: Leslie M. Powell, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b244-15" pgmap="244">Tom Glaze, Judge.</author>
+                <p id="ADUl" pgmap="244(25) 245(50)">Appellant seeks reversal of her conviction of Battery in the First Degree and sentence of ten (10) years in the Arkansas Department of Correction. She raises two issues, contending the trial court erred in failing to give: (1) an instruction based on AMCI 4002 (Culpable Mental State — General Provision), and (2) another instruc­tion patterned after AMCI 4005.1 (Defense of Voluntary Intoxication). We hold the court ruled correctly in both instances and therefore affirm.</p>
+                <p id="b245-4" pgmap="245">Appellant’s battery charge resulted from her shooting Evelyn Marie Arnold, who shared an apartment with appellant’s former boyfriend. She does not deny having shot Arnold — once in the leg and a second time in the side while Arnold was lying on the floor. Appellant argues only that she did not possess the required culpable mental state to be convicted of First Degree Battery. She further contends that (under the evidence presented) she was entitled to a volun­tary intoxication defense instruction to negate the culpable mental state required under Ark. Stat. Ann. § 41-1601 (Repl. 1977). Appellant undisputedly had been drinking alcohol prior to the shooting, but the evidence was in conflict concerning whether she was intoxicated. Appellant’s own testimony indicated she was “drinking hard” and could not “recall the names of anybody that [she] was drinking with that night.” Although first testifying she did not recall shooting Arnold, appellant subsequently testified, “the only thing I recall about the shooting is when I realized I’d shot her.” She said, “I just wanted to scare her, but I had shot her.” Arnold’s and her boyfriend’s testimonies were that appellant had been drinking, but neither could say “if she was drunk.” The police officer investigating the incident stated that appellant “appeared to have been drinking, but she didn’t seem drunk.”</p>
+                <p id="b245-5" pgmap="245(94) 246(218)">Appellant first argues that in view of the battery charge and facts presented, she was entitled to the AMCI 4002 instruction requiring the State to prove she purposely engaged in a prohibited conduct. We cannot agree. The State’s first degree battery case against appellant was based on two theories: (1) She acted with the purpose of causing serious physical injury to another person and she caused serious physical injury to another person by means of a deadly vfeapon, a violation of § 41-1601(l)(a); and (2) She caused serious physical injury ,to another person under circumstances manifesting extreme indifference to the value of human life, a violation of § 41-1601(l)(c). Obviously, appellant’s proffered instruction requiring purposeful con­duct covers the State’s theory under § 41-1601(l)(a) but not its theory under § 41-1601 (1 )(c). While § 41-1601(l)(c) does not contain or specify the culpable mental state required for its violation, Ark. Stat. Ann. § 41-204(2) (Repl. 1977), provides that if the statute defining an offense does not prescribe a culpable mental state, culpability is nonetheless required, and is established only if a person acts purposely, knowingly, or recklessly. See Martin v. State, 261 Ark. 80, 547 S.W.2d 81 (1977).<footnotemark>1</footnotemark> Thus, the Criminal Coderecognizes three distinct culpable mental states under § 41-1601 to sustain a conviction for first degree battery. In the instant case, the evidence (especially considering the appellant’s own testi­mony), tends to show the appellant acted knowingly or recklessly. In other words, the State was not limited under the facts in this case to an instruction requiring the jury to find the appellant acted purposely. After rejecting appel­lant’s request for AMCI 4002 requiring only purposeful conduct, the trial court correctly gave, without objection, AMCI instructions 1601 and 1602, covering the State’s alternative bases of liability for first degree battery as well as the lesser included offense of second degree battery.</p>
+                <p id="b246-4" pgmap="246">Appellant contends the trial court erred in refusing to give AMCI 4005.1; an instruction allowing appellant to assert voluntary intoxication as an ordinary defense. Citing Johns v. State, 6 Ark. App. 74, 637 S.W.2d 623 (1982), the trial court ruled AMCI 4005.1 was incorrect because voluntary intoxication is an affirmative defense that must be proved by a preponderance of the evidence. We agree.</p>
+                <p id="b246-5" pgmap="246(66) 247(402) 248(34)">We concede that there may arguably have been some merit in appellant’s contention if the Supreme Court had not held as it did in Varnedare v. State, 264 Ark. 596, 573 S.W.2d 57 (1978). The Court in Varnedare recognized that the Arkansas General Assembly, amending Ark. Stat. Ann. § 41-207 (Repl. 1977), removed self-induced intoxication as a statutory defense, but the Court found the common law defense of voluntary intoxication was effectually reinstated. In reading the Court’s decision in Varnedare, the parties apparently never argued, nor did the Court, specifically consider, whether the Arkansas Criminal Code actually abrogated the common law principle which established voluntary intoxication as a defense when specific intent crimes are involved. Cf. Starkey Construction, Inc. v. Elcon, Inc., 248 Ark. 958, 965, 457 S.W.2d 509, 513 (1970); Barren­tine v. State, 194 Ark. 501, 108 S. W.2d 784 (1937); and State v. One Ford Automobile, 151 Ark. 29, 235 S.W. 378 (1921). In State v. One Ford Automobile, the Court stated the rule that a statute should not be held to be in derogation of the common law unless there is an irreconcilable repugnancé, or unless the statute itself shows that such was the intention and object of the lawmakers. Except for the holding in Varnedare, we believe, a persuasive case exists that the voluntary intoxication defense recognized at common law is repugnant to our Code provisions. As previously men­tioned, the common law rule permitted voluntary intoxi­cation as a defense when a defendant was charged with a specific intent crime, and although the courts never labeled the common law defense as an affirmative one, the courts instructed that the defendant had the burden to establish the defense by a preponderance of the evidence. See Casat v. State, 40 Ark. 511 (1883); Wood v. State, 34 Ark. 341 (1879); Woodall v. State, 150 Ark. 394, 234 S.W. 266 (1921); see also Olles v. State, 260 Ark. 571, 542 S.W.2d 755 (1976); Johns v. State, supra; Gonce v. State, 11 Ark. App. 278, 669 S.W.2d 490 (1984). Thus, while self-induced intoxication appears to be an affirmative defense at common law, it is not so recognized by the Code or by any statute. See § 41-­110(4)(a)(b). Impliedly then, the statutory law and Code simply preclude common law voluntary intoxication as an affirmative defense. In fact, the Arkansas General Assembly expressly intended to eliminate the defense of self-induced intoxication altogether. See 1977 Ark. Acts 101, § 3. Given the clear intendment of the General Assembly’s enactments, it seems incongruent to reinstate the common law on the subject. Of course, one still might argue that the common law voluntary intoxication defense could be applied as an ordinary defense, perhaps under the language employed in §41-110(3)(c), but to do so would do damage to the rule, viz., the defendant could avail himself of the defense if he were charged with a specific intent crime, but he would no longer be required to prove the defense by a preponderance of the evidence.</p>
+                <p id="b248-4" pgmap="248">Having stated our misgivings regarding' the Varnedare decision, we are nevertheless bound to that holding, which reinstates the common law defense of voluntary intoxi­cation. In our attempt to follow Varnedare, we have reocgnized that defense as an affirmative one and ruled that it is available when the offense charged requires a specific intent. See Gonce v. State, supra; Johnson v. State, 6 Ark. App. 542, 642 S.W.2d 324 (1982); and Johns v. State, supra. In the instant case, under one theory undertaken by the State, it offered evidence indicating the appellant acted purposefully under § 41-1601(l)(a) when committing first degree battery on the victim, Arnold. In so doing, the State undertook to prove appellant guilty of a specific intent crime. Cf. Morgan v. State, 273 Ark. 252, 618 S.W.2d 161 (1981); see also Guzman, 1976 Criminal Code— General Principles, 30 Ark. L. Rev. 111, 112 (1976). Nonetheless, the appellant failed to offer a correct instruction setting forth the common law defense of voluntary intoxication; instead, she proffered AMCI 4005.1, an instruction defining voluntary intoxi­cation as an ordinary defense, which was not in compliance with Arkansas precedents. We hereby hold that AMCI 4005.1 is an incorrect statement of the law insofar as it states that defendants need only raise a reasonable doubt in the jurors’ minds that they had the capacity to form a purposeful mental state. Instead, the defendant must prove the defense by a preponderance of the evidence. The appellant may not complain of the refusal of the trial court to give an instruction which is only partly correct as it is his duty to submit a wholly correct instruction. Jackson v. State, 92 Ark. 71, 122 S.W. 101 (1909); and Johnson v. State, supra.</p>
+                <p id="b248-5" pgmap="248">Affirmed.</p>
+                <footnote label="1">
+                  <p id="b246-6" pgmap="246">1 See Ark. Stat. Ann. § 41-203 (Repl. 1977) (Definitions of the Culpable Mental States under the Code).</p>
+                </footnote>
+              </opinion>
+              <opinion type="concurrence">
+                <author id="b248-7" pgmap="248">Melvin Mayfield, Chief Judge,</author>
+                <p id="AYf" pgmap="248(15) 249(66)">concurring. I think the majority reached the correct result in this case but they used the wrong law to get there. Their opinion holds that voluntary intoxication is an affirmative defense that must be proved by a preponderance of the evidence rather than merely raising a reasonable doubt. That conclusion is made even though, as I read the opinion, the majority really thinks the conclusion is wrong, and even though Arkansas Model Criminal Instruction 4005.1 agrees that the conclusion is wrong.</p>
+                <p id="b249-4" pgmap="249">Morgan v. State, 273 Ark. 252, 618 S.W.2d 161 (1981), alluded to the fact, 273 Ark. at 258, that the Committee on Criminal Jury Instructions had not yet drafted a model instruction applicable to the defense of voluntary intoxi­cation in the wake of the amendment of Ark. Stat. Ann. § 41-207 (Repl. 1977) by Act 101 of 1977. The committee revised the AMCI book in 1982, see Introduction to 1982 Revisions, and AMCI 4005.1 is the result of that revision. The Arkansas Supreme Court’s Per Curiam of January 29, 1979, provides that the AMCI instructions should be used unless they do not accurately state the law.</p>
+                <p id="b249-5" pgmap="249">I would accept AMCI 4005.1, prepared by the committee appointed by the Arkansas Supreme Court, which includes one of the court’s own members, as a correct instruction of the law — especially when the instruction is so obviously correct and has been for so long. See the dissent in Casat v. State, 40 Ark. 511 (1883), which says:</p>
+                <blockquote id="b249-6" pgmap="249">After all, with due deference to the high courts and eminent jurists who have maintained the doctrine, is there not something absurd and illogical in saying that the jury must not convict any man of whose guilt they have a reasonable doubt, except the doubt be as to whether he was so unfortunate as to be incapable of guilt, but a doubt on that point must not save him.</blockquote>
+                <p id="b249-7" pgmap="249(58) 250(17)">This case should be affirmed, however, because the court instructed on the lesser included offense of battery in the second degree and the appellant could have been guilty of that crime as a result of reckless conduct. AMCI 4005.1, requested by appellant, would have applied to the second degree battery charge also. Thus, it was not a completely correct instruction and, as the majority holds, there was no reversible error in refusing to give it.</p>
+                <p id="b250-4" pgmap="250">I am authorized to state that Judge Corbin joins in this concurring opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="244" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00122_1"/>
+        <fptr FILEID="jp2_00122_1"/>
+        <fptr FILEID="alto_00122_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.1" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="245" ORDERLABEL="215" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jp2_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="246" ORDERLABEL="216" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.2" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="247" ORDERLABEL="217" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jp2_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="218" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jp2_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="249" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.6" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.5" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            <area BEGIN="BL_247.1" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_248.1" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b246-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_246.4" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-13" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.16" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-14" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.17" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.4" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.5" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.5" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.4" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.7" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.6" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-6" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.6" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZs" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.4" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYf" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.8" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_248.9" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_249.1" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-7" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.7" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXl" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.5" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-5" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.7" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-4" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.6" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADUl" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.19" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_244.20" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_245.1" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-15" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.18" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-3" BETYPE="IDREF" FILEID="casebody_0040"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.3" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

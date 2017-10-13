@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000656_0002" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Waters v. State">Thomas WATERS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 07-760</docketnumber>
+          <citation category="official" type="bluebook">102 Ark. App. 8</citation>
+          <citation category="parallel" type="bluebook">279 S.W.3d 493</citation>
+          <decisiondate>2008-03-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:55:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:21Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T00:50:15Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T00:51:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="67f018e397306a89ed39f1d7aaea9a47" CHECKSUMTYPE="MD5" SIZE="25030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00018_1.tif"/>
+      </file>
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="e51f2a483dbfadcdd172609102219e93" CHECKSUMTYPE="MD5" SIZE="51230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="0f9a64d2eac12a557fcc54b2c229e666" CHECKSUMTYPE="MD5" SIZE="51076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00019_1.tif"/>
+      </file>
+      <file ID="tiff_00020_0" MIMETYPE="image/tiff" CHECKSUM="5a9779748e9b1c276dcab5db206b83c3" CHECKSUMTYPE="MD5" SIZE="22744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00020_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="b92d7460f344ba4b0015012747dfd903" CHECKSUMTYPE="MD5" SIZE="2024413">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00018_1.jp2"/>
+      </file>
+      <file ID="jp2_00019_0" MIMETYPE="image/jp2" CHECKSUM="2d1eb42e1b1041658c8994b45502c894" CHECKSUMTYPE="MD5" SIZE="2536895">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00019_0.jp2"/>
+      </file>
+      <file ID="jp2_00019_1" MIMETYPE="image/jp2" CHECKSUM="8edd6242824466bb899c7c53a9804586" CHECKSUMTYPE="MD5" SIZE="2526513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00019_1.jp2"/>
+      </file>
+      <file ID="jp2_00020_0" MIMETYPE="image/jp2" CHECKSUM="8e39c78c4f6a26f3c399092dac79669b" CHECKSUMTYPE="MD5" SIZE="1914124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000656_00020_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="b0b0ed86ca4c56b8eef9e615eeae639d" CHECKSUMTYPE="MD5" SIZE="39125">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000656_redacted_ALTO_00018_1.xml"/>
+      </file>
+      <file ID="alto_00019_0" MIMETYPE="text/xml" CHECKSUM="11746fed5eab1a9ade48028018bc6515" CHECKSUMTYPE="MD5" SIZE="89961">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000656_redacted_ALTO_00019_0.xml"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml" CHECKSUM="46c368838ada0aca934ab7c563dd55ca" CHECKSUMTYPE="MD5" SIZE="95351">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000656_redacted_ALTO_00019_1.xml"/>
+      </file>
+      <file ID="alto_00020_0" MIMETYPE="text/xml" CHECKSUM="6e49644b5f0c95b18fc8132d20d21f5a" CHECKSUMTYPE="MD5" SIZE="36683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000656_redacted_ALTO_00020_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="8" lastpage="11">
+              <court pgmap="36" id="b36-6">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="36" id="Avc">CA CR 07-760</docketnumber>
+              <citation pgmap="36" id="A1">279 S.W.3d 493</citation>
+              <parties pgmap="36" id="b36-5">Thomas WATERS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="36" id="Aa">Opinion delivered March 12, 2008</decisiondate>
+              <judges pgmap="38" id="b38-9">Vaught, J., agrees.</judges>
+              <judges pgmap="38" id="b38-10">Glover, J., concurs.</judges>
+              <attorneys pgmap="36" id="b36-9">B. Dale West, for appellant.</attorneys>
+              <attorneys pgmap="36" id="b36-10">Dustin McDaniel, Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="36" id="b36-11">Robert J. Gladwin, J­udge.</author>
+                <p pgmap="36(73) 37(45)" id="AR">Following the Faulkner udge. of his motion to suppress, appellant Thomas Waters entered what he intended to be a condi­tional plea of guilty and was sentenced to 150 months’ imprisonment in the Arkansas Department of Correction for possession of a con­trolled substance with intent to deliver, possession of controlled substances in a drug-free zone, and possession of drug paraphernalia. Appellant appeals, raising two points: 1) the trial court erred in finding probable cause to issue the search warrant; and 2) the trial court erred in finding that the good-faith exception applied. We hold that appellant failed to strictly comply with Ark. R. Crim. P. 24.3(b), thus depriving this court of jurisdiction, and we dismiss the appeal.</p>
+                <p pgmap="37" id="b37-6">When a defendant pleads guilty to a charge, he or she waives the right to appeal that conviction. Green v. State, 334 Ark. 484, 978 S.W.2d 300 (1998). For relevant purposes before us, only a conditional plea pursuant to Rule 24.3(b) enables a defendant to retain the right to appeal an adverse suppression ruling. Ark. R. App. P.-Crim. 1(a) (2002); Barnett v. State, 336 Ark. 165, 984 S.W.2d 444 (1999).</p>
+                <p pgmap="37" id="b37-7">Arkansas Rule of Criminal Procedure 24.3(b) states:</p>
+                <blockquote pgmap="37" id="b37-8">With the approval of the court and the consent of the prosecuting attorney, a defendant may enter a conditional plea of guilty or nolo contendere, reserving in writing the right, on appeal from the judgment, to review of an adverse determination of a pretrial motion to suppress evidence. If the defendant prevails on appeal, he shall be allowed to withdraw his plea.</blockquote>
+                <p pgmap="37" id="b37-9">Our supreme court has interpreted Rule 24.3(b) to require strict compliance with the requirement that the right to appeal be reserved in writing. Barnett v. State, supra. This is so even when there has been an attempt to enter a conditional plea below. Ray v. State, 328 Ark. 176, 941 S.W.2d 427 (1997). In addition, the writing must be contemporaneous with the defendant reserving his or her right to appeal. Tabor v. State, 326 Ark. 51, 930 S.W.2d 319 (1996). We also look for an indication that the conditional plea was entered with the approval of the trial court and the consent of the prosecuting attorney. Noble v. State, 314 Ark. 240, 862 S.W.2d 234 (1993).</p>
+                <p pgmap="37" id="b37-10">Jurisdiction</p>
+                <p pgmap="37(82) 38(140)" id="b37-11">The State argues that this court lacks jurisdiction to hear this appeal because appellant failed to strictly comply with Rule 24.3(b). We agree. On February 27, 2007, appellant and his attorney signed a form guilty-plea statement on which the word “conditional” was written in several places, including on the title of the document. Appellant’s rights were listed under section five of the form, and included subsections (a) through (h). Subsection (5)(f) states, “I understand that I have the following rights: (f) The right of appeal with an attorney to represent me.” Section six states, “I understand that if I plead guilty I give up and waive all my rights, and if the [conditional] plea is accepted by the Court, it cannot be changed nor the punishment reduced.” Appellant wrote in the word “conditional” in section six as indicated. The State points out that the portion of the sentence in which appellant declared that he would waive all of his rights was not changed and contained nothing to reflect his assertion that he intended to retain his right to appeal the trial court’s denial of his suppression motion. Finally, section ten states, “I hereby plead guilty to having com­mitted the above stated crime(s), and understand by doing so I give up all my rights.” Again, this section was not altered by appellant.</p>
+                <p pgmap="38" id="b38-5">
+                   This court dismissed the appeal in Hill v. State, 81 Ark. App. 178, 100 S.W.3d 84 (2003), for this exact reason. There, this court determined that Hill, even though he had written in the word “conditional” at the top of the guilty-plea form and had marked out item (f) of the form to the point that it was illegible, did not preserve his right to appeal. This court held:</p>
+                <blockquote pgmap="38" id="b38-6">[W]e hold that appellant failed to strictly comply with Rule 24.3(b). The document does not specifically state that appellant reserves his right to appeal the outcome of the suppression hearing. Rather, the document contains language to the effect that if he pleads guilty, he gives up and waives all his rights. Moreover, the document fails to demonstrate that the trial court approved a conditional plea. Th­erefore, we lack jurisdiction and dismiss the appeal.</blockquote>
+                <p pgmap="38" id="b38-7">Id., 81 Ark. App. at 184, 100 S.W.3d at 88. Here, as in Hill, the form clearly states that appellant had waived all of his rights, without excluding his right to appeal from the list of waived rights. Because appellant did not comply with Rule 24.3(b), this court lacks jurisdic­tion to hear his appeal.</p>
+                <p pgmap="38" id="b38-8">Dismissed.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="38" id="b38-11">David M. Glover, J­udge,</author>
+                <p pgmap="38(47) 39(37)" id="AZr">concurring. I concur in the udge, because existing case law appears to leave us no room to decide otherwise. These are the same words chosen by Judge Wendell L. Griffen in his 2003 concurrence in a case involving a similarly unsuccessful attempt to enter a conditional guilty plea under Arkansas Rules of Criminal Procedure Rule 24.3(b).<footnotemark>1</footnotemark> His suggestion then was for a model form that trial courts, prosecutors, and defense counsel can use when defendants indicate that they want to enter conditional guilty pleas.</p>
+                <p pgmap="39" id="b39-6">This case again vividly illustrates why such a uniform con­ditional guilty plea form should be adopted. I suggest that this issue is worthy of consideration by the supreme court’s committee on criminal practice. Otherwise we will continue, by mandate, to routinely dismiss cases under Rule 24.3(b) simply because one hoop was not jumped through, even though it is apparent that all parties meant for appellant to enter a conditional plea.</p>
+                <footnote label="1">
+                  <p pgmap="39" id="b39-11">1 Hill v. State, 81 Ark. App. 178,100 S.W.3d 84 (2003).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="36" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="37" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jp2_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.3" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jp2_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.2" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="39" ORDERLABEL="11" TYPE="page">
+        <fptr FILEID="tiff_00020_0"/>
+        <fptr FILEID="jp2_00020_0"/>
+        <fptr FILEID="alto_00020_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_39.3" BETYPE="IDREF" FILEID="alto_00020_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.4" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.6" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.6" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.7" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.4" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.5" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.9" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.9" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.8" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.5" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZr" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.11" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_38.12" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_39.1" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.7" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.14" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b39-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_39.5" BETYPE="IDREF" FILEID="alto_00020_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.16" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.15" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avc" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.6" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.7" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.8" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.9" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.8" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.17" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            <area BEGIN="BL_36.18" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            <area BEGIN="BL_37.1" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.10" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

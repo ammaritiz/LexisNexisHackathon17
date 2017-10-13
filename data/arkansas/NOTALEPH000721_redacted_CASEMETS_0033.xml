@@ -1,0 +1,589 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000721_0033" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Reynolds v. State">Dickie REYNOLDS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 86-38</docketnumber>
+          <citation category="official" type="bluebook">18 Ark. App. 193</citation>
+          <citation category="parallel" type="bluebook">712 S.W.2d 329</citation>
+          <decisiondate>1986-07-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:14:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:50:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:34:36Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:35:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="c54e00893f1c4ba839a364989fdd7535" CHECKSUMTYPE="MD5" SIZE="33864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="2d1409a1d506a67a30c9ff3b1cb831ed" CHECKSUMTYPE="MD5" SIZE="5738">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="a0b909acc653148a082dff39d4316e98" CHECKSUMTYPE="MD5" SIZE="57558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="746d080a85816afe9b862021b7458719" CHECKSUMTYPE="MD5" SIZE="57508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="fe3446c542b13d40ca7e22484672d6d6" CHECKSUMTYPE="MD5" SIZE="51864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="42e37b4224777abe22f7f63e58a1806f" CHECKSUMTYPE="MD5" SIZE="55486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="f23be39bec5c3a4a35cdeb050ca19ff5" CHECKSUMTYPE="MD5" SIZE="41096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00110_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="002a1be58c57fb7d9bd06edc68e50a51" CHECKSUMTYPE="MD5" SIZE="2315992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="0e811e1d8c493cc4db954b18d8ea8808" CHECKSUMTYPE="MD5" SIZE="1158619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00107_1.jp2"/>
+      </file>
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="f0d73ef61da12201c14ae3bbfdbfaff4" CHECKSUMTYPE="MD5" SIZE="2645271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="40048d66e99463c55ef414d904cd8048" CHECKSUMTYPE="MD5" SIZE="2640088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="d9816ea39ae604c2cfe27505edea5d62" CHECKSUMTYPE="MD5" SIZE="2664491">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="7fec884168b376778844c968f40a1c08" CHECKSUMTYPE="MD5" SIZE="2599528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="a0bcd3ec7d570e299d3f5b27f853d45d" CHECKSUMTYPE="MD5" SIZE="2512956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00110_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="77cf72382033f27759de608dd8020e17" CHECKSUMTYPE="MD5" SIZE="52981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="b02b5e7832d6cdb822fe88765f64cc57" CHECKSUMTYPE="MD5" SIZE="5683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00107_1.xml"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="279ab994f1cd7d058990a68c1349f865" CHECKSUMTYPE="MD5" SIZE="91969">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="cf24f10c0f42b154b8fc58668d86ef9e" CHECKSUMTYPE="MD5" SIZE="94145">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="b619cd9f20f5f194e7cc4f000d837fc9" CHECKSUMTYPE="MD5" SIZE="85149">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="48aabb4a65e2e58d9c12a6da968a9163" CHECKSUMTYPE="MD5" SIZE="87683">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="b5300a2634cee8b21db3ce6d157130d8" CHECKSUMTYPE="MD5" SIZE="69303">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00110_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0033" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="193" lastpage="199">
+              <court pgmap="213" id="b213-12">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="213" id="b213-11">CA CR 86-38</docketnumber>
+              <citation pgmap="213" id="AKE">712 S.W.2d 329</citation>
+              <parties pgmap="213" id="b213-10">Dickie REYNOLDS v. STATE of Arkansas</parties>
+              <decisiondate pgmap="213" id="b213-13">Opinion delivered July 9, 1986</decisiondate>
+              <judges pgmap="219" id="b219-8">Cloninger and Glaze, JJ., agree.</judges>
+              <attorneys pgmap="214" id="b214-17">Patricia A. Tucker, for appellant.</attorneys>
+              <attorneys pgmap="214(10) 215(2)" id="b214-18">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="215" id="b215-4">George K. Cracraft, Chief Judge.</author>
+                <p pgmap="215" id="AEB">Dickie Reynolds appeals from his conviction of conspiracy to deliver controlled substances and possession of a firearm after having been con­victed of a felony. He contends that the trial court erred in admitting evidence of his prior felony conviction because it was not established that he had knowingly and willingly waived his right to counsel at the time of that conviction, that the trial court erred in admitting into evidence a transcript of a report made by the officers after his arrest, and in permitting the prosecuting attorney to make improper argument to the jury. We find no error and affirm.</p>
+                <p pgmap="215" id="b215-5">In September of 1984, Officer Bob Gibbs of the Arkansas State Police, Narcotics Division, conducted an undercover opera­tion in Montgomery County. Clarence A. Glenn assisted him in that operation as a confidential informant. During a three-day period the agents contacted and made purchases of controlled substances from at least a dozen persons other than the appellant. When they made contact with the appellant he agreed to meet with them for the purpose of negotiating a sale of a large quantity of controlled substances. Before the sale could be finally consum­mated the appellant discovered the identity of the officers and was placed under arrest. A loaded firearm was found in his hip pocket. Appellant was charged, tried, and convicted of the crimes of conspiracy to deliver controlled substances and being a felon in possession of a firearm.</p>
+                <p pgmap="215(140) 216(106)" id="b215-6">
+                   Ark. Stat. Ann. § 41-3103 (Repl. 1977) prohibits any person who has been convicted of a felony from possessing a firearm unless the convicted felon has been granted a pardon which explicitly restores his ability to possess such weapons. In support of the charge under that section, the State introduced certified copies of an order of conviction for the crime of burglary and of the docket entry made at the time which recited that “after specifically waiving the right to counsel the defendant entered a plea of guilty to the crime of burglary.” Defense counsel objected to the introduction of these exhibits and argues on appeal that the docket sheet does not reflect that appellant had the assistance of counsel or knowingly and willingly waived that right as required by Gideon v. Wainright, 372 U.S. 335 (1963). He contends that, as the prior conviction was subject to collateral attack on constitutional grounds, it was insufficient to sustain the convic­tion of possessing a firearm. He argues that the reference to a specific waiver contained in the docket sheet does not encompass a finding that he had been fully informed of his constitutional rights at the time the waiver was made. While we cannot conclude that our court has been so restrictive with regard to evidence of prior convictions,<footnotemark>1</footnotemark> we do not address that issue because we conclude that even if the prior burglary conviction was subject to collateral attack as constitutionally infirm, reversal is not mandated.</p>
+                <p pgmap="216(280) 217(7)" id="b216-6">
+                   In Lewis v. United States, 445 U.S. 55 (1980), the appellant appealed his convictions under the Federal Omnibus Control and Safe Street Act (18 U.S.C. appx. § 1201(a)(1)) which is worded substantially the same as Ark. Stat. Ann. § 41-­3103. In Lewis the appellant had been convicted of a felony and subsequently was convicted under the federal act for possessing a firearm. It was at least assumed by the court that appellant was not represented by counsel and had not effectively waived his right to counsel at the time of the prior conviction. The United States Supreme Court held that a prior felony conviction, even if obtained in violation of those constitutional rights announced in Gideon v. Wainwright, supra, may form the basis for a firearm conviction and does not violate any constitutional guarantees of the Fifth, Sixth, and Fourteenth Amendments. The Court recog­nized its holding in Gideon that a prior state-court conviction without counsel or a valid waiver of counsel was unconstitutional, and subject to being set aside on collateral attack. It further recognized its holding in Burgett v. Texas, 389 U.S. 109 (1967), that a conviction, invalid under Gideon, could not be used for enhancement of punishment under a state’s recidivist statute, but held that the existence of these constitutional infirmities did not have that same effect when raised as a defense to a felony firearm charge because “[enforcement of that essentially civil disability through a criminal sanction does not ‘support guilt or enhance punishment.’ ” Lewis, 445 U.S. at 67. The Court ruled that a legislative body could rationally conclude that any felony convic­tion, even though an allegedly invalid one, is sufficient basis on which to prohibit possession of a firearm.</p>
+                <p pgmap="217" id="b217-6">
+                   The Court reasoned that in any case involving the interpretation of a statute the starting point must be the language of the statute itself. Then the Court stated:</p>
+                <blockquote pgmap="217" id="b217-7">An examination of § 1202(a)(1) reveals its proscription is directed unambiguously at any person who ‘has been convicted by a court of the United States or of a State ... of a felony.’ No modifier is present, and nothing suggests any restriction on the scope of the term ‘convicted.’ ''Nothing on the face of the statute suggests a congressional intent to limit its coverage to persons [whose convictions are not subject to collateral attack}.'' [Citation omitted.] The statutory language is sweeping, and its plain meaning is that the fact of a felony conviction imposes a firearm disability until the conviction is vacated or thefelon is relieved of his disability by some affirmative action, such as a qualifying pardon or a consent from the Secretary of the Treasury.</blockquote>
+                <p pgmap="217" id="b217-8">Lewis, 445 U.S. at 60 (emphasis added). The Court concluded:</p>
+                <blockquote pgmap="217" id="b217-9">We therefore hold that § 1202(a) (1) prohibits a felon from possessing a firearm despite the fact that the predicate felony may be subject to collateral attack on constitutional grounds.</blockquote>
+                <p pgmap="217" id="b217-10">Lewis, 445 U.S. at 65.</p>
+                <p pgmap="217(150) 218(5)" id="b217-11">
+                   Our analysis of Ark. Stat. Ann. §41-3103 (Repl. 1977) and the commentary to that section leads us to the same conclusion. It simply declares that the purpose of the act is to keep firearms out of the hands of persons who have been formally adjudicated as irresponsible or dangerous. Subsection (2) de­clares that even an unrevoked suspended imposition of sentence is a “conviction” for the purposes of that act despite the provision in Ark. Stat. Ann. § 41-1210 (Repl. 1977) that such persons incur no civil disabilities. We conclude that § 41-3103 prohibits a person convicted of a felony from possessing a firearm, regardless of the fact that the prior felony conviction is subject to collateral attack, and that this prohibition continues until the conviction is either successfully attacked and set aside, or a specific pardon is granted. We find no error in the trial court admitting the evidence of the prior felony conviction.</p>
+                <p pgmap="218" id="b218-6">After the police officers’ identity became known and they could no longer work under cover, they arrested the appellant and took him to the county jail. The officers then took into custody at least twelve other persons from whom they had purchased controlled substances during the undercover operation. This task was completed sometime after midnight at which time Officer Gibbs, for the purpose of recording present recollection of the various events, taped an interview with Glenn. The transcript of that taped interview consisted of ten single-spaced legal-size pages.</p>
+                <p pgmap="218" id="b218-7">
+                   During the trial, appellant first asked each officer to identify the transcript as Glenn’s statement made on the night of the arrest. Each officer stated that it was. Appellant then cross-­examined both officers with reference to statements contained in that transcript in an effort to attack their credibility. Over appellant’s objection that the document was “full of hearsay, not the best evidence, and no proper foundation had been laid,” the court admitted the entire document into evidence. Both officers identified the document as containing the statements that they had made on the night of the arrest and the document was originally injected into the case by the appellant. We find this to be a proper foundation.</p>
+                <p pgmap="218" id="b218-8">
+                   Although appellant additionally argues that the docu­ment contained hearsay and was prejudicial, he has not pointed out to us what portions of the document are objectional hearsay or in what way he has been prejudiced. He simply attaches the ten-­page transcript as an exhibit to his brief and, without argument or citation of authority, states that it contains prejudicial material warranting reversal. He, in effect, asks us to explore the document for prejudicial hearsay, research the law, and reverse the convic­tion if the result of our exploration so demands. Assignments of error presented by counsel in their briefs, unsupported by convincing argument or authority, will not be considered on appeal unless it is apparent without further research that they are well taken. Dixon v. State, 260 Ark. 857, 545 S.W.2d 606 (1977). From our examination of that document we find nothing in it that was prejudicial or about which the officers had not already testified in their examination.</p>
+                <p pgmap="219" id="b219-5">During closing arguments the prosecuting attorney pled with the jurors to enforce the law and “send a message out to other drug-traffickers in the county that that kind of conduct is not going to be tolerated in Montgomery County. On the other hand, if you find him not guilty, you will be basically extending an invitation to drug-traffickers in the county that it is okay to engage in that kind of conduct and okay for convicted felons to carry around firearms on their person.” Appellant objected but did not ask for a mistrial. The trial court sustained the objection and admonished the jury that arguments of counsel were not evidence and that they should disregard any statements by counsel which were not supported by the evidence. Ordinarily such an admonition cures any error which might have resulted. Jeffers v. State, 280 Ark. 458, 658 S.W.2d 869 (1983). Had the appellant desired a stronger admonition or other relief, he might have asked for it. He did not do so and we find no error. Subsequent to the admonition, the prosecuting attorney made a similar statement to the jury to which no objection was interposed.</p>
+                <p pgmap="219" id="b219-6">
+                   In Hillv. State, 253 Ark. 512,487 S.W.2d 624 (1972), a number of cases are cited in support of the proposition that it is not error to allow a prosecuting attorney to make an appealing speech about the futility of maintaining courts if juries do not convict on evidence of guilt or if laws are not enforced. This argument was simply a plea to the jury to convict the appellant on the evidence presented in order to deter others from engaging in the same conduct. We find no error in such an argument.</p>
+                <p pgmap="219" id="b219-7">Affirmed.</p>
+                <footnote label="1">
+                  <p pgmap="216" id="b216-7">1 See Williford v. State, 284 Ark. 449, 683 S.W.2d 228 (1985).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="213" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.2" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.5" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.7" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.8" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.6" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-9" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.7" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.6" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.8" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.9" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-4" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.4" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-12" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.12" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-13" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.13" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-10" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.9" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-11" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.10" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-8" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKE" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.11" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-5" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-6" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-17" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.13" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEB" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.5" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_215.6" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-18" BETYPE="IDREF" FILEID="casebody_0033"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.14" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_215.1" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

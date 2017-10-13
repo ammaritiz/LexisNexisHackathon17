@@ -1,0 +1,624 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000731_0037" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Ray v. Georgia-Pacific Corp.">Jesse RAY v. GEORGIA-PACIFIC CORPORATION</name>
+          <docketnumber>CA 80-470</docketnumber>
+          <citation category="official" type="bluebook">1 Ark. App. 196</citation>
+          <citation category="parallel" type="bluebook">614 S.W.2d 676</citation>
+          <decisiondate>1981-04-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-06-16T16:17:37Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T23:28:16Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:33:21Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:34:05Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="2d9d56ce5db151c5e118d4b4a61e8709" CHECKSUMTYPE="MD5" SIZE="8772">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="b40272cb2d770718803c43a3ebc019c5" CHECKSUMTYPE="MD5" SIZE="31410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="d22110216261010481088f851766dae1" CHECKSUMTYPE="MD5" SIZE="55876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="1c06c7cef2c8636bb1bfb69cb4f3c997" CHECKSUMTYPE="MD5" SIZE="52864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00110_0.tif"/>
+      </file>
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="9107df0f5c4ca287cc28abc1180f0b7c" CHECKSUMTYPE="MD5" SIZE="45444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00110_1.tif"/>
+      </file>
+      <file ID="tiff_00111_0" MIMETYPE="image/tiff" CHECKSUM="2442d554433be2684b60eba71dc64319" CHECKSUMTYPE="MD5" SIZE="50024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00111_0.tif"/>
+      </file>
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="63d2256398a2b38e35391b9afcc9e4ea" CHECKSUMTYPE="MD5" SIZE="32128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00111_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="a499f92aff198812f7f7d929c8402ab0" CHECKSUMTYPE="MD5" SIZE="1254466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="c974b8e62aafddf8d9bbde3f4a23f3eb" CHECKSUMTYPE="MD5" SIZE="2160979">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="c61a17c54f0e9c531baab5c4b613ed94" CHECKSUMTYPE="MD5" SIZE="2610059">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="33a098f883c40324652cd40f9a03c7c8" CHECKSUMTYPE="MD5" SIZE="2639963">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00110_0.jp2"/>
+      </file>
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="9265c2b05710860e33bb3c0d3e5c0a77" CHECKSUMTYPE="MD5" SIZE="2518419">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00110_1.jp2"/>
+      </file>
+      <file ID="jp2_00111_0" MIMETYPE="image/jp2" CHECKSUM="20ffd95755243488eca46b5cb4007926" CHECKSUMTYPE="MD5" SIZE="2633128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00111_0.jp2"/>
+      </file>
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="77c43900d57f4c0014d652520ad148a2" CHECKSUMTYPE="MD5" SIZE="2358757">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000731_00111_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="c3b7429e8239636fd630c0026504ad17" CHECKSUMTYPE="MD5" SIZE="9125">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="60cb1bd5350191600c1e5771b2202764" CHECKSUMTYPE="MD5" SIZE="49936">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="29942d91e3ccb2400544c7156d0dde12" CHECKSUMTYPE="MD5" SIZE="95481">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="9c6d7ceafeb9d8610ecbd1c7f9451e20" CHECKSUMTYPE="MD5" SIZE="90341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00110_0.xml"/>
+      </file>
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="13e2b5697f61454ac2770e3d27d9a1f7" CHECKSUMTYPE="MD5" SIZE="78202">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00110_1.xml"/>
+      </file>
+      <file ID="alto_00111_0" MIMETYPE="text/xml" CHECKSUM="fc9546289b69323b287787c8345294cc" CHECKSUMTYPE="MD5" SIZE="89296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00111_0.xml"/>
+      </file>
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="00c481b7ea8ce168e8d494fcc979876d" CHECKSUMTYPE="MD5" SIZE="55709">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000731_redacted_ALTO_00111_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0037" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="202" firstpage="196">
+              <court pgmap="216" id="b216-4">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="216" id="Ajl">CA 80-470</docketnumber>
+              <citation pgmap="216" id="Ajy">614 S.W. 2d 676</citation>
+              <parties pgmap="216" id="b216-3">Jesse RAY v. GEORGIA-PACIFIC CORPORATION</parties>
+              <decisiondate pgmap="216" id="AyB">Opinion delivered April 22, 1981</decisiondate>
+              <otherdate pgmap="216" id="Ao9">[Rehearing denied May 27, 1981.]</otherdate>
+              <attorneys pgmap="217" id="b217-8">Dewey Moore, for appellant.</attorneys>
+              <attorneys pgmap="217" id="b217-9">Griffin, Rainwater &amp; Draper, and Joe K. Bridgforth, Resident Counsel, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="217" id="b217-10">George K. Cracraft, Judge.</author>
+                <p pgmap="217" id="ADp">Appellant brings this appeal from that part of a decision of the Workers’ Compen­sation Commission which denied him an award for disabil­ity to the body as a whole, the right to present evidence of violation of safety regulations under Ark. Stat. Ann. § 81-1310 (d) and in not holding that the employer was liable for additional medical expenses.</p>
+                <p pgmap="217" id="b217-11">The appellant, Jesse Ray, sustained a compensable injury in the course of his employment with the appellee, Georgia-Pacific Corporation, for which temporary total disability benefits were paid through July 31, 1977. He returned to work on August 1, 1977, and continued in that employment since that date. Dr. Hartmann in his report of November 4, 1977, reported that the appellant had received an injury to his right knee and rated him as having a ten percent permanent disability as a result of that injury. He found no permanent disability to the body as a whole.</p>
+                <p pgmap="217(26) 218(187)" id="b217-12">On September 30, 1977, without the permission or knowledge of either the employer or the Workers’ Compen­sation Commission he was seen by Dr. Lester, complaining of a back injury. Dr. Lester rated his permanent partial disability to the right leg as between ten and fifteen percent and rated him five to ten percent disability to the body as a whole. The appellant made claim to the compensation commission for permanent partial disability ratings as to his right leg and to the body as a whole basing that claim upon the medical report of Dr. Lester, also claiming that the appellee should be responsible for the medical treatment rendered by Dr. Lester. The appellant further claimed the benefit of the fifteen percent penalty under the provisions of Ark. Stat. Ann. § 81-1310 (d) (Repl. 1979), which provides for such a penalty “where there is clear and convincing evidence that the injury was caused by violation of any Arkansas statute or regulation pertaining to the health or safety of employees.” In answers to interrogatories propounded to him prior to the hearing the appellant stated that he was basing his claim upon Ark. Stat. Ann. § 81-108 (Repl. 1979), which in general requires an employer to furnish a safe place for its employees to work.</p>
+                <p pgmap="218" id="b218-6">At a hearing before the Administrative Law Judge it was found that the claimant had received a permanent par­tial disability of twelve and one-half percent to his right knee and a five percent disability to the body as a whole as a result of the injuries. The Administrative Law Judge further held that the employer was not responsible for the medical bills incurred by appellant with Dr. Lester for his failure to comply with Rule 21. The Administrative Law Judge further refused to hear an offer of proof on the safety penalty holding that, as a matter of law, Ark. Stat. Ann. § 81-108 (Repl. 1979) was not such a safety statute or regulation as was contemplated by Ark. Stat. Ann. § 81-1310 (d) (Repl. 1979). On review the full commission affirmed all of the rulings of the Administrative Law Judge with the exception of his finding as to disability to the body as a whole.</p>
+                <p pgmap="218(62) 219(62)" id="b218-7">The appellant first contends that the Workers’ Com­pensation Commission erred in its finding that the appel­lant did not sustain any disability to the body as a whole. We cannot agree. While there was testimony in the report of Dr. Lester that found such a disability, there was also testimony in the report of Dr. Hartmann that none had been sustained. This court must view the evidence in the light most favor­able to the commission’s decision and uphold that decision if supported by substantial evidence. Warwick Electronics v. DeVazier, 253 Ark. 1100, 490 S.W. 2d 792. Conflicting medi­cal testimony presents an issue of fact for the commission to determine. Mechanics Lumber Co. v. Roark, 216 Ark. 242, 224 S.W. 2d 806.</p>
+                <p pgmap="219" id="b219-6">Here Dr. Hartmann’s report indicated that no disability to the body as a whole had been sustained, and that any abnormalities in his back shown by the x-rays were of long standing and not caused by the accident in question. This report is quite detailed and its substantiality is not open to question. It is to be noted that the commission also consid­ered the testimony of appellant’s fellow employees, that they had worked with him for the two or three year period subsequent to the accident and had observed no difficulty nor heard complaints about his back and that he had done the work in exactly the same way both before and after the accident. They testified that they noticed nothing about his condition which would indicate any disability.</p>
+                <p pgmap="219" id="b219-7">The appellant next argues that the commission erred in ruling that the appellee was not liable for the cost of the treatment rendered by Dr. Lester. The record reflects that the appellant was afforded reasonable and necessary medical treatment by Dr. Hicks, who treated him until he returned to work. The appellant engaged the services of Dr. Lester on his own, without knowledge or permission of his employer. He did not petition the Workers’ Compensation Commis­sion for a change in physicians pursuant to Rule 21 of that commission which provides a method by which an injured worker may obtain a change in treating physicians at the cost of the employer. One of those requirements is that the claimant file with the commission a petition for such a change, giving the name of the physician to whom he wishes to change and asserts that the physician to whom he wishes to change is competent to treat his particular ailment. In the absence of consent or compliance with Rule 21 to effect such a change, there is no obligation on the part of the employer to pay for the additional medical care.</p>
+                <p pgmap="220" id="b220-5">The ruling of the Workers’ Compensation Commission denying this claim upon finding that he had not complied with Rule 21 is supported by substantial evidence and will not be disturbed on appeal.</p>
+                <p pgmap="220" id="b220-6">Appellant next argues that the commission erred in its ruling that as a matter of law the proof of a violation of Ark. Stat. Ann. § 81-108 (Repl. 1979) would not warrant it in invoking the fifteen percent penalty and dismissed his claim. We find merit in this contention.</p>
+                <p pgmap="220" id="b220-7">Ark. Stat. Ann. § 81-1310 (d) (Repl. 1979) provides the following:</p>
+                <blockquote pgmap="220" id="b220-8">(d) Violation of safety provisions. Where clear and convincing evidence that an injury or death is caused in substantial part by the failure of an employer to comply with any Arkansas statute or official regulation per­taining to the health or safety of employees, compensa­tion or death benefits provided by this Act shall be increased by fifteen percent... .</blockquote>
+                <blockquote pgmap="220" id="b220-9">Ark. Stat. Ann. § 81-108 (a) (Repl. 1979) is as follows;</blockquote>
+                <blockquote pgmap="220" id="b220-10">(a) Every employer shall furnish employment which shall be safe for the employees therein and shall furnish and use safety devices and safeguards, and shall adopt and use methods and processes reasonably adequate to render such an employment and place of employment safe, and shall do every other thing reasonably neces­sary to protect the life, health, safety and welfare of such employees ... .</blockquote>
+                <p pgmap="220(99) 221(65)" id="b220-11">Both the Administrative Law Judge and the Full Com­mission relied on the case of Ryan v. NAPA, 266 Ark. 802, 586 S.W. 2d 6 (Ark. App. 1979)- The appellee argues that as the appellant cited no specific safety statute or official regu­lation of the State of Arkansas which was violated by appel-­lee other than Ark. Stat. Ann. § 81-108, the claim could not be allowed inasmuch as that statute is not part of the Work­men’s Compensation Act. We do not interpret that section as requiring that the violated statute or regulation be a part of the Workmen’s Compensation Act but rather that it applies to all such regulations, whatever area of public safety it may purport to cover. Nor do we construe Ryan as so holding. The court in Ryan did consider evidence of conduct alleged to have been in violation of Ark. Stat. Ann. § 81-108, but concluded that the evidence of violation of that statute was not substantial.</p>
+                <p pgmap="221" id="b221-6">In Harber et al v. Shows et al, 262 Ark. 161, 553 S.W. 2d 282, the penalty provision was sought to be invoked on two grounds. First it was asserted that the injury resulted from violation of a federal regulation, and secondly, that it vio­lated Ark. Stat. Ann. § 81-108. The commission imposed the penalty on a finding that there had been a violation of the federal regulation but did not pass on the question of whether there had been a violation of § 81-108. On appeal the court reversed upon a finding that the provisions of Ark. Stat. Ann. § 81-1310 (d) did not include federal regulations, but had reference only to Arkansas statutes or Arkansas regulations. In its direction for further action on remand of the case the court made it clear that evidence of a violation of Ark. Stat. Ann. § 81-108 was included in the penalty statute of the Workmen’s Compensation Act in the following statement:</p>
+                <blockquote pgmap="221" id="b221-7">The attorney for appellees also tried to proceed before the referee on the theory that the employer had failed to provide a safe place to work in violation of Ark. Stat. Ann. § 81-108 (Repl. I960). After the hearing before the referee, the appellees tried to offer into evidence regula­tions of the Arkansas Labor Department which would have been relevant to this case. Neither the referee nor the Commission ruled on whether or not the appellees could proceed under Arkansas law, but instead based their decisions on violations of the federal regulations. This case will be remanded for a rehearing to determine whether or not the appellees may be entitled to com­pensation for violation of Arkansas regulations or law.</blockquote>
+                <p pgmap="221(33) 222(34)" id="b221-8">We hold that the proof by clear and convincing evidence that the injury or death of a worker is caused in substantial part by the failure of the employer to provide safe employ­ment as required in Ark. Stat. Ann. § 108 (a), is within the purview of Ark. Stat. Ann. § 81-1310 (d) and that appellant should have been permitted to introduce evidence on that issue.</p>
+                <p pgmap="222" id="b222-4">We do not know from the record what evidence appel­lant might have presented tending to show a violation of the safe employment statute. The Administrative Law Judge ruled as a matter of law that he could not present that evidence. At the hearing appellant attempted to make his offer of proof for the record, but was denied that right in the following language:</p>
+                <blockquote pgmap="222" id="b222-5">I’m going to deny claimant’s contention to make an offer of proof as to the safety violation. If the case is ultimately remanded to me we will have to hear it anyway. But I feel like that is the most expeditious way to handle it. I’ll note your objections.</blockquote>
+                <p pgmap="222" id="b222-6">Ordinarily exclusion of evidence by a trial court will not be reviewed if an offer of proof of what the evidence would show is not in the record. However, it appears that the appellant was denied that right and not permitted to make a showing in the record of what he proposed to prove. In those circumstances, we conclude that he should be afforded that right and remand the case for further proceedings on that issue.</p>
+                <p pgmap="222" id="b222-7">Affirmed in part and reversed and remanded in part..</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="216" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="220" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.1" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="221" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00111_0"/>
+        <fptr FILEID="jp2_00111_0"/>
+        <fptr FILEID="alto_00111_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.3" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="222" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.2" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.8" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.6" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyB" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.7" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.5" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.9" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.8" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ao9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.8" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-3" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.3" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.4" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-11" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.9" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            <area BEGIN="BL_221.1" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.6" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.3" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajy" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-12" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.14" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-10" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.10" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-11" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.13" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.5" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.6" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-7" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.7" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-4" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.4" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-5" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.5" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADp" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.11" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_217.12" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-8" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.6" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-9" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.7" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajl" BETYPE="IDREF" FILEID="casebody_0037"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,736 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000709_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="McAdory v. State">Robert McADORY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 06-708</docketnumber>
+          <citation category="official" type="bluebook">98 Ark. App. 181</citation>
+          <citation category="parallel" type="bluebook">253 S.W.3d 16</citation>
+          <decisiondate>2007-03-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T21:29:15Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:56:06Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T10:56:54Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T10:59:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="05fd6839e6c03ff7b8071393439beb91" CHECKSUMTYPE="MD5" SIZE="30832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="a4e5c9ddd08b7204e28167d18982167f" CHECKSUMTYPE="MD5" SIZE="19934">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="02493380aa48121be7ccdf3a23494467" CHECKSUMTYPE="MD5" SIZE="60962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="0bf547a65c409ab06b40d27a4ed3ae88" CHECKSUMTYPE="MD5" SIZE="60820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="80c857e5923a5ae0f5631c2e109a2093" CHECKSUMTYPE="MD5" SIZE="61614">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="b09a790a470a93c940c964e87f3b8257" CHECKSUMTYPE="MD5" SIZE="59004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="b57661c01cfa65d86538770ed866ee3a" CHECKSUMTYPE="MD5" SIZE="55746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="45f39d8f49a18a29df47614d97500b0c" CHECKSUMTYPE="MD5" SIZE="59288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="dd30ef546d8235052f5b0f1a34864418" CHECKSUMTYPE="MD5" SIZE="54118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00110_0.tif"/>
+      </file>
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="0adfd970b289973f04d1167831d0bfae" CHECKSUMTYPE="MD5" SIZE="29916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00110_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="18b22a7df3dc099bbcbd06430c0cd12d" CHECKSUMTYPE="MD5" SIZE="2192462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00106_0.jp2"/>
+      </file>
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="4691eb9ed385d843dfe0357ca808430f" CHECKSUMTYPE="MD5" SIZE="1699704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="adf184ab19ce8e9acdcddde7f2027c33" CHECKSUMTYPE="MD5" SIZE="2686902">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="304f9949508fe68a4044869828bde857" CHECKSUMTYPE="MD5" SIZE="2659850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00107_1.jp2"/>
+      </file>
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="d470680c40d52d229689f18bd47d6ad3" CHECKSUMTYPE="MD5" SIZE="2690084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="c881aac5b30e6fa5bb2ee50ebdd377b8" CHECKSUMTYPE="MD5" SIZE="2650361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="f6cb52900b9ca514371178fadad0028c" CHECKSUMTYPE="MD5" SIZE="2632926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="7aa71f7619e5222ffeca115b21b36700" CHECKSUMTYPE="MD5" SIZE="2638471">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="6225f9ee525d7d4b5c2b57f97fba466f" CHECKSUMTYPE="MD5" SIZE="2635207">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00110_0.jp2"/>
+      </file>
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="337347e0179ec22cd35862e0b6e3855f" CHECKSUMTYPE="MD5" SIZE="2232029">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000709_00110_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="0586518932f649bd61ae0157f18a9041" CHECKSUMTYPE="MD5" SIZE="52453">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00106_0.xml"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="b62eb94b47a4280231d806a2575af66e" CHECKSUMTYPE="MD5" SIZE="29767">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="0122d354683c75a9884c3ac69c10610e" CHECKSUMTYPE="MD5" SIZE="103051">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="2f787de9fe4f311b1ee338bfaa17e725" CHECKSUMTYPE="MD5" SIZE="98533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00107_1.xml"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="882666c8c270a434e3475d4f45d3df9c" CHECKSUMTYPE="MD5" SIZE="104354">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="47e7d34a3c35087776a795c6af501077" CHECKSUMTYPE="MD5" SIZE="100447">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="7c61a877b53a95e88a1d3f6a048b01b4" CHECKSUMTYPE="MD5" SIZE="98647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="b55f038aa3141be6bf2185fb272f6704" CHECKSUMTYPE="MD5" SIZE="96804">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="5a4d4a8bd373120492ca09a27df60301" CHECKSUMTYPE="MD5" SIZE="96800">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00110_0.xml"/>
+      </file>
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="f4415e6f3ff62d4a000a875ea8bcf4f1" CHECKSUMTYPE="MD5" SIZE="44177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000709_redacted_ALTO_00110_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="181" lastpage="190">
+              <court pgmap="211" id="b211-9">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="211" id="b211-8">CA CR 06-708</docketnumber>
+              <citation pgmap="211" id="AXB">253 S.W.3d 16</citation>
+              <parties pgmap="211" id="b211-7">Robert McADORY v. STATE of Arkansas</parties>
+              <decisiondate pgmap="211" id="Afv">Opinion delivered March 14, 2007</decisiondate>
+              <judges pgmap="220" id="b220-4">Glover, J., agrees.</judges>
+              <judges pgmap="220" id="b220-5">Marshall, J., concurs.</judges>
+              <attorneys pgmap="212" id="b212-7">Debra J. Reece, for appellant.</attorneys>
+              <attorneys pgmap="212" id="b212-8">Mike Beebe, Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="212" id="pAv5">Karen R. Baker, Judge.</author>
+                <p pgmap="212" id="pAYj">Appellant Robert McAdory ap­peals his jury conviction for aggravated robbery and sen­tence of ten years’ imprisonment in the Arkansas Department of Correction alleging that the trial court erred in failing to suppress his custodial statement. Specifically, he asserts that the trial court erred in ruling that his statement was admissible when the self-incriminating statement was given after he was detained for five days on a parole hold without being formally arrested or brought before a judge on the aggravated robbery charge. Under the facts of this case, we find no error and affirm.</p>
+                <p pgmap="213" id="b213-4">The substance of appellant’s statement describing his com­mission of the robbery is fairly uncomplicated. On March 25, 2004, at approximately 11:00 p.m., appellant borrowed his cous­in’s car telling her that he had a rendevous with a female other than his girlfriend. He then went to the Days Inn at Osceola where he waited for his girlfriend to leave the premises after finishing her work shift. He explained that he waited for her to leave because he believed that she would recognize him. After she left, he entered the hotel wearing a mask, confronted the night manager in the back office, directed the manager to lie on the floor, tied the manager up with a phone cord, took money from the manager individually, and then proceeded to the front of the motel where he removed the money from the cash drawer. Appellant then left through the back door, traveled back to Blytheville, and returned to his work. He further explained that, when he discovered that his girlfriend was being held for questioning, he gave the money to his cousin and returned to Osceola to the police station to inquire about the questioning of his girlfriend. The money was not recovered.</p>
+                <p pgmap="213" id="b213-5">The facts and circumstances surrounding appellant’s deten­tion and the recording of his confession were established through testimony at the suppression hearing. The first witness to testify was James Lowe who was appellant’s assigned parole officer at the time of the robbery and the parole detention. For our analysis, the testimony of appellant’s parole officer is also the first in impor­tance. Mr. Lowe identified a document that he referred to as a “white warrant” and explained that a white warrant is used to detain a parolee for investigation of possible parole violations. He further explained that the white warrant in this case was issued by him on April 1, 2004, with his signature, and that he had faxed the white warrant at 9:41 that morning.</p>
+                <p pgmap="213(112) 214(66)" id="b213-6">Mr. Lowe stated that on March 26, 2004, his office was notified by the Osceola police that appellant met the physical description of a motel robber and that, through an acquaintance of his, appellant was connected to the motel. Mr. Lowe confirmed his belief to the judge that this information established a reasonable suspicion that appellant was involved in the robbery and further confirmed his decision that appellant should be taken into custody for a suspected parole violation. Mr. Lowe testified that the detention of appellant was initiated based upon the report by the Osceola police to the Osceola Probation Parole Department and that appellant was detained pursuant to the parole department’s hold while Mr. Lowe investigated the suspected violation. Fur­thermore, Mr. Lowe stated that at the time that appellant confessed to the robbery, Mr. Lowe’s investigation had not been completed. He also explained that the parole detention was initiated on March 31, 2004, pursuant to a verbal hold in accordance with the parole department’s procedures, followed by the white warrant delivered the following morning by facsimile.</p>
+                <p pgmap="214" id="b214-5">Fred Wright, who was employed with the Department of Community Punishment Parole — Probation Parole Division in Osceola, testified after Mr. Lowe. Mr. Wright recounted that his first involvement in appellant’s case began on Friday, March 26, 2004, when he was summoned to the local storage facility at Osceola by the police department to be present for a search of appellant’s storage space. He also accompanied appellant and the police officers to the residence of appellant’s parents. He stated that no detention was placed on appellant at that time; however, when the police reported midweek that appellant was considered the prime suspect in the robbery at the Osceola hotel, Mr. Wright issued a verbal hold to detain appellant. Mr. Wright explained that when the decision to detain a parolee is made after hours, as was the case with appellant, the normal procedure of the parole department is to issue a verbal hold to detain the parolee, and that the parole department will issue a white warrant the following work day. Mr. Wright further explained that he took the calls on Friday, March 26, and Wednesday, March 31, 2004, because Mr. Lowe was unavailable. He reported the information to Mr. Lowe pursuant to established procedure. He also confirmed that he had the authority to place the verbal hold on appellant and used that authority appropriately in this case.</p>
+                <p pgmap="214(124) 215(24)" id="b214-6">Michael Russell, captain of the criminal investigation divi­sion of the Osceola Police Department, recounted that he was investigating a robbery that occurred at the Days Inn in Osceola in late March of2004. During the investigation, he and his colleague, Sergeant Jennifer Elphin, began to suspect that appellant was involved in the robbery. On Wednesday, March 31, 2004, appel­lant arrived at the Osceola Police Station in the late afternoon. He was brought into Sergeant Elphin’s office where she explained his rights and had him sign a Miranda rights form that was introduced into evidence. After speaking with appellant, Captain Russell placed a phone call to Fred Wright, a parole officer, who verbally authorized him to place a “parole hold” on appellant and detain him there at the jail. Officer Russell made what was described as a jail-book docket entry for appellant and listed the time as 5:30.</p>
+                <p pgmap="215" id="b215-5">Captain Russell again interviewed appellant on Friday after­noon, April 2, 2004, at 2:04. Appellant was once more informed of his rights and signed a Miranda form. Captain Russell testified that he spoke with appellant again on Sunday, April 4, 2004, and he believed that appellant initiated that interview by asking to speak with officers. Appellant signed another Miranda form. The officers tape recorded the interview in which appellant admitted his involvement in the Days Inn robbery. Sergeant Jennifer Elphin also testified, and her testimony was substantially similar to that of Captain Russell.</p>
+                <p pgmap="215" id="b215-6">At the suppression hearing, appellant testified that he re­ceived a phone call around midnight the night of March 25 into the early morning of March 26, 2004, telling him that his girlfriend was being taken to jail. He stated that he went to the police station and spoke with the police that night. The next day, the police released his girlfriend and asked appellant for permission to search his truck. Appellant granted permission, but requested the pres­ence of his parole officer. Fred Wright, who was not the officer assigned to appellant, arrived and the police conducted searches of appellant’s vehicle and his home pursuant to the consent. The next contact appellant had with the police was on March 31, 2004. Appellant testified that the police arrived late in the afternoon, somewhere around 4:00 or 5:00, at his girlfriend’s residence and brought both him and his girlfriend to the Osceola Police Station where he was put in a holding cell for thirty minutes to an hour, but was never handcuffed. He was taken from the holding cell and interviewed by the officers, then placed in a jail cell. The next day, April 1, 2004, he was given access to a telephone and called his family and girlfriend. He was questioned again on April 2, and then placed back in a holding cell. On Sunday, April 4, 2004, appellant attempted to contact police officers to inquire about his detention and was taken again to visit with Captain Russell and Sergeant Elphin. After speaking with the officers, appellant gave a tape-­recorded statement. He was brought before a judge the following day, Monday, April 5, 2004.</p>
+                <p pgmap="215(51) 216(44)" id="b215-7">On direct examination, appellant testified that he would not have given the statement if he had not been incarcerated for so long and if the officers had not been threatening to charge his girlfriend with the robbery. On cross-examination, in response to various questions at different times, appellant stated that being incarcerated did not overcome his sense of control and explained that he had served seven years in the penitentiary so that his time in the jail was rather inconsequential. He also specifically denied that the police officers intimidated him or tricked him into confessing.</p>
+                <p pgmap="216" id="b216-4">In his motion to suppress, appellant argued that his state­ments should be excluded because they were coerced and, thus involuntary. At the suppression hearing, he argued that his arrest and subsequent detention were in violation of Ark. Code Ann. § 16-93-705 and that procurement of his statement was a “classic case of coercion.” On appeal, he does not argue or mention § 16-93-705, which addresses parole-revocation procedures. In­stead, he alleges a violation of Rule 8.1 of the Arkansas Rules of Criminal Procedure, which involves a prompt first appearance before a magistrate following arrest. Appellant emphasizes that he was held for five days without being taken before a judicial officer, and that he was questioned several times until he finally confessed to the crime for which he was being held. Only on the sixth day, after his confession, was he taken in front of a judge. Appellant concludes that these police actions were inherently coercive and in violation of Rule 8.1 of the Arkansas Rules of Criminal Procedure and Arkansas case law, and that his statement should have been suppressed by the trial court.</p>
+                <p pgmap="216(197) 217(16)" id="b216-5">The State responds to appellant’s argument on appeal by arguing that Rule 8.1 does not apply because the rule addresses probable-cause arrests for criminal acts, but appellant was detained pursuant to a “parole hold” for which probable cause is not required. See Ark. Code Ann. § 16-93-705 (Repl. 1999); see also Medlock v. State, 79 Ark. App. 447, 89 S.W.3d 357 (2002) (holding that the detention of a parolee may either be supported by the procedure set forth in Ark. Code Ann. § 16-93-705 or probable cause). The State further asserts that whether Rule 8.1 applies or not, appellant did not argue it below to preserve the issue. See, e.g., Romes v. State, 356 Ark. 26, 46, 144 S.W.3d 750, 763-64 (2004) (holding that, where an argument based upon rule 8.1 was not factually and legally developed below and where accused had not obtained a clear ruling on that issue, the argument was not preserved for review). In addition, the State maintains that appel­lant abandoned any arguments made below regarding voluntari­ness, coercion, or the procedure to be followed in a parole hold as set forth by § 16-93-705 as they were not specifically addressed in his appellate brief. Alternatively, the State proposes that the argument regarding Rule 8.1 is without merit.</p>
+                <p pgmap="217" id="b217-5">
+                   At the trial level and on appeal, appellant has consis­tently argued that his statement should have been suppressed because of an unlawful delay by law enforcement in charging him with the crime or bringing him before a judge. Therefore, we hold that the issue is preserved for our review. However, we agree with the State that a Rule 8.1 analysis is inapplicable under the facts of this case.</p>
+                <p pgmap="217" id="b217-6">We most often address an accused’s allegations of delay in the context of an arrest for a criminal act and the procedure set out by Arkansas Rule of Criminal Procedure 8.1, which provides that “an arrested person who is not released by citation or by other lawful manner shall be taken before a judicial officer without unnecessary delay.” When a suspect’s first appearance is delayed, incriminating statements taken during the delay will be suppressed only if the delay is unnecessary, the statement is prejudicial, and the statement is reasonably related to the delay. Duncan v. State, 291 Ark. 521, 529-30, 726 S.W.2d 653, 657 (1987).</p>
+                <blockquote pgmap="217" id="b217-7">Examples of unreasonable delay are delays for the purpose of gathering additional evidence to justify the arrest, a delay motivated by ill will against the arrested individual, or delay for delay’s sake. See Clay v. State, 318 Ark. 122, 883 S.W.2d 822 (1994). An unnecessary delay may include a deliberate postponement of a first appearance to allow more time to gather evidence, or to obtain an incriminating statement after a series of exculpatory ones. In Dun­can, supra, the accused was held incommunicado for three days after giving an exculpatory statement, during which time he could have been taken for a first appearance, before giving an incriminating statement. Similarly in Clay v. State, 318 Ark. 122, 883 S.W.2d 822, the court found an unnecessary delay where the only reason the accused was not taken by an officer to a first appearance was that the deputy prosecutor instmcted him that the first appearance was to be continued to the next court date for further evidence involv­ing this case after the accused gave a series of exculpatory state­ments. A delay has even been found to be unnecessary where the officers admitted that they did not take the accused for the first appearance because they were collecting evidence, and because they were tired. Britt v. State, 334 Ark. 142, 155-57, 974 S.W.2d 436, 442-43 (1998) (discussing Duncan and Clay).</blockquote>
+                <p pgmap="218" id="b218-5">Green v. State, 80 Ark. App. 199, 201-02, 92 S.W.3d 687, 689-90 (2002) (finding no unreasonable delay given the lateness of the hour and the time constraints to allow accused sufficient opportunity to complete his voluntary statement).</p>
+                <p pgmap="218" id="b218-6">
+                   While we agree with appellant regarding the general premises found in Rule 8.1 and the case law expounding upon the protections afforded a citizen deprived of liberty by being taken into police custody, we do not agree that those principles are applicable to appellant’s situation. In this case, appellant was detained pursuant to the direction of the parole officer based upon the officer’s reasonable belief that appellant had violated the conditions of his parole. While appellant’s argument attempts to cast doubt upon the communications between the police officers and the parole officers as conspiratorial in nature, he cites to no authority and makes no convincing argument that the communi­cations between police officers and parole officers are, or should be, limited. To the contrary, it seems not only appropriate, but necessarily prudent, for officers investigating criminal activity in which a parolee is suspected to be involved to notify and keep informed the parolee’s supervising officer and the department charged with monitoring the parolee’s activities. A parolee is in the legal custody of the state penal system at all times during his physical release from the institution.</p>
+                <p pgmap="218" id="b218-7">Arkansas Code Annotated § 16-93-701(4) (Supp. 2005) provides that “[e]very prisoner, while on parole, shall remain in the legal custody of the institution from which he was released, but shall be subject to the orders of the board.” See McFerrin v. State, 344 Ark. 671, 42 S.W.3d 529 (2001) (noting that a parolee’s advance consent for search is valid because the parolee remains in the custody of the penal institution from which he is released, and the “special needs of the parole process call for intensive supervi­sion of the parolee making the warrant requirement impractical”). See also Cherry v. State, 302 Ark. 462, 467, 791 S.W.2d 354, 357 (1990).</p>
+                <p pgmap="218(76) 219(67)" id="b218-8">As a parolee, the appellant was in the constructive custody of the Department of Correction and subject to summary arrest for violation of the terms or conditions of his parole. See Smith v. State, 1 Ark. App. 241, 614 S.W.2d 527 (1981). The trial judge stated that, for purposes of appellant’s argument, the court was assuming that the initial incarceration of appellant was wrongful. While we do not agree with the assumption, the assumption offers minimal assistance in ascertaining the voluntariness of appellant’s statement. The trial court correctly identified the question before it whether the detention of appellant rendered appellant’s statement involun­tary. Appellant testified, the State argued, and the trial judge accepted, that appellant did not feel coerced or threatened. The trial court found that appellant’s statement was voluntary based upon appellant’s testimony that he did not feel coerced or threat­ened.</p>
+                <p pgmap="219" id="b219-5">Our supreme court has explained our role in reviewing the trial court’s evaluation of the voluntariness of a custodial state­ment:</p>
+                <blockquote pgmap="219" id="b219-6">A statement made while an accused is in custody is presumptively involuntary, and the burden is on the State to prove, by a prepon­derance of the evidence, that a custodial statement was given voluntarily and was knowingly and intelligendy made. Smith v. State, 334 Ark. 190, 974 S.W.2d 427 (1998). In order to determine whether a waiver of Miranda rights is voluntary, this court looks to see if the confession was the product of free and deliberate choice rather than intimidation, coercion, or deception. Diemer v. State, 340 Ark. 223, 9 S.W.3d 490 (2000). In making this determination, we review the totality of the circumstances, and reverse the trial court only if its decision was clearly erroneous. Humphrey v. State, 327 Ark. 753, 940 S.W.2d 860 (1997). In determining whether a confession was voluntary, we consider the following factors: age, education, and intelligence of the accused, lack of advice to his constitutional rights, length of detention, the repeated and pro­longed nature of the questioning, or the use of physical punishment. Humphrey, 327 Ark. at 760, 940 S.W.2d 860; see also Conner v. State, 334 Ark. 457, 982 S.W.2d 655 (1998).</blockquote>
+                <blockquote pgmap="219" id="b219-7">Further, the credibility of witnesses who testify at a suppression hearing about the circumstances surrounding the appellant’s in-­custody confession is for the trial judge to determine, and we defer to the superior position of the trial judge in matters of credibility. Wright v. State, 335 Ark. 395, 983 S.W.2d 397 (1998). Conflicts in the testimony are for the trial judge to resolve, and the judge is not required to believe the testimony of any witness, especially that of the accused since he or she is the person most interested in the outcome of the proceedings. Id. So long as there is no evidence of coercion, a statement made voluntarily may be admissible against an accused. Id.</blockquote>
+                <p pgmap="219" id="b219-8">Jones v. State, 344 Ark. 682, 687, 42 S.W.3d 536, 540 (2001).</p>
+                <p pgmap="220" id="b220-2">
+                   The sole concern of the Fifth Amendment, upon which Miranda was based, is governmental coercion. Colorado v. Connelly, 479 U.S. 157 (1986). Coercive police activity is a necessary predicate to finding that a confession is not voluntary within the meaning of the Due Process Clause. Id. Given our role, and our deference to the trial judge’s determination of credibility, we find no error in his determination that the confession was voluntary. Appellant stated unequivocally that the detention was not a factor and specifically compared the short duration of the jail detention with his seven-year incarceration in the penitentiary. He further refuted any contention that he felt threatened by the police officers who questioned him.</p>
+                <p pgmap="220" id="b220-3">Accordingly, we find no error in the trial court’s admission of appellant’s custodial statement and affirm.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="211" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.2" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.2" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.2" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="220" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.8" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_215.1" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.9" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.11" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.8" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.5" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.5" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.6" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.4" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAv5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.10" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.6" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-3" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.5" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.6" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Afv" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.12" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-2" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-4" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.7" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXB" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.10" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.3" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.5" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.9" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAYj" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.11" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_212.12" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_212.13" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.7" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.6" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

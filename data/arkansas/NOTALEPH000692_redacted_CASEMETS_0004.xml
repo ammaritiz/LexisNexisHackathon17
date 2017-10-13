@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000692_0004" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jenkins v. Jenkins">Barbara JENKINS v. Timothy Wayne JENKINS</name>
+          <docketnumber>CA 07-850</docketnumber>
+          <citation category="official" type="bluebook">103 Ark. App. 21</citation>
+          <citation category="parallel" type="bluebook">285 S.W.3d 704</citation>
+          <decisiondate>2008-06-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T18:51:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:17:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-28T16:00:04Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-28T16:01:03Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170726.post182</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00025_0" MIMETYPE="image/tiff" CHECKSUM="b12da9c3aa6dc9c569aaca25da7a6bc4" CHECKSUMTYPE="MD5" SIZE="25150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00025_0.tif"/>
+      </file>
+      <file ID="tiff_00025_1" MIMETYPE="image/tiff" CHECKSUM="d2af6cdca94e4f799baf90db579c8af9" CHECKSUMTYPE="MD5" SIZE="45170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00025_1.tif"/>
+      </file>
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="30bf282640c30e9fd4908baf75fce084" CHECKSUMTYPE="MD5" SIZE="56384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00026_0.tif"/>
+      </file>
+      <file ID="tiff_00026_1" MIMETYPE="image/tiff" CHECKSUM="9c80966cab10900fe963cbf0bb6f8b06" CHECKSUMTYPE="MD5" SIZE="26784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00026_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00025_0" MIMETYPE="image/jp2" CHECKSUM="31b8471268a229a0f86eb6096cafbdc0" CHECKSUMTYPE="MD5" SIZE="2096271">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00025_0.jp2"/>
+      </file>
+      <file ID="jp2_00025_1" MIMETYPE="image/jp2" CHECKSUM="648881df4004d5eb4f412bd88ccbe4d5" CHECKSUMTYPE="MD5" SIZE="2358191">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00025_1.jp2"/>
+      </file>
+      <file ID="jp2_00026_0" MIMETYPE="image/jp2" CHECKSUM="3f4098aaa88056c5fd7ce84a9d1c2984" CHECKSUMTYPE="MD5" SIZE="2610971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00026_0.jp2"/>
+      </file>
+      <file ID="jp2_00026_1" MIMETYPE="image/jp2" CHECKSUM="71f4c5f931995c5778fc03a1f723a322" CHECKSUMTYPE="MD5" SIZE="2104860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000692_00026_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00025_0" MIMETYPE="text/xml" CHECKSUM="61a0c87f6e76ffb8b40d0f030cdcde91" CHECKSUMTYPE="MD5" SIZE="39701">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00025_0.xml"/>
+      </file>
+      <file ID="alto_00025_1" MIMETYPE="text/xml" CHECKSUM="91ecb2b58010f513f19ce7fb4dc523c3" CHECKSUMTYPE="MD5" SIZE="72975">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00025_1.xml"/>
+      </file>
+      <file ID="alto_00026_0" MIMETYPE="text/xml" CHECKSUM="54f04e832e863932dbd1109243b9bb1c" CHECKSUMTYPE="MD5" SIZE="94775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00026_0.xml"/>
+      </file>
+      <file ID="alto_00026_1" MIMETYPE="text/xml" CHECKSUM="381f41fcfd7bb2f3fa8a22a349ed2a7d" CHECKSUMTYPE="MD5" SIZE="43882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000692_redacted_ALTO_00026_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="24" firstpage="21">
+              <court pgmap="49" id="b49-8">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="49" id="AM">CA 07-850</docketnumber>
+              <citation pgmap="49" id="AKv">285 S.W.3d 704</citation>
+              <parties pgmap="49" id="b49-7">Barbara JENKINS v. Timothy Wayne JENKINS</parties>
+              <decisiondate pgmap="49" id="Ap">Opinion delivered June 18, 2008</decisiondate>
+              <otherdate pgmap="49" id="b49-9">[Rehearing denied August 20, 2008.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="52" id="b52-7">Robbins and Griffen, JJ., agree.</judges>
+              <attorneys pgmap="50" id="b50-7">Brown &amp; McKissic, LLP, by: Gene E. McKissic, for appellant.</attorneys>
+              <attorneys pgmap="50" id="b50-8">Virginia “Ginger” Atkinson and William F. Sherman, for appel-­lee.</attorneys>
+              <footnote label="*">
+                <p pgmap="49" id="b49-13">* HEFFLEY,J., would grant rehearing.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="50" id="b50-9">Larry D. Vaught, Judge.</author>
+                <p pgmap="50" id="Al">This appeal is taken from the divorce decree ending the fifteen-year marriage of appel­lant Barbara Jenkins and appellee Timothy Jenkins. The decree incorporated a property-settlement agreement that was recited to a court reporter prior to trial. For reversal, appellant takes issue with the trial court’s ruling that the settlement agreement was binding and enforceable. She argues that the agreement should be construed under contract law; that there was no meeting of the minds; and that the Statute of Frauds required the agreement to be in writing. We reverse and remand.</p>
+                <p pgmap="50" id="b50-10">The facts of this case are simple. Appellant filed an action for divorce on February 22, 2005. Appellee filed his answer and counterclaim on March 10, 2005. The parties, and their respective attorneys, appeared on August 25, 2005, for a scheduled deposi­tion of appellee at the offices of appellant’s attorney, Harold King. However, instead of taking depositions, the parties began to negotiate a settlement of the divorce action. Appellant’s attorney proposed a settlement to the divorce. The same day, Mr. King recited the terms of the parties’ agreement to a certified court reporter.</p>
+                <p pgmap="50(94) 51(21)" id="b50-11">The parties’ agreement was subsequently reduced to a writ­ing prepared by Mr. King. The writing, dated September 20, 2005, purported to be the “1st ‘rough’ draft” of the agreement. And, indeed, there were several hand-written modifications to the “draft,” presumably (but not clearly) made by appellee. Further, the writing contained several additional terms of the settlement that were not recorded in the August 25 agreement. These additional terms included the parties’ proposed visitation for their minor children, the disposition of an investment account, and the decision to quit-claim deed several jointly owned properties. There was a final, written property-settlement agreement submit­ted to the trial court. However, this document was not signed by appellant.</p>
+                <p pgmap="51" id="b51-5">On September 22, 2006, appellee filed a motion to enforce the parties’ property-settlement agreement (which he identified as the statements made on the record in the proceeding before the court reporter on August 25, 2005). Appellant responded to the motion alleging that the agreement was not enforceable because there was no mutual agreement; and no “signed writing establish­ing an agreement.” She further argued that because the agreement involved the transfer of real property the Statute of Frauds required that the settlement be in writing. The trial court rejected appel­lant’s position and concluded that the parties were bound by the oral agreement they had entered into on August 25, 2005. The court also recognized that the written recitation of the agreement varied in both terms and scope from the original oral agreement but concluded that such modifications “in no way invalidate [d]” the parties’ prior agreement. The court then entered a final divorce decree, incorporating the terms of the written document purport­ing to be a recitation of the prior oral agreement.</p>
+                <p pgmap="51" id="b51-6">Appellant filed a notice of appeal, arguing that the trial court erred in its conclusion that the parties had previously entered into an enforceable settlement agreement because there was no signed writing and no meeting of the minds. We review these allegations of error using a de novo standard, and begin our legal analysis by examining the statutory rules relating to the enforcement of separation agreements. Arkansas Code Annotated section 9-12-­313 (Repl. 2008) provides:</p>
+                <blockquote pgmap="51" id="b51-7">Courts of equity may enforce the performance of written agreements between husband and wife made and entered into in contemplation of either separation or divorce and decrees or orders for alimony and maintenance by sequestration of the property of either party, or that of his or her sureties, or by such other lawful ways and means, including equitable garnishments or contempt proceedings, as are in conformity with rules and practices of courts of equity.</blockquote>
+                <p pgmap="51(60) 52(47)" id="b51-8">(Emphasis added.) However, oral stipulations dictated in open court have the force and effect of a binding agreement. Bishop v. Bishop, 60 Ark. App. 164, 961 S.W.2d 770 (1998); Kunz v. Jarnigan, 25 Ark. App. 221, 756 S.W.2d 913 (1988); Linehan v. Linehan, 8 Ark. App. 177, 649 S.W.2d 837 (1983). But, in order to be bound by the oral stipulations, the parties affected by the stipulations must express their assent to the terms of the agreement in open court. See Baker v. Daves, 83 Ark. App. 145, 119 S.W.3d 53 (2003) (holding person not bound by agreement read into record without expressing assent in open court).</p>
+                <p pgmap="52" id="b52-5">
+                   Here, the parties had no written agreement under which the trial court could order performance. The parties initial recitation of their agreement was unilateral and was not conducted in open court — appellant’s attorney outlined the general terms of the agreement to a court reporter, prior to the court hearing. Appellant never assented to the “oral stipulations” of the agree­ment in open court, and vigorously refuted the existence of an agreement at the hearing before the circuit judge. Therefore, the trial court erred in its conclusion that appellant was a party to a binding agreement.</p>
+                <p pgmap="52" id="b52-6">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="49" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00025_0"/>
+        <fptr FILEID="jp2_00025_0"/>
+        <fptr FILEID="alto_00025_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_49.3" BETYPE="IDREF" FILEID="alto_00025_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="50" ORDERLABEL="22" TYPE="page">
+        <fptr FILEID="tiff_00025_1"/>
+        <fptr FILEID="jp2_00025_1"/>
+        <fptr FILEID="alto_00025_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.2" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="51" ORDERLABEL="23" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jp2_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.3" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="52" ORDERLABEL="24" TYPE="page">
+        <fptr FILEID="tiff_00026_1"/>
+        <fptr FILEID="jp2_00026_1"/>
+        <fptr FILEID="alto_00026_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.2" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.5" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.6" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.4" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.6" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.7" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.8" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKv" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.9" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-13" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.14" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-10" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.12" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-11" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.13" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_51.1" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.8" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.6" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.11" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.10" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-9" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.12" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b49-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_49.7" BETYPE="IDREF" FILEID="alto_00025_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-8" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.7" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_52.1" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.4" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Al" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.9" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_50.10" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            <area BEGIN="BL_50.11" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.5" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

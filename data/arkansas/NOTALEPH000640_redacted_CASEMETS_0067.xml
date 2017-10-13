@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000640_0067" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wolf v. State">Gary WOLF v. STATE of Arkansas</name>
+          <docketnumber>CA CR 83-173</docketnumber>
+          <citation category="official" type="bluebook">10 Ark. App. 379</citation>
+          <citation category="parallel" type="bluebook">664 S.W.2d 882</citation>
+          <decisiondate>1984-02-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T18:44:24Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:07:54Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:11:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:12:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="b52849eb26f48b88174fd4c58a3e3310" CHECKSUMTYPE="MD5" SIZE="11160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="3cdb77aa1c3c9ba4165581071880b4a2" CHECKSUMTYPE="MD5" SIZE="48966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00201_1.tif"/>
+      </file>
+      <file ID="tiff_00202_0" MIMETYPE="image/tiff" CHECKSUM="bbc0586df7a4cf89baaa5c6d342825ee" CHECKSUMTYPE="MD5" SIZE="50968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00202_0.tif"/>
+      </file>
+      <file ID="tiff_00202_1" MIMETYPE="image/tiff" CHECKSUM="f4d64990e51278e3bd503ee931ca8263" CHECKSUMTYPE="MD5" SIZE="11410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00202_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="a3856b396c72dfa98555e660d8f07358" CHECKSUMTYPE="MD5" SIZE="1475350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00201_0.jp2"/>
+      </file>
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="f218ddbd8349e8abb8f04c0d121ee3f7" CHECKSUMTYPE="MD5" SIZE="2595730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00201_1.jp2"/>
+      </file>
+      <file ID="jp2_00202_0" MIMETYPE="image/jp2" CHECKSUM="bb6556bab9e60df3b906ccbb56bc08e8" CHECKSUMTYPE="MD5" SIZE="2630719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00202_0.jp2"/>
+      </file>
+      <file ID="jp2_00202_1" MIMETYPE="image/jp2" CHECKSUM="38f87061b9483f029f3174eb7dec1241" CHECKSUMTYPE="MD5" SIZE="2119340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00202_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="7d02b1a47c208d141703da0b4e6bc434" CHECKSUMTYPE="MD5" SIZE="14575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00201_0.xml"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="30989ca5edf931464d11c83c0cac6ef5" CHECKSUMTYPE="MD5" SIZE="80896">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00201_1.xml"/>
+      </file>
+      <file ID="alto_00202_0" MIMETYPE="text/xml" CHECKSUM="9df4f2392e6260a89d4012ff3b3b80cb" CHECKSUMTYPE="MD5" SIZE="87109">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00202_0.xml"/>
+      </file>
+      <file ID="alto_00202_1" MIMETYPE="text/xml" CHECKSUM="de4b7ad0d31a7c6cabe32019b2d3bbb6" CHECKSUMTYPE="MD5" SIZE="14386">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00202_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0067" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="382" firstpage="379">
+              <court pgmap="401" id="b401-5">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="401" id="b401-4">CA CR 83-173</docketnumber>
+              <citation pgmap="401" id="AWa">664 S.W.2d 882</citation>
+              <parties pgmap="401" id="b401-3">Gary WOLF v. STATE of Arkansas</parties>
+              <decisiondate pgmap="401" id="b401-6">Opinion delivered February 22, 1984</decisiondate>
+              <otherdate pgmap="401" id="AV9q">[Rehearing denied March 21, 1984.]</otherdate>
+              <judges pgmap="404" id="b404-6">Mayfield and Cracraft, JJ., agree.</judges>
+              <attorneys pgmap="401" id="b401-15">Guy Jones, Jr., P.A., for appellant.</attorneys>
+              <attorneys pgmap="401" id="b401-16">Steve Clark, Atty. Gen., by: Marci L. Talbot, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="402" id="b402-3">James R. Cooper, Judge.</author>
+                <p pgmap="402" id="AGI">In this criminal case, the appellant was charged with manufacturing a controlled substance, i.e., marijuana. After a trial by jury, the appellant was convicted and sentenced to four years in the Department of Correction. From that decision, comes this appeal.</p>
+                <p pgmap="402" id="b402-4">For reversal, the appellant argues that the affidavit upon which the search warrant was based was fatally defective, and that there was insufficient evidence presented at his trial concerning control of the premises upon which the marijuana was discovered to support his conviction.</p>
+                <p pgmap="402" id="b402-5">The appellant argues that the affidavit was insufficient to support the issuance of the search warrant in two respects: first, the affidavit of Sheriff Gus Anglin, the Van Burén County Sheriff, failed to establish the reliability of the confidential informant or give sufficient basis for reasonable cause for issuance of the search warrant and second, that the search warrant did not properly describe the property to be searched to such a degree as to give the officers executing the warrant sufficient guidance in reference to what area was to be searched. The affidavit upon which the search warrant was based states:</p>
+                <blockquote pgmap="402" id="b402-6">The undersigned, being duly sworn, deposes and says: That a confidential informant observed green vegetable matter appearing to be marijuana on the 31st day of August, 1982. He informed me that he discovered the green vegetable matter on property located in the El/2 SE1/4, Sec. 30, T-12-N, R-14-W, in Van Burén County, Arkansas. This is the same confidential in­formant who helped us in the case of State versus Howard Broyles.</blockquote>
+                <p pgmap="402(79) 403(152)" id="b402-7">In prior cases, affidavits supporting search warrants had to pass a two-pronged test adopted by the United States Supreme Court in Aguilar v. Texas, 378 U.S. 108 (1964); State v. Prue, 272 Ark. 221, 614 S.W.2d 221, cert. denied, 454 U.S. 863 (1982). The affidavit had to reflect 1) some under­lying circumstance showing the reliability of the informant and 2) some underlying circumstance from which the infor­mant concluded that the items to be seized were where he said they were. However, in Thompson v. State, 280 Ark. 265, 658 S.W.2d 350 (1983), the Arkansas Supreme Court adopted the test for reviewing the sufficiency of such affidavits that the United States Supreme Court set forth in Illinois v. Gates, 103 S.Ct. 2317 (1983). Under this new totality of the circumstances test, the magistrate issuing the warrant must make a practical, common sense decision based on all the circumstances set forth in the affidavit. Under this test, “the duty of the reviewing court is simply to ensure that the magistrate had a ‘substantial basis for . . . concluding’ that probable cause existed” to issue the warrant. Id. However, conclusory statements in affidavits which give no substantial basis for determining the exis­tence of probable cause will not be accepted. There must still be enough information presented to the magistrate to allow him to determine that there exists probable cause. Id.</p>
+                <p pgmap="403" id="b403-6">In the case at bar, the affiant, Sheriff Anglin, stated that a confidential informant, whose reliability had been proven in a previous case, observed plants which he believed were marijuana growing on a particular piece of property in Van Burén County. The Sheriff obtained a correct legal description for the property occupied by the appellant and his girl friend. Based on the test adopted by the Arkansas Supreme Court in Thompson v. State, supra, as defined in Gates, we find the affidavit sufficient to establish probable cause.</p>
+                <p pgmap="403(130) 404(22)" id="b403-7">Next, the appellant argues that the State failed to prove his ownership or control of the property upon which the contraband was found. The only testimony of the appel­lant’s control over the property or dominion over the area in which the marij uana was found was based on the knowledge of Sheriff Anglin and two deputies executing the warrant. They testified that they were aware that the appellant was renting the property. The Sheriff further testified that he knew many of the county’s residents and where they resided. The appellant was one of these persons whom the Sheriff knew to be living in a certain location. When the search warrant was served the appellant was not present, but the woman with whom he was living was present. The tes­timony shows that there were several trails leading directly from the house out into the outlying acreage where the marijuana was found.</p>
+                <p pgmap="404" id="b404-4">We find substantial evidence to support the jury’s determination of the factual issue of control or dominion over the property by the appellant.</p>
+                <p pgmap="404" id="b404-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="401" ORDERLABEL="379" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.2" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="403" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00202_0"/>
+        <fptr FILEID="jp2_00202_0"/>
+        <fptr FILEID="alto_00202_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_403.3" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="404" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00202_1"/>
+        <fptr FILEID="jp2_00202_1"/>
+        <fptr FILEID="alto_00202_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_404.2" BETYPE="IDREF" FILEID="alto_00202_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.4" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.5" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b404-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_404.6" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV9q" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.8" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGI" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-3" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.6" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.4" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.7" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-16" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.16" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-15" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.15" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.5" BETYPE="IDREF" FILEID="alto_00202_0"/>
+            <area BEGIN="BL_404.1" BETYPE="IDREF" FILEID="alto_00202_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b403-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_403.4" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWa" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-3" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.3" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-6" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.8" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-7" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.9" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            <area BEGIN="BL_403.1" BETYPE="IDREF" FILEID="alto_00202_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-4" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.6" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-5" BETYPE="IDREF" FILEID="casebody_0067"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.7" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

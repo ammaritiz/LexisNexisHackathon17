@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000707_0019" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wooten v. State">Allen Jason WOOTEN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-1109</docketnumber>
+          <citation category="official" type="bluebook">93 Ark. App. 178</citation>
+          <citation category="parallel" type="bluebook">217 S.W.3d 124</citation>
+          <decisiondate>2005-11-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T23:23:45Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:35:15Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:14Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:12:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="21d53613ea2bcd273593527a9f75eef4" CHECKSUMTYPE="MD5" SIZE="9420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="d302324cfab9f57e7c010f09f950c171" CHECKSUMTYPE="MD5" SIZE="9196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="ba26321edc82bd9cef3280de233227c1" CHECKSUMTYPE="MD5" SIZE="60946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="440f9b900854dc4176a54431b7c1ff5c" CHECKSUMTYPE="MD5" SIZE="60678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="9e80255e080e4eeb6f051ab5549bab2a" CHECKSUMTYPE="MD5" SIZE="61998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="5333c006971d5031f261dd7352275b74" CHECKSUMTYPE="MD5" SIZE="63552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00105_0.tif"/>
+      </file>
+      <file ID="tiff_00105_1" MIMETYPE="image/tiff" CHECKSUM="bb4c2fcc8bf648ce777149010458728e" CHECKSUMTYPE="MD5" SIZE="59282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00105_1.tif"/>
+      </file>
+      <file ID="tiff_00106_0" MIMETYPE="image/tiff" CHECKSUM="d75c2eb23958f11df966e284b650c1f0" CHECKSUMTYPE="MD5" SIZE="58302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00106_0.tif"/>
+      </file>
+      <file ID="tiff_00106_1" MIMETYPE="image/tiff" CHECKSUM="4fc37bfd71938f094a34e15b7af04029" CHECKSUMTYPE="MD5" SIZE="61586">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00106_1.tif"/>
+      </file>
+      <file ID="tiff_00107_0" MIMETYPE="image/tiff" CHECKSUM="a0d07bcc618c981eea230d9cbeff324a" CHECKSUMTYPE="MD5" SIZE="59696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00107_0.tif"/>
+      </file>
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="e327529621ab5504f3202a21ad9c5b49" CHECKSUMTYPE="MD5" SIZE="62726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="81fcf78168a382d5127af5c9a146a9d2" CHECKSUMTYPE="MD5" SIZE="57724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="5c7a8cc1e56c0fb2d7b9e15d227f8992" CHECKSUMTYPE="MD5" SIZE="15588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00108_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="7ec53d72751163112e7a461a1f598a29" CHECKSUMTYPE="MD5" SIZE="1311126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="8a0efed9b632ee696667c5e16b6e3b48" CHECKSUMTYPE="MD5" SIZE="1276395">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="c2a94d00c9f110b0896f8d188dd70c62" CHECKSUMTYPE="MD5" SIZE="2618184">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="aee600b71db23bb2e83bbe8d6c044f69" CHECKSUMTYPE="MD5" SIZE="2640128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="724fa8e915c8e53e47ea6e34fcebe614" CHECKSUMTYPE="MD5" SIZE="2632144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="e6eb8f71e1f3a12cffe61239dab7dd39" CHECKSUMTYPE="MD5" SIZE="2660444">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00105_0.jp2"/>
+      </file>
+      <file ID="jp2_00105_1" MIMETYPE="image/jp2" CHECKSUM="eb797190f89db6156051909080599bce" CHECKSUMTYPE="MD5" SIZE="2613652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00105_1.jp2"/>
+      </file>
+      <file ID="jp2_00106_0" MIMETYPE="image/jp2" CHECKSUM="56e313d058d671179de8bdced1c72bfd" CHECKSUMTYPE="MD5" SIZE="2611910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00106_0.jp2"/>
+      </file>
+      <file ID="jp2_00106_1" MIMETYPE="image/jp2" CHECKSUM="54de616acbe60acced0b1529c9f0d41b" CHECKSUMTYPE="MD5" SIZE="2620218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00106_1.jp2"/>
+      </file>
+      <file ID="jp2_00107_0" MIMETYPE="image/jp2" CHECKSUM="8f7e6fe7698895bc8a7bb36498a9f89a" CHECKSUMTYPE="MD5" SIZE="2628466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00107_0.jp2"/>
+      </file>
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="0129f4ef4e09a6ddffd0cb0f3fced8e7" CHECKSUMTYPE="MD5" SIZE="2629575">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00107_1.jp2"/>
+      </file>
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="465f4785d83d910b016f534aab7317b9" CHECKSUMTYPE="MD5" SIZE="2593210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="8f1ab9449cfc7d5511a8e3c08b759749" CHECKSUMTYPE="MD5" SIZE="1647487">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00108_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="0dcc65800f502f9f9e7c077a057c071a" CHECKSUMTYPE="MD5" SIZE="7983">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="98c1c429154942ba0579faebdc7e3efc" CHECKSUMTYPE="MD5" SIZE="6858">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="dab8e014bee5196a4ae933caf6fb1d24" CHECKSUMTYPE="MD5" SIZE="105200">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="79f6a90bbfdc35d1adc5ffd22f8d586d" CHECKSUMTYPE="MD5" SIZE="97370">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="8bc06db506aa7cf5888cbf5da3c42b67" CHECKSUMTYPE="MD5" SIZE="100846">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="fae71ab613fec4d945fd72a86a6080de" CHECKSUMTYPE="MD5" SIZE="101355">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00105_0.xml"/>
+      </file>
+      <file ID="alto_00105_1" MIMETYPE="text/xml" CHECKSUM="608765c5eee4229694ab3b44d2d76cfe" CHECKSUMTYPE="MD5" SIZE="98190">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00105_1.xml"/>
+      </file>
+      <file ID="alto_00106_0" MIMETYPE="text/xml" CHECKSUM="8765cf82302b0ba7612c1a94c1cf303d" CHECKSUMTYPE="MD5" SIZE="96576">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00106_0.xml"/>
+      </file>
+      <file ID="alto_00106_1" MIMETYPE="text/xml" CHECKSUM="917b0235f009d35c56fd1d521cbad9a9" CHECKSUMTYPE="MD5" SIZE="108668">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00106_1.xml"/>
+      </file>
+      <file ID="alto_00107_0" MIMETYPE="text/xml" CHECKSUM="a8d6de10366b598307b925d3b9ef4143" CHECKSUMTYPE="MD5" SIZE="99081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00107_0.xml"/>
+      </file>
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="0046c76b867cca04c0938f41cb8dd6fa" CHECKSUMTYPE="MD5" SIZE="113310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00107_1.xml"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="3fdff3dda14a0ae7b5c1028c8abfae94" CHECKSUMTYPE="MD5" SIZE="95771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="93f5a581719299e0c67954c21c9b9f62" CHECKSUMTYPE="MD5" SIZE="20554">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00108_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="178" lastpage="190">
+              <court id="b204-4" pgmap="204">Court of Appeals of Arkansas</court>
+              <docketnumber id="Aeb" pgmap="204">CA CR 04-1109</docketnumber>
+              <citation id="Av2" pgmap="204">217 S.W.3d 124</citation>
+              <parties id="b204-3" pgmap="204">Allen Jason WOOTEN v. STATE of Arkansas</parties>
+              <decisiondate id="Ap6" pgmap="204">Opinion delivered November 16, 2005</decisiondate>
+              <judges id="b210-8" pgmap="210">Gladwin, Bird, Griffen, Vaught and Roaf, JJ., agree.</judges>
+              <judges id="b210-9" pgmap="210">Pittman, C.J., Hart and Cabtree, JJ., dissent.</judges>
+              <judges id="b215-5" pgmap="215">Hart and Crabtree, JJ., join in this dissent.</judges>
+              <attorneys id="b205-10" pgmap="205">Eugene D. Bramblett, for appellant.</attorneys>
+              <attorneys id="b205-11" pgmap="205">Mike Beebe, Arkansas Attorney General, by: Clayton K. Hodges, Assistant Attorney General, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b206-4" pgmap="206">Karen R. Baker, J­udge.</author>
+                <p id="AJN" pgmap="206">A jury in Ouachita County Cir-­udge. appellant, Allen Jason Wooten, of first-degree murder of Ruiz Stone and abuse of her corpse and sentenced him to forty years’ imprisonment. On appeal, appellant makes three allegations of error. We find no merit to his arguments and affirm.</p>
+                <p id="b206-5" pgmap="206">Appellant described the events leading to Ms. Stone’s death in a video-taped confession that was admitted into evidence. In that statement, he explained that his relationship with Ms. Stone began approximately a year before her death when he went to work for Coca-Cola in Camden, Arkansas as a route salesman and Ms. Stone worked there as an account salesperson. As he described it, Ms. Stone, pursued a sexual relationship with appellant. He stated that he initially resisted her sexual overtures, but two or three months after he first met her, he relented and had sexual intercourse.</p>
+                <p id="b206-6" pgmap="206">Recounting the events of Monday, June 23, the day of Ms. Stone’s death, appellant related that as he pulled into the plant at the gate that Ms. Stone met him and asked him about a particular job assignment. After he said he had completed the assignment, she told him that she wasn’t sure, but she thought she might be pregnant, and she intended to find out for sure. He claimed that subsequent to that conversation, he responded to a page from Ms. Stone, and she requested that the two meet in a remote location to discuss the matter. He stated that she provided directions to the location.</p>
+                <p id="b206-7" pgmap="206(189) 207(38)">According to appellant, he met Ms. Stone, and in the course of the conversation that Ms. Stone threatened his “damned kids and wife.” He alleged Ms. Stone grabbed him by the shirt and said, “We’ll do it my way.” Appellant then described how he grabbed Ms. Stone around her throat with his right arm, how he was yelling at her and hitting her with his hand in the head and neck with her fighting him. He then explained that he stood up and started kicking her repeatedly even though she was no longer fighting him. Appellant further stated that he picked up a pipe that happened to be lying there next to him and started hitting her in the back, in the neck, and in the head even though she was completely unresponsive at that point. Appellant then confessed that he put her in the back of his truck, covered her with steel mesh, and drove away from the scene. He drove the body to another location, backed up the truck, took the body out, covered her with steel and sticks, threw the pipe away at the river bridge, went to the carwash and washed massive amounts of blood out of the truck, and went home where wrestling was on the television. Other testimony established that appellant’s beating of Ms. Stone essentially destroyed her head and face.</p>
+                <p id="b207-6" pgmap="207">Appellant first argues that the trial court erred in allowing Lieutenant Dickinson to testify that the victim told him that appellant had committed a battery against her prior to the homi­cide as hearsay under Arkansas Rule of Evidence 802 and as evidence of a prior bad act under Arkansas Rule of Evidence 404(b). Our supreme court has been constant and adamant that matters pertaining to the admissibility of evidence are left to the sound discretion of the circuit court. See, e.g., Martin v. State, 346 Ark. 198, 57 S.W.3d 136 (2001). Moreover, we will not reverse a circuit court’s ruling on a hearsay question unless the appellant can show that the circuit court abused its discretion. See id.</p>
+                <p id="b207-7" pgmap="207">The State argues that Ms. Stone’s statement to Lieutenant Dickinson was admissible as a present sense impression under Arkansas Rule of Evidence 803(3) (2004). It further argues that even if the statement was not admissible as a present-sense-­impression, it was nonetheless admissible under the catch-all exception for unavailable witnesses. See Ark. R. Evid. 804(b)(5) (2004). The State emphasizes that the testimony was evidence of appellant’s motive and intent, necessary to refute appellant’s de­fense that portrayed Ms. Stone as a vindictive, sexually promiscu­ous stalker and himself as an innocent victim of her wiles, who only resorted to her horrific murder because she goaded him into it. As the State explained, appellant murdered Ms. Stone, thereby unequivocally prohibiting her from testifying as a witness against him.</p>
+                <p id="b207-8" pgmap="207(128) 208(88)">
+                   The state’s argument that Lieutenant Dickinson’s tes­timony was offered to prove motive echoes the reasoning of our supreme court’s decision in Dednam v. State, 360 Ark. 240, 200 S.W.3d 875 (2005). In Dednam, the appellant’s sole allegation of error was that the circuit court erred in allowing a police detective to testify to statements made to her by the murder victim with respect to another case, which allegedly constituted a motive for Dednam’s acts. While the State is not required to prove motive, the State is entitled to introduce evidence showing all circum­stances which either explain the act, show a motive for acting, or illustrate the accused’s state of mind. Id. (citing Richmond v. State, 302 Ark. 498, 791 S.W.2d 691 (1990)). Where the purpose of evidence is to disclose a motive for the murder, anything and everything that might have influenced the commission of the act may be shown and the State is entitled to introduce evidence of circumstances that explain the act, show a motive, or illustrate the accused’s state of mind. Hudson v. State, 85 Ark. App. 85, 145 S.W.3d 380 (2004). But even so, establishing motive does not equate to proving the truth of whether or not an appellant had committed the act complained of in the testimony. Dednam, supra.</p>
+                <p id="b208-6" pgmap="208">
+                   In this case, it was not necessary for the State to prove the truth of whether appellant had bruised Ms. Stone’s arm. A jury determination of whether appellant had bruised Ms. Stone ten days before he killed her pales in comparison with appellant’s confes­sion regarding the trauma he inflicted upon Ms. Stone the day he killed her. Where a statement is admitted for a legitimate, non-­hearsay purpose, that is, not to prove the truth of the assertions therein, the statement is not hearsay under the traditional rules of evidence and the non-hearsay aspect raises no confrontation-­clause concerns. Dednam, supra, (citing Tennessee v. Street, 471 U.S. 409 (1985) (holding that Street’s confrontation-clause rights were not violated by the introduction into evidence of an accomplice’s confession for the non-hearsay purpose of rebutting Street’s testi­mony that his confession was coercively derived from the accom­plice’s statement) (cited by the Supreme Court in Crawford v. Washington, 124 S. Ct. 1354 (2004), for the proposition that the Confrontation Clause does not bar the use of testimonial state­ments for purposes other than establishing the truth of the matter asserted)).</p>
+                <p id="b208-7" pgmap="208(152) 209(141)">Barrett v. State, 354 Ark. 187, 119 S.W.3d 485 (2003) is also instructive on this issue. There, when the daughter found her mother, she noticed a bruise on her mother’s head. Her mother, the murder victim, made the statement to her daughter that following an argument between her and appellant, that appellant had hit her. This statement was made a year and a half before the victim’s murder. In the present case, Lieutenant Dickinson testi­fied that the victim came to him ten days prior to her murder and explained to Dickinson that she was having trouble with appellant harassing her at work and that she feared she would lose her job. Dickinson testified that she appeared afraid of appellant. She also told him that she and appellant had argued and during the argument, appellant grabbed her arm, bruising it. She showed Dickinson the bruise on her arm. Regardless of whether the testimony was hearsay, any error in admission of the statement was harmless. The erroneous admission of testimony does not require reversal if the error is slight and the proof of guilt is overwhelming. Barrett, supra. In this case, the proof of appellant’s guilt was overwhelming. In order to prove the charge of murder in the first degree the state was required to prove only that with the purpose of causing the death of Ruiz Stone, appellant caused her death. Ark. Code. Ann. 5-10-102(a)(2). Appellant confessed that after beating Ms. Stone he got up from the ground and continued to kick her; then as she lay on the ground unresponsive, he picked up a pipe and proceeded to beat her in the back and head until she was dead. Clearly appellant’s confession alone established the elements of murder in the first degree.</p>
+                <p id="b209-6" pgmap="209">
+                   Similarly, any error in admitting the testimony as a prior bad act would not warrant reversal under the harmless error analysis. The jury in this case had before it appellant’s videotaped confession in which it was not only able to hear, but also see, appellant confessing to his crimes. Additionally, the jury had Dr. Erickson’s explanation as the medical examiner who performed the autopsy on what remained of Ms. Stone’s body. He testified that that her jaw was fractured in two places, that she suffered multiple fractures to the face and skull from blows that were so severe that they “would have produced extensive deforming injuries,” and that her laryngeal cartilage had been fractured.” His examination indicated that the murder occurred in the manner that appellant described.</p>
+                <p id="b209-7" pgmap="209(163) 210(59)">Under these circumstances, the proof of appellant’s guilt was overwhelming, and thus, any error in admitting Lieutenant Dick-­enson’s testimony was harmless not warranting reversal, (see Cobb v. State, 340 Ark. 240, 12 S.W.3d 195 (2000) (holding any error in admitting allegedly irrelevant testimony that the defendant loved music was harmless in capital murder prosecution where the defendant admitted killing the victim and evidence supported the conviction)). To determine if the error is slight, we can look to see if the defendant was prejudiced. Id. (citing Scherrer v. State, 294 Ark. 227, 742 S.W.2d 877 (1988) (holding the fact that defendant passed the time watching sex and horror movies was irrelevant, but the error was harmless as the prejudicial effect was minimal and the evidence of guilt so overwhelming)). Here, appellant’s confession as to the details of the murder was admitted into evidence. Further, the medical examiner testified that the injuries the victim sustained were consistent with appellant’s confession. The victim died of blunt force trauma to the head and neck. She had a fractured jaw and multiple facial fractures around the cheek and eye area; the face was “severely battered.” Accordingly, there was overwhelm­ing evidence of appellant’s guilt, and any error in admission of the victim’s statement was harmless. See Cobb v. State, 340 Ark. 240, 12 S.W.3d 195 (2000).</p>
+                <p id="b210-5" pgmap="210">
+                   For his second point on appeal, appellant argues that the trial court abused its discretion when it excluded the testimony of witnesses who would have provided corroboration relating to appellant’s mens rea at the time of the occurrence. As the State asserts, it does not appear from the record that this argument was made below. It is well settled that an appellant must raise and make an argument at trial in order to preserve it on appeal. Raymond v. State, 354 Ark. 157, 118 S.W. 3d 567 (2003). Moreover, in light of the overwhelming evidence in this case, it does not appear that there was any abuse of discretion in not allowing the testimony of the witnesses.</p>
+                <p id="b210-6" pgmap="210">
+                   As for appellant’s third assertion of error, appellant argues that the jury should have been instructed on the lesser included offense of manslaughter. However, in Kelly v. State, 80 Ark. App. 126, 91 S.W.3d 526 (2002), we stated that when a lesser-included offense has been the subject of an instruction, and the jury convicts of the greater offense, error resulting from failure to give an instruction on another still lesser-included offense is cured. See Cooper v. State, 324 Ark. 135, 919 S.W.2d 205 (1996), overruled on other grounds by MacKintrush v. State, 334 Ark. 390, 978 S.W.2d 293 (1998) (quoting Branscomb v. State, 299 Ark. 482, 774 S.W.2d 426 (1989); Harris v. State, 291 Ark. 504, 726 S.W.2d 267 (1987)). This is commonly referred to as the skip rule. Id. (quoting Easter v. State, 306 Ark. 615, 816 S.W.2d 602 (1991)). Here, it appears that the jury was given instructions on first and second-­degree murder, yet they convicted appellant of first-degree mur­der. While there may have been evidence to support the giving of a manslaughter instruction, any error here was cured by the jury’s convicting him of the greater offense.</p>
+                <p id="b210-7" pgmap="210">Accordingly, we find no error and affirm.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author id="b210-10" pgmap="210">John Mauzy Pittman, Chief J­udge,</author>
+                <p id="Aofo" pgmap="210(9) 211(89)">dissenting. I disagree udge, the trial court did not commit reversible error by permitting police lieutenant Jason Dick­inson to testify that the victim told him that appellant committed a battery against her. The majority, somewhat confusedly, simulta­neously holds that Lieutenant Dickinson’s statement was not hearsay; that Lieutenant Dickinson’s statement was hearsay but was admissible under the residual exception; and that it does not matter whether or not the statement was hearsay because the admission of the statement was harmless in light of appellant’s admission that he killed the victim. The majority is wrong on all counts.</p>
+                <p id="b211-5" pgmap="211">There was evidence that appellant and the victim worked at a Coca-Cola facility. Although both were married to other people and had families, they had a sexual relationship. Appellant wanted to terminate the relationship; the victim did not and telephoned him repeatedly. Appellant made harassment charges against the victim at work with regard to the telephone calls. Appellant confessed to killing the victim and hiding her body, saying that the murder occurred in the course of a discussion in which the victim threatened his family. The issues at trial went to the events surrounding the homicide and appellant’s mental state at that time. Over appellant’s hearsay objection, Lieutenant Jason Dickinson was permitted to testify that the victim told him that appellant committed a battery against her approximately ten days before her death. Lieutenant Dickinson’s testimony was abstracted as follows:</p>
+                <blockquote id="b211-6" pgmap="211">On June 13th, Mrs. Stone [the victim] came to the Sheriffs Department and she specifically asked for me. She wanted to advise me of a problem that she was having at work. She advised that she was having problems with a guy by the name of Jason Wooten. She advised me that he had been harassing her and she feared her job was in jeopardy. She appeared to me to be scared of him. She also advised me that she andjason Wooten had gotten into an argument and that he had grabbed her on the arm and caused a bruise. She showed me the bruise.</blockquote>
+                <blockquote id="b211-7" pgmap="211">She also told me that Jason Wooten had filed a lawsuit against her and Coca-Cola Bottling Company for sexual harassment and she advised me that it wasn’t true. She advised that Jason had been following her around. I advised Mrs. Stone that she should go to the Camden Municipal Building and fill out an Affidavit Warrant of Arrest for Battery in the 3rd Degree and also fill out a restraining order to keep him away from her.</blockquote>
+                <blockquote id="b212-4" pgmap="212">I prepared a report of my conversation with Mrs. Stone after the van was found. The reason that I didn’t prepare a report immediately is that we get people come in and ask questions like this all the time. They want some kind of guidance as to what to do. We mostly work felony cases. She came in, she knew me, she wanted my advice. I gave her the advice, I really didn’t think it was relevant to write a report. I didn’t think there was a reason. After she disappeared and after the van was found, I made the report because I felt there was a reason to make one. I don’t know if she went to Municipal Court or anywhere else and initiated the action that I suggested that she could do.</blockquote>
+                <p id="b212-5" pgmap="212(330) 213(22)">Hearsay is a statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted. Ark. R. Evid. 801(c) (2005). The majority holds that the decedent’s statement to Lieutenant Dick­inson was not hearsay because it was not offered to prove the truth of the matter asserted (f.e., that appellant committed a battery against her), but instead simply to establish appellant’s motive for killing her. This is preposterous. Certainly, in a proper case, evidence that would otherwise be hearsay may be relevant to motive without regard to the truth of the matter asserted, see Dednam v. State, 360 Ark. 240, 200 S.W.3d 875 (2005), and statements proving motive are not excluded by the hearsay rule. See Piercy v. Wal-Mart Stores, Inc., 311 Ark. 424, 844 S.W.2d 337 (1993). However, the fact that the victim made a report concern­ing alleged activities of appellant to Lieutenant Dickinson could have no bearing whatsoever on appellant’s motive in the present case for the simple reason that there was no evidence that appellant was aware that the victim had made any such report. In the absence of evidence of such knowledge, the only possible motive to be derived from Lieutenant Dickinson’s testimony would be that appellant decided to kill the victim to prevent her from reporting the battery to the police, and so to avoid any possibility of prosecution for third-degree battery, a Class A misdemeanor bearing a maximum penalty of a $1000 fine and a jail term not to exceed one year. See Ark. Code Ann. §§ 5-4-201(b)(1) and 5-4-­401(b)(1) (Repl. 1997). Even if it were reasonable to conclude that this would motivate any sane person to commit a homicide (and, I submit, it is not), the fact remains that the establishment even of this feeble motive would require the fact finder to believe that appellant did in fact perpetrate a battery on the victim — which is to say, that it depends on the truth of the matter asserted by the victim to Lieutenant Dickinson. This statement was hearsay.</p>
+                <p id="b213-6" pgmap="213">The majority also holds that Lieutenant Dickinson’s state­ment was in fact hearsay, but was admissible under the residual exception set out in Ark. R. Evid. 805(b)(5), which permits the introduction of:</p>
+                <blockquote id="b213-7" pgmap="213">A statement not specifically covered by any of the foregoing exceptions but having equivalent circumstantial guarantees of trust­worthiness, if the court determines that (i) the statement is offered as evidence of a material fact; (ii) the statement is more probative on the point for which it is offered than any other evidence which the proponent can procure through reasonable efforts; and (iii) the general purposes of these mies and the interests ofjustice will best be served by admission of the statements into evidence. However, a statement may not be admitted under this exception unless the proponent of it makes known to the adverse party sufficiently in advance to provide the adverse party with a fair opportunity to prepare to meet it, his intention to offer the statement and the particulars of it, including the name and address of the declarant.</blockquote>
+                <p id="b213-8" pgmap="213(223) 214(22)">Nothing in the record indicates that the State provided appellant with the notice required by this rule. Even had the State done so, this exception is to be narrowly construed, used rarely, and only in exceptional circumstances having circumstantial guar­antees of trustworthiness equivalent to those supporting the common-law exceptions to the hearsay rule. Hill v. Brown, 283 Ark. 185, 672 S.W.2d 330 (1984). This is not such a case. Here, the testimony was that the victim-declarant told Lieutenant Dick­inson that appellant had been harassing her and committed a battery against her during an argument. There are no inherent guarantees of its trustworthiness in the victim’s statement; in fact, the opposite is true. According to the victim’s statement as related by Lieutenant Dickinson, she was in fear that she would lose her job because appellant had brought a sexual-harassment suit against both her and her employer. Under these circumstances, her statements depicting appellant as an untruthful aggressor in this matter are inherently suspect. Nor is the victim’s statement admis­sible simply because it was contained in a report given to police. By its own terms, the residual exception applies only to statements not specifically covered by any of the other exceptions, and such reports are specifically dealt with in Rule 803(8), which specifi­cally excludes “investigative reports by police” from being admis­sible under the exception for public reports and records. The victim’s statement to Lieutenant Dickinson was not admissible under the residual exception.</p>
+                <p id="b214-5" pgmap="214">Finally, the majority holds that the admission of the state­ment was harmless in light of appellant’s admission that he killed the victim.<footnotemark>1</footnotemark> It is true that an error in the admission of hearsay evidence does not automatically result in a reversal if the error was harmless; where evidence of guilt is overwhelming and the error slight, we can declare the error harmless and affirm. Proctor v. State, 349 Ark. 648, 79 S.W.3d 370 (2002) However, to hold that the evidence of guilt in this case was overwhelming is to misunder­stand the significance of appellant’s admission of homicide under the circumstances of this case. Here, because of the appellant’s admission, the focus of his trial was not whether he killed the victim but was instead his state of mind while doing so.</p>
+                <p id="b214-6" pgmap="214(173) 215(67)">The jury was called upon to decide whether appellant was guilty of first-degree murder or, instead, of the lesser-included offense of second-degree murder. See McCoy v. State, 347 Ark. 913, 69 S.W.3d 430 (2002). Did appellant act with purposeful intent, his conscious object being the death of the victim? If so, he was guilty of first-degree murder. But if appellant did not consciously intend to cause the victim’s death, the crime was at most second-­degree murder, even given that appellant’s severe beating of the victim was deliberate conduct done with knowledge or awareness that his actions were practically certain to bring about the victim’s death. See id. It is therefore not enough to say, as the majority does, that there was evidence to show that appellant killed the victim. In Flores v. State, 350 Ark. 198, 85 S.W.3d 896 (2002), the supreme court found an attorney’s representation to be ineffective and his errors (including failure to object to hearsay testimony that the appellant in that case had previously battered the victim) prejudi­cial because the appellant in that case was convicted of first-degree murder rather than second-degree murder in the beating death of his wife. Likewise, the hearsay evidence in the present case that appellant had recently followed and committed a battery upon the victim was prejudicial, and the trial court abused its discretion in admitting it. I would reverse and remand for retrial, and I respect­fully dissent.</p>
+                <footnote label="1">
+                  <p id="b214-7" pgmap="214">1 In his videotaped confession, appellant stated that the victim told him at work that she thought she was pregnant with his child, and asked him to meet her at a secluded spot after work to discuss the situation. He stated that he drove his truck to the spot after work and met the victim, who emerged from her Coca-Cola truck and asked appellant what he was going to do about the pregnancy. The appellant stated that when he told the victim that his main priority was his wife and child, the victim said that she could “take care of [his] damned family” and “get rid of them.” Appellant further stated that, when the victim grabbed him by the shirt and screamed “we’ll do it my way,” he snapped, started yelling and screaming himself, and began beating her; and that he continued to strike, kick, and hit her with a pipe until she stopped talking.</p>
+                </footnote>
+              </opinion>
+              <opinion type="dissent">
+                <author id="b215-6" pgmap="215">Josephine Linker Hart, J­udge,</author>
+                <p id="At6" pgmap="215">dissenting. I agree with udge, of Mrs. Stone’s statement through the testimony of Lieutenant Dickerson was inadmissible hearsay that was not subject to any exception, and I would reverse on that point. I write separately, however, because I believe that Wooten’s second argument, that the trial court abused its discretion when it excluded the testimony of witnesses that could have provided evidence of his mens rea, is at least as strong a basis for reversal.</p>
+                <p id="b215-7" pgmap="215">There is no dispute that this was a particularly heinous crime; it is difficult to imagine a more brutal homicide, or one that more loudly cries out for retribution. However, the fact that Mrs. Stone was so savagely killed does not excuse the trial court, or this court for that matter, from dispassionately applying the law.</p>
+                <p id="b215-8" pgmap="215">It is worth emphasizing that there is but a single disputed element in this case — Wooten’s culpable mental state. I disagree with the majority’s contention that the act itself provides “over­whelming” evidence of this element; I believe that the manner in which Mrs. Stone was killed was at least as likely to be the product of “-extreme emotional disturbance” as the purposeful mental state that the majority apparently finds self-evident. The distinction is not trivial; in this case, it is the difference between first-degree murder and manslaughter.</p>
+                <p id="b215-9" pgmap="215(94) 216(45)">Accordingly, I find it unacceptable that the majority has affirmed the trial court’s decision to prevent Wooten from putting on his complete defense. Without testimony concerning what Mrs. Stone was capable of when she was rejected by a lover, the testimony of Wooten’s expert was essentially presented in the kind of theoretical vacuum that makes it easy to be ignored by a jury. The fact that the trial court crippled Wooten’s case is even more egregious because it allowed the rank hearsay of Mrs. Stone’s statement to police to be an unassailable characterization of Wooten’s relationship with the victim. Whether Wooten’s act was that of a cold-hearted brute or a man driven to the brink by a fatal attraction was the jury’s call to make. I would reverse and remand this case for the jury to make that call.</p>
+                <p id="b216-5" pgmap="216">I respectfully dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="204" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.2" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="210" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00105_1"/>
+        <fptr FILEID="jp2_00105_1"/>
+        <fptr FILEID="alto_00105_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_210.2" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="211" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00106_0"/>
+        <fptr FILEID="jp2_00106_0"/>
+        <fptr FILEID="alto_00106_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_211.3" BETYPE="IDREF" FILEID="alto_00106_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="212" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00106_1"/>
+        <fptr FILEID="jp2_00106_1"/>
+        <fptr FILEID="alto_00106_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_212.1" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="213" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00107_0"/>
+        <fptr FILEID="jp2_00107_0"/>
+        <fptr FILEID="alto_00107_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_213.3" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="214" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.2" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.7" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av2" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.6" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_215.7" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.9" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.3" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.6" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_215.1" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            <area BEGIN="BL_210.1" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.5" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aofo" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.10" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            <area BEGIN="BL_210.11" BETYPE="IDREF" FILEID="alto_00105_1"/>
+            <area BEGIN="BL_211.1" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.6" BETYPE="IDREF" FILEID="alto_00107_0"/>
+            <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.10" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.5" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.3" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.7" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.6" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.5" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.4" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b210-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_210.8" BETYPE="IDREF" FILEID="alto_00105_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJN" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.5" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.6" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.9" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b211-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_211.4" BETYPE="IDREF" FILEID="alto_00106_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.4" BETYPE="IDREF" FILEID="alto_00106_1"/>
+            <area BEGIN="BL_213.1" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b212-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_212.3" BETYPE="IDREF" FILEID="alto_00106_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.5" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.8" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b213-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_213.4" BETYPE="IDREF" FILEID="alto_00107_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.4" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.9" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aeb" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.10" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000710_0006" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Sellers v. State">Michael H. SELLERS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 94-706</docketnumber>
+          <citation category="official" type="bluebook">50 Ark. App. 32</citation>
+          <citation category="parallel" type="bluebook">901 S.W.2d 853</citation>
+          <decisiondate>1995-06-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:30:49Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:16Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:32:43Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:33:22Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00028_1" MIMETYPE="image/tiff" CHECKSUM="43c25fcdff280d9eedb810c39e5ede28" CHECKSUMTYPE="MD5" SIZE="29794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00028_1.tif"/>
+      </file>
+      <file ID="tiff_00029_0" MIMETYPE="image/tiff" CHECKSUM="c223b2f4ab699f5e493447bdade461b1" CHECKSUMTYPE="MD5" SIZE="39342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00029_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00028_1" MIMETYPE="image/jp2" CHECKSUM="fec0171fd1e207bdc885b5ec99a6f6e9" CHECKSUMTYPE="MD5" SIZE="2137017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00028_1.jp2"/>
+      </file>
+      <file ID="jp2_00029_0" MIMETYPE="image/jp2" CHECKSUM="6731d0ba4ef209d17e82dc520e6fc729" CHECKSUMTYPE="MD5" SIZE="2509519">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00029_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00028_1" MIMETYPE="text/xml" CHECKSUM="8e2e2ce00bf6e91edf95677b337d0b5c" CHECKSUMTYPE="MD5" SIZE="50725">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00028_1.xml"/>
+      </file>
+      <file ID="alto_00029_0" MIMETYPE="text/xml" CHECKSUM="07a2551f7364c4c801ec8239ab792bd9" CHECKSUMTYPE="MD5" SIZE="66918">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00029_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="33" firstpage="32">
+              <court id="b56-4" pgmap="56">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="A7c" pgmap="56">CA CR 94-706</docketnumber>
+              <citation id="Aa0" pgmap="56">901 S.W.2d 853</citation>
+              <parties id="b56-3" pgmap="56">Michael H. SELLERS v. STATE of Arkansas</parties>
+              <decisiondate id="b56-5" pgmap="56">Opinion delivered June 21, 1995</decisiondate>
+              <judges id="b57-8" pgmap="57">Jennings, C.J., and Rogers, J., agree.</judges>
+              <attorneys id="AWp" pgmap="56">Lee R. Watson, for appellant.</attorneys>
+              <attorneys id="b56-11" pgmap="56">Winston Bryant, Att’y Gen., by: Gil Dudley, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b56-12" pgmap="56">John Mauzy Pittman, Judge.</author>
+                <p id="AlL" pgmap="56">On November 30, 1989, Michael H. Sellers pled guilty to theft of property and received a suspended sentence. On November 23, 1993, the State filed a petition to revoke appellant’s suspended sentence. Appellant’s suspended sentence was revoked, and he was sentenced to eight days imprisonment. The trial court found appellant in contempt and ordered an additional thirty days imprisonment for violation of the order granting a suspended sentence. Appellant’s sole argu­ment on appeal concerns the finding of criminal contempt. Appel­lant contends that he had not received prior notice of the charge of criminal contempt.<footnotemark>1</footnotemark>
+                </p>
+                <p id="b57-5" pgmap="57">During the revocation hearing the trial court recognized that appellant had only eight days remaining on the suspended sen­tence. The court stated that appellant could be held in criminal contempt. Appellant objected stating that he had not received notice of a contempt charge and was unprepared to defend. The court revoked the suspended sentence and found appellant in criminal contempt.</p>
+                <p id="b57-6" pgmap="57">
+                   Appellant argues on appeal that he was not informed of a criminal contempt charge. We agree. An information may be amended during trial if the nature or degree of the crime is not changed and if the defendant is not prejudiced through surprise. Smith v. State, 310 Ark. 247, 837 S.W.2d 279 (1992); Lee v. State, 297 Ark. 421, 762 S.W.2d 790 (1989). Here, appellant appeared for a hearing on a petition to revoke a suspended sen­tence and was then first made aware of a criminal contempt charge. Since this in essence changed the nature and degree of the offense charged, we reverse the conviction of criminal con­tempt. Having done so, we need not address appellant’s remain­ing argument that there was insufficient evidence that he com­mitted criminal contempt.</p>
+                <p id="b57-7" pgmap="57">Reversed.</p>
+                <footnote label="1">
+                  <p id="b56-13" pgmap="56(61) 57(80)">1We note that pursuant to Ark. Code Ann. § 16-10-108(a)(3) (Repl. 1994) a court has the power to punish for criminal contempt a person’s willful disobedience to a court order. However, the general rule is that before a person may be held in contempt for violating a court order, that order must be in definite terms as to the duties thereby imposed on him, and the command must be expressed rather than implied. McCullough v. Lessenberry, 300 Ark. 426, 780 S.W.2d 9 (1989). Here, the court’s order granting him a suspended sentence is not abstracted and appellant does not argue that the order was insufficient to uphold a criminal contempt conviction. Additionally, appellant does not argue that he was denied a jury trial or that he was placed in double jeopardy by the court’s action to find him in criminal contempt.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="56" ORDERLABEL="32" TYPE="page">
+        <fptr FILEID="tiff_00028_1"/>
+        <fptr FILEID="jp2_00028_1"/>
+        <fptr FILEID="alto_00028_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.1" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="57" ORDERLABEL="33" TYPE="page">
+        <fptr FILEID="tiff_00029_0"/>
+        <fptr FILEID="jp2_00029_0"/>
+        <fptr FILEID="alto_00029_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_57.3" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.13" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.17" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            <area BEGIN="BL_57.1" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-12" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.14" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa0" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.5" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.4" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7c" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.4" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-6" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.5" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlL" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.15" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            <area BEGIN="BL_56.16" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-3" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.3" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-7" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.6" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-5" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.7" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-4" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.6" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-8" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.7" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWp" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.12" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

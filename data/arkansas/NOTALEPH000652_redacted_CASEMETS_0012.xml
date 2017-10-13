@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000652_0012" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Sweat v. State">Gregory SWEAT v. STATE of Arkansas</name>
+          <docketnumber>CA CR 87-203</docketnumber>
+          <citation category="official" type="bluebook">25 Ark. App. 60</citation>
+          <citation category="parallel" type="bluebook">752 S.W.2d 49</citation>
+          <decisiondate>1988-06-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:16:37Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:22:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:33:24Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:35:19Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="95d0a44f0fd8e4bfedb76014d983ee99" CHECKSUMTYPE="MD5" SIZE="17940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="fd654ab2197c7fc43e6d685a8b77d254" CHECKSUMTYPE="MD5" SIZE="8712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00044_0.tif"/>
+      </file>
+      <file ID="tiff_00044_1" MIMETYPE="image/tiff" CHECKSUM="ef9eb991218be36fe42b5019552985f8" CHECKSUMTYPE="MD5" SIZE="58114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00044_1.tif"/>
+      </file>
+      <file ID="tiff_00045_0" MIMETYPE="image/tiff" CHECKSUM="5ad67661483d986a6dbeaa3e4473d0d2" CHECKSUMTYPE="MD5" SIZE="57750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00045_0.tif"/>
+      </file>
+      <file ID="tiff_00045_1" MIMETYPE="image/tiff" CHECKSUM="d8eef586f54b84ad357e1bac2e91dd32" CHECKSUMTYPE="MD5" SIZE="52396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00045_1.tif"/>
+      </file>
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="519abfbe3b983fd10717069245bdeb73" CHECKSUMTYPE="MD5" SIZE="49334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="56d9a1d157cd0c54daad80a79f538f34" CHECKSUMTYPE="MD5" SIZE="38418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00046_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="a338c2b6482a122e1e204fd9dd37a9b4" CHECKSUMTYPE="MD5" SIZE="1784678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="c690dc31ad09455de360188728bcdad8" CHECKSUMTYPE="MD5" SIZE="1284781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00044_0.jp2"/>
+      </file>
+      <file ID="jp2_00044_1" MIMETYPE="image/jp2" CHECKSUM="f7603c660f4ba6d1d1321a5a03e01325" CHECKSUMTYPE="MD5" SIZE="2671990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00044_1.jp2"/>
+      </file>
+      <file ID="jp2_00045_0" MIMETYPE="image/jp2" CHECKSUM="ea3faba787f7ea6863212d93aa661057" CHECKSUMTYPE="MD5" SIZE="2947909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00045_0.jp2"/>
+      </file>
+      <file ID="jp2_00045_1" MIMETYPE="image/jp2" CHECKSUM="48667448fc81b1d51ac81212ca873e2a" CHECKSUMTYPE="MD5" SIZE="2649082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00045_1.jp2"/>
+      </file>
+      <file ID="jp2_00046_0" MIMETYPE="image/jp2" CHECKSUM="e1049b6e1bb3af8a03b14be9380aba65" CHECKSUMTYPE="MD5" SIZE="2585831">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00046_0.jp2"/>
+      </file>
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="40232f02dcd431a89d59adaccb59aa73" CHECKSUMTYPE="MD5" SIZE="2382794">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000652_00046_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="2b8607c6bee72840fc8daecbf95a51f0" CHECKSUMTYPE="MD5" SIZE="25540">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="95fe0823443211a4298e328a8e393c66" CHECKSUMTYPE="MD5" SIZE="9627">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00044_0.xml"/>
+      </file>
+      <file ID="alto_00044_1" MIMETYPE="text/xml" CHECKSUM="61ef494175ed008fffe189329ac8b004" CHECKSUMTYPE="MD5" SIZE="93233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00044_1.xml"/>
+      </file>
+      <file ID="alto_00045_0" MIMETYPE="text/xml" CHECKSUM="42993545e50d94c14a5f35d81608799b" CHECKSUMTYPE="MD5" SIZE="90870">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00045_0.xml"/>
+      </file>
+      <file ID="alto_00045_1" MIMETYPE="text/xml" CHECKSUM="aef380fbbf6fbf735e3703addfe55ae5" CHECKSUMTYPE="MD5" SIZE="84765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00045_1.xml"/>
+      </file>
+      <file ID="alto_00046_0" MIMETYPE="text/xml" CHECKSUM="951238d2d378aeed3998173523605f12" CHECKSUMTYPE="MD5" SIZE="81855">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00046_0.xml"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="8635a86858968758774460e1345f3f8f" CHECKSUMTYPE="MD5" SIZE="61398">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000652_redacted_ALTO_00046_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="66" firstpage="60">
+              <court pgmap="86" id="ATn">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="86" id="Alu">CA CR 87-203</docketnumber>
+              <citation pgmap="86" id="AAm">752 S.W.2d 49</citation>
+              <parties pgmap="86" id="b86-9">Gregory SWEAT v. STATE of Arkansas</parties>
+              <decisiondate pgmap="86" id="A__">Opinion delivered June 22, 1988</decisiondate>
+              <judges pgmap="92" id="b92-8">Cooper and Jennings, JJ., agree.</judges>
+              <attorneys pgmap="87" id="b87-12">Henry &amp; Mooney, by; John R. Henry, for appellant.</attorneys>
+              <attorneys pgmap="87" id="b87-13">Steve Clark, Att’y Gen., by; C. Kent Jolliff, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="87" id="b87-15">Melvin Mayfield, Judge.</author>
+                <p pgmap="87(4) 88(28)" id="AOe">Appellant, Gregory Sweat, was convicted of possession of a controlled substance, marijuana, with intent to deliver, and sentenced to eight years in the Arkansas Department of Correction and a fine of $6,000.00.</p>
+                <p pgmap="88" id="b88-6">The evidence showed that a confidential informant identified a house at 817 Cartwright Street in Jonesboro, Arkansas, as a place where he could buy drugs. State Police Officer Roger Perry testified that on May 6, 1986, the informant entered that residence and made a controlled buy for police. Officer Perry described a controlled buy as one in which an informant is first searched to make sure he has no drugs or money on his person; he is then given a specific amount of money on which the serial numbers have been recorded and is sent to make the drug purchase, all the while being kept under visual surveillance and frequently wearing a voice monitor; when he returns and turns the contraband over to officers, he is again searched to make sure he is holding nothing back.</p>
+                <p pgmap="88" id="b88-7">On the basis of the confidential informant’s controlled buy on May 6, a search warrant was obtained for the house at 817 Cartwright Street, where officers testified appellant lived. Officer Perry testified at trial that he obtained the warrant about 4:00 p.m.; telephoned the residence three times before getting an answer; then went to the residence about 9:00 p.m. with several other officers to conduct the search. There was testimony that appellant answered the door, was read his Miranda rights and let the officers into the house to search. When the officers arrived, there were two men in a car parked in the driveway and inside the house were appellant, his sister, and two other men. Shortly thereafter, appellant’s mother returned home and told officers she was the owner of the house.</p>
+                <p pgmap="88" id="b88-8">In the northwest bedroom, officers found a large bundle of money, $1,126.00, in a dresser drawer containing women’s clothing. In the roll of money was a twenty dollar bill and a ten dollar bill that Officer Perry had given the informant that morning for the purpose of the controlled buy.</p>
+                <p pgmap="88(53) 89(12)" id="b88-9">A chest in the other bedroom contained men’s clothing and two sandwich bags with marijuana in them. In the refrigerator, officers found two Ziploc bags containing marijuana, with $100.00 in one bag and $45.00 in the other. On the kitchen table, they found a set of scales and a package of cigarette rolling papers. In a canister on top of the freezer was more marijuana.</p>
+                <p pgmap="89" id="b89-6">
+                   On appeal, it is argued that there was not substantial evidence to support the verdict. In reviewing the question of the sufficiency of the evidence in a criminal case, this court views the evidence in the light most favorable to the appellee and affirms the judgment if there is substantial evidence to support the findings of the trier of fact. Lane v. State, 288 Ark. 175, 702 S.W.2d 806 (1986); Harris v. State, 15 Ark. App. 58, 689 S.W.2d 353 (1985). Substantial evidence is that which is of sufficient force and character that it will, with reasonable and material certainty and precision compel a conclusion one way or the other, without resorting to speculation or conjecture. Jones v. State, 11 Ark. App. 129, 668 S.W.2d 30 (1984). The fact that evidence is circumstantial does not render it insubstantial. Small v. State, 5 Ark. App. 87, 632 S.W.2d 448 (1982).</p>
+                <p pgmap="89" id="b89-7">
+                   The case law is clear that actual or physical posses­sion of the contraband is not required. Wade v. State, 267 Ark. 1101, 594 S.W.2d 43 (1980). Possession may be imputed when the contraband is found in a place which is immediately and exclusively accessible to the accused and subject to his dominion and control. Cary v. State, 259 Ark. 510, 534 S.W.2d 230 (1976). If evidence is presented that indicates joint occupancy and occupancy is the only evidence the state offers to prove possession, there must be some additional link between the accused and the contraband. Osborne v. State, 278 Ark. 45, 643 S.W.2d 251 (1982); Cary v. State, supra. Possession and control may be established by circumstantial evidence but such evidence must exclude every other reasonable hypothesis beyond a reasonable doubt. Whether that has been done is usually for the jury to determine, Deviney v. State, 14 Ark. App. 70, 685 S.W.2d 179 (1985), and, on appeal, the standard of review is one of substan­tial evidence. Cassell v. State, 273 Ark. 59, 616 S.W.2d 485 (1981).</p>
+                <p pgmap="89" id="b89-8">In Cary v. State, supra, the Arkansas Supreme Court considered the sufficiency of the evidence against an appellant who was one of three occupants of an apartment where heroin had been discovered. The court said:</p>
+                <blockquote pgmap="89(18) 90(56)" id="b89-9">Constructive possession of a controlled substance means knowledge of its presence and control over it.. . . Neither actual physical possession at the time of arrest nor physical presence when the offending substance is found is required .... As a matter of fact, neither exclusive nor physical possession is necessary to sustain a charge if the place where the offending substance is found is under the dominion and control of the accused. [Citations omitted.]</blockquote>
+                <p pgmap="90" id="b90-6">259 Ark. at 517. The court also quoted from a California case as follows:</p>
+                <blockquote pgmap="90" id="b90-7">Constructive possession occurs when the accused maintains control or a right to control the contraband; possession may be imputed when the contraband is found in a place which is immediately and exclusively accessible to the accused and subject to his dominion and control, or to the joint dominion and control of the accused and another.</blockquote>
+                <p pgmap="90" id="b90-8">259 Ark. at 517. The court in Cary also made clear the following:</p>
+                <blockquote pgmap="90" id="b90-9">When the evidence of possession is purely circumstantial, there must be some factor, in addition to joint occupancy of the place where narcotics are found, linking the accused with the narcotic in order to establish joint possession.</blockquote>
+                <p pgmap="90" id="b90-10">259 Ark. at 518.</p>
+                <p pgmap="90(180) 91(43)" id="b90-11">
+                   In the instant case, there was some evidence to indicate that the appellant did not live with his mother at 817 Cartwright and that he had a brother in prison to whom the men’s clothing found in one of the bedrooms might belong. However, there was other evidence to show that appellant did occupy the house with his mother. Two law enforcement officers testified that the appellant lived there, and there was testimony that the appellant opened the door and let the officers in when they came to execute the search warrant. There was testimony that the appellant had been seen at this house on numerous occasions by both his friends and by police officers. And one of appellant’s own witnesses testified that if he wanted to find appellant at home, “I would have went to his house ... on Cartwright.” It is the province of the trier of fact to resolve any conflicts in the testimony and to determine the credibility of the witnesses, Austin v. State, 268 Ark. 373, 596 S.W.2d 691 (1980), and the fact finder’s conclu­sion on credibility is binding on the appellate court, Thomas v. State, 266 Ark. 162, 583 S.W.2d 32 (1979). We think there was sufficient evidence from which the jury could find that appellant lived with his mother in the house on Cartwright Street.</p>
+                <p pgmap="91" id="b91-6">However, as we have seen, joint occupancy of the house is not, by itself, sufficient to support a finding that appellant was in constructive possession of the marijuana found in that house. A recent decision of the Arkansas Supreme Court explained the matter as follows:</p>
+                <blockquote pgmap="91" id="b91-7">We agree the evidence might not have been sufficient had the only evidence been that the contraband was found in some portion of a structure occupied by the appellant and others. In Osborne v. State, 278 Ark. 45, 643 S.W.2d 251 (1982), we reversed a conviction for possession of drugs found in a bedroom. The reversal came, in part, because there was no testimony showing whose bedroom it was, and the residence in question was occupied by several persons. However, in Cary v. State, 259 Ark. 510, 534 S.W.2d 230 (1976), we held that joint occupancy coupled with “some factor . . . linking the accused with the narcotic” is sufficient. 259 Ark. at 518,534 S.W.2d at 236.</blockquote>
+                <p pgmap="91" id="b91-8">Denton v. State, 290 Ark. 24, 26, 716 S.W.2d 198 (1986).</p>
+                <p pgmap="91" id="b91-9">Therefore, in the instant case, our next question is whether there is evidence of some factor in addition to joint occupancy that will support a finding of constructive possession by appellant of the marijuana found by the officers in the house on Cartwright. We think there is substantial evidence to make the necessary link.</p>
+                <p pgmap="91(77) 92(148)" id="b91-10">We start with the evidence that there was a total of more than two ounces of marijuana found in the house, and under Ark. Stat. Ann. § 82-2617(d) (Supp. 1985) [Ark. Code Ann. § 5-64-­401 (1987)], the possession of more than one ounce creates a rebuttable presumption that the marijuana is possessed with intent to deliver. Some of the marijuana was found in the refrigerator and on top of the freezer — common areas of the house which all occupants would be presumed to use. In addition, drug paraphernalia was found on the kitchen table. The officers also found almost $ 1,300.00 in the house. Some of this money was with the marijuana in the refrigerator and some in a dresser drawer containing women’s clothing. Included with the money found in this drawer were some marked bills which had been used by the informant to purchase marijuana at this house on the very same day of the search. Moreover, Officer Perry testified that before the officers went to the house to execute the search warrant, he telephoned the house three times before getting an answer. The third time, a female answered and he asked for the appellant and a man came to the telephone. Perry testified that he told the man he wanted to buy some marijuana and “he said he didn’t know me.”</p>
+                <p pgmap="92" id="b92-6">
+                   From the above evidence, we think the jury could have found that marijuana was being sold from the house on Cart­wright Street and that the appellant knew this and was an active participant in the enterprise. We think that all of this, plus the marijuana found in the chest containing men’s clothing, consti­tutes substantial evidence to support the appellant’s conviction.</p>
+                <p pgmap="92" id="b92-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="86" ORDERLABEL="60" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="61" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.3" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="88" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00044_1"/>
+        <fptr FILEID="jp2_00044_1"/>
+        <fptr FILEID="alto_00044_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_88.2" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="89" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00045_0"/>
+        <fptr FILEID="jp2_00045_0"/>
+        <fptr FILEID="alto_00045_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_89.3" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="90" ORDERLABEL="64" TYPE="page">
+        <fptr FILEID="tiff_00045_1"/>
+        <fptr FILEID="jp2_00045_1"/>
+        <fptr FILEID="alto_00045_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.2" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="91" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jp2_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.3" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="66" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.2" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAm" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.10" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-12" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.11" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.7" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            <area BEGIN="BL_90.1" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.4" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.5" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.6" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.4" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATn" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.11" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.6" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-11" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.9" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            <area BEGIN="BL_91.1" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.8" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.5" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alu" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.9" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.4" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.4" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.5" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A__" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.12" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.6" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.5" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.4" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOe" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.14" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            <area BEGIN="BL_88.1" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-13" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.12" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-15" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.13" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.6" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.7" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            <area BEGIN="BL_89.1" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.5" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.6" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.8" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            <area BEGIN="BL_92.1" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.7" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.8" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

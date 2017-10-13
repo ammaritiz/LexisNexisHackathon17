@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000661_0001" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Bagley v. Williamson">Carl BAGLEY v. Michelle Bagley WILLIAMSON</name>
+          <docketnumber>CA 07-359</docketnumber>
+          <citation category="official" type="bluebook">101 Ark. App. 1</citation>
+          <citation category="parallel" type="bluebook">269 S.W.3d 837</citation>
+          <decisiondate>2007-12-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T16:11:50Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:55:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:08:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:09:13Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00016_0" MIMETYPE="image/tiff" CHECKSUM="9215319a044797c3dedf5e7473529912" CHECKSUMTYPE="MD5" SIZE="7254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00016_0.tif"/>
+      </file>
+      <file ID="tiff_00016_1" MIMETYPE="image/tiff" CHECKSUM="b991fd8acbfc1a82e15ad601dfee8928" CHECKSUMTYPE="MD5" SIZE="50376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00016_1.tif"/>
+      </file>
+      <file ID="tiff_00017_0" MIMETYPE="image/tiff" CHECKSUM="2ec43ae4cb4680410039aca3e90aa5b0" CHECKSUMTYPE="MD5" SIZE="60890">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00017_0.tif"/>
+      </file>
+      <file ID="tiff_00017_1" MIMETYPE="image/tiff" CHECKSUM="61bdda4523cda1602550cca127ff7bbf" CHECKSUMTYPE="MD5" SIZE="58652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00017_1.tif"/>
+      </file>
+      <file ID="tiff_00018_0" MIMETYPE="image/tiff" CHECKSUM="b7df4a12d69638a3027a9eb4f4bb7e25" CHECKSUMTYPE="MD5" SIZE="60630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00018_0.tif"/>
+      </file>
+      <file ID="tiff_00018_1" MIMETYPE="image/tiff" CHECKSUM="cc5bbc452610be56de6ff870bea52fbe" CHECKSUMTYPE="MD5" SIZE="20052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00018_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00016_0" MIMETYPE="image/jp2" CHECKSUM="12aae4fe165eb53230b882c6a2511940" CHECKSUMTYPE="MD5" SIZE="1231959">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00016_0.jp2"/>
+      </file>
+      <file ID="jp2_00016_1" MIMETYPE="image/jp2" CHECKSUM="760e48d3205d8ca08d677b6ebcaae243" CHECKSUMTYPE="MD5" SIZE="2466122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00016_1.jp2"/>
+      </file>
+      <file ID="jp2_00017_0" MIMETYPE="image/jp2" CHECKSUM="77210edfb3531d87ba7e348a2d83533d" CHECKSUMTYPE="MD5" SIZE="2831017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00017_0.jp2"/>
+      </file>
+      <file ID="jp2_00017_1" MIMETYPE="image/jp2" CHECKSUM="654f8a57ac14e819da0b1148e21cc82f" CHECKSUMTYPE="MD5" SIZE="2576940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00017_1.jp2"/>
+      </file>
+      <file ID="jp2_00018_0" MIMETYPE="image/jp2" CHECKSUM="77c7e0e22158de540500f21c7b795814" CHECKSUMTYPE="MD5" SIZE="2953894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00018_0.jp2"/>
+      </file>
+      <file ID="jp2_00018_1" MIMETYPE="image/jp2" CHECKSUM="ff697c06f785437851706c21425fe36c" CHECKSUMTYPE="MD5" SIZE="1960601">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000661_00018_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00016_0" MIMETYPE="text/xml" CHECKSUM="e7941275296b666109d5d77d0a922beb" CHECKSUMTYPE="MD5" SIZE="6987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00016_0.xml"/>
+      </file>
+      <file ID="alto_00016_1" MIMETYPE="text/xml" CHECKSUM="3595c274a130ee557eb5b6727cbc0bf4" CHECKSUMTYPE="MD5" SIZE="83447">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00016_1.xml"/>
+      </file>
+      <file ID="alto_00017_0" MIMETYPE="text/xml" CHECKSUM="fa6dcb5268f9833d103229b381ef918a" CHECKSUMTYPE="MD5" SIZE="102558">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00017_0.xml"/>
+      </file>
+      <file ID="alto_00017_1" MIMETYPE="text/xml" CHECKSUM="096ac0e9552c2dfcf51bea8a3c60fd7c" CHECKSUMTYPE="MD5" SIZE="102095">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00017_1.xml"/>
+      </file>
+      <file ID="alto_00018_0" MIMETYPE="text/xml" CHECKSUM="dafb92ae4041e9b5711af7388e58eb04" CHECKSUMTYPE="MD5" SIZE="102976">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00018_0.xml"/>
+      </file>
+      <file ID="alto_00018_1" MIMETYPE="text/xml" CHECKSUM="0ac0d6c875dfda88791c55fcc578a9e8" CHECKSUMTYPE="MD5" SIZE="30300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000661_redacted_ALTO_00018_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="6" firstpage="1">
+              <court id="Af" pgmap="31">Court of Appeals of Arkansas</court>
+              <docketnumber id="A4" pgmap="31">CA 07-359</docketnumber>
+              <citation id="AY" pgmap="31">269 S.W.3d 837</citation>
+              <parties id="b31-3" pgmap="31">Carl BAGLEY v. Michelle Bagley WILLIAMSON</parties>
+              <decisiondate id="A2" pgmap="31">Opinion delivered December 12, 2007</decisiondate>
+              <judges id="b36-5" pgmap="36">Pittman, C.J., and Robbins, J., agree.</judges>
+              <attorneys id="b32-5" pgmap="32">Booth Law Firm, PLC, by: Frank W. Booth, for appellant.</attorneys>
+              <attorneys id="b32-6" pgmap="32">Gean, Gean &amp; Gean, by: Roy Gean, III, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b32-7" pgmap="32">Sam Bird, Judge.</author>
+                <p id="AL" pgmap="32">This case arises from an order of the Crawford County Circuit Court denying appellant Carl Bagley’s motion to terminate his child-support obligation for his adult son, Shawn Bagley, who is mentally retarded. On appeal, appellant argues that the trial court erred in concluding that no material change in circumstances had occurred and in requiring him to continue paying child support for Shawn. We agree and reverse the trial court’s order.</p>
+                <p id="b32-8" pgmap="32">Appellant and appellee, Michelle Bagley Williamson, were divorced in 1996, and appellee was awarded custody of Shawn, then a minor. Appellant was ordered to pay child support.<footnotemark>1</footnotemark> In March 2003, when Shawn was seventeen years old, appellee filed a motion to modify the divorce decree increasing the amount of child support owed by appellant and extending his obligation to pay child support beyond Shawn’s eighteenth birthday because Shawn was a “special needs” child. On June 16, 2003, the trial court granted the motion, finding that Shawn was a “special needs” child, which the court held justified extending the child-­support obligation beyond his eighteenth birthday and increasing appellant’s obligation to pay child support to $90 per week.</p>
+                <p id="b32-9" pgmap="32">On February 22, 2005, the trial court entered an order denying appellant’s request to terminate child support but granted appellant’s motion to modify, finding that Shawn had begun receiving SSI benefits of $560 per month since the June 2003 order. Accordingly, the trial court reduced appellant’s child-­support obligation to $41.50 per week. On April 12, 2006, appellant filed another motion to terminate child support, claiming that a material change in circumstances had occurred since the February 2005 order in that Shawn was no longer living in appellee’s home but in a group home for people with special needs.</p>
+                <p id="b32-10" pgmap="32(18) 33(208)">At a hearing on the matter, appellee testified that Shawn’s SSI check covered his group-home housing expenses, transporta­tion, phone bill, and pharmacy expenses. She also testified that the group home gave Shawn about $10 cash every week or every other week. She stated that there was about $50 or $100 a month left from the SSI check after the group-home expenses were paid, although it was unclear from her testimony if this amount was used to pay for Shawn’s phone and pharmacy expenses. She then testified that Shawn worked part-time at Braum’s and received approximately $150 every two weeks, which went directly into his personal checking account. She testified that this money was Shawn’s discretionary spending money. The bank records and appellee’s testimony indicated that appellee withdrew various amounts from Shawn’s checking account between June and the end of September for Shawn’s expenses: $80; $40; $100; $20; $60; $30; $30; $30; $40; $40. She could not remember exactly for what purpose these cash withdrawals were spent; however, she said that she did not give all of the money withdrawn directly to Shawn but gave him “maybe 10/20 dollars at a time.” She stated that Shawn spent about $100 a week on his personal needs, which included shoes, clothes, paper, and CDs. The balance in Shawn’s checking account at the time of the hearing was $1300.</p>
+                <p id="b33-5" pgmap="33">The trial court found that the fact that Shawn had moved to a group home was not “sufficient to show a change in circum­stances to terminate the support.” While the trial judge noted that it was “a hard question to answer that — that Mr. Bagley’s paying and Ms. Bagley’s not,” he indicated that Ms. Bagley started with custody and care of Shawn and that the previous judge and the parties “apparently . . . reviewed or went over this before, entered an order that found that all of this was justified” because Shawn, although eighteen years old, was “not an adult mentally.” The trial judge then stated that it was “obvious [Shawn] has more ex­penses,” but the judge also noted that he did not know what Shawn’s expenses were for. He suggested that the cash transactions were a problem and that there might be a better way for appellee to keep track of Shawn’s actual expenses. Nevertheless, the trial court entered an order on January 17, 2007, denying appellant’s petition to terminate child support, finding that the fact that Shawn had moved from appellee’s home to a group home was not sufficient to show a change in circumstances to terminate appel­lant’s support.</p>
+                <p id="b33-6" pgmap="33(26) 34(104)">On appeal, appellant argues that Shawn’s move into a group home from appellee’s home constitutes a sufficient change in circumstances to warrant termination of appellant’s child-support obligation and that the trial court clearly erred in holding other­wise. Our law puts the burden on a party seeking modification of a child-support obligation to show a material change of circum­stances sufficient to warrant the modification. Morehouse v. Lawson, 94 Ark. App. 374, 376, 231 S.W.3d 86, 87 (2006). A trial court’s determination as to whether there is a sufficient change in circum­stances to warrant a modification or termination of child support is a finding of fact, and we will not reverse its decision unless it is clearly erroneous. Roland v. Roland, 43 Ark. App. 60, 859 S.W.2d 654 (1993).</p>
+                <p id="b34-5" pgmap="34">
+                   It is unclear from the trial court’s order whether it found that Shawn’s move from appellee’s home to a group home was not a change in circumstances, or whether it found that this was in fact a change in circumstances but that the change was not sufficient to warrant termination of appellant’s child-support ob­ligation. Therefore, in order to review the trial court’s decision, we first hold that Shawn’s move to a group home from appellee’s home was a change in circumstances and, if the trial court found otherwise, its finding on this issue is clearly erroneous. Having made this preliminary holding, we turn to the trial court’s finding that this change of circumstances was not sufficient to warrant termination of appellant’s child-support obligation.</p>
+                <p id="b34-6" pgmap="34">The general rule in Arkansas is that a parent is legally obligated to support his or her child at least until the time the child reaches majority. Rogers v. Rogers, 83 Ark. App. 206, 210, 121 S.W.3d 510, 512 (2003). Indeed, an obligor’s duty to pay child support automatically terminates by operation of law on the later of the date that the child reaches eighteen years of age or should have graduated from high school. Ark. Code Ann. § 9-14-237 (Supp. 2005). However, the duty to support a child does not cease at majority if the child is mentally or physically disabled in any way at majority and needs support. Id. (citations omitted). A determi­nation of whether continued support is proper must be made on the basis of the facts of the particular case. See Petty v. Petty, 252 Ark. 1032, 1036, 482 S.W.2d 119, 121 (1972).</p>
+                <p id="b34-7" pgmap="34(62) 35(67)">In Petty, the supreme court reversed the trial court’s finding that the parties’ eighteen-year-old daughter, Kay, was not dis­abled. Kay had suffered from grand mal epilepsy from the age of two. Kay took medication twice daily to prevent convulsions, could not drive a car, lived with her mother while attending college, and was admittedly in need of specialized training in order to obtain employment. The court concluded that, at the time of trial, Kay was unable to earn a livelihood and was in more need of a specialized education than a normal student for her to maintain herself in the future. The court noted, however, that, when she became “financially capable of taking care of herself, a different situation will exist.” Id. at 1037, 482 S.W.2d at 121.</p>
+                <p id="b35-5" pgmap="35">Neither the supreme court nor this court has held that a parent is obligated to support a disabled or special-needs child for life. Case law makes clear that the determination of whether continued support is proper must be made on the basis of the facts of the particular case and that such an obligation will be imposed only if the adult child needs the continued support. Id.; Rogers, supra (holding that child who maintained a 3.8 GPA in first two years of college, lived independently, had been employed, and was able to travel did not need support in spite of possible scholastic limitations following a car accident that occurred when child was in high school).</p>
+                <p id="b35-6" pgmap="35">It is undisputed that Shawn is a “special needs” individual. It is also undisputed that Shawn no longer lives with appellee — as he did when the court last modified appellant’s support obligation — but in a group home. Thus, appellee is no longer responsible for Shawn’s housing, utilities, food, transportation, or phone bills. All of these expenses are now paid to the group home by Shawn’s SSI check. Appellee admitted that Shawn’s pharmacy bills were also covered expenses. Indeed, she admitted that, between his part-­time job and the remaining money left from his SSI check after his expenses were paid, Shawn had approximately $400 per month to use for personal expenses. She guessed that he spent about $100 per week on personal expenses, although she could not document these expenses.</p>
+                <p id="b35-7" pgmap="35(128) 36(56)">
+                   While Shawn is admittedly a special-needs person, there has been no showing that he needs continuing financial support from his parents. When the trial court ordered appellant to pay $41.50 in child support in February 2005, Shawn was living at home with appellee, who was providing his housing, utilities, food, and transportation. However, appellee is no longer incurring expenses for any of these items on Shawn’s behalf because Shawn is now living in a group home with other special-needs children and adults. All of his needs, except for personal-spending items, are covered by his SSI check, which is sent directly to the group home. He has approximately $300 in earned income and a small amount left from his SSI check after his other expenses are paid for personal items. Under the present record, we hold that the trial court erred in finding that Shawn’s move into a group home from appellee’s home did not constitute a sufficient change in circumstances to warrant termination of appellant’s child-support obligation. Ac­cordingly, we reverse the trial court’s decision and remand with directions to terminate appellant’s child-support obligation.</p>
+                <p id="b36-4" pgmap="36">Reversed and remanded.</p>
+                <footnote label="1">
+                  <p id="b32-11" pgmap="32">1 Another child was born of the marriage but is now an adult and not the subject of this appeal.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="31" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00016_0"/>
+        <fptr FILEID="jp2_00016_0"/>
+        <fptr FILEID="alto_00016_0"/>
+      </div>
+      <div ORDER="32" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00016_1"/>
+        <fptr FILEID="jp2_00016_1"/>
+        <fptr FILEID="alto_00016_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_32.1" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="33" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00017_0"/>
+        <fptr FILEID="jp2_00017_0"/>
+        <fptr FILEID="alto_00017_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_33.3" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="34" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00017_1"/>
+        <fptr FILEID="jp2_00017_1"/>
+        <fptr FILEID="alto_00017_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_34.2" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="35" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00018_0"/>
+        <fptr FILEID="jp2_00018_0"/>
+        <fptr FILEID="alto_00018_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_35.3" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="36" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00018_1"/>
+        <fptr FILEID="jp2_00018_1"/>
+        <fptr FILEID="alto_00018_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_36.2" BETYPE="IDREF" FILEID="alto_00018_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.15" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            <area BEGIN="BL_33.1" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-11" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.16" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.4" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.4" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.6" BETYPE="IDREF" FILEID="alto_00018_0"/>
+            <area BEGIN="BL_36.1" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b35-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_35.5" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.10" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            <area BEGIN="BL_32.11" BETYPE="IDREF" FILEID="alto_00016_1"/>
+            <area BEGIN="BL_32.12" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.5" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.7" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.9" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.6" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.13" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b32-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_32.14" BETYPE="IDREF" FILEID="alto_00016_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.4" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.5" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b34-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_34.6" BETYPE="IDREF" FILEID="alto_00017_1"/>
+            <area BEGIN="BL_35.1" BETYPE="IDREF" FILEID="alto_00018_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.5" BETYPE="IDREF" FILEID="alto_00017_0"/>
+            <area BEGIN="BL_34.1" BETYPE="IDREF" FILEID="alto_00017_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b33-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_33.4" BETYPE="IDREF" FILEID="alto_00017_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.6" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b36-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_36.4" BETYPE="IDREF" FILEID="alto_00018_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.5" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b31-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.2" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_31.3" BETYPE="IDREF" FILEID="alto_00016_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

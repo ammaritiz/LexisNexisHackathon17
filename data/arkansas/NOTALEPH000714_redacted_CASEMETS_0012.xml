@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000714_0012" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Stewart v. State">Natasha Nicole STEWART v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-1394</docketnumber>
+          <citation category="official" type="bluebook">89 Ark. App. 86</citation>
+          <citation category="parallel" type="bluebook">200 S.W.3d 465</citation>
+          <decisiondate>2004-12-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T16:16:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:34:19Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:42:38Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:43:43Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="ed50c3b3f563efe8cd26a8bc5efd7de5" CHECKSUMTYPE="MD5" SIZE="11300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="196d31162bc263c8fbd2b51ebd876313" CHECKSUMTYPE="MD5" SIZE="52340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00056_0.tif"/>
+      </file>
+      <file ID="tiff_00056_1" MIMETYPE="image/tiff" CHECKSUM="d6013177281abbfafb227532263999e3" CHECKSUMTYPE="MD5" SIZE="57050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00056_1.tif"/>
+      </file>
+      <file ID="tiff_00057_0" MIMETYPE="image/tiff" CHECKSUM="a609b00a15a80f6cba2ca2c86d7598aa" CHECKSUMTYPE="MD5" SIZE="59006">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00057_0.tif"/>
+      </file>
+      <file ID="tiff_00057_1" MIMETYPE="image/tiff" CHECKSUM="9ce4938977a0299f18f09ce5598d4c3b" CHECKSUMTYPE="MD5" SIZE="56504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00057_1.tif"/>
+      </file>
+      <file ID="tiff_00058_0" MIMETYPE="image/tiff" CHECKSUM="982252515c44685cfa22c3ef7ba3bdd9" CHECKSUMTYPE="MD5" SIZE="16062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00058_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="8440ec450a6596839273dcdb5971ce61" CHECKSUMTYPE="MD5" SIZE="1666593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="c503b8010710dc011d461f854429a12e" CHECKSUMTYPE="MD5" SIZE="2540751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00056_0.jp2"/>
+      </file>
+      <file ID="jp2_00056_1" MIMETYPE="image/jp2" CHECKSUM="c3db38aaf97093e67141cf6d5151312b" CHECKSUMTYPE="MD5" SIZE="2590323">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00056_1.jp2"/>
+      </file>
+      <file ID="jp2_00057_0" MIMETYPE="image/jp2" CHECKSUM="4ac35a885bcd1ebdcbdb2e0f2551f719" CHECKSUMTYPE="MD5" SIZE="2637397">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00057_0.jp2"/>
+      </file>
+      <file ID="jp2_00057_1" MIMETYPE="image/jp2" CHECKSUM="09166a854c62a0067927733fccc538a2" CHECKSUMTYPE="MD5" SIZE="2565456">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00057_1.jp2"/>
+      </file>
+      <file ID="jp2_00058_0" MIMETYPE="image/jp2" CHECKSUM="58148052fff338a0fce6164621ace97a" CHECKSUMTYPE="MD5" SIZE="1782645">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000714_00058_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="8ea91907f0c13717a0d0552b7fac115b" CHECKSUMTYPE="MD5" SIZE="14976">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="ec78b4ca5686f25cbad6a15167380fea" CHECKSUMTYPE="MD5" SIZE="90894">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00056_0.xml"/>
+      </file>
+      <file ID="alto_00056_1" MIMETYPE="text/xml" CHECKSUM="efcafdbb4800b4b594cfbefa0f50b928" CHECKSUMTYPE="MD5" SIZE="104334">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00056_1.xml"/>
+      </file>
+      <file ID="alto_00057_0" MIMETYPE="text/xml" CHECKSUM="de2b9e5abaa57fd4eb6b4c0d9b0d2338" CHECKSUMTYPE="MD5" SIZE="101681">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00057_0.xml"/>
+      </file>
+      <file ID="alto_00057_1" MIMETYPE="text/xml" CHECKSUM="f8d27620be4ae4331acaa1b52d35ae73" CHECKSUMTYPE="MD5" SIZE="102378">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00057_1.xml"/>
+      </file>
+      <file ID="alto_00058_0" MIMETYPE="text/xml" CHECKSUM="f9338dd86305e3f5d05dbd666729606a" CHECKSUMTYPE="MD5" SIZE="24452">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000714_redacted_ALTO_00058_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="86" lastpage="91">
+              <court pgmap="110" id="b110-8">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="110" id="b110-7">CA CR 03-1394</docketnumber>
+              <citation pgmap="110" id="A1I">200 S.W.3d 465</citation>
+              <parties pgmap="110" id="b110-6">Natasha Nicole STEWART v. STATE of Arkansas</parties>
+              <decisiondate pgmap="110" id="A0R">Opinion delivered December 15, 2004</decisiondate>
+              <judges pgmap="115" id="b115-6">Griffen and Crabtree, JJ., agree.</judges>
+              <attorneys pgmap="111" id="b111-4">William R.,Simpson, Jr., Public Defender, Sandra S. Cordi, Deputy Public Defender, by: Clint Miller, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="111" id="b111-5">Mike Beebe, Att’y Gen., by: Vada Berger, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="111" id="pA4x">Karen R. Baker, Judge.</author>
+                <p pgmap="111" id="A20">Following a bench trial in Pulaski County Circuit Court, appellant, Natasha Nicole Stewart, was convicted of failure to appear and was sentenced to three years’ probation and a $300 fine. On appeal, she argues that the trial judge erred in denying her motion to dismiss the charge of failure to appear because the State failed to prove that she had actual notice of a summons directing her to appear on March 31, 2003, for plea and arraignment. We reverse and dismiss.</p>
+                <p pgmap="111" id="b111-7">Ms. Studdard, the case coordinator for the Seventh Division, testified that she originally scheduled appellant’s plea and arraign­ment for March 24, 2003, in case number CA03-734, a case in which appellant was charged with domestic battery in the second degree, a felony. On March 24, 2003, upon discovering that appellant had posted bond and was no longer in jail, Ms. Studdard rescheduled appellant’s plea and arraignment for March 31, 2003. Ms. Studdard testified that on March 24, 2003, she mailed notice to appellant of the new plea and arraignment date at her address of record, 2719 Welch. Ms. Studdard testified that the letter was not returned, which would indicate that there was no one at that address, and that she did not receive any notice indicating that the summons had not been served.<footnotemark>1</footnotemark> When appellant did not appear at the March 31 plea and arraignment, a warrant was issued for her failure to appear. It is unclear if this warrant was ever served. However, immediately following the bench trial in case number CA03-734, where appellant was acquitted of domestic battery but convicted of a misdemeanor for obstructing government opera­tions, the court took up the matter of appellant’s failure to appear for the March 31 plea and arraignment.</p>
+                <p pgmap="111(32) 112(90)" id="b111-8">Appellant’s father, Mr. Stewart, testified at the hearing that appellant was in jail after being arrested for the battery charge and, after being released, appellant began living with him at 1716 South Pulaski. Mr. Stewart stated that appellant had lived at 2719 Welch, and “she was in the process of moving back over there, and I was trying to help her.” He testified that appellant “kept the residence [2719 Welch] up.” “We was keeping it up, but she just — the utilities and stuff was down, and the babies — I just kept them over there at my house, that’s all. But she was still technically living at that residence.” He testified that appellant did receive mail at the South Pulaski residence.</p>
+                <p pgmap="112" id="b112-4">Mr. Oliver, appellant’s bail bondsman, testified that appel­lant’s bail bond receipt listed her address as 2719 Welch, an address that appellant had given him on February 19, 2003, the day he made the bond. Mr. Oliver testified that when he contacted appellant after finding out that she had missed a court appearance on March 31, appellant told him that she did not have notice of the hearing. Mr. Oliver also testified that after contacting-appellant at her father’s house he requested that a new plea and arraignment date be set. He then advised appellant that the new date was May 5. Appellant appeared as instructed on May 5, and appeared for all other scheduled court appearances.</p>
+                <p pgmap="112" id="b112-5">Appellant testified and confirmed that she gave Mr. Oliver the Welch Street address. She also testified that she and her children stayed with her father because she was without a job and had no electricity at the house on Welch Street. She stated that mail continued to go to the Welch Street address, “besides the mail that was going to my dad’s.” She did not move back to the home on Welch Street until May or June. She testified that she had no knowledge of the March 31 court date until she was contacted by her bondsman, Will Oliver.</p>
+                <p pgmap="112" id="b112-6">Appellant argues that the trial court erred in denying her motion for a directed verdict because the prosecution failed to present sufficient evidence that she had actual notice that she was to appear in court on March 31, 2003. Appellant specifically asserts that the State provided circumstantial evidence that was insuffi­cient in that “in order to find that appellant Stewart had the required notice, the circuit judge had to find one inferred fact on the basis of another inferred fact.”</p>
+                <p pgmap="112(59) 113(174)" id="b112-7">A motion to dismiss, identical to a motion for a directed verdict in a jury trial, is a challenge to the sufficiency of the evidence. Green v. State, 79 Ark. App. 297, 87 S.W.3d 814 (2002) (citing Walker v. State, 11 Ark. App. 122, 72 S.W.3d 517 (2002)). The evidence is reviewed in the light most favorable to the appellee and the conviction is affirmed if there is substantial evidence to support the verdict. Ryan v. State, 30 Ark. App. 196, 786 S.W.2d 835 (1990). Substantial evidence is that which will with reasonable certainty compel a conclusion one way or another without resorting to speculation or conjecture. Id. Circumstantial evidence may constitute substantial evidence to support a convic­tion. Medlock v. State, 79 Ark. App. 447, 456, 89 S.W.3d 357, 363 (2002). The longstanding rule in the use of circumstantial evidence is that, to be substantial, the evidence must exclude every other reasonable hypothesis than that of the guilt of the accused. Id. The question of whether the circumstantial evidence excludes every hypothesis consistent with innocence is for the jury to decide. Id. On review, this court must determine whether the fact-finder resorted to speculation and conjecture in reaching its verdict. Id. It is in the province of the fact-finder to determine the weight of the evidence and the credibility ofwitnesses. Johnson v. State, 337 Ark. 196, 202, 987 S.W.2d 694, 698 (1999).</p>
+                <p pgmap="113(258) 114(62)" id="b113-5">
+                   Appellant’s argument that the State failed to prove actual notice of the March 31 court date is well taken. Arkansas Code Annotated section 5-54-120(a)(l) and (2) (Repl. 1997) provides that a person commits the offense of failure to appear if he fails to appear without reasonable excuse subsequent to having been: (1) cited or summoned as an accused; or (2) lawfully set at liberty upon condition that he appear at a specified time, place, and court. Failure to appear is a Class C felony if the required appearance was to answer a felony charge. Ark. Code Ann. § 5-54-120(b) (Repl.1997). Arkansas Rule of Criminal Procedure 6.3 (2004) describes the process by which a summons is served to an accused. It states that, “criminal summons may be served by (a) any method prescribed for personal service of civil process; or (b) certified mail, for delivery to addressee only with return receipt requested.” There is no evidence in the record that the State complied with the requirements ofsection 5-54-120(a)(l) or (2) or Rule 6.3. Rawls v. State, 266 Ark 919, 587 S.W.2d 602 (Ark. App. 1979) (due process required that an appellant be afforded proper notice and an opportunity to be heard in a proceeding involving the deprivation of life, liberty, or property); cf. Harris v. State, 6 Ark. App. 89, 638 S.W.2d 698 (1982) (due process requirement was met when defendant had actual notice in that he was present during plea and arraignment when trial court set trial date). We note that appellant did not specifically argue noncompliance with Rule 6.3; however, she does argue that the State failed to prove actual notice. Given that the State did not prove either that she was set at liberty upon condition that she appear at a specified time, place, and court nor that the attempted summons was served in compliance with Rule 6.3, the State failed to meet its burden in this case.</p>
+                <p pgmap="114" id="b114-5">This court addressed the issue of adequate notice of a required court appearance in the context of a speedy-trial analysis in Ballard v. State, 75 Ark. App. 15, 53 S.W.3d 53 (2001). In Ballard, we held that the State’s evidence demonstrating that it was standard procedure to send a notice of plea and arraignment by regular mail failed to show by a preponderance of the evidence that the notice was actually sent to the defendant. Without proving that the notice was sent to the defendant, the State could not prove that the defendant actually received notice of the scheduled plea and arraignment, and thus the delay following his non-appearance could not be attributed to the defendant on his claim that he was not afforded a speedy trial.</p>
+                <p pgmap="114" id="b114-6">Ballard held that, in order to establish an excludable period for speedy trial purposes, at a minimum, a copy of the notice letter should be maintained in the accused’s file. Here, as in Ballard, a copy of the notice letter was not maintained in the accused’s file; however, this case is unlike Ballard, in that here the case coordi­nator testified that she actually sent the notice to appellant at the Welch Street address, whereas in Ballard, the case coordinator testified only that it was standard procedure to do so. Although we recognize this distinction, we find the analysis in Ballard instruc­tive.</p>
+                <p pgmap="114" id="b114-7">In this case, the State had the higher burden of establishing beyond a reasonable doubt that appellant failed to appear without reasonable excuse after being summoned to court. Although we accept as true the testimony of the case coordinator that she mailed a notice of the March 31 plea and arraignment on March 24, we find that this proof falls short of meeting the State’s burden.</p>
+                <p pgmap="114" id="b114-8">The State urges us to apply the mailbox rule and hold that because a letter placed in the mail is presumed to be delivered to the addressee, the evidence was sufficient to support appellant’s conviction. We disagree. We decline to hold that a felony con­viction for failure to appear is supported by sufficient evidence where the State has presented less proof than is required to show service of a civil summons. See Ark. R. Crim. P. 6.3.</p>
+                <p pgmap="115" id="b115-4">
+                   The trial judge could not find that appellant had actual notice of the plea and arraignment set on March 31 without resorting to speculation and conjecture. Therefore, the State failed to meet its burden, and the trial court erred in denying appellant’s motion to dismiss. For the foregoing reason, appellant’s conviction is reversed, and this case is dismissed.</p>
+                <p pgmap="115" id="b115-5">Reversed and dismissed.</p>
+                <footnote label="1">
+                  <p pgmap="111" id="b111-9">1 Nothing in Ms. Stoddard’s testimony or the record establishes that the notice was mailed by certified mail return receipt requested.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="110" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.2" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.2" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="112" ORDERLABEL="88" TYPE="page">
+        <fptr FILEID="tiff_00056_1"/>
+        <fptr FILEID="jp2_00056_1"/>
+        <fptr FILEID="alto_00056_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_112.2" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="113" ORDERLABEL="89" TYPE="page">
+        <fptr FILEID="tiff_00057_0"/>
+        <fptr FILEID="jp2_00057_0"/>
+        <fptr FILEID="alto_00057_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_113.3" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="114" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00057_1"/>
+        <fptr FILEID="jp2_00057_1"/>
+        <fptr FILEID="alto_00057_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_114.2" BETYPE="IDREF" FILEID="alto_00057_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="115" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00058_0"/>
+        <fptr FILEID="jp2_00058_0"/>
+        <fptr FILEID="alto_00058_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_115.2" BETYPE="IDREF" FILEID="alto_00058_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.10" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.4" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.7" BETYPE="IDREF" FILEID="alto_00056_1"/>
+            <area BEGIN="BL_113.1" BETYPE="IDREF" FILEID="alto_00057_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.7" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.8" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.5" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.6" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A20" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.7" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_111.8" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_111.9" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b114-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_114.7" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0R" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.11" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.4" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.5" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b112-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_112.6" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1I" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.9" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b113-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_113.4" BETYPE="IDREF" FILEID="alto_00057_0"/>
+            <area BEGIN="BL_114.1" BETYPE="IDREF" FILEID="alto_00057_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.4" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.12" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.11" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_112.1" BETYPE="IDREF" FILEID="alto_00056_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.10" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.4" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.5" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pA4x" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.6" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b115-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_115.3" BETYPE="IDREF" FILEID="alto_00058_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

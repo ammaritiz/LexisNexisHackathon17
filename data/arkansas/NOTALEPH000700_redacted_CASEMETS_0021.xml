@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000700_0021" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Marshall v. State">Charles MARSHALL v. STATE of Arkansas</name>
+          <docketnumber>CA CR 04-1259</docketnumber>
+          <citation category="official" type="bluebook">92 Ark. App. 188</citation>
+          <citation category="parallel" type="bluebook">211 S.W.3d 597</citation>
+          <decisiondate>2005-08-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:19:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:39:48Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:40:54Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="832f6dda784588a0c293d7ec78246bc8" CHECKSUMTYPE="MD5" SIZE="6798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00107_1.tif"/>
+      </file>
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="1ea29afb2e8a90a59e8b262a32b4a108" CHECKSUMTYPE="MD5" SIZE="45022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="513577a17133a05a93d9164ea42e496b" CHECKSUMTYPE="MD5" SIZE="57338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="59859a4df935af64510d1ade6f0c54ff" CHECKSUMTYPE="MD5" SIZE="59506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="c941c159c3a5e60d83211720af5ad8ee" CHECKSUMTYPE="MD5" SIZE="20572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00109_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="92afbcd47ff56a97bcb4a2b5323260c2" CHECKSUMTYPE="MD5" SIZE="1236639">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00107_1.jp2"/>
+      </file>
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="5cff0f26772573c2ead54a8bd6061fb8" CHECKSUMTYPE="MD5" SIZE="2336211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="98b3314d4297d12e9b2e3abfbf58608d" CHECKSUMTYPE="MD5" SIZE="2521987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="884a2b227a7a89000e1f0e3cd5fb68c5" CHECKSUMTYPE="MD5" SIZE="2527886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="fa111b6ef7371fa531ae9e8c34584f81" CHECKSUMTYPE="MD5" SIZE="1863396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00109_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="9085c6d7b37eaeac7e021356fe7570a7" CHECKSUMTYPE="MD5" SIZE="7547">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00107_1.xml"/>
+      </file>
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="b7d2d36bdbc3fa345bd6d98cbac858a9" CHECKSUMTYPE="MD5" SIZE="76510">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="869dbc199be8c3fb942fddd79461303d" CHECKSUMTYPE="MD5" SIZE="98223">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="cd2553977a3f2232b01fa342c13d2986" CHECKSUMTYPE="MD5" SIZE="97031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="29f7331b7affa1248c67a6fb3f995220" CHECKSUMTYPE="MD5" SIZE="31967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00109_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="192" firstpage="188">
+              <court id="b214-4" pgmap="214">Court of Appeals of Arkansas</court>
+              <docketnumber id="AOe" pgmap="214">CA CR 04-1259</docketnumber>
+              <citation id="Ai9" pgmap="214">211 S.W.3d 597</citation>
+              <parties id="b214-3" pgmap="214">Charles MARSHALL v. STATE of Arkansas</parties>
+              <decisiondate id="AyQ" pgmap="214">Opinion delivered August 31, 2005</decisiondate>
+              <judges id="b218-8" pgmap="218">Gladwin and Neal, JJ., agree.</judges>
+              <attorneys id="b215-6" pgmap="215">John H. Bradley, Mississippi County Managing Public De­fender, for appellant.</attorneys>
+              <attorneys id="b215-7" pgmap="215">Mike Beebe, Att’y Gen., by: Suzanne Antley, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAzD" pgmap="215">Karen R. Baker, Judge.</author>
+                <p id="Arl" pgmap="215">A jury in Mississippi County Circuit Court found appellant, Charles Marshall, guilty of murder in the first degree and sentenced him to twenty-five years’ imprisonment in the Arkansas Department of Correction. On appeal, appellant challenges only the denial of his “motion to suppress his custodial statement that is against his interest.” We find no error and affirm.</p>
+                <p id="b215-9" pgmap="215">On August 10, 2003, appellant was involved in an alterca­tion that resulted in the shooting death of Harold Walker. Appel­lant and three others were riding around in an automobile when they were involved in an altercation with a friend of Mr. Walker’s. After leaving the scene of the altercation, the driver proceeded to an unknown person’s house to obtain a gun. Later, while again riding in the vehicle, appellant and the others again encountered Mr. Walker’s friend, Mr. Walker, and other individuals. At this time, another altercation ensued, shots were fired, and Mr. Walker was hit. He later died from his injuries.</p>
+                <p id="b215-10" pgmap="215(129) 216(84)">Appellant was arrested in Indiana and returned to Mississippi County on September 3, 2003, the date on which appellant was to be arraigned. However, before he was taken to court, Detective Timothy Bentley advised appellant that he was going to speak to him in reference to the murder case and took him to an interview room. Appellant informed Detective Bentley that he did not have to say anything and that he wanted to talk with his lawyer. Detective Bentley responded that he did not really want to speak with appellant and stated, “I don’t need anything from you. There’s plenty of witnesses and I personally don’t care if I speak with you.” At that point, Detective Bentley proceeded to obtain from appellant basic information for a criminal investigation divi­sion (CID) information form. Upon completion of the CID form, appellant was informed that it was time for his arraignment, at which time appellant asked Detective Bentley, “What do you want to know? I will speak with you.” Appellant was then advised of his Miranda rights, he signed the Blytheville Police Department Interrogation Advise of Rights form, and he gave a tape-recorded statement admitting that he had pointed a gun and shot three times in the direction of Mr. Walker and the other individuals.</p>
+                <p id="b216-5" pgmap="216">On October 2, 2003, appellant filed a motion to suppress his statement. Following testimony and arguments by counsel, the court denied appellant’s motion to suppress and admitted his statement into evidence.</p>
+                <p id="b216-6" pgmap="216">Our review of a denial of a motion to suppress evidence is de novo, and we make an independent determination based on the totality of the circumstances, giving due deference to the trial court’s ability to assess the credibility of the witnesses. Davis v. State, 351 Ark. 406, 94 S.W. 3d 892 (2003). In Davis, our supreme court clarified the standard of review by replacing a view of the evidence “in the light most favorable to the State” with a “proper deference to the findings of the trial court,” which was held to be more consistent with the standard announced by the United States Supreme Court. State v. Harmon, 353 Ark. 568, 113 S.W.3d 74 (2003) (quoting Ornelas v United States, 517 U.S. 690 (1996)).</p>
+                <p id="b216-7" pgmap="216">Appellant’s sole point on appeal is that the trial court erred in denying the motion to suppress his statement. Appellant asserts that his Fifth and Fourteenth Amendment Rights of the United States Constitution were violated and once that right is invoked “all interrogation must cease until an attorney is present.” The trial court denied the motion, reasoning that the appellant voluntarily reinitiated the questioning by indicating that he wanted to give a statement.</p>
+                <p id="b216-8" pgmap="216(103) 217(20)">
+                   Appellant correctly asserts that once an individual in custody invokes his right to counsel the interrogation must cease. The term “interrogation” under Miranda refers not only to express questioning, but also to any words or actions on the part of the police (other than those normally attendant to arrest and custody) that the police should know are reasonably likely to elicit an incriminating response from the suspect. Rhode Island v. Innis, 446 U.S. 291 (1980). However, what occurred in this case was not the continuation of an interrogation relating to the charges, rather it was an informational procedure normally attendant to arrest and custody. In fact, there is no indication in the record that appellant was initially questioned regarding the charges against him.</p>
+                <p id="b217-5" pgmap="217">Furthermore, the statements that Detective Bentley made in response to appellant’s decision to remain silent and his request for an attorney were not statements that were reasonably likely to elicit an incriminating response from appellant. Detective Bentley simply responded that he had witnesses to speak with and that he did not need to speak with appellant regarding the charges. The crux of the inquiry is whether Detective Bentley should have known that due to his statements appellant would be moved to make a self-incriminating admission. See Innis, supra. Given the fact that Detective Bentley’s statements appear to have consisted of no more than a few off-hand remarks, we cannot say that Detective Bentley should have known it was reasonably likely that appellant would respond. Nor does the record indicate that Detective Bentley’s comments were particularly evocative. Therefore, De­tective Bentley did not subject appellant to words or actions that he should have known were reasonably likely to elicit an incrimi­nating response from appellant.</p>
+                <p id="b217-6" pgmap="217">
+                   Our supreme court recently clarified the standard of review for cases involving a trial court’s ruling on the voluntariness of a confession holding that we must make an independent determination based upon the totality of the circumstances. Stan­dridge v. State, 357 Ark. 105, 161 S.W.3d 815 (2004) (citing Grillot v. State, 353 Ark. 294, 107 S.W.3d 136 (2003)). A statement made while in custody is presumptively involuntary, and the burden is on the State to prove by a preponderance of the evidence that a custodial statement was given voluntarily and was knowingly and intelligently made. Id. In order to determine whether a waiver of Miranda rights is voluntary, this court looks to see if the confession was the product of free and deliberate choice rather than intimi­dation, coercion, or deception. Id.</p>
+                <p id="b217-7" pgmap="217(93) 218(68)">Here, Detective Bentley spoke with appellant in an inter­view room and said he would like to speak with appellant regarding the case. Appellant invoked his right to remain silent and his right to counsel. Detective Bentley then proceeded to question appellant only regarding the CID form. When informed that it was time for the arraignment to begin, appellant spontaneously asked Detective Bentley what he wanted to know and indicated that he wanted to talk with him about the charges. Detective Bentley testified that at that point he advised appellant of his rights, appellant signed the Advise of Rights form, and Detective Bentley asked appellant to note specifically that he would be speaking to him without an attorney. Furthermore, appellant’s tape-recorded statement evidenced his understanding of his waiver of rights. There is no evidence of coercion, and it is clear that appellant was aware of the consequences of abandoning his right to remain silent and to have counsel present during questioning.</p>
+                <p id="b218-6" pgmap="218">Given the totality of the circumstances in this case, we hold that the trial court did not err in denying appellant’s motion to suppress his custodial statement.</p>
+                <p id="b218-7" pgmap="218">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="214" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.1" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="215" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.3" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.2" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAzD" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.9" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.6" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.4" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.5" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.6" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-10" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.13" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.6" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.12" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.7" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.8" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOe" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.4" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai9" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-8" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.7" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_217.1" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyQ" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.7" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.3" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arl" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.10" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_215.11" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

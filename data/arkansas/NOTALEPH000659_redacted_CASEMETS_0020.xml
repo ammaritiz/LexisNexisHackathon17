@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000659_0020" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wilcox v. State">George WILCOX v. STATE of Arkansas</name>
+          <docketnumber>CA CR 99-861</docketnumber>
+          <citation category="official" type="bluebook">70 Ark. App. 110</citation>
+          <citation category="parallel" type="bluebook">15 S.W.3d 353</citation>
+          <decisiondate>2000-04-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T02:07:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:45Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:23:30Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:27:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="c5bf87749c3b97e741293b34caadef03" CHECKSUMTYPE="MD5" SIZE="20370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="2624af6b14e62480238ab0d3e776470c" CHECKSUMTYPE="MD5" SIZE="47362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="b90f722061827fb541b98d1637197f2b" CHECKSUMTYPE="MD5" SIZE="58164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="52cb64a7e867947063d419d8ae6dc369" CHECKSUMTYPE="MD5" SIZE="59166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="a7b4a5d6a7fcc83ccaf5196eb624cee7" CHECKSUMTYPE="MD5" SIZE="9420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00072_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="e564812be7bcd42978921c9adcb60638" CHECKSUMTYPE="MD5" SIZE="2068401">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="18421ebc201e2b736ec78d181baec518" CHECKSUMTYPE="MD5" SIZE="2698803">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="c03cc9f3110bd6ca33683223103e1ac5" CHECKSUMTYPE="MD5" SIZE="2795589">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="13ac35e3f8536402511fb8b38faf5941" CHECKSUMTYPE="MD5" SIZE="3134781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="0dded44267462fde9d5cbf0434348f04" CHECKSUMTYPE="MD5" SIZE="1654852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000659_00072_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="638d49d36a3988126a549b272d96a3f9" CHECKSUMTYPE="MD5" SIZE="31483">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="7aae3f208dad59729ad1b785ca1070c2" CHECKSUMTYPE="MD5" SIZE="89418">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="8695f8a2a5839415deb94524e2adfe1e" CHECKSUMTYPE="MD5" SIZE="108837">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="621748f03db72386f18436314245778c" CHECKSUMTYPE="MD5" SIZE="102616">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="389a9eab2c64cafa9a193cbd872441b7" CHECKSUMTYPE="MD5" SIZE="12578">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000659_redacted_ALTO_00072_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0020" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="110" lastpage="114">
+              <court id="b140-7" pgmap="140">Court of Appeals of Arkansas Division III</court>
+              <docketnumber id="ALy" pgmap="140">CA CR 99-861</docketnumber>
+              <citation id="AQ4" pgmap="140">15 S.W.3d 353</citation>
+              <parties id="b140-6" pgmap="140">George WILCOX v. STATE of Arkansas</parties>
+              <decisiondate id="b140-8" pgmap="140">Opinion delivered April 26, 2000</decisiondate>
+              <otherdate id="AmW" pgmap="140">[Petition for rehearing denied May 31, 2000.]</otherdate>
+              <judges id="b144-4" pgmap="144">HART and Roaf, JJ., agree.</judges>
+              <attorneys id="b141-6" pgmap="141">Sam T. Heuer, for appellant.</attorneys>
+              <attorneys id="b141-7" pgmap="141">Mark Pryor, Att’y Gen., by: David R. Raupp, Sr. Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="A9n" pgmap="141">JOHN E. Jennings, Judge.</author>
+                <p id="A-R" pgmap="141">George Wilcox was found guilty of battery in the first degree following a bench trial. Appellant moved for a new trial on the basis of newly discovered evidence, and the trial court granted the motion. Before he could be tried again, appellant filed a motion to dismiss on the basis of double jeopardy or, alternatively, for a judgment of acquittal, and that motion was denied. Appellant argues that the trial court erred in failing to dismiss pursuant to the prohibition against double jeop­ardy. We find no error and affirm.</p>
+                <p id="b141-9" pgmap="141">During the summer of 1997, four young boys rode their bicycles in a field owned by appellant. According to the boys, they had misplaced one of the bicycles, and, because it was getting dark, one of them climbed onto a tractor and turned on its fights to help them locate the bicycle. The boys got scared when they saw a white truck approaching without its headlights on, so they hid. A man got out of the truck holding a gun and ordered them to turn off the engine and to get down off of the tractor. When they failed to do so, the man shot once toward the ground and fired a second time in the air. At some point, the boys began running but then obeyed the man’s orders to return to him. Seeing that it was only children involved, the man told the boys to go home. Unfortunately, pellets from the second shotgun blast had struck one of the boys in the neck and foot.</p>
+                <p id="b141-10" pgmap="141">At trial, two of the boys positively identified appellant as the man who had fired the shotgun that night. Officers who had investigated the scene found golf tees laying on top of the dirt and found similar golf tees in appellant’s white truck. Officer Robert Brock noted that appellant’s truck had a flat tire but was warm to the touch as though it had recently been driven. Appellant con­sented to a search of his house, and, although a shotgun was found underneath the bed, the gun was dusty and had mold on the stock.</p>
+                <p id="b142-5" pgmap="142">Appellant’s neighbor, John Patton, had been walking his dog that night when he heard a tractor running and children’s voices. He called appellant on the phone and then went over to the field himself. Although he spoke to the man in the field who had told the boys to go home, Mr. Patton’s testimony was that appellant was not the man he had seen by the tractor. Although appellant testified that he does not go anywhere without his glasses, the boys indicated that the man in the field that night was not wearing glasses. Appel­lant explained that he and his wife own eleven white trucks used in connection with their sod farm operation. He went on to say that golf tees are found in virtually every one of those trucks because they serve to plug water sprinklers all over the farm. According to the testimony of both appellant and his wife, after going to dinner with friends in the wife’s car, they went straight to bed and were awakened between 9:30 and 10:00 p.m. by the doorbell and the telephone.</p>
+                <p id="b142-6" pgmap="142(285) 143(19)">The trial court found appellant guilty of battery in the first degree, but, before sentencing, appellant moved for a new trial based on newly discovered evidence. At the hearing on appellant’s motion, John Patton again testified on appellant’s behalf. This time Mr. Patton identified Boyce Cope as the man he had spoken to that night in the field. He testified that appellant would not have had time to get to the field before him following the phone call, as appellant lives two blocks away and the field is directly across the road from Mr. Patton’s house. Patton also said that the man he had spoken to in the field was not wearing glasses. Dr. Roy Ashebraner, appellant’s optometrist, prepared photographs showing appellant’s level of visual acuity with and without glasses. In addition, the transcript of Mr. Cope’s confession was introduced into evidence. Mr. Cope explained that, when he saw the tractor’s lights on at a time when no one is usually in the field, his first thought was that someone was stealing the tractor because there had been recent problems with theft. He fired the gun twice just to scare off the person on the tractor. Realizing it was just some children playing, he instructed them to go home. Mr. Cope said that he was unaware that a boy had been shot until the next day when he heard about it on the news. He then got scared and threw his shotgun over a bridge. Mr. Cope indicated that he had been driving a white pick­up truck that night. He also stated that he had spoken to someone in the field as the boys were leaving to go home but that he did not know the man. Based on this newly discovered evidence, the trial court granted appellants motion for a new trial.</p>
+                <p id="b143-4" pgmap="143">Appellant argues that the trial court’s granting of a new trial was tantamount to directing a verdict of acquittal. Appellant relies on the language in Misskelley that to prevail on a motion for a new trial based on newly discovered evidence, appellant must demon­strate that the new evidence would have impacted the outcome of the case. Misskelley v. State, 323 Ark. 449, 915 S.W.2d 702 (1996). Appellant argues that, by granting the new trial, the trial court must have found that the evidence would have impacted the outcome of his case, and the only logical impact would have been a judgment of acquittal based upon insufficient evidence to convict him. Further­more, the State conceded that there would be no additional evi­dence at the new trial with the exception of more cross-examina­tion. Appellant contends that this court must look to the substance of the trial court’s decision and not just its form. Appellant points out that a defendant does not waive his right to a judgment of acquittal based on insufficient evidence simply by moving for a new trial.</p>
+                <p id="b143-5" pgmap="143(235) 144(13)">
+                   The Double Jeopardy Clause forbids a second trial for the purpose of affording the prosecution another opportunity to supply evidence which it failed to muster in the first proceeding. Burks v. United States, 437 U.S. 1 (1977). In addition, the Double Jeopardy Clause bars a second prosecution when a new trial has been granted due to insufficient evidence. Hudson v. Louisiana, 450 U.S. 40 (1981). However, in the case at bar, there was no suggestion by the trial court that the State had failed to prove its case. Signifi­cantly, the trial court did not grant appellant’s request for an out­right acquittal. Moreover, in its ruling, the trial court pointed out that a new trial based on newly discovered evidence is not a favored remedy and that confessions should be approached with some skep­ticism but that, “the law provides for [a new trial] under appropriate circumstances.” Clearly, it was not implicit in the trial court’s grant­ing of a new trial that the State’s evidence had been rendered insufficient due to appellant’s newly discovered evidence. The new trial simply provided appellant another chance for acquittal in fight of the newly discovered evidence. We find no error in the trial court’s denial of appellant’s motion to dismiss on double jeopardy grounds. See Carter v. State, 848 S.W.2d 792 (Tex. Ct. App. 1993) (where a defendant’s motion for a new trial is granted on grounds other than insufficient evidence, double jeopardy does not bar a new trial). Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="140" ORDERLABEL="110" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.2" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="111" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="112" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="113" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.2" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.9" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.6" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9n" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-R" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_141.9" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_141.10" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-9" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.11" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.10" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.7" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-4" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALy" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.8" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmW" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.12" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-5" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.3" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-10" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.12" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0020"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.11" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

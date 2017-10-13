@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000713_0019" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Maneth v. Tucker">M.J. MANETH and Marion Maneth v. Nicholas TUCKER</name>
+          <docketnumber>CA 00-326</docketnumber>
+          <citation category="official" type="bluebook">72 Ark. App. 141</citation>
+          <citation category="parallel" type="bluebook">34 S.W.3d 755</citation>
+          <decisiondate>2000-12-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:11:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:34:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T14:38:35Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T14:41:54Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00085_0" MIMETYPE="image/tiff" CHECKSUM="ade4a4f348ee848faecbc595ceb93962" CHECKSUMTYPE="MD5" SIZE="7374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00085_0.tif"/>
+      </file>
+      <file ID="tiff_00085_1" MIMETYPE="image/tiff" CHECKSUM="d148f799354fe690d5dc0d88690d7ef5" CHECKSUMTYPE="MD5" SIZE="5038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00085_1.tif"/>
+      </file>
+      <file ID="tiff_00086_0" MIMETYPE="image/tiff" CHECKSUM="ac15075a62060b9e136cd76379229044" CHECKSUMTYPE="MD5" SIZE="54042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00086_0.tif"/>
+      </file>
+      <file ID="tiff_00086_1" MIMETYPE="image/tiff" CHECKSUM="b047af91e11f03430ce0b8c0d8db6acf" CHECKSUMTYPE="MD5" SIZE="53078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00086_1.tif"/>
+      </file>
+      <file ID="tiff_00087_0" MIMETYPE="image/tiff" CHECKSUM="44234421f2674b3baf95543061b7e25e" CHECKSUMTYPE="MD5" SIZE="58208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00087_0.tif"/>
+      </file>
+      <file ID="tiff_00087_1" MIMETYPE="image/tiff" CHECKSUM="5b6dabe073dcb59b50c7aca6dc27ed1d" CHECKSUMTYPE="MD5" SIZE="55442">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00087_1.tif"/>
+      </file>
+      <file ID="tiff_00088_0" MIMETYPE="image/tiff" CHECKSUM="a62cb387aa58c28b636c2184609aed72" CHECKSUMTYPE="MD5" SIZE="30558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00088_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00085_0" MIMETYPE="image/jp2" CHECKSUM="81df6fc1113a055b6fa3bfe4e4be8dbf" CHECKSUMTYPE="MD5" SIZE="1500218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00085_0.jp2"/>
+      </file>
+      <file ID="jp2_00085_1" MIMETYPE="image/jp2" CHECKSUM="de09c8becde56c264a6ee31bca090e01" CHECKSUMTYPE="MD5" SIZE="1140158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00085_1.jp2"/>
+      </file>
+      <file ID="jp2_00086_0" MIMETYPE="image/jp2" CHECKSUM="6096411555bd66b9c2e22b8616547e68" CHECKSUMTYPE="MD5" SIZE="2722179">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00086_0.jp2"/>
+      </file>
+      <file ID="jp2_00086_1" MIMETYPE="image/jp2" CHECKSUM="97e23b361764263c1f41bf24eac8fbe9" CHECKSUMTYPE="MD5" SIZE="2735323">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00086_1.jp2"/>
+      </file>
+      <file ID="jp2_00087_0" MIMETYPE="image/jp2" CHECKSUM="a5aa933df7ac8b089fce5757d03d4295" CHECKSUMTYPE="MD5" SIZE="2803065">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00087_0.jp2"/>
+      </file>
+      <file ID="jp2_00087_1" MIMETYPE="image/jp2" CHECKSUM="6df5eef462c7c493333f23d13f252efc" CHECKSUMTYPE="MD5" SIZE="2704943">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00087_1.jp2"/>
+      </file>
+      <file ID="jp2_00088_0" MIMETYPE="image/jp2" CHECKSUM="299d9223c87a5e793b449702c24a2fe9" CHECKSUMTYPE="MD5" SIZE="2549408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00088_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00085_0" MIMETYPE="text/xml" CHECKSUM="5363e48b97f4c253aff884c5cd491dd8" CHECKSUMTYPE="MD5" SIZE="8620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00085_0.xml"/>
+      </file>
+      <file ID="alto_00085_1" MIMETYPE="text/xml" CHECKSUM="2fa463fd6a5e9c02881cbd64699dfed9" CHECKSUMTYPE="MD5" SIZE="1778">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00085_1.xml"/>
+      </file>
+      <file ID="alto_00086_0" MIMETYPE="text/xml" CHECKSUM="009612c7ec696877e4606781d50bab32" CHECKSUMTYPE="MD5" SIZE="91736">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00086_0.xml"/>
+      </file>
+      <file ID="alto_00086_1" MIMETYPE="text/xml" CHECKSUM="0902aa95f010a1f9e5a800cce9a4a4fc" CHECKSUMTYPE="MD5" SIZE="96706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00086_1.xml"/>
+      </file>
+      <file ID="alto_00087_0" MIMETYPE="text/xml" CHECKSUM="8b65aad126c7348f51a9031d5b2ccce1" CHECKSUMTYPE="MD5" SIZE="105349">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00087_0.xml"/>
+      </file>
+      <file ID="alto_00087_1" MIMETYPE="text/xml" CHECKSUM="d6cee4953eb02385c00be7148fe5c8fd" CHECKSUMTYPE="MD5" SIZE="102897">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00087_1.xml"/>
+      </file>
+      <file ID="alto_00088_0" MIMETYPE="text/xml" CHECKSUM="8b79a01cf9a9c02e8c6d50acbd0356a2" CHECKSUMTYPE="MD5" SIZE="51096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00088_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="141" lastpage="147">
+              <court pgmap="169" id="b169-6">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="169" id="b169-4">CA 00-326</docketnumber>
+              <citation pgmap="169" id="b169-5">34 S.W.3d 755</citation>
+              <parties pgmap="169" id="b169-3">M.J. MANETH and Marion Maneth v. Nicholas TUCKER</parties>
+              <decisiondate pgmap="169" id="b169-7">Opinion delivered December 13, 2000</decisiondate>
+              <judges pgmap="175" id="b175-8">PITTMAN and Griffen, JJ., agree.</judges>
+              <attorneys pgmap="171" id="b171-5">Huckabay, Munson, Rowlett &amp; Tilley, P.A., by: Jim Tilley and Julia L. Busfteld, for appellants.</attorneys>
+              <attorneys pgmap="171" id="b171-6">Kelly &amp; Huckabee, by: Sandy Huckabee, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="171" id="b171-7">Andree LAYTON ROAF, Judge.</author>
+                <p pgmap="171" id="Aqdj">This is a negligence case. Appellants M.J. and Marion Maneth have appealed from a judgment entered on a jury verdict against them in favor of appellee Nicholas Tucker, who was injured in a fight with two third parties at appellants’ house. Because the trial judge erred in refusing to direct a verdict for the Maneths, we reverse. The Maneths have raised several points on appeal. However, because we reverse on the directed verdict, we need not address their other points.</p>
+                <p pgmap="171" id="b171-8">The Maneths went out of state on Friday, January 10, 1998, leaving at home and unsupervised their eighteen-year-old son, Jeff, and their seventeen-year-old daughter, Darcy. Before leaving, the Maneths gave permission for Jeff to have his golf-team members and for Darcy to have a fiiend or two over to the house. On Friday night, Tucker, who was eighteen years old, came uninvited to a party at the Maneths’ house, as did many other young people. No problems occurred that night, although liquor was consumed. On Saturday, bringing beer, Tucker returned to the Maneths’ house without an invitation. Later estimates put the crowd at thirty to fifty people, many of whom were consuming alcoholic beverages. Later that night, Tucker intervened in a quarrel that had erupted between Chris Madding and Bubba Lucas. He grabbed Chris’s shirt and accidentally tore it, enraging Chris. Even though Tucker apologized to him, Chris punched Tucker in the face several times, and Chris’s fraternity brother, Nick Morris, also hit Tucker. Several of Tucker’s teeth were knocked out, and he suffered other facial injuries that required surgery. Chris and Nick were also over the age of majority.</p>
+                <p pgmap="171" id="b171-9">Tucker then sued the Maneths, Chris, and Nick. He alleged that the Maneths were negligent in failing to make their home safe and in the supervision of their children. The Maneths’ motions for directed verdict were denied, and the case was submitted to the jury on interrogatories. The Maneths were also unsuccessful in attempt­ing to persuade the circuit judge to give the following jury instruc­tion, AMI 1103:</p>
+                <blockquote pgmap="171" id="b171-10">In this case, Nicholas Tucker was a licensee upon the premises of Marion and M.J. Maneth.</blockquote>
+                <blockquote pgmap="172" id="b172-5">An owner of property owes a licensee no duty until his presence on the premises is known or reasonably should be known. Then, the owner owes the licensee only a duty not to cause him injury by willful or wanton conduct. If, however, the owner knows or has reason to know of a condition on the premises which is not open and obvious and which creates an unreasonable harm to licensees, he is under the duty to use ordinary care to make the condition safe &lt;?r to warn those licensees who do not know or have reason to know of the danger.</blockquote>
+                <p pgmap="172" id="b172-6">The circuit judge did, however, give the following instruction, AMI 604, over the Maneths’ objections:</p>
+                <blockquote pgmap="172" id="b172-7">A person who knows, or reasonably should know, that a child may be affected by his act, failure to act, or conduct is required to anticipate the ordinary behavior of children and to use care com­mensurate with any danger reasonably to be anticipated under the circumstances. A failure to use this degree of care is negligence.</blockquote>
+                <p pgmap="172" id="b172-8">The jury found the Maneths five percent, Tucker five percent, Chris fifty percent, and Nick forty percent at fault, and set Tucker’s damages at $50,000. The trial judge entered judgment for Tucker in the amount of $47,500. Only the Maneths appeal from this judgment.</p>
+                <p pgmap="172" id="b172-9">
+                   In their-first point on appeal, the Maneths argue that the circuit judge erred in refusing to direct a verdict in their favor. A motion for directed verdict is a challenge to the .sufficiency of the evidence. Sparks Regional Med. Ctr. v. Smith, 63 Ark. App. 131, 976 S.W.2d 396 (1998). When reviewing the denial of a motion for directed verdict, this coürt affirms if the jury’s verdict is supported by substantial evidence. Wal-Mart Stores, Inc. v. Binns, 341 Ark. 157, 15 S.W.3d 320 (2000). Substantial evidence is evidence that is of sufficient certainty and precision to compel a conclusion one way or another, forcing or inducing the mind to pass beyond suspicion or conjecture. Home Mut. Fire Ins. Co. v. Jones, 63 Ark. App. 221, 977 S.W.2d 12 (1998). On appeal, only the evidence favorable to the appellee, and all reasonable inferences therefrom, will be consid­ered. Id.</p>
+                <p pgmap="172(43) 173(142)" id="b172-10">
+                   To establish a prima facie case in tort,- a plaintiff must show that damages were sustained, that the defendant was negligent, and that such negligence was a proximate cause of the damages. Ouachita Wilderness Inst. v. Mergen, 329 Ark. 405, 947 S.W.2d 780 (1997). Questions that must be answered in a negligence case are: (1) what duty, if any, the defendant owed the plaintiff; (2) whether that duty was breached; (3) whether it was reasonably foreseeable that such a breach would cause the injury; (4) whether the negli­gent act caused or was a substantial factor in causing the injury; and (5) whether there was an intervening cause. Keck v. American Employment Agency, Inc., 279 Ark. 294, 652 S.W.2d 2 (1983). Duty is a concept that arises out of the recognition that relations between individuals may impose upon one a legal obligation for the other. Shannon v. Wilson, 329 Ark. 143, 947 S.W.2d 349 (1997). The question of what duty, if any, is owed by one person to another is always a question of law. Heigle v. Miller, 332 Ark. 315, 965 S.W.2d 116 (1998).</p>
+                <p pgmap="173" id="b173-6">
+                   The Maneths assert that Tucker was a social guest, albeit an uninvited one, and that they only owed him the duty that a landowner owes a licensee. We agree. Although Tucker was not invited to the Maneths’ house, Jeff and Darcy obviously acquiesced in his attendance at the party. A social guest is a licensee. Tucker v. Sullivan, 307 Ark. 440, 821 S.W.2d 470 (1991). The duty owed by a landowner to a licensee is to refrain from wantonly or wilfully causing injury. Guthrie v. Tyson Foods, Inc., 285 Ark. 95, 685 S.W.2d 164 (1985). To constitute willful or wanton conduct there must be a course of action that shows a deliberate intention to harm or that shows utter indifference to, or conscious disregard of, the safety of others. Lively v. Libbey Memorial Physical Medicine Ctr., Inc., 311 Ark. 41, 841 S.W.2d 609 (1992). While the owner of property owes no duty to make the premises safe for licensees, nor is he required to warn them of obvious or patent dangers, there should be a duty to warn such person of hidden dangers known to the owner. Dorton v. Francisco, 309 Ark. 472, 833 S.W.2d 362 (1992). The duty to warn does not extend to dangers or risks that the trespasser or licensee should have been expected to recognize. Id.; King v. Jackson, 302 Ark. 540, 790 S.W.2d 904 (1990).</p>
+                <p pgmap="173(78) 174(64)" id="b173-7">
+                   Tucker argues that the case involves not only the question of a landowner’s duty to a social guest but also the Maneths’ legal duty as parents to supervise their children. Tucker concedes that the family-purpose doctrine has not been accepted in Arkansas and that the Arkansas Supreme Court has held that the negligence of a child cannot be imputed to the parent merely because of the parental relationship. Bieker v. Owens, 234 Ark. 97, 350 S.W.2d 522 (1961). However, citing Bieker, supra, Tucker asserts that the question is whether the Maneths permitted their children to commit acts that could reasonably be expected to cause injury to another. In Farm Bureau Mutual Insurance Co. of Arkansas v. Henley, 275 Ark. 122, 124, 628 S.W.2d 301, 302 (1982), our supreme court discussed the requirements of parents as set forth in Bieker. The court stated:</p>
+                <blockquote pgmap="174" id="b174-6">The issue of negligent supervision was thoroughly discussed in Bieker v. Owens, 234 Ark. 97, 350 S.W.2d 522 (1961) where we stated:</blockquote>
+                <blockquote pgmap="174" id="b174-7">Since each human mind and personality is exclusively that of the individual possessing it, it would be unreasonable to place an absolute responsibility for the acts of another on any person. But where the parent (1) has the opportunity and ability to control a minor, and (2) has knowledge of the tendency or proclivity of the minor to commit acts which could normally be expected to cause injury to others, and (3) after having such opportunity, ability and knowledge has failed to exercise reasonable means of controlling the minor or appreciably reduce the likelihood of injury to others because of the minor’s acts, the parent should be made to respond to those who have been injured by such acts of the minor....</blockquote>
+                <blockquote pgmap="174" id="b174-8">We then stated that the parent is not liable when there is nothing to show any knowledge by the parent of a line of conduct on the part of the child.</blockquote>
+                <p pgmap="174(197) 175(53)" id="b174-9">
+                   Tucker asserts that the Maneths had notice that at least eleven teenagers would be unsupervised at their home for a party on a weekend; that they knew there were more teenagers at their home than what was originally planned; and that they learned through a phone call to Darcy that the Saturday night party had “gotten out of hand.” Tucker asserts that the Maneths had this knowledge prior to his injury and took no steps to protect him and others who were guests that Saturday night. He argues that it was foreseeable that Tucker would be in danger given the numbers of teenagers at the party, the fact that the party was unsupervised, and the fact that alcohol was present at the party. His arguments are unavailing based on the evidence in the record. Under Bieker, there is no basis to find the Maneths liable for negligent supervision. The parent is not liable when there is nothing to show any knowledge by the parent of a line of conduct on the part of the child. Here, testimony was uncontradicted that Darcy, the only person under eighteen, had not engaged in throwing parties or even been in any trouble before. The same is true for her eighteen-year-old brother. There is no evidence that the Maneths had knowledge of the tendency or proclivity of Darcy to commit acts which could nor­mally be expected to cause injury to others. In fact, neither Darcy nor Jeff caused injury to anyone in this case.</p>
+                <p pgmap="175" id="b175-6">
+                   The case against the Maneths should not have gone to the jury. There was no evidence of willful or wanton behavior by the Maneths; it was not reasonably foreseeable that their children would host, and Tucker would attend, an out-of-control beer party at their house or that Tucker would get injured in a fight with two other individuals at that party; there was no substantial evidence that the Maneths knew or should have known of the danger to Tucker; and Tucker should have been aware of the likely conse­quences of intervening in a heated argument involving a young man who had been drinking alcoholic beverages and who, according to Tucker, had a reputation for getting into fights. Because the circuit judge erred in refusing to direct a verdict for the Maneths, we need not address the remaining issues on appeal concerning the errone­ous jury instructions.</p>
+                <p pgmap="175" id="b175-7">■Reversed and dismissed as to the Maneths.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="169" ORDERLABEL="141" TYPE="page">
+        <fptr FILEID="tiff_00085_0"/>
+        <fptr FILEID="jp2_00085_0"/>
+        <fptr FILEID="alto_00085_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.2" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="170" ORDERLABEL="142" TYPE="page">
+        <fptr FILEID="tiff_00085_1"/>
+        <fptr FILEID="jp2_00085_1"/>
+        <fptr FILEID="alto_00085_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_170.1" BETYPE="IDREF" FILEID="alto_00085_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="171" ORDERLABEL="143" TYPE="page">
+        <fptr FILEID="tiff_00086_0"/>
+        <fptr FILEID="jp2_00086_0"/>
+        <fptr FILEID="alto_00086_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_171.2" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="172" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00086_1"/>
+        <fptr FILEID="jp2_00086_1"/>
+        <fptr FILEID="alto_00086_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_172.1" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="173" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00087_0"/>
+        <fptr FILEID="jp2_00087_0"/>
+        <fptr FILEID="alto_00087_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_173.3" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="174" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00087_1"/>
+        <fptr FILEID="jp2_00087_1"/>
+        <fptr FILEID="alto_00087_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_174.2" BETYPE="IDREF" FILEID="alto_00087_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="175" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00088_0"/>
+        <fptr FILEID="jp2_00088_0"/>
+        <fptr FILEID="alto_00088_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_175.3" BETYPE="IDREF" FILEID="alto_00088_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.6" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.7" BETYPE="IDREF" FILEID="alto_00087_1"/>
+            <area BEGIN="BL_175.1" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.6" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.6" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.7" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.4" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.5" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.5" BETYPE="IDREF" FILEID="alto_00087_0"/>
+            <area BEGIN="BL_174.1" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b173-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_173.4" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.5" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b174-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_174.4" BETYPE="IDREF" FILEID="alto_00087_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.4" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqdj" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.7" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_171.8" BETYPE="IDREF" FILEID="alto_00086_0"/>
+            <area BEGIN="BL_171.9" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.11" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.10" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.12" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.5" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.3" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.7" BETYPE="IDREF" FILEID="alto_00086_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.3" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.5" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.6" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b171-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_171.4" BETYPE="IDREF" FILEID="alto_00086_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b169-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_169.3" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b172-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_172.8" BETYPE="IDREF" FILEID="alto_00086_1"/>
+            <area BEGIN="BL_173.1" BETYPE="IDREF" FILEID="alto_00087_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.4" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b175-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_175.6" BETYPE="IDREF" FILEID="alto_00088_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

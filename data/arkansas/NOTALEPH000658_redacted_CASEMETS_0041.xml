@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000658_0041" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Green Bay Packaging v. Bartlett">GREEN BAY PACKAGING v. Edward BARTLETT</name>
+          <docketnumber>CA 99-205</docketnumber>
+          <citation category="official" type="bluebook">67 Ark. App. 332</citation>
+          <citation category="parallel" type="bluebook">999 S.W.2d 695</citation>
+          <decisiondate>1999-09-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T02:01:40Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:30Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:51:03Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:51:55Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="ed32da5c8306008053a8d94a9cbf6ea6" CHECKSUMTYPE="MD5" SIZE="24780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="289b11af04571336c86074ed058021b4" CHECKSUMTYPE="MD5" SIZE="20322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00182_0.tif"/>
+      </file>
+      <file ID="tiff_00182_1" MIMETYPE="image/tiff" CHECKSUM="ba853604e714359f3be4482ef9838f14" CHECKSUMTYPE="MD5" SIZE="50752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00182_1.tif"/>
+      </file>
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="3eb71c6bfd48008dfc4d45b10697090e" CHECKSUMTYPE="MD5" SIZE="55628">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="1e1318bb3616a4660283988608d4be72" CHECKSUMTYPE="MD5" SIZE="53158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="8b3b7d0786b9b01c18bbadfe3686897a" CHECKSUMTYPE="MD5" SIZE="20050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00184_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="71994e6c63aaace19b88c0fc47ca3b68" CHECKSUMTYPE="MD5" SIZE="2117454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="fd5da5dc28b9ebc7e05eb4edeaee9378" CHECKSUMTYPE="MD5" SIZE="1711392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00182_0.jp2"/>
+      </file>
+      <file ID="jp2_00182_1" MIMETYPE="image/jp2" CHECKSUM="8bd57c81c8d3fbb851906807a0612363" CHECKSUMTYPE="MD5" SIZE="2573706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00182_1.jp2"/>
+      </file>
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="148c9e95e1ec01b583afa0b4d83eb131" CHECKSUMTYPE="MD5" SIZE="2578147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="e0f5070c18889c23574737d8b5ea8072" CHECKSUMTYPE="MD5" SIZE="2588966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="5ceba6c950c5f82aac0038ad26b1ff06" CHECKSUMTYPE="MD5" SIZE="1967564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000658_00184_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="709ebabbafed4df9663a8915475c60e9" CHECKSUMTYPE="MD5" SIZE="40739">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000658_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="ca2fa6cfc605ef24fda1039c4d396762" CHECKSUMTYPE="MD5" SIZE="28451">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000658_redacted_ALTO_00182_0.xml"/>
+      </file>
+      <file ID="alto_00182_1" MIMETYPE="text/xml" CHECKSUM="c808d8d4ef4ed2c9c52a8a407992d43f" CHECKSUMTYPE="MD5" SIZE="85833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000658_redacted_ALTO_00182_1.xml"/>
+      </file>
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="1cfc9ac55164b344af00d349370ab61d" CHECKSUMTYPE="MD5" SIZE="97647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000658_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="2e1f9964a76cc1899fd9b4e5f760312d" CHECKSUMTYPE="MD5" SIZE="84880">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000658_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="870a46d265fd7aaef220f10eb54f8877" CHECKSUMTYPE="MD5" SIZE="30768">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000658_redacted_ALTO_00184_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="337" firstpage="332">
+              <court pgmap="362" id="b362-10">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="362" id="AFR">CA 99-205</docketnumber>
+              <citation pgmap="362" id="ATlA">999 S.W.2d 695</citation>
+              <parties pgmap="362" id="b362-9">GREEN BAY PACKAGING v. Edward BARTLETT</parties>
+              <decisiondate pgmap="362" id="b362-11">Opinion delivered September 29, 1999</decisiondate>
+              <judges pgmap="367" id="b367-8">Roaf and Rogers, JJ., agree.</judges>
+              <attorneys pgmap="363" id="b363-9">Michael E. Ryburn, for appellant.</attorneys>
+              <attorneys pgmap="363" id="b363-10">David H. McCormick, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="363" id="b363-11">Margaret Meads, Judge.</author>
+                <p pgmap="363" id="AFb">Appellant, Green Bay Pack­aging, appeals from a decision of the Workers’ Com­pensation Commission which found that appellee’s headaches were a result of his compensable injury and that medical treatment provided for the headaches constituted reasonably necessary medi­cal treatment for the injury. The Commission awarded accrued benefits to be paid in a lump sum without discount.</p>
+                <p pgmap="363(39) 364(90)" id="b363-12">At the hearing before the administrative law judge (ALJ), it was stipulated that appellee sustained a compensable injury in April 1996; that the claim was accepted as compensable; and that benefits were paid until November 1997, when appellant contro­verted the payment of additional benefits for medical care for appellee’s headaches. The ALJ found that the preponderance of the evidence showed that appellee’s severe headaches, which he suffered following the trauma to his head, were caused by the compensable injury, and that his treatment by Dr. J. Brett Ironside for headaches was reasonably necessary in connection with his compensable injury. The ALJ also found that appellee suffered facial disfigurement as a result of the injury and awarded benefits of $500. The full Commission affirmed and adopted the ALJ’s opinion.</p>
+                <p pgmap="364" id="b364-6">Appellee testified that he was injured in April 1996 when tightening some ropes with a winch. The handle slipped and hit him in the face five times, causing lacerations to his nose, fore­head, and skull, and also over his right eye. Appellee received eighteen stitches at the hospital and was released to go home that night. Appellee underwent a rhinoplasty to repair his nose and was eventually referred to Dr. Ironside, a neurologist, because of severe headaches. Appellee said that he suffers a severe headache with massive forehead pain approximately every two weeks. He gets dizzy, has blurred vision, and is sometimes nauseous. When he gets a headache, he takes medicine prescribed by Dr. Ironside, and if that does not work he goes to the emergency room for a pain shot. Dr. Ironside, who has treated appellee for a little over a year, has tried several different medications but they have not helped. Appellee said he wants to return to Dr. Ironside because he does not believe everything has been tried. Appellee testified further that prior to his injury he never experienced any head­aches like the ones he described, and he does not remember hav­ing headaches prior to April 22.</p>
+                <p pgmap="364" id="b364-7">Appellee testified further that he was a light-heavyweight boxer prior to his compensable injury, but was never knocked down, never received a concussion, never had any facial cuts, and never experienced headaches associated with his boxing career. He has not boxed since March 1996 when he was disqualified for a low blow. He was also involved in a fight at work in September 1996, but only got hit in the stomach.</p>
+                <p pgmap="365" id="b365-2">Dr. Ironside testified that appellee was referred to him by Dr. Jack Lyon, and appellee told him that he was having problems with headaches that started after the facial injury. He testified that appellee is still taking medication; they have made adjustments and tried to reduce the dosage but appellee has worsened; and there is no way to predict how long appellee’s problem will last. Dr. Iron-­side stated that although the headaches could be caused by some­thing else, it was his opinion that the compensable injury was definitely the defining point in regard to the headaches. Dr. Iron-­side was aware that appellee had been a boxer, but understood that the severe headaches started after the work incident. He said that appellee might have had heavy blows to the head while boxing, but he would be surprised if a boxer were able to strike a blow like a metal winch could. He testified further that appellee’s condition has existed for over two years; that there are other medications that can be tried; that appellee is not headache free, but is now as good as he has been in almost two years; and if he does not get a whole lot worse, they may have to be content with this. He said that headaches are subjective, but he has no reason to not believe appellee. Dr. Ironside testified that with a “high degree of cer­tainty” the thing that started appellee’s headaches was the head injury with the winch.</p>
+                <p pgmap="365(166) 366(16)" id="b365-3">
+                   Appellant argues on appeal that there is no substan­tial evidence to support the Commission’s findings. When review­ing a decision of the Workers’ Compensation Commission, we view the evidence and all reasonable inferences deducible there­from in the light most favorable to the findings of the Commission and affirm that decision if it is supported by substantial evidence. Clark v. Peabody Testing Serv., 265 Ark. 489, 579 S.W.2d 360 (1979). The issue is not whether we might have reached a differ­ent result or whether the evidence would have supported a con­trary finding; if reasonable minds could reach the Commission’s conclusion, we must affirm its decision. Bearden Lumber Co. v. Bond, 7 Ark. App. 65, 644 S.W.2d 321 (1983). The Commission has the duty of weighing medical evidence and, if the evidence is conflicting, its resolution is a question of fact for the Commission. Whaley v. Hardee’s, 51 Ark. App. 166, 912 S.W.2d 14 (1995). What constitutes reasonable and necessary medical treatment is a fact question for the Commission. Gansky v. Hi-Tech Engineering, 325 Ark. 163, 924 S.W.2d 790 (1996).</p>
+                <p pgmap="366" id="b366-5">Appellant argues that appellee suffered headaches prior to his compensable injury; that Dr. Ironside and appellee testified that appellee had not improved during his course of treatment with Dr. Ironside; that there are no objective findings to corroborate appellee’s headaches; and that Dr. Ironsides’ conclusion that appellee’s headaches were caused by his compensable injury is “speculation.” We do not agree.</p>
+                <p pgmap="366" id="b366-6">
+                   In the first place, although appellant states that a March 18, 1996, report of Dr. Jack Lyon establishes that appellee had headaches before being hit in the face, this report as abstracted states only “most likely strep pharyngitis.” Moreover, appellee testified that prior to his injury he never experienced any head­aches like the ones he described, and he does not remember hav­ing headaches prior to April 22. It is the exclusive function of the Commission to determine the credibility of witnesses and the weight to be given their testimony. Kuhn v. Majestic Hotel, 324 Ark. 21, 918 S.W.2d 158 (1996).</p>
+                <p pgmap="366(179) 367(28)" id="b366-7">Further, although there was testimony that appellee had not improved over his course of treatment, Dr. Ironside testified that there are other medications that can be tried. In regard to appel­lant’s argument that there are no objective findings to support appellee’s claim of headaches, Ark. Code Ann. § 11-9-102(4) (D) (Supp. 1999) requires that a compensable injury be established by medical evidence supported by objective findings. Appellant does not challenge the compensability of appellee’s injury, but argues that it is “inconsistent” for the workers’ compensation act to require objective findings to initiate a claim and yet not require objective findings after the burden of compensability has been met. It argues that the Commission is bound by the requirement of objective medical findings in most situations. Appellant has cited no case or statutory law that requires objective findings in this case. Appellee received a severe blow to the head resulting in multiple facial lacerations as well as a scalp laceration all requiring eighteen stitches and a subsequent rhinoplasty. Appellant does not argue that appellee’s injury was noncompensable. Moreover, Dr. Ironside stated in a November 27, 1996, letter that appellee fell into the category of post-head-trauma syndrome with postconcus­sion headaches. We do not believe more is required.</p>
+                <p pgmap="367" id="b367-5">In regard to appellant’s argument that Dr. Ironside’s opinion is based on speculation, suffice it to say Dr. Ironside testified “with a high degree of certainty that the thing that got all this started was the head injury with the winch.”</p>
+                <p pgmap="367" id="b367-6">
+                   We conclude there is substantial evidence to support the Commission’s decision.</p>
+                <p pgmap="367" id="b367-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="362" ORDERLABEL="332" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="333" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.3" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="364" ORDERLABEL="334" TYPE="page">
+        <fptr FILEID="tiff_00182_1"/>
+        <fptr FILEID="jp2_00182_1"/>
+        <fptr FILEID="alto_00182_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_364.2" BETYPE="IDREF" FILEID="alto_00182_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="365" ORDERLABEL="335" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.2" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="336" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="337" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.5" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATlA" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.11" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.6" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.4" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.9" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFb" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.13" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_363.14" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b364-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_364.4" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-12" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.15" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            <area BEGIN="BL_364.1" BETYPE="IDREF" FILEID="alto_00182_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.12" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.11" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.12" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.13" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.10" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.7" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.6" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-3" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_366.1" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-2" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFR" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.10" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

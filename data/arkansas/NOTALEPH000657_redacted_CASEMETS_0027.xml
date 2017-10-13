@@ -1,0 +1,609 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000657_0027" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Campea v. State">Michael CAMPEA v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-1033</docketnumber>
+          <citation category="official" type="bluebook">87 Ark. App. 225</citation>
+          <citation category="parallel" type="bluebook">189 S.W.3d 459</citation>
+          <decisiondate>2004-06-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:11:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:28Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T17:41:23Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T17:42:21Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="21e4e81325f1bf497e16af21eb4c00a2" CHECKSUMTYPE="MD5" SIZE="31154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="e830cc07b43238507efb08bf4057bb98" CHECKSUMTYPE="MD5" SIZE="22278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00124_1.tif"/>
+      </file>
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="73240c87891cf8d121025d75589299bf" CHECKSUMTYPE="MD5" SIZE="49976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="c71ae5799e222b8f809a63e59880f2e6" CHECKSUMTYPE="MD5" SIZE="50704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00125_1.tif"/>
+      </file>
+      <file ID="tiff_00126_0" MIMETYPE="image/tiff" CHECKSUM="cce938b7896958d0a8584e6174cdc2a6" CHECKSUMTYPE="MD5" SIZE="53570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00126_0.tif"/>
+      </file>
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="20f613f384239c55aa220f14ab2f07d2" CHECKSUMTYPE="MD5" SIZE="32188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00126_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00124_0" MIMETYPE="image/jp2" CHECKSUM="04563b93202ece5494a37a621243070f" CHECKSUMTYPE="MD5" SIZE="2049796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00124_0.jp2"/>
+      </file>
+      <file ID="jp2_00124_1" MIMETYPE="image/jp2" CHECKSUM="d5fc792ef9012b7c9f8990d2e35226a9" CHECKSUMTYPE="MD5" SIZE="1626964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00124_1.jp2"/>
+      </file>
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="c5f8615af0dfafef936a21a716dc6041" CHECKSUMTYPE="MD5" SIZE="2564170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="e4b522da607e3daf1eb1c0be7dfee621" CHECKSUMTYPE="MD5" SIZE="2443333">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00125_1.jp2"/>
+      </file>
+      <file ID="jp2_00126_0" MIMETYPE="image/jp2" CHECKSUM="d18e580cb6787025753283197589ead9" CHECKSUMTYPE="MD5" SIZE="2533686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00126_0.jp2"/>
+      </file>
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="976e2ecd556109adb821c950b04c50fd" CHECKSUMTYPE="MD5" SIZE="2495395">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00126_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00124_0" MIMETYPE="text/xml" CHECKSUM="9a764adaf58b11c2ccda53f4377f73e2" CHECKSUMTYPE="MD5" SIZE="49972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00124_0.xml"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml" CHECKSUM="6c0185bcc572cf89bf1d19b19a8bba29" CHECKSUMTYPE="MD5" SIZE="32885">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00124_1.xml"/>
+      </file>
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="3251244f3c821759459758c2049f3ecf" CHECKSUMTYPE="MD5" SIZE="89790">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="3120aad2234bbc1be6f3226e8e3907de" CHECKSUMTYPE="MD5" SIZE="86872">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00125_1.xml"/>
+      </file>
+      <file ID="alto_00126_0" MIMETYPE="text/xml" CHECKSUM="4371b79c5a857e23dea1950562a5f845" CHECKSUMTYPE="MD5" SIZE="90809">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00126_0.xml"/>
+      </file>
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="2ce757962fd6cf2a94f43284c0ba3383" CHECKSUMTYPE="MD5" SIZE="51080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00126_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="230" firstpage="225">
+              <court pgmap="247" id="b247-8">Court of Appeals of Arkansas Division III and IV</court>
+              <docketnumber pgmap="247" id="AO6">CA CR 03-1033</docketnumber>
+              <citation pgmap="247" id="Ajn">189 S.W.3d 459</citation>
+              <parties pgmap="247" id="b247-7">Michael CAMPEA v. STATE of Arkansas</parties>
+              <decisiondate pgmap="247" id="ANX">Opinion delivered June 30, 2004</decisiondate>
+              <judges pgmap="251" id="b251-6">Pittman, Hart, Neal, and Baker, JJ., agree.</judges>
+              <judges pgmap="251" id="b251-7">Griffen, J., dissents.</judges>
+              <attorneys pgmap="248" id="b248-9">William R. Simpson, Jr., Public Defender, Lance Sullenberger, Deputy Public Defender, by; Clint Miller, Deputy Public Defender.</attorneys>
+              <attorneys pgmap="248" id="b248-10">Mike Beebe, Att’y Gen., by: David R. Raupp, Senior Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="248" id="b248-11">Andree Layton Roaf, Judge.</author>
+                <p pgmap="248" id="A1x">Appellant Michael Cam-­pea appeals his sentences, as an habitual offender, for breaking and entering and attempted theft of property convictions. For reversal, Campea argues that the trial court imposed an illegal sentence. We find that the trial court did not impose an illegal sentence, and because Campea failed to object during sentencing, his arguments are thus not preserved for review.</p>
+                <p pgmap="248(33) 249(131)" id="b248-12">Campea pled guilty to breaking and entering, a Class D felony, and attempted theft of property with a value of $2,500, a Class C felony. Campea was also an habitual offender with more than one, but less than four prior felonies. The Pulaski County Circuit Court accepted his plea, and a jury was impaneled to hear evidence for sentencing. Campea admitted that he had committed the new offenses while on parole. After hearing the evidence, the jury sentenced Campea as an habitual offender with two prior convictions to 12 years’ imprisonment for the breaking and enter­ing offense, and to 20 years’ imprisonment for the attempted theft of property offense. The trial judge ran these sentences concur­rently. The judge also ran the two sentences consecutive to the twenty-year sentence Campea received for the parole violation, stating that by statute the new sentences had to be run consecutive to the parole violation statute. Campea did not object to these sentences in the trial court.</p>
+                <p pgmap="249" id="b249-5">
+                   Campea asserts on appeal that the trial court imposed an illegal sentence when it found that, as a matter of statute, it must run his sentences for the new convictions consecutive to the sentence for the parole violation. It is well settled that a challenge to an illegal sentence may be raised for the first time on appeal. Bangs v. State, 310 Ark. 235, 835 S.W.2d 294 (1992). Further, the issue of an illegal sentence is an issue of subject matter jurisdiction, which this court can raise sua sponte. Harness v. State, 352 Ark. 335, 101 S.W.3d 235 (2003).</p>
+                <blockquote pgmap="249" id="b249-6">A sentence is void or illegal when the trial court lacks the authority to impose it. Sentencing in Arkansas is entirely a matter of statute . . . We have consistently held that sentencing shall not be other than in accordance with the statute in effect at the time of the commission of a crime. Where the law does not authorize the particular sentence pronounced by the trial court, that sentence is unauthorized and illegal, and the case must be reversed and re­manded.</blockquote>
+                <p pgmap="249" id="b249-7">State v. Fountain, 350 Ark. 437, 440, 88 S.W.3d 411, 413 (2002) (citations omitted).</p>
+                <p pgmap="249" id="b249-8">Arkansas Code Annotated section 16-93-107(e)(l) (1987) provides in pertinent part:</p>
+                <blockquote pgmap="249(41) 250(26)" id="b249-9">When a convicted felon, while on parole, is convicted of another felony, the felon shall be committed to the Department of Correc­tion to serve the remainder of his original sentence, including any portion suspended, with credit for good-time allowances. Upon conviction for the subsequent felony, the court shall require the sentences for the subsequent felony to be served consecutively with the sentence for the previous felony.</blockquote>
+                <p pgmap="250" id="b250-5">(Emphasis added.) Section 16-93-607 defines “felonies” as “those crimes classified as Class Y, Class A, or Class B by the laws of this state.” Here, Ark. Code Ann. § 16-93-607 did not authorize the trial court to run Campea’s sentences consecutively because he was not subsequently convicted of a Class Y, Class A, or Class B felony. Instead Campea was convicted of a Class C and D felony. Therefore, section 16-93-607 was inapplicable in this case.</p>
+                <p pgmap="250" id="b250-6">Campea also argues that pursuant to Ark. Code Ann. § 5-4-­403, the trial court had discretion to run the sentences consecu­tively or concurrently. Arkansas Code Annotated § 5-4-403 (b) states in pertinent part:</p>
+                <blockquote pgmap="250" id="b250-7">When a sentence of imprisonment is imposed on a defendant who has previously been sentenced to imprisonment, whether by a court of this state, a court of another state, or a federal court, the subsequent sentence shall run concurrently with any undischarged portion of the previous sentence, unless, upon recommendation of the jury or the court’s own motion, the court imposing the subsequent sen­tence orders it to run consecutively with the previous sentence.</blockquote>
+                <p pgmap="250" id="b250-8">(Emphasis added.)</p>
+                <p pgmap="250" id="b250-9">
+                   While section 5-4-403 mandates that subsequent sentences be served concurrently, it permits the court on its own motion to run the sentences consecutively. Ark. Code Ann. § 5-4-403(b). Therefore, because section 5-4-403(b) authorizes the trial court to impose a consecutive sentence, Campea’s sen­tence is not illegal. To the extent that Campea argues that his sentence is improper because the trial judge failed to exercise his discretion under Ark. Code Ann. § 5-4-403(b), the failure to exercise discretion in this regard does not render the sentence illegal. Thus, this argument is not preserved for review because it was not raised to the trial court. Mixon v. State, 330 Ark. 171, 954 S.W.2d 214 (1997).</p>
+                <p pgmap="250(37) 251(19)" id="b250-10">
+                   Finally, Campea argues that there is a conflict between sections 5-4-403 and 16-93-607 that deserves resolution. Campea did not object to his sentence below and any argument regarding his sentence, other than an illegal-sentence argument, Bangs v. State, 310 Ark. 235, 835 S.W.2d 294 (1992), is not preserved for appellate review. Accordingly, his sentence is affirmed.</p>
+                <p pgmap="251" id="b251-5">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="251" id="b251-8">Wendell L. Griffen, Judge,</author>
+                <p pgmap="251" id="ATA">dissenting. I would hold that appellant was sentenced illegally because he was sentenced pursuant to a statute that in no way authorized the punish­ment imposed by the trial judge. Thus, I would hold that appellant’s illegal-sentence argument was preserved for appeal and would remand for resentencing under the correct statutory authority.</p>
+                <p pgmap="251" id="b251-9">An illegal sentence is not only one that is illegal on its face, but it is also illegal if the circuit court lacked statutory authority to impose it. Mayes v. State, 351 Ark. 26, 89 S.W.3d 926 (2002); Blanks v. State, 300 Ark. 398, 779 S.W.2d 168 (1989); Brown v. State, 82 Ark. App. 61, 110 S.W.3d 293 (2003). The trial judge here unquestionably had no authority to sentence appellant under Arkansas Code Annotated § 16-93-607 (1987) because that statute expressly applies only to Class Y, A, or B felonies, but appellant was convicted only of Class C and D felonies.</p>
+                <p pgmap="251" id="b251-10">The statute under which appellant should have been sen­tenced, Arkansas Code Annotated § 5-4-403 (b) (Supp. 2003), authorized the trial judge to exercise his discretion in determining whether appellant’s sentences were to run consecutively or con­currently to appellant’s sentence for a parole violation. However, because appellant committed the offenses while on parole, the trial judge erroneously believed that under Arkansas Code Annotated § 16-93-607, he was required to run appellant’s sentences con­secutively to appellant’s sentence for the parole violation. The trial judge stated from the bench: “I did make an entry of the fact that this, by statute, has to be consecutive to the parole violation.” Based upon this misunderstanding, the trial judge sentenced ap­pellant pursuant to the wrong statute. The majority apparently recognizes that the trial court was without authority to act under § 16-93-607, but glosses over the trial court’s error by stating that § 16-93-607 was “inapplicable in this case.”</p>
+                <p pgmap="251(32) 252(167)" id="b251-11">The majority then holds that because the appellant’s sen­tence was otherwise authorized under § 5-4-403, it was not illegal. However, this is not a case in which a defendant merely received the same sentence that he could have otherwise received under another statute. The trial judge’s initial error here is compounded because, in relying upon the wrong statute, he also failed to exercise discretion in sentencing. See, e.g., Acklin v. State, 270 Ark. 879, 606 S.W.2d 594 (1980) (reversing and remanding where the trial judge did not exercise his discretion to run sentences concur­rently); see also Wing v. State, 14 Ark. App. 190, 686 S.W.2d 452 (1985). We have no way to know whether the trial judge would have imposed a concurrent sentence or a consecutive sentence if he had correctly sentenced appellant pursuant to § 5-4-403, but we do know that the judge did not realize that he had such discretion and, therefore, failed to exercise any discretion. If, upon remand, the trial judge were to order appellant to serve the same sentence under the correct statute, at least he will have properly exercised his discretion and appellant will serve the sentence for the right reason.</p>
+                <p pgmap="252" id="b252-5">I respectfully dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="247" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jp2_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jp2_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="249" ORDERLABEL="227" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="228" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="251" ORDERLABEL="229" TYPE="page">
+        <fptr FILEID="tiff_00126_0"/>
+        <fptr FILEID="jp2_00126_0"/>
+        <fptr FILEID="alto_00126_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_251.3" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="252" ORDERLABEL="230" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.2" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATA" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.8" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_251.9" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.8" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.7" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.11" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.8" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.6" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.10" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.7" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.11" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.12" BETYPE="IDREF" FILEID="alto_00126_0"/>
+            <area BEGIN="BL_252.1" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.5" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.4" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.7" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.10" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.9" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            <area BEGIN="BL_251.1" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANX" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.11" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.10" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajn" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.9" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.15" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_249.1" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.6" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1x" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.13" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_248.14" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.12" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.4" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.8" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b251-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_251.6" BETYPE="IDREF" FILEID="alto_00126_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.7" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.5" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

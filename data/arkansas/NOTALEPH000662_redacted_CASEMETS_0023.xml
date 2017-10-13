@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000662_0023" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Davis v. State">Fred DAVIS v. STATE of Arkansas</name>
+          <docketnumber>CA CR 97-404</docketnumber>
+          <citation category="official" type="bluebook">60 Ark. App. 179</citation>
+          <citation category="parallel" type="bluebook">962 S.W.2d 815</citation>
+          <decisiondate>1998-01-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T23:59:31Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:55:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:32:16Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:32:59Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="6bb3f56ed0b09c77ef16f9412d742f5e" CHECKSUMTYPE="MD5" SIZE="19666">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="3badb80cd59324a7795388e7d268960b" CHECKSUMTYPE="MD5" SIZE="4552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="f5457242f6a53fb3d8155810e03f47dc" CHECKSUMTYPE="MD5" SIZE="48578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="4b423f2ec011704b021efc18834c71ef" CHECKSUMTYPE="MD5" SIZE="52574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="69515db7608204428f486c7d4c5b3fb9" CHECKSUMTYPE="MD5" SIZE="55230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="f0c1c2b7abec9624bdf0daaca53fb3c4" CHECKSUMTYPE="MD5" SIZE="52702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="38971e923f35bafb9e4871c3db573bb9" CHECKSUMTYPE="MD5" SIZE="37030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00104_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="e482f7e4ed3cd177d63c3fada4e8ce7c" CHECKSUMTYPE="MD5" SIZE="1898922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="a216061ee4a9e5fff3cb54d06c0875c2" CHECKSUMTYPE="MD5" SIZE="1066718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="be6ede3482ee9edea57cb7dd44beae94" CHECKSUMTYPE="MD5" SIZE="2457953">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00102_0.jp2"/>
+      </file>
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="e6a5b1b4ff2328a2c7817146e7d23f7d" CHECKSUMTYPE="MD5" SIZE="2551370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="09e10cca569d5749f66eeb516b22cf61" CHECKSUMTYPE="MD5" SIZE="2588856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="f85c5c4640b79558e427a94511f03f5d" CHECKSUMTYPE="MD5" SIZE="2502331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="70a4da6010d496eaf00425a25ca364c3" CHECKSUMTYPE="MD5" SIZE="2411349">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000662_00104_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="78a28337c656037e4d4a72d9a0ab3cb7" CHECKSUMTYPE="MD5" SIZE="31877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="de9ad6b74718d414c068f495933ad49e" CHECKSUMTYPE="MD5" SIZE="1777">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="ec2b14830c59993d6ad347e87b1a2b3e" CHECKSUMTYPE="MD5" SIZE="83136">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00102_0.xml"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="6ec697c76c8e93839e52e4097df117ca" CHECKSUMTYPE="MD5" SIZE="92457">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="bfa9a244778975f5ca936232d1980e97" CHECKSUMTYPE="MD5" SIZE="94816">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="f938cfdfc1d4448eaf76e72571300f63" CHECKSUMTYPE="MD5" SIZE="88068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="619789ee251274f3e3d6ea31152913ce" CHECKSUMTYPE="MD5" SIZE="62331">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000662_redacted_ALTO_00104_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0023" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="185" firstpage="179">
+              <court id="Aie" pgmap="201">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="AXS" pgmap="201">CA CR 97-404</docketnumber>
+              <citation id="Axh" pgmap="201">962 S.W.2d 815</citation>
+              <parties id="b201-7" pgmap="201">Fred DAVIS v. STATE of Arkansas</parties>
+              <decisiondate id="A-H" pgmap="201">Opinion delivered January 28, 1998</decisiondate>
+              <otherdate id="A4S" pgmap="201">[Petition for rehearing denied March 18, 1998.]</otherdate>
+              <judges id="b207-7" pgmap="207">Arey and Stroud, JJ., agree.</judges>
+              <attorneys id="b203-5" pgmap="203">Richard A. Hutto, for appellant.</attorneys>
+              <attorneys id="b203-6" pgmap="203">Winston Bryant, Att’y Gen., by: Kelly Terry, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b203-7" pgmap="203">John E. Jennings, Judge.</author>
+                <p id="A4R" pgmap="203">Fred Davis was found guilty of delivery of a controlled substance (cocaine) and sentenced to thirty years in the Arkansas Department of Correction. He argues three points on appeal: (1) that the trial court committed prejudicial error by not granting his challenge for cause, thereby forcing him to use a peremptory challenge against that juror and forcing him to accept a juror he did not want; (2) that the trial court commit­ted prejudicial error by refusing to grant a mistrial after the State’s witness referred to appellant as a “bigger dealer”; and (3) that the trial court committed prejudicial error by allowing the State to present, over defense’s objection, evidence of prior uncharged misconduct by the appellant. We disagree and affirm.</p>
+                <p id="b203-8" pgmap="203(203) 204(16)">Appellant first argues that the trial court erred in refusing to strike prospective juror Pat Compton for cause. During voir dire, Ms. Compton stated that she was currendy employed as a law clerk for a United States Magistrate but before that she was Chief Deputy Prosecutor for Union County. In that capacity she had prosecuted some drug cases and had sat as “second chair” on occa­sional cases with the prosecutor in this case. She had worked with Officer Linda Law, a witness in this case. She acknowledged that she had a fairly long association with the El Dorado Police Department and the Union County Sheriffs Office, and had a close association with officers in both places. Defense counsel’s motion that she be removed for cause was denied by the trial court. Ms. Compton then stated that she considered the defend­ant not guilty unless the State met the burden of proving other­wise, and that her friendship with police officers did not make her more likely to believe their testimony. Defense counsel then used the seventh of his eight peremptory strikes against Ms. Compton. After defense counsel used his eighth and last peremptory strike, he subsequently attempted to excuse another juror, Donald Moon, but was not allowed to do so. He did not challenge juror Moon for cause.</p>
+                <p id="b204-5" pgmap="204">Appellant argues that since he objected to the trial court’s refusal to strike Ms. Compton for cause and exhausted all of his peremptory challenges, it follows that prejudicial error was com­mitted. We disagree.</p>
+                <p id="b204-6" pgmap="204">
+                   The Arkansas Supreme Court has stated unequivocally that in deciding whether a defendant’s right to an impartial jury has been violated, the focus should not be on a juror who was peremptorily challenged, but on the persons who actually sat on the jury. Pickens v. State, 301 Ark. 244, 783 S.W.2d 341 (1990) (citing Ross v. Oklahoma, 487 U.S. 81 (1988)).- In that case, as in the case at bar, appellant did not contend that any person who actually sat on the jury should have been excluded for cause; rather, the only complaint was the loss of peremptory challenges, which is not reversible error. Id. Furthermore, our supreme court has held that the loss of peremptory challenges cannot be reviewed on appeal. Ferrell v. State, 325 Ark. 455, 929 S.W.2d 697 (1996). To preserve for appeal an argument that the trial court erred in not excusing certain jurors for cause, the appellant must have exhausted his peremptory challenges and must show that he was later forced to accept a juror who should have been excused for cause. Scherrer v. State, 294 Ark. 227, 742 S.W.2d 877 (1988); see also Gardner v. State, 296 Ark. 41, 754 S.W.2d 518 (1988); Hill v. State, 275 Ark. 71, 628 S.W.2d 284 (1982).</p>
+                <p id="b204-7" pgmap="204(133) 205(60)">
+                   Appellant argues, in reliance upon Glover v. State, 248 Ark. 1260, 455 S.W.2d 670 (1970), that our focus on appeal should not be on whether Juror Moon should have been excused for cause, but whether Ms. Compton should have been excused for cause. He argues that the standard enunciated in Scherrer does not address the real issue and is not in accordance with earlier Arkansas case law. He urges us to reaffirm the procedure followed in Glover and hold that “an appellant preserves a denial of a chal­lenge for cause for appeal when he peremptorily challenges the juror who was not excused for cause, uses all his peremptory chal­lenges, and states on the record that he would have challenged another juror if he had not been required to use his peremptory challenge against the juror who should have been excused for cause.” Such a holding would require us to disregard considerable recent precedent to the contrary. Furthermore, to the extent that this court’s opinion in Givens v. State, 42 Ark. App. 173, 856 S.W.2d 33 (1993), could be read as contrary to the decisions of the supreme court, it is overruled.</p>
+                <p id="b205-5" pgmap="205">
+                   For his second point on appeal, appellant argues that the trial court erred in refusing to grant a mistrial. Mistrial is a drastic remedy which should be resorted to only when there has been error so prejudicial that justice cannot be served by continu­ing the trial. Davis v. State, 325 Ark. 96, 925 S.W.2d 768 (1996). A trial judge’s denial of a mistrial will be not disturbed on appeal absent an abuse of discretion. Id.</p>
+                <p id="b205-6" pgmap="205(266) 206(79)">Evidence revealed that police officer Linda Law was in charge of this case. Delbert Mathis, an informant, was working with undercover officer David Fields in order to purchase drugs. They drove to an area of El Dorado known as Memphis Heights. Anthony Hicks approached the car. The informant told Hicks he wanted a “forty,” meaning two rocks of crack cocaine. Hicks went to the back of a nearby residence where appellant was sitting on the porch. Appellant gave the crack to Hicks, who returned to the car and handed it to the informant in exchange for forty dol­lars. Hicks then returned to the porch and gave the money to appellant. On direct examination, Linda Law testified about how these undercover operations are structured, and about the neces­sity of using informants as intermediaries because “the larger play­ers will not sell dope to a complete stranger.” In describing how informants are paid, she testified that in this case “Mathis might have gotten paid a little more” because “we had been wanting to get this defendant.” She testified that an informant is interviewed to determine who he knows and what he can do in order to “start off with the biggest player he can help us get.” She testified that informant Mathis had mentioned appellant in the interview. On cross-examination, she testified that appellant had been “targeted” after being brought up in the informant’s interview. When asked whether the informant “might have gotten paid more because he managed to get something on [appellant],” officer Law replied, “Not just on [appellant], but [appellant’s] a bigger player than the street dealer.” Defense counsel objected, moved to strike, and moved for a mistrial, arguing that the witness’s response made improper reference to character or reputation. The prosecutor responded that the reference to “bigger player” meant that, com­pared to Hicks, who had actually approached the car, appellant was the “bigger player.” The trial court denied the motion for mistrial, and instead, at defense counsel’s request, admonished the jury that appellant was only being tried for the one offense.</p>
+                <p id="b206-5" pgmap="206">
+                   Appellant argues that allowing the witness to describe him as a “bigger player” is essentially the same as telling the jury that appellant had been involved in other instances of drug deal­ing. He argues that the statement was so prejudicial that it could not be corrected by the admonition. We disagree. Defense coun­sel elicited a response that, even if categorized as a reference to previous illegal conduct, was one that could be cured by a proper admonishment from the trial court. See e.g., Hall v. State, 314 Ark. 402, 862 S.W.2d 268 (1993). We find no abuse of discretion by the trial court.</p>
+                <p id="b206-6" pgmap="206">For his last point, appellant argues that the trial court erred in allowing the State to present evidence during sentencing of prior uncharged misconduct by appellant. During the sentencing phase of the trial, appellant sought to exclude testimony offered by the State regarding prior drug sales. The State argued that the evi­dence should be admitted pursuant to Ark. Code Ann. § 16-97-­103 (Supp. 1995), as either aggravating circumstances or as rele­vant character evidence. The trial court allowed the evidence, which consisted of testimony from Donald Dismuke that he had bought $100.00 worth of crack from appellant and that he had seen appellant sell crack on other occasions. Mike Wilson testified that, while working with the prosecutor’s office, he had driven into El Dorado and Dismuke had approached his car. When asked if he had any drugs, Dismuke went over to appellant, obtained drugs, and brought them back to the car and exchanged them for money. Appellant argues that this evidence was improper and that its admission was prejudicial error.</p>
+                <p id="b206-7" pgmap="206(16) 207(111)">
+                   Arkansas Code Annotated section 16-97-103 allows for the introduction of evidence relevant to sentencing, including evi­dence of aggravating circumstances. The supreme court has addressed the meaning of “aggravation” in the context of this stat­ute in Hill v. State, 318 Ark. 408, 887 S.W.2d 275 (1994). There, after the defendant pled guilty to robbery, the State was allowed to introduce testimony during sentencing regarding the defendant’s prior attempt to rob the same victim. The court held that such testimony clearly met the definition of “aggravation,” meaning “any circumstance attending the commission of a crime . . . which increases its guilt or enormity or adds to its injurious conse­quences, but which is above and beyond the essential constituents of the crime . . . itself.”</p>
+                <p id="b207-4" pgmap="207">
+                   The same can be said for the evidence presented by the State in the case at bar. While appellant’s conviction for delivery of a controlled substance involved a relatively small amount of the drug, the State’s evidence showed that the transaction was not an isolated incident; rather, it showed that appellant engaged in simi­lar transactions with different intermediaries and buyers. Like the court in Hill, the trial court could consider these “circumstances attending the commission of a crime” to be the type that “increases its guilt or enormity or adds to its injurious conse­quences.” The trial court has wide discretion in admitting evi­dence of other crimes or wrongs, and its decision will be not reversed absent an abuse of discretion. Hill v. State, 318 Ark. 408, 887 S.W.2d 275 (1994).</p>
+                <p id="b207-5" pgmap="207">Because we find no error, the judgment is affirmed.</p>
+                <p id="b207-6" pgmap="207">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="201" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.2" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.2" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.2" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXS" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4R" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.9" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4S" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.12" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.10" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axh" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.9" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aie" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.10" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-H" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.11" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

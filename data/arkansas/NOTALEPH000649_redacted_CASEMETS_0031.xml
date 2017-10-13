@@ -1,0 +1,441 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000649_0031" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Thompson v. State">Bobby THOMPSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 88-221</docketnumber>
+          <citation category="official" type="bluebook">27 Ark. App. 164</citation>
+          <citation category="parallel" type="bluebook">768 S.W.2d 39</citation>
+          <decisiondate>1989-04-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T00:26:24Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:19:12Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:14:36Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:15:55Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="a165ff9f452c3e59a38c56d64a536254" CHECKSUMTYPE="MD5" SIZE="25664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="36a1c022b1e28d09c26d687c6ecf8165" CHECKSUMTYPE="MD5" SIZE="57854">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="20028f89409be23cbe15165a4609e7b8" CHECKSUMTYPE="MD5" SIZE="55344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="88850415c47c91635947525f5230e497" CHECKSUMTYPE="MD5" SIZE="17758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00104_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="57c9ff1f5e20645558b86611fa3374fb" CHECKSUMTYPE="MD5" SIZE="1920103">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="9715d809af3e1697f4b95074e62e9f46" CHECKSUMTYPE="MD5" SIZE="2627337">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="2f7c9cc2ab5d9e2ae2f0c0b219cf2a5b" CHECKSUMTYPE="MD5" SIZE="2594461">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="905af7f92882e4bf740a7936fa9997cb" CHECKSUMTYPE="MD5" SIZE="1743206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000649_00104_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="3a33f6ca6fe2ef8fc2211f9529748878" CHECKSUMTYPE="MD5" SIZE="38000">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="ba91d2f8672ac68a889fd57cb5162c1e" CHECKSUMTYPE="MD5" SIZE="87024">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="e62e785f9ac92057d68e74646e48e010" CHECKSUMTYPE="MD5" SIZE="87287">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="026a30ec3d2c9b2882ec3dfa722dd0ce" CHECKSUMTYPE="MD5" SIZE="25156">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000649_redacted_ALTO_00104_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="167" firstpage="164">
+              <court id="b204-4" pgmap="204">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="AUV" pgmap="204">CA CR 88-221</docketnumber>
+              <citation id="ABym" pgmap="204">768 S.W.2d 39</citation>
+              <parties id="b204-3" pgmap="204">Bobby THOMPSON v. STATE of Arkansas</parties>
+              <decisiondate id="b204-5" pgmap="204">Opinion delivered April 19, 1989</decisiondate>
+              <judges id="b207-7" pgmap="207">Cracraft and Cooper, JJ., agree.</judges>
+              <attorneys id="b204-12" pgmap="204">William R. Simpson, Jr., Public Defender, and Bret Qualls, Deputy Public Defender, by: Judy Rudd, Deputy Public De­fender, for appellant.</attorneys>
+              <attorneys id="b204-13" pgmap="204">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b204-14" pgmap="204">Donald L. Corbin, Chief Judge.</author>
+                <p id="Alj" pgmap="204">This appeal comes to us from Pulaski County Circuit Court, Fourth Division. Appellant, Bobby Thompson, appeals his conviction of criminal attempt to commit theft by deception, a violation of Arkansas Code Anno­tated Section 5-3-201 (1987), and the sentence imposed therefor. We affirm.</p>
+                <p id="b204-15" pgmap="204(41) 205(71)">A felony information was filed December 26,1986, alleging that on July 1,1986, appellant purposely engaged in conduct that constituted a substantial step in a course of conduct intended to culminate in the commission of the offense of theft of property by deception. The information was amended on September 25,1987, to allege that appellant was an habitual offender, having previ­ously been convicted of four or more felonies. Appellant was tried by a jury on June 6, 1988, and convicted as charged. In a bifurcated proceeding, appellant was sentenced to a term of twenty years in the Arkansas Department of Correction, as an habitual offender. From the judgment of conviction comes this appeal.</p>
+                <p id="b205-6" pgmap="205">In his only point for reversal, appellant argues that he was denied his constitutional right to be free of double jeopardy. Appellant contends that the state’s charge of attempt to commit theft of property by deception placed him in double jeopardy for a crime to which he pled guilty in federal court. We disagree.</p>
+                <p id="b205-7" pgmap="205">Appellant was indicted in federal court on February 17, 19 87. The indictment alleged that between January 26,1986, and January 8,1987, appellant knowingly and with intent to defraud used unauthorized access devices (credit cards) to obtain prop­erty valued in excess of $1,000.00 in interstate commerce, a violation of 18 U.S.C.A. Section 1029(a)(2) (Supp. 1989). The indictment listed, as the credit cards obtained and used, Chev­ron/Gulf, Sears Roebuck and Company, Radio Shack, Shuster’s Home Furnishings, Texaco, and Exxon. Appellant pled guilty to the charge on March 30, 1987. In connection with the federal charge, the record reveals that appellant, Bobby Gene Thompson, received in the mail a credit application addressed to Bobby Joe Thompson and bearing Bobby Joe Thompson’s social security number. The mailing essentially stated that Mr. Thompson had a good credit rating and that a credit card could be obtained by completing and signing the application. Appellant completed the application and received the credit card. The other cards were apparently received in the same manner. The cards were then used by appellant to obtain goods and services from the credit card issuers.</p>
+                <p id="b205-8" pgmap="205(56) 206(16)">The state charge was initiated after appellant completed a lease application for a vehicle at Walt Bennett Ford and it was discovered that appellant allegedly used Bobby Joe Thompson’s social security number and employment record on the applica­tion, and supplied, as credit references, credit cards and/or charge accounts which he obtained without authorization. One of the four credit card accounts listed on the lease application was involved in the federal offense.</p>
+                <p id="b206-6" pgmap="206">Prior to trial, appellant moved to have the state charge dismissed as a violation of his right to be free from double jeopardy. The motion was denied and a trial on the merits followed. Appellant admitted having used Mr. Thompson’s social security number and employment record when completing the application. Thus, the only question before us is whether this conduct constituted the same offense as the federal offense to which he pled guilty.</p>
+                <p id="b206-7" pgmap="206">
+                   Appellant urges us to employ the test of Blockburger v. United States, 284 U.S. 299 (1932), to determine if he was twice put in jeopardy for the same offense. Blockburger held that two offenses are not the same if each requires proof of a statutory element that the other does not. See also Ark. Code Ann. § 5-1-­114(1 )(A) (1987). However, such a comparison is not necessary in the case at bar. Had appellant been convicted in state court for attempted theft of property by deception from the credit card issuers, we would have a different case before us and such a comparison would be necessary.</p>
+                <p id="b206-8" pgmap="206">The conduct for which the federal offense was prosecuted was the unauthorized use of credit cards to obtain goods and services, with the intent to defraud the issuing companies. Although the federal indictment alleged that the conduct oc­curred over a period of approximately one year, during which time the state offense was committed, there was uncontradicted evidence that Walt Bennett Ford was not one of the companies involved in the federal prosecution. The victims there involved were those companies from which appellant purchased goods and services valued at over $ 1,000.00, using the fraudulently obtained credit cards.</p>
+                <p id="b206-9" pgmap="206(74) 207(63)">
+                   The state charge was directed specifically to appellant’s conduct in attempting to defraud Walt Bennett Ford, which not only involved one of the credit cards listed in the federal indictment, but also involved appellant’s unauthorized use of Mr. Thompson’s social security number and employment record. Appellant has not been convicted twice of defrauding the credit card companies. Although appellant defrauded Walt Bennett by posing as Mr. Thompson during the same period he used Mr. Thompson’s credit cards without authorization, there were differ­ent victims and thus separate offenses. See Madewell v. State, 290 Ark. 580, 720 S.W.2d 913 (1986); Smith v. State, 283 Ark. 264, 675 S.W.2d 627 (1984); Swaite v. State, 272 Ark. 128, 612 S.W.2d 307 (1981). We find no error in the trial court’s denial of appellant’s motion to dismiss based upon former jeopardy.</p>
+                <p id="b207-6" pgmap="207">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="204" ORDERLABEL="164" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="165" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="166" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.7" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-3" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.3" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.7" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alj" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.16" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_204.17" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.8" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-12" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.13" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-13" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.14" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-14" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.15" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-15" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.18" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUV" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.7" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.6" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABym" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.9" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

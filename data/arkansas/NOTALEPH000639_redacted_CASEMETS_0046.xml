@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000639_0046" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Crow v. Weyerhaeuser Co.">William CROW v. WEYERHAEUSER COMPANY</name>
+          <docketnumber>CA 91-479</docketnumber>
+          <citation category="official" type="bluebook">41 Ark. App. 225</citation>
+          <citation category="parallel" type="bluebook">852 S.W.2d 334</citation>
+          <decisiondate>1993-04-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:54:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:59:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T18:42:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T18:43:09Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="3f6b3ece088fcb38086036b607ffda03" CHECKSUMTYPE="MD5" SIZE="36360">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="130bbffaa11bd9a1ce1ffd32bd9fc623" CHECKSUMTYPE="MD5" SIZE="27138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00125_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="5488e67d7e95a7b8e4ebf9ba4a53325a" CHECKSUMTYPE="MD5" SIZE="2341967">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="cbd468b583d9e9b87b9c375c5eda60dc" CHECKSUMTYPE="MD5" SIZE="2379330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00125_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="3ff17b78ead0e7dc6741da26a78ced08" CHECKSUMTYPE="MD5" SIZE="58993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="2c4ceb7b3be4312a44c340dea9747b7a" CHECKSUMTYPE="MD5" SIZE="45864">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00125_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="225" lastpage="226">
+              <court pgmap="249" id="b249-5">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber pgmap="249" id="b249-4">CA 91-479</docketnumber>
+              <citation pgmap="249" id="AQu">852 S.W.2d 334</citation>
+              <parties pgmap="249" id="b249-3">William CROW v. WEYERHAEUSER COMPANY</parties>
+              <decisiondate pgmap="249" id="b249-6">Opinion delivered April 21, 1993</decisiondate>
+              <attorneys pgmap="249" id="b249-9">Don P. Chaney, for appellant.</attorneys>
+              <attorneys pgmap="249" id="b249-10">Wendell Griffin, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="249" id="b249-11">Per Curiam.</author>
+                <p pgmap="249" id="ArA">In an unpublished opinion, handed down on December 23,1992, we reversed the above case and remanded it to the Workers’ Compensation Commission for reconsideration in light of our opinion in Keller v. L.A. Darling Fixtures, 40 Ark. App. 94, 845 S.W.2d 15 (1992).</p>
+                <p pgmap="249" id="b249-12">Counsel for appellant has now filed a motion for attorney’s fee under the provisions of Ark. Code Ann. § 11-9-715(b) (1987). That provision will apply “if the claimant prevails on appeal” at the “appellate court” level. Thus, the question presented is whether our remand for reconsideration means that the claimant prevailed in his appeal to this court.</p>
+                <p pgmap="249" id="b249-13">
+                   We allowed an attorney’s fee to the appellee-claimant in Cagle Fabricating and Steel, Inc. v. Patterson, 37 Ark. App. 85, 827 S.W.2d 600 (1992), and Deffenbaugh Industries v. Angus, 39 Ark. App. 93, 837 S.W.2d 297 (1992), but the claimant clearly prevailed in this court in those cases and the dissenting opinion in those cases simply took the position that since review by the Arkansas Supreme Court had been granted in each case, the allowance of attorney’s fee for prevailing on appeal should wait until the supreme court rendered its decision.</p>
+                <p pgmap="249(11) 250(127)" id="b249-14">We also allowed a fee to the appellee-claimant in Gina Marie Farms v. Jones, 28 Ark. App. 90, 770 S.W.2d 680 (1989). The employer had appealed in that case and we dismissed the appeal because there was no final, appealable order in the case, but we allowed a fee to counsel for the appellee-claimant because “the appellee has in fact prevailed as the appeal has been dismissed.” 28 Ark. App. at 97, 770 S.W.2d at 684. In the instant case, the claimant was denied permanent disability by the Commission. He appealed to this court, and the matter was remanded for reconsideration. Here, as in Gina Marie Farms, the claimant “has in fact prevailed” in this court. Therefore, we allow appellant’s attorney the maximum fee of $500.00 to be paid as provided in Ark. Code Ann § 11-9-715 (1987).</p>
+                <p pgmap="250" id="b250-6">The appellant has also asked for costs under Rule 24 of the Rules of the Arkansas Supreme Court and Court of Appeals. These costs are taxed by the Clerk of the courts and should have been set out in a mandate issued by the clerk. Any problem in that regard will be addressed if a motion is filed setting out the details of the problem.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="249" ORDERLABEL="225" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.2" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="226" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.10" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArA" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.13" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            <area BEGIN="BL_249.14" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.7" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.6" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-12" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.15" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-13" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.16" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-10" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.11" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-11" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.12" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQu" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-14" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.17" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

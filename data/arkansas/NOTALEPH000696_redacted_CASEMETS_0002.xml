@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000696_0002" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Brimm v. State">Sue BRIMM v. STATE of Arkansas</name>
+          <docketnumber>CA CR 84-173</docketnumber>
+          <citation category="official" type="bluebook">14 Ark. App. 6</citation>
+          <citation category="parallel" type="bluebook">683 S.W.2d 940</citation>
+          <decisiondate>1985-02-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T20:00:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:04:59Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-20T04:15:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-20T04:16:50Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00013_1" MIMETYPE="image/tiff" CHECKSUM="c4bd54a3b879cc8162c8d1f0c8732528" CHECKSUMTYPE="MD5" SIZE="10202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00013_1.tif"/>
+      </file>
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="b5232fbf18fe89cb64538d5deda4a324" CHECKSUMTYPE="MD5" SIZE="36848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="2bac62e10cff67532dd961628d60e68f" CHECKSUMTYPE="MD5" SIZE="52238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="7585c896cd3d73b66536a3b1a3474432" CHECKSUMTYPE="MD5" SIZE="47918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00015_0.tif"/>
+      </file>
+      <file ID="tiff_00015_1" MIMETYPE="image/tiff" CHECKSUM="e36bfadf0a3830366adc6e726c392b4e" CHECKSUMTYPE="MD5" SIZE="50154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00015_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00013_1" MIMETYPE="image/jp2" CHECKSUM="5bfded3cb685f5acf5fa52e8c716421f" CHECKSUMTYPE="MD5" SIZE="1536090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00013_1.jp2"/>
+      </file>
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="fbb4c5e078c51b48b6c699df07a15e9f" CHECKSUMTYPE="MD5" SIZE="2236678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="dd3d89f5316b960ec4735b9deee3ba28" CHECKSUMTYPE="MD5" SIZE="2608940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00014_1.jp2"/>
+      </file>
+      <file ID="jp2_00015_0" MIMETYPE="image/jp2" CHECKSUM="241b5afbeee7be98677490176c9089a1" CHECKSUMTYPE="MD5" SIZE="2906881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00015_0.jp2"/>
+      </file>
+      <file ID="jp2_00015_1" MIMETYPE="image/jp2" CHECKSUM="d2eaf5d6db691d5d3e7f603121c0804f" CHECKSUMTYPE="MD5" SIZE="2556399">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000696_00015_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00013_1" MIMETYPE="text/xml" CHECKSUM="c34de6dd0a231242fd4a75f06570ba82" CHECKSUMTYPE="MD5" SIZE="13696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000696_redacted_ALTO_00013_1.xml"/>
+      </file>
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="4f0bd431721a65ddf0390c436c61df5f" CHECKSUMTYPE="MD5" SIZE="59768">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000696_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="e3ac67a73af2035189434b141884b107" CHECKSUMTYPE="MD5" SIZE="87370">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000696_redacted_ALTO_00014_1.xml"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml" CHECKSUM="eb835efd12a6bb1546ef752ab95bdb05" CHECKSUMTYPE="MD5" SIZE="80766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000696_redacted_ALTO_00015_0.xml"/>
+      </file>
+      <file ID="alto_00015_1" MIMETYPE="text/xml" CHECKSUM="3fbef8d91b97ed2dc593f1153bf6c142" CHECKSUMTYPE="MD5" SIZE="82306">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000696_redacted_ALTO_00015_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="6" lastpage="10">
+              <court pgmap="26" id="b26-7">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="26" id="Ane">CA CR 84-173</docketnumber>
+              <citation pgmap="26" id="Av2">683 S.W.2d 940</citation>
+              <parties pgmap="26" id="b26-6">Sue BRIMM v. STATE of Arkansas</parties>
+              <decisiondate pgmap="26" id="b26-8">Opinion delivered February 13, 1985</decisiondate>
+              <judges pgmap="30" id="b30-3">Cloninger, J., agrees.</judges>
+              <judges pgmap="30" id="b30-4">Glaze, J., concurs.</judges>
+              <attorneys pgmap="27" id="b27-7">Robert E. Irwin, for appellant.</attorneys>
+              <attorneys pgmap="27" id="b27-8">Steve Clark, Att’y Gen., by: Velda P. West, Asst. Att’y. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="27" id="b27-9">Donald L. Corbin, Judge.</author>
+                <p pgmap="27" id="AQ">Appellant, Sue Brimm, was charged with four separate violations of the Arkansas Hot Check Law. She was also charged with a total of 14 insufficient fund checks. At her trial all of the checks were admitted into evidence. Each was signed by appellant and stamped by the First State Bank of Plainview with the notation “insufficient funds.” A jury found appellant guilty of the four counts, Class C felonies, and sentenced her to pay fines of $4,000.00. We reverse and remand.</p>
+                <p pgmap="27" id="b27-10">Appellant Sue Brim was the office manager of River Valley Pulpwood Company which was owned by her husband. Her job consisted of scaling and paying for pulpwood delivered to her by various woodhaulers. These woodhaulers were paid by her on checks drawn on the First State Bank of Plainview, Arkansas.</p>
+                <p pgmap="27(93) 28(23)" id="b27-11">In late July and early August of 1983, the First State Bank of Plainview declined to pay checks written by appellant Sue Brimm to various woodhaulers. Ralph Wilson, executive vice-president of the First State Bank of Plainview, testified that the checks were dishonored as there were insufficient funds in the account. The bank statements for the months of July and August were admitted into evidence and established the overdraft status of the account. The account was closed on August 10,1983. The local sheriff testified that he had contacted appellant Sue Brimm in order to collect on the bad checks. She denied any liability on the checks but admitted to him that she had received the wood.</p>
+                <p pgmap="28" id="b28-4">Sam and Junior Starr were woodhaulers who testified they received insufficient checks from appellant Sue Brimm during this period of time. They also testified that they did not believe appellant intended to cheat them out of their wood. Edmond Joe Hughes, another woodhauler, testified that he had received a bad check from appellant in this time period and that he never knew her to try to beat him out of anything.</p>
+                <p pgmap="28" id="b28-5">Appellant Sue Brimm defended these criminal charges on the basis that she did not write the checks with the intent to defraud. She testified that she and her husband had made arrangements with the First State Bank of Plainview to pay the checks written to the woodhaulers. Eldon Brimm, appellant’s husband, testified that they would write a check to the woodhauler for the wood and then take the wood ticket to the bank and the bank would advance the money based on the wood ticket. The bank officer testified that he was not aware of any arrangements having been made with the Brimms to carry overdrafts. He also testified that the bank had a security interest in the wood goods and the bank would advance money based on the amount of wood tickets the Brimms brought to the bank.</p>
+                <p pgmap="28" id="b28-6">Appellant raises four issues on appeal for reversal. Since we reverse and remand for a new trial because of the trial court’s error in excluding appellant’s April and May of 1983 bank statements, we need not discuss the remaining three points. The introduction into evidence of these bank statements was objected to by the State on the basis that they were not relevant. Counsel for appellant argued unsuccess­fully to the trial court that the statements were admissible to rebut the question of appellant’s intent to deceive and to further establish an arrangement with the First State Bank of Plainview to carry the overdrafts of the business. The proffered April statement indicated that appellant was overdrawn in the approximate amount of $1,200.00 and the May statement started with a negative balance and ended with a positive balance of approximately $2,000.00.</p>
+                <p pgmap="29" id="b29-5">It is within the trial court’s discretion to admit or exclude evidence and this Court reverses only when such discretion has been abused. Gruzen v. State, 267 Ark. 380, 591 S.W.2d 342 (1979), cert. denied, 459 U.S. 1020 (1982). Relevant evidence is defined as evidence having any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence. Ark. Unif. R. Evid. 401. Ark. Unif. R. Evid. 103(a) provides that error cannot be predicated upon a ruling admitting or excluding evidence unless a substantial right of the objecting party is affected.</p>
+                <p pgmap="29" id="b29-6">We believe a substantial right of appellant was affected by the trial court’s exclusion of these statements. According to Ark. Stat. Ann. § 67-722 (Supp. 1983), a prima facie case of intent to defraud is made when a check is introduced into evidence with an endorsement showing it was unpaid because of insufficient funds. As we stated in Walker v. State, 10 Ark. App. 189, 662 S.W.2d 196 (1983), in order to overcome the inference of intent to defraud, the accused must put on evidence which demonstrates the lack of intent to defraud.</p>
+                <p pgmap="29" id="b29-7">The record reflects that the bank officer testified during cross-examination that it was illegal for a bank to catry an overdraft unless arrangements had been made. He was not aware of any arrangement made with the Brimms to carry overdrafts and testified that he did not know why the First State Bank of Plainview would carry overdrafts if no arrangements had been previously made. As noted previ­ously, the April statement ended with a negative balance and the May statement began with a negative balance.</p>
+                <p pgmap="29" id="b29-8">We believe these statements were relevant and admis­sible in order for appellant to rebut the inference of her intent to defraud and that a substantial right of appellant was affected by their exclusion. We cannot conclude that the court’s erroneous ruling was harmless, and accordingly, we will remand for a new trial.</p>
+                <p pgmap="29" id="b29-9">Reversed and remanded.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="30" id="b30-5">Tom Glaze, Judge,</author>
+                <p pgmap="30" id="Ae">concurring. Although I fully agree with the majority to reverse and remand, I note that the April, 1983 bank statement reflects that the Brimms’ account had a negative balance for March, 1983. Thus, if the April/May, 1983 statements had been admitted into evi­dence, the jury would have known the First State Bank had permitted the Brimms to overdraft checks for at least five months before the bank decided to dishonor their insufficient checks. Nonetheless, the State prosecuted this case based upon insufficient checks reflected in only the July/August, 1983 Brimm bank statements.</p>
+                <p pgmap="30" id="b30-6">Ralph Wilson, a vice-president for the Bank, testified that it was illegal for a bank to honor overdrafts unless some arrangement had been entered into between it and its customer. Obviously, the length óf time the Bank had honored insufficient checks written by the Brimms would be at least circumstantial evidence bearing on whether it had entered into an agreement with the Brimms. For example, if the State had contended that no such agreement existed during the entire five months in question, the clear implication would have been that the Bank participated illegally in honoring the Brimms’ insufficient checks for at least three months immediately prior to the months of July and August, 1983 when it decided not to honor such overdrafts. The fact that no earlier action was taken by the Bank raises relevant questions of why it did not. Clearly, none of the insufficient checks for the earlier three-month period was the subject of a prosecution against either Ms. or Mr. Brimm. There is no evidence reflecting that the Bank had an arrangement with the Brimms during this three-­month period but not for July and August. The jury should have been able to consider the manner in which the Bank and the Brimms did business for this entire five-month period before it decided that no arrangement existed between these parties and that Ms. Brimm possessed an intent to defraud when she wrote the four insufficient checks for which she was prosecuted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="26" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00013_1"/>
+        <fptr FILEID="jp2_00013_1"/>
+        <fptr FILEID="alto_00013_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_26.2" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="27" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.3" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.2" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jp2_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.2" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="30" ORDERLABEL="10" TYPE="page">
+        <fptr FILEID="tiff_00015_1"/>
+        <fptr FILEID="jp2_00015_1"/>
+        <fptr FILEID="alto_00015_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_30.1" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ane" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.8" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.4" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.6" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av2" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.9" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.5" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.10" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            <area BEGIN="BL_27.11" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.11" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.7" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.10" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.4" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-3" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.3" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.6" BETYPE="IDREF" FILEID="alto_00015_1"/>
+            <area BEGIN="BL_30.7" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.9" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.8" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.3" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.7" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.13" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.12" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.5" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b30-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_30.8" BETYPE="IDREF" FILEID="alto_00015_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

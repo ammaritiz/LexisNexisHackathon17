@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000671_0021" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Lawrence v. Everett">Paul LAWRENCE v. William F. EVERETT, Director of Labor</name>
+          <docketnumber>E 83-7</docketnumber>
+          <citation category="official" type="bluebook">9 Ark. App. 138</citation>
+          <citation category="parallel" type="bluebook">653 S.W.2d 140</citation>
+          <decisiondate>1983-07-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-18T23:29:49Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:01:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:57:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:58:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="7ba0244f9f0f29401153a86167518ad0" CHECKSUMTYPE="MD5" SIZE="18774">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="7ade874575ac62761f28dabcbadd4f78" CHECKSUMTYPE="MD5" SIZE="46862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00082_0.tif"/>
+      </file>
+      <file ID="tiff_00082_1" MIMETYPE="image/tiff" CHECKSUM="af2ba15223aea8599c5624e5d352827f" CHECKSUMTYPE="MD5" SIZE="23562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00082_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="7f4e95bc4205ebcca91a40582ecc9237" CHECKSUMTYPE="MD5" SIZE="1788376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="309eea0f3b1b767b58ace629a5407c43" CHECKSUMTYPE="MD5" SIZE="2475804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00082_0.jp2"/>
+      </file>
+      <file ID="jp2_00082_1" MIMETYPE="image/jp2" CHECKSUM="5015643dd21fba5f3f612553a0100e48" CHECKSUMTYPE="MD5" SIZE="2078513">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000671_00082_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="4a089a12605bd5903fef80e0eaa45d79" CHECKSUMTYPE="MD5" SIZE="29316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="d50c7696db9a5bfd94294b7fdd3f1c8e" CHECKSUMTYPE="MD5" SIZE="77490">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00082_0.xml"/>
+      </file>
+      <file ID="alto_00082_1" MIMETYPE="text/xml" CHECKSUM="addd34c184504d4472281b23edbec89a" CHECKSUMTYPE="MD5" SIZE="40397">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000671_redacted_ALTO_00082_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0021" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="140" firstpage="138">
+              <court id="b162-6" pgmap="162">Court of Appeals of Arkansas</court>
+              <docketnumber id="b162-4" pgmap="162">E 83-7</docketnumber>
+              <citation id="b162-5" pgmap="162">653 S.W.2d 140</citation>
+              <parties id="b162-3" pgmap="162">Paul LAWRENCE v. William F. EVERETT, Director of Labor</parties>
+              <decisiondate id="ACm" pgmap="162">Opinion delivered July 6, 1983</decisiondate>
+              <attorneys id="b162-12" pgmap="162">Jerry R. Irvin, of Legal Services of Northeast Arkansas, for appellant.</attorneys>
+              <attorneys id="b162-13" pgmap="162">Alinda Andrews, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b162-14" pgmap="162">Donald L. Corbin, Judge.</author>
+                <p id="A_g" pgmap="162(67) 163(116)">This is an appeal of an overpayment determination by the Board of Review. On September 29, 1982, the Employment Security Division issued an overpayment determination holding that appel­lant was liable to repay $1,547.00 to the fund because he had received extended benefits to which he was not entitled. Appellant appealéd to the Appeal Tribunal and after a hearing was held, the appeals referee affirmed the agency determination that appellant had received benefits to which he was not entitled and was liable to reimburse the fund. Appellant appealed the decision to the Board of Review and presented a memorandum brief contending that appellant’s testimony before the appeals referee supported a finding that the overpayment was received without fault on the part of appellant and its recovery would be against equity and good conscience. Appellant’s brief argued, in the alternative, that the Board of Review should remand to the Appeal Tribunal for additional evidence on the issue of whether recoupment of the benefits would be against equity and good conscience. The Board found that the Appeal Tribunal’s decision was correct and affirmed. We remand.</p>
+                <p id="b163-4" pgmap="163">The pertinent statute in this appeal is Ark. Stat. Ann. § 81-1107 (f) (2) (Supp. 1981), which provides in part as follows:</p>
+                <blockquote id="b163-5" pgmap="163">If the Director finds that any person has received any amount as benefits under this Act to which he was not entitled by reasons other than fraud, willful misrep­resentation, or willful nondisclosure of facts, such person shall be liable to repay such amount to the Fund or in lieu of requiring the repayment, the Director may recover such amount by deduction from any future benefits payable to such person under this law unless the Director finds that the overpayment was received without fault on the part of the recipient and its recovery would be against equity and good conscience. (Emphasis added.)</blockquote>
+                <p id="b163-6" pgmap="163">Although appellant’s brief to the Board of Review dealt exclusively with the issue of equity and good conscience, and the testimony before the Appeal Tribunal included evidence of appellant’s economic position and other facts pertinent to a finding on whether the principles of equity and good conscience would be violated by requiring appel­lant to repay the benefits, the Board failed to make a finding on that issue.</p>
+                <p id="b163-7" pgmap="163(17) 164(71)">It appears from the language of the above-quoted statute that the Legislature intended that the principles of equity and good conscience be considered before the Board of Review requires repayment or recoupment of erron­eously-received benefits where the error occurred without fault on the part of the recipient. Without a finding on this issue, it is impossible to determine if these factors have been considered in the Board of Review’s decision in this case, and therefore, this case cannot be disposed of until such a finding is made.</p>
+                <blockquote id="b164-4" pgmap="164">When an administrative agency fails to make a finding upon a pertinent issue of fact, the courts do not decide the question in the first instance; the cause is remanded to the agency so a finding can be made on that issue. Reddick v. Scott, 217 Ark. 38, 228 S.W.2d 1008 (1950).</blockquote>
+                <p id="b164-5" pgmap="164">Hays v. Batesville Mfg. Co., 251 Ark. 659, 473 S.W.2d 926 (1971).</p>
+                <p id="b164-6" pgmap="164">Remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="162" ORDERLABEL="138" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="139" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="164" ORDERLABEL="140" TYPE="page">
+        <fptr FILEID="tiff_00082_1"/>
+        <fptr FILEID="jp2_00082_1"/>
+        <fptr FILEID="alto_00082_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_164.2" BETYPE="IDREF" FILEID="alto_00082_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.6" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-14" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.14" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.4" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-13" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.13" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-12" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.12" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACm" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_g" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.15" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_162.16" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.7" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            <area BEGIN="BL_164.1" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-4" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b164-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_164.5" BETYPE="IDREF" FILEID="alto_00082_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-3" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.3" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-5" BETYPE="IDREF" FILEID="casebody_0021"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

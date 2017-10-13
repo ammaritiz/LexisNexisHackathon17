@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000665_0025" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Campbell v. State">Rondal CAMPBELL and Randy Campbell v. STATE of Arkansas</name>
+          <docketnumber>CA CR 88-134</docketnumber>
+          <citation category="official" type="bluebook">26 Ark. App. 133</citation>
+          <citation category="parallel" type="bluebook">761 S.W.2d 613</citation>
+          <decisiondate>1988-12-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:43:08Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:56:13Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T20:19:08Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T20:19:48Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="95a9a2ee67839048314c90f775d54d4b" CHECKSUMTYPE="MD5" SIZE="34214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="b94076bc08af9b68913360a2dd8222aa" CHECKSUMTYPE="MD5" SIZE="30402">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="faca0074f326495ddae4b467119756d3" CHECKSUMTYPE="MD5" SIZE="52036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00081_0.tif"/>
+      </file>
+      <file ID="tiff_00081_1" MIMETYPE="image/tiff" CHECKSUM="8adee82409cc6f4aa1958e51b8d6b4c1" CHECKSUMTYPE="MD5" SIZE="54512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00081_1.tif"/>
+      </file>
+      <file ID="tiff_00082_0" MIMETYPE="image/tiff" CHECKSUM="2e4389e63075ffca03a8eea945b23b1d" CHECKSUMTYPE="MD5" SIZE="50390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00082_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="9c531e728371f693f574a73adcad6ef7" CHECKSUMTYPE="MD5" SIZE="2243485">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="ed3917dec11a32e66aeeaabdabcd2385" CHECKSUMTYPE="MD5" SIZE="1917659">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="5b9320f1e86e70147e22253cd913fb08" CHECKSUMTYPE="MD5" SIZE="2565706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00081_0.jp2"/>
+      </file>
+      <file ID="jp2_00081_1" MIMETYPE="image/jp2" CHECKSUM="fecd03e40f5a665f5670b4d80ff5827f" CHECKSUMTYPE="MD5" SIZE="2592683">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00081_1.jp2"/>
+      </file>
+      <file ID="jp2_00082_0" MIMETYPE="image/jp2" CHECKSUM="62fb27b4fdc49d4cde934ec83dc0628b" CHECKSUMTYPE="MD5" SIZE="2570247">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000665_00082_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="015ec2f2a93b209fa5aaa48cd2ac0e11" CHECKSUMTYPE="MD5" SIZE="55034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="6f2430dd215e6f27729e3e243038f1ba" CHECKSUMTYPE="MD5" SIZE="46064">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="87437f77ee1d094e93026b453d3601c4" CHECKSUMTYPE="MD5" SIZE="89377">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00081_0.xml"/>
+      </file>
+      <file ID="alto_00081_1" MIMETYPE="text/xml" CHECKSUM="69dc17f69d502b34bd5b21da803e6e07" CHECKSUMTYPE="MD5" SIZE="91479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00081_1.xml"/>
+      </file>
+      <file ID="alto_00082_0" MIMETYPE="text/xml" CHECKSUM="c1567b98308c082952ce432d08d5307a" CHECKSUMTYPE="MD5" SIZE="85986">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000665_redacted_ALTO_00082_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0025" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="137" firstpage="133">
+              <court pgmap="159" id="b159-10">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="159" id="b159-9">CA CR 88-134</docketnumber>
+              <citation pgmap="159" id="AJB">761 S.W.2d 613</citation>
+              <parties pgmap="159" id="b159-7">Rondal CAMPBELL and Randy Campbell v. STATE of Arkansas</parties>
+              <decisiondate pgmap="159" id="b159-11">Opinion delivered December 14, 1988</decisiondate>
+              <judges pgmap="163" id="b163-10">Jennings and Coulson, JJ., agree.</judges>
+              <attorneys pgmap="160" id="b160-11">Young &amp; Finley, by: Dale W. Finley, for appellant Rondal Campbell.</attorneys>
+              <attorneys pgmap="160" id="b160-12">Martin Law Firm, P.A., by: Thomas A. Martin, for appel­lant Randy Campbell.</attorneys>
+              <attorneys pgmap="160" id="b160-13">Steve Clark, Att’y Gen., by: Clint Miller, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="160" id="b160-14">Donald L. Corbin, Chief Judge.</author>
+                <p pgmap="160" id="A06">This criminal appeal comes to us from Newton County Circuit Court. Appellant, Rondal Campbell, was convicted of theft of property and was sentenced to pay a $2,500.00 fine. Appellant, Randy Campbell, was convicted of burglary and theft of property and sentenced to pay a $2,500.00 fine on each count. Appellants’ only argument on appeal is that the state violated their right to a speedy trial. Because we find merit to this argument, we reverse and dismiss.</p>
+                <p pgmap="160(67) 161(116)" id="b160-15">The charges brought against both appellants and a third person resulted from an accident on June 26, 1986, wherein Tanner Hardware and Market in Jasper, Arkansas, was burglar­ized. A felony information was filed July 10, 1986, charging appellant Rondal Campbell with burglary and theft of property. A week later, on July 18, 1986, a felony information was filed charging appellant Randy Campbell with the same offenses. These cases were consolidated for trial. Numerous trial dates were set and continued prior to trial. In issue are the last three dates on which trial was set. The case was set for December 15, 1987; however, the trial was cancelled due to an ice storm. By court order, the case was rescheduled for January 6, 1988; however, on that morning an abundant snowfall necessitated that the trial again be cancelled. By court order, the case was reset for trial on February 22, 1988. On February 3, 1988, and February 12,1988, respectively, appellants, Rondal and Randy Campbell filed motions to dismiss alleging the time for trying the case had lapsed and the charges should be dismissed.</p>
+                <p pgmap="161" id="b161-6">A hearing was held on the motion on February 19,1988, and the case proceeded to trial as scheduled on February 22,1988. On February 29, 1988, the trial court rendered an order denying appellants’ motions and finding that the continuances from December 15, 1987, to January 6, 1988, and from January 6, 1988, to February 22, 1988, constituted “good cause” for delay under Arkansas Rules of Criminal Procedure 28.3.</p>
+                <p pgmap="161" id="b161-7">
+                   The time within which a defendant must be brought to trial is determined by Arkansas Rules of Criminal Procedure 28.1(c):</p>
+                <blockquote pgmap="161" id="b161-8">Any defendant charged with an offense in circuit court and held to bail, or otherwise lawfully set at liberty . . . shall be entitled to have the charge dismissed with an absolute bar to prosecution if not brought to trial within eighteen (18) months from the time provided in Rule 28.2, excluding only such periods of necessary delay as are authorized in Rule 28.3.</blockquote>
+                <p pgmap="161" id="b161-9">The time for trial shall commence running from the date the charge is filed. Ark. R. Crim. P. 28.2(a).</p>
+                <p pgmap="161" id="b161-10">
+                   The appellants were charged on July 10 and July 18, 1986, and tried February 22,1988, exceeding the eighteen month period by over a month for each appellant. Once an accused has shown the trial is to be held after the speedy trial period has expired, the state bears the burden of showing the delay is legally justified. Allen v. State, 294 Ark. 209, 742 S.W.2d 886 (1988).</p>
+                <p pgmap="161(22) 162(122)" id="b161-11">At the hearing on the motion to dismiss, the state presented the testimony of the circuit clerk of Newton County regarding the weather conditions on the days in question. Regarding the December 15, 1987, trial date the clerk stated that an ice storm occurred on the 14th which caused the roads to be impassable and extremely bad on the morning of trial. The clerk further opined that the next day the temperature warmed up clearing the roads except in the rural “brush” areas of the county. As regards the subsequent trial date of January 6,1988, the clerk testified that a “big snow” occurred which again caused extremely dangerous road conditions; however, he could not recall the road conditions for the following day. On both dates, the trial was continued because it was unsafe for the jurors and witnesses to try to drive to court.</p>
+                <p pgmap="162" id="b162-6">In discussing the weather and the continuances, the trial court stated at the hearing that he recalled the situation as follows:</p>
+                <blockquote pgmap="162" id="b162-7">As I remember, the ice storm lasted several days and as I remember, the snow that we encountered on the 5th day of January, it continued for several days because I remember my children being out of school here in Boone County for at least four days that week of January and I believe for three days in the week of December.</blockquote>
+                <p pgmap="162" id="b162-8">During the course of the hearing, the court admitted that it could not find that the case was continued because of congestion on the docket. Additionally, the court generally revealed that its policy is not to have jury trials after the 15th of December on any year because of the Christmas season and inconvenience to the jurors. Further, the court stated that after the snow on the December 15, 1987, trial date, the case was set for January 6, 1988, because he had “set aside the first week of January for oral surgery.”</p>
+                <p pgmap="162(90) 163(16)" id="b162-9">In denying appellants’ motions to dismiss, the court found no violation of the speedy trial rule because he excluded the entire seventy day period from December 15, 1987, to February 22, 1988, because of adverse weather conditions. The court held that the continuances during this period constituted “good cause” of delay under Arkansas Rules of Criminal Procedure 28.3. Al­though the court did not specifically set out the subsection upon which it relied, it appears that it entered its order under Arkansas Rules of Criminal Procedure 28.3(h) which generally provides that periods of delay for “good cause” shall be excluded in computing the time for trial.</p>
+                <p pgmap="163" id="b163-6">
+                   It is well settled that it is the court’s duty to bring criminal cases to a speedy trial. Harkness v. Harrison, 266 Ark. 59, 585 S.W.2d 10 (1979). In the case at bar, although the court excluded a seventy day period for weather related conditions, the record and proof reflect that other factors were considered. We cannot agree that refusing to try cases during the Christmas season takes precedence over giving defendants a speedy trial. Nor can we agree that delaying the trial beyond the first week of January due to the trial judge undergoing oral surgery constitutes good cause. In Novak v. State, 294 Ark. 120, 741 S.W.2d 243 (1987) the Arkansas Supreme Court held that a judge’s absence due to illness or incapacity does not constitute a good cause for delay in bringing an accused to trial.</p>
+                <p pgmap="163" id="b163-7">While we agree that the days with extreme weather condi­tions surrounding the trial dates of December 15, 1987, and January 6,1988, constitute good cause for delay, we cannot agree that the entire seventy day period as found by the court is excludable. Although there was a conflict as to the exact number of days that the weather conditions persisted, we find a violation of appellants’ right to a speedy trial even when we employ the trial judge’s more lengthy estimation of seven bad weather days.</p>
+                <p pgmap="163" id="b163-8">
+                   The state failed to show that the delay in bringing appellants to trial was justified and we find that the court erred in excluding more than the actual bad weather days. Under Rule 28 of the Arkansas Rules of Criminal Procedure concerning calcula­tions of the speedy trial period and based upon the exclusion of only seven days, Rondal, who was charged on July 10, 1986, should have been tried on or before January 18,1988. Randy, who was charged on July 18,1986, should have been tried on or before January 25, 1988. Both were tried on February 22, 1988, in violation of their right to a speedy trial. We, therefore, reverse and dismiss.</p>
+                <p pgmap="163" id="b163-9">Reversed and dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="159" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.2" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="162" ORDERLABEL="136" TYPE="page">
+        <fptr FILEID="tiff_00081_1"/>
+        <fptr FILEID="jp2_00081_1"/>
+        <fptr FILEID="alto_00081_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_162.2" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="163" ORDERLABEL="137" TYPE="page">
+        <fptr FILEID="tiff_00082_0"/>
+        <fptr FILEID="jp2_00082_0"/>
+        <fptr FILEID="alto_00082_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_163.3" BETYPE="IDREF" FILEID="alto_00082_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.5" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.4" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.5" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-14" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.14" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.11" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.11" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-12" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.12" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.12" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.7" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.6" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.9" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-13" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.13" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.7" BETYPE="IDREF" FILEID="alto_00081_1"/>
+            <area BEGIN="BL_163.1" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-9" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.7" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-11" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.9" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            <area BEGIN="BL_162.1" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.8" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.6" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b162-8" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_162.6" BETYPE="IDREF" FILEID="alto_00081_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b163-6" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_163.4" BETYPE="IDREF" FILEID="alto_00082_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A06" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.15" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_160.16" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-15" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.17" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJB" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.10" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.8" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-10" BETYPE="IDREF" FILEID="casebody_0025"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.8" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

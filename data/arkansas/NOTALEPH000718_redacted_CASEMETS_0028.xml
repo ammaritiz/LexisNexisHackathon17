@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000718_0028" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Bullock v. Shelter Mutual Insurance">Gene BULLOCK and Verla Beth BULLOCK v. SHELTER MUTUAL INSURANCE COMPANY and James HOWELL</name>
+          <docketnumber>CA 87-112</docketnumber>
+          <citation category="official" type="bluebook">21 Ark. App. 160</citation>
+          <citation category="parallel" type="bluebook">729 S.W.2d 436</citation>
+          <decisiondate>1987-05-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T21:58:19Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:40:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:58:20Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:59:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="c67ca8269086236b70183034d08586a2" CHECKSUMTYPE="MD5" SIZE="17726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="713bf2cf2b026486d74fd6e580fb287c" CHECKSUMTYPE="MD5" SIZE="51240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00101_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="3110e65557cceef260b8a96b3d465cd7" CHECKSUMTYPE="MD5" SIZE="1672905">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="557259a443788f24e55804ed40cb1e8b" CHECKSUMTYPE="MD5" SIZE="2523457">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000718_00101_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="1bf129d3e13e25ac479ff0837d39e811" CHECKSUMTYPE="MD5" SIZE="24558">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="f721970fd4dacef5f45d08d14af14e6c" CHECKSUMTYPE="MD5" SIZE="83751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000718_redacted_ALTO_00101_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0028" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="161" firstpage="160">
+              <court pgmap="200" id="b200-4">Court of Appeals of Arkansas En Banc</court>
+              <docketnumber pgmap="200" id="b200-3">CA 87-112</docketnumber>
+              <citation pgmap="200" id="AH5">729 S.W.2d 436</citation>
+              <parties pgmap="200" id="b200-2">Gene BULLOCK and Verla Beth BULLOCK v. SHELTER MUTUAL INSURANCE COMPANY and James HOWELL</parties>
+              <decisiondate pgmap="200" id="b200-5">Opinion delivered May 27, 1987</decisiondate>
+              <attorneys pgmap="200" id="b200-11">Walters Law Firm, P.A., by: Bill Walters, for appellants.</attorneys>
+              <attorneys pgmap="200" id="b200-12">Jones, Galbreath, Jackson &amp; Moll, by; Robert L. Jones, Jr., for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="200" id="b200-13">Per Curiam.</author>
+                <p pgmap="200(35) 201(85)" id="AIs">The appellants brought this action against Shelter Mutual Insurance Company and its agent, James Howell, contending that both parties were liable to them for negligence in the issuance of an insurance policy ordered by the appellants. The court entered an order granting summary judg­ment in favor of the appellee Shelter Mutual Insurance Company but did not direct the entry of final judgment upon an express determination that there was no just reason for delay. The claim against Howell was left pending. Appellants appeal contending that the court should not have granted Shelter Mutual Insurance Company’s motion for summary judgment as there were material facts to be determined. Appellees filed this motion to dismiss the appeal. We grant that motion.</p>
+                <p pgmap="201" id="b201-6">
+                   Rule 54(b) of the Arkansas Rules of Civil Procedure provides that when multiple parties are involved, or when more than one claim is presented, the trial court may direct the entry of a final judgment as to one or more but fewer than all of the parties or claims only upon an express determination that there is no just reason for delay and upon express direction for the entry of judgment. Here, the order appealed from neither dismissed all of the parties nor directed the entry of final judgment. We dismiss the appeal because the order appealed from is not a final one. City of Marianna v. Arkansas Municipal League, 289 Ark. 473, 712 S.W.2d 305 (1986); 3-W Lumber Company v. Housing Author­ity, 287 Ark. 70, 696 S.W.2d 725 (1985); ARCP Rule 54(b).</p>
+                <p pgmap="201" id="b201-7">
+                   The appellees’ motion to dismiss the appeal was not filed in this court until after the appellant had obtained and lodged a transcript of the record consisting of 112 pages and filed a brief and abstract containing over 50 pages. This practice in many cases occasions delay in the trial court’s disposition of remaining issues, needless expense and effort in transcribing records, and the writing of useless briefs on the merits. A better practice would be to file with this court a partial transcript, containing a copy of the order, and a motion to dismiss as soon as the jurisdictional defect becomes apparent. We, today, issue a caveat to counsel that in the future, where this practice is not followed, sanctions may be imposed, unless good cause for delay in presenting the motion can be shown.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="200" ORDERLABEL="160" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.1" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="161" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-4" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.6" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-3" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.4" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AH5" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.5" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-13" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.15" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-12" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.14" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-11" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.13" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIs" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.16" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.17" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.4" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-7" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-2" BETYPE="IDREF" FILEID="casebody_0028"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.3" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

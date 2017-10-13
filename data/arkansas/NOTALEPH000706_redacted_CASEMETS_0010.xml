@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000706_0010" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Aydelotte v. State">George AYDELOTTE v. STATE of Arkansas</name>
+          <docketnumber>CA CR 02-1176</docketnumber>
+          <citation category="official" type="bluebook">85 Ark. App. 67</citation>
+          <citation category="parallel" type="bluebook">146 S.W.3d 392</citation>
+          <decisiondate>2004-02-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T20:21:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:08Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T21:45:16Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T21:49:16Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="0deb251c3ac95ef3031b1ecb29a40035" CHECKSUMTYPE="MD5" SIZE="15512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="42a89d5257d40ca23763e17b24bb57e2" CHECKSUMTYPE="MD5" SIZE="4702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="3752bbbff0dd287c3551e63769fd1948" CHECKSUMTYPE="MD5" SIZE="4294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="29522fa829ba68a59acc289f8a7c4d7c" CHECKSUMTYPE="MD5" SIZE="24036">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00047_1.tif"/>
+      </file>
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="a21cc8d504626e608fe24641ac0588d8" CHECKSUMTYPE="MD5" SIZE="60652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="3e448b661119b0b53da8a4d2d6d30c7d" CHECKSUMTYPE="MD5" SIZE="61084">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="5d7661f2269810285ef1b7d552454831" CHECKSUMTYPE="MD5" SIZE="57362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="58053a1b449f582b7ce5ec999bfb57e7" CHECKSUMTYPE="MD5" SIZE="57846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00049_1.tif"/>
+      </file>
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="62cf6d44607698a6a481eb45236c0d47" CHECKSUMTYPE="MD5" SIZE="57558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="06bcca62eb797000399e608f20a93a2e" CHECKSUMTYPE="MD5" SIZE="54936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="7a4f0aefebf35afb7d5972b6d08cbe50" CHECKSUMTYPE="MD5" SIZE="24942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00051_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00046_0" MIMETYPE="image/jp2" CHECKSUM="e8e6d4ddde5a54f894cc3892728afeb2" CHECKSUMTYPE="MD5" SIZE="1827244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00046_0.jp2"/>
+      </file>
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="33f11b6c735e0f48757cdc0bc353463a" CHECKSUMTYPE="MD5" SIZE="1212253">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00046_1.jp2"/>
+      </file>
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="89e0b8035da94f17423072c68ce17fe9" CHECKSUMTYPE="MD5" SIZE="1189257">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00047_0.jp2"/>
+      </file>
+      <file ID="jp2_00047_1" MIMETYPE="image/jp2" CHECKSUM="4162eff97233369a48c4eb600d4c2ff3" CHECKSUMTYPE="MD5" SIZE="1864825">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00047_1.jp2"/>
+      </file>
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="4be90b74a4abf8c7845625da62453bba" CHECKSUMTYPE="MD5" SIZE="2728011">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00048_0.jp2"/>
+      </file>
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="d8718b0b2f130dfe99053ec2ba43cb01" CHECKSUMTYPE="MD5" SIZE="2715137">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00048_1.jp2"/>
+      </file>
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="6eba360599426ccf2dec51e69f5c9cae" CHECKSUMTYPE="MD5" SIZE="2667173">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="1e358a73798d92d68cd37b8d84d5bc3c" CHECKSUMTYPE="MD5" SIZE="2670354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00049_1.jp2"/>
+      </file>
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="d9887c90aa2107747c1dc9d32cef1572" CHECKSUMTYPE="MD5" SIZE="2690519">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="48f0bb47177bf320d45bbcfa6e32f9d8" CHECKSUMTYPE="MD5" SIZE="2643653">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="1a89eac3eb80e8f00b3fb1424d327ba5" CHECKSUMTYPE="MD5" SIZE="2138403">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00051_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00046_0" MIMETYPE="text/xml" CHECKSUM="31b590acf956ac2a3f6701651585f4b2" CHECKSUMTYPE="MD5" SIZE="18737">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00046_0.xml"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="e639917d94348cf1fa5f0f44685ee870" CHECKSUMTYPE="MD5" SIZE="1673">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00046_1.xml"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="15e5ea6094dd50d4994d155743f9d501" CHECKSUMTYPE="MD5" SIZE="1677">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00047_0.xml"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml" CHECKSUM="ed91bc780a43ff0d81a3b39be814c5bf" CHECKSUMTYPE="MD5" SIZE="35702">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00047_1.xml"/>
+      </file>
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="17310626c78ebe97d7261396e237d757" CHECKSUMTYPE="MD5" SIZE="96999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00048_0.xml"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="4607367447f0fe1212bb6860464a66b7" CHECKSUMTYPE="MD5" SIZE="94403">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00048_1.xml"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="dc8a16e1f7bf5ee759ff54c321c640db" CHECKSUMTYPE="MD5" SIZE="87753">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="141e60a3c2ff5005883b46e7e745a335" CHECKSUMTYPE="MD5" SIZE="102768">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00049_1.xml"/>
+      </file>
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="35f4dd185dbdea54edb201e097e04fb6" CHECKSUMTYPE="MD5" SIZE="107416">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="7fd9bd12409ccb9e1b0bbdf698a1b9f8" CHECKSUMTYPE="MD5" SIZE="95671">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="86eccde76ebff713b4b89508ff27a027" CHECKSUMTYPE="MD5" SIZE="36752">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00051_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="77" firstpage="67">
+              <court id="b91-10" pgmap="91">Court of Appeals of Arkansas Division III</court>
+              <docketnumber id="b91-8" pgmap="91">CA CR 02-1176</docketnumber>
+              <citation id="b91-9" pgmap="91">146 S.W.3d 392</citation>
+              <parties id="b91-7" pgmap="91">George AYDELOTTE v. STATE of Arkansas</parties>
+              <decisiondate id="b91-11" pgmap="91">Opinion delivered February 11, 2004</decisiondate>
+              <judges id="b101-6" pgmap="101">Robbins and Roaf, JJ., agree.</judges>
+              <attorneys id="b94-11" pgmap="94">William C. McArthur, for appellant.</attorneys>
+              <attorneys id="b94-12" pgmap="94">Mike Beebe, Att’y Gen., by: Lauren Elizabeth Heil, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b94-13" pgmap="94">Karen R. Baker, Judge.</author>
+                <p id="ALH" pgmap="94">Appellant, George Aydelotte, was convicted by a jury in Conway County Circuit Court of manufacturing methamphetamine, possession of methamphetamine, use of a communication facility, and simultaneous possession of drugs and firearms. He was sentenced to an aggregate term of twenty years’ imprisonment in the Arkansas Department of Correction. Appellant has two arguments on appeal. First, he argues that the trial court erred in denying his motion to dismiss and his motion to suppress the evidence. Second, he argues that the evidence was insufficient to support the verdicts herein. We affirm.</p>
+                <p id="b94-14" pgmap="94(30) 95(163)">On August 30, 2001, a warrant and affidavit were prepared seeking a search of appellant’s residence. The warrant and affidavit were submitted to Paul Dumas, a Magistrate of Conway County Municipal Court and a city attorney for Plummerville. Dumas had previously been appointed to that position of magistrate by Scott Adams, Municipal Judge of Conway County. Four officers, in­cluding Chief of Police Hartman of the Plummerville Police Department, met with Dumas at the Morrilton Police Department that evening. After questioning the officers present regarding the affidavit, Dumas issued the search warrant. The search warrant was then executed. Dumas accompanied the officers to appellant’s residence; however, he did not participate in the search. During the search, the remains of a recent methamphetamine lab were discovered in an out-building approximately thirty-five yards from appellant’s residence. Testimony showed that the odor of ether was so strong that Officer Hartman had to back away from the building to let the air out before he could enter. In addition to the items used in the manufacture of methamphetamine and the methamphetamine residue, a loaded shotgun, one loaded pistol and two unloaded pistols were found in the out-building.</p>
+                <p id="b95-5" pgmap="95">The State’s forensic drug chemist testified that the method of manufacturing methamphetamine involving lithium metal and anhydrous ammonia was used in this case. The crime lab cannot test for anhydrous ammonia, but instead tests for the presence of ammonia. Ammonia was found in several places in the out­building. First, ammonia was found in a shop vac that was used as a filter to pull the ammonia vapors out of the reaction chamber and to expel the vapors outside the building. The water inside the shop vac also had trace amounts of ammonia. Second, a glass container also contained a white powder residue, sodium carbonate, which is a byproduct of using anhydrous ammonia. Third, the fittings on a portable air tank had a blue residue that indicated the presence of anhydrous ammonia. Although the chemist testified that there was not an active manufacture taking place when the police arrived, he stated that it was clear that the manufacturing process had already been completed.</p>
+                <p id="b95-6" pgmap="95">Appellant and two others were charged as a result of the search. Before trial, appellant filed a motion to suppress the evidence, which was denied by the trial judge. Appellant was tried on July 30, 2002. During trial, appellant made a motion to dismiss, which was also denied. Appellant was ultimately convicted, and this appeal followed.</p>
+                <p id="b95-7" pgmap="95(32) 96(221)">
+                   We first address appellant’s challenge to the suffi­ciency of the evidence. See Atkinson v. State, 347 Ark. 336, 64 S.W.3d 259 (2002). A motion for directed verdict is a challenge to the sufficiency of the evidence. Cherry v. State, 80 Ark. App. 222, 95 S.W.3d 5 (2003). The test for determining sufficiency of the evidence is whether substantial evidence supports the verdict. Id. (citing Hatley v. State, 68 Ark. App. 209, 5 S.W.3d 86 (1999)). Evidence»is substantial when it is forceful enough to compel a conclusion and goes beyond mere speculation or conjecture. Id. (citing Wortham v. State, 65 Ark. App. 81, 985 S.W.2d 329 (1999)). Circumstantial evidence can be sufficient to sustain a conviction when it excludes every other reasonable hypothesis consistent with innocence. Mace v. State, 328 Ark. 536, 539, 944 S.W.3d 830 (1997). The question of whether the circumstantial evidence excludes every hypothesis consistent with innocence is for the jury to decide. Ross v. State, 346 Ark. 225, 230, 57 S.W.3d 152, 156 (2001). It is unlawful for any person to manufacture, deliver, or possess with intent to manufacture or deliver a controlled sub­stance. Ark. Code Ann. § 5-64-401 (a) (Supp. 2003). Arkansas Code Annotated section 5-64-101 (m) (Repl.1997) defines “manufacture” in pertinent part as follows: “Manufacture” means the production, preparation, propagation,.compounding, conver­sion, or processing of a controlled substance, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combina­tion of extraction and chemical synthesis.</p>
+                <p id="b96-5" pgmap="96(181) 97(34)">
+                   Appellant specifically contends that the evidence was insufficient to support the manufacturing methamphetamine con­viction because of the absence of anhydrous ammonia and that anhydrous ammonia was necessary to the manufacturing process. This argument is without merit. The State’s forensic drug chemist testified that appellant was using the lithium metal and anhydrous ammonia method of manufacturing methamphetamine. The chemist testified that the crime lab could only test for the presence of ammonia because the lab could not specifically identify anhy­drous ammonia. Ammonia was found in a shop vac that was used as a filter to pull the ammonia vapors out of the reaction chamber and to expel the vapors outside the building. The water inside the shop vac also had trace amounts of ammonia. A glass container also contained a white powder residue, sodium carbonate, which is a byproduct of using anhydrous ammonia, and the fittings on a portable air tank had a blue residue that indicated the presence of anhydrous ammonia. Although the chemist stated that there was not an active manufacture taking place when the police arrived, it appeared to him that the manufacturing process had already been completed. We hold that this testimony sufficiently explained the absence of the actual anhydrous ammonia in a lab where manu­facturing had already occurred.</p>
+                <p id="b97-5" pgmap="97">Appellant also argues that there was insufficient evidence of simultaneous possession of drugs and firearms. Appellant admitted that firearms were found in the shop in which the components used to manufacture methamphetamine were found. However, he asserts that because the State failed to prove that manufacturing had taken place (because there was no proof of any anhydrous ammo­nia) then there was insufficient evidence of simultaneous posses­sion of drugs and firearms. Based on the analysis above, this argument is similarly without merit. A person commits the offense of simultaneous possession of drugs and firearms if he commits a felony violation of Ark. Code Ann. § 5-64-401, or attempts, solicits, or conspires to commit a felony violation of § 5-64-401 while in possession of a firearm. See Ark. Code Ann. § 5-74-­106(a)(1) (Repl. 1997). It is a felony violation of Ark. Code Ann. § 5-64-401 to possess, manufacture, or attempt to manufacture methamphetamine. Ark. Code Ann. § 5-64-401(a)(l)(i) (Repl. 1997).</p>
+                <p id="b97-6" pgmap="97">
+                   Under these facts, appellant clearly possessed and manufactured methamphetamine at some point before the police arrived. After they arrived, a loaded shotgun was found approxi­mately three feet inside the shop. Three other pistols were also found in the shop. The .22 magnum was loaded. The other two were not. The chemist testified that methamphetamine residue was found on several items in the shop and that manufacturing had clearly taken place. The discovery of loaded weapons found in the same building where methamphetamine had recently been manu­factured was sufficient to meet the burden of proving that appel­lant was in simultaneous possession of drugs and a firearm.</p>
+                <p id="b97-7" pgmap="97(70) 98(29)">
+                   Within his challenge to the sufficiency of the evidence, appellant also argues that the trial court erred in enhancing appellant’s penalty in violation of Ark. Code Ann. § 5-64-418 (Supp. 2003) for manufacturing methamphetamine with minor children in the same immediate area. However, appellant failed to make this argument below. It is well settled that we will not consider an argument raised for the first time on appeal. Pyle v. State, 340 Ark. 53, 8 S.W.3d 491 (2000) (citing Ayers v. State, 334 Ark. 258, 975 S.W.2d 88 (1998); McGhee v. State, 330 Ark. 38, 954 S.W.2d 206 (1997)).</p>
+                <p id="b98-6" pgmap="98">
+                   Appellant’s next argument on appeal is that the trial court erred in denying his motion to dismiss and his motion to suppress the evidence. In reviewing the denial of a motion to suppress evidence, the appellate court makes an independent examination based upon the totality of the circumstances and reverses only if the decision is clearly against the preponderance of the evidence. Hilton v. State, 80 Ark. App. 401, 96 S.W.3d 757 (2003). A determination of the preponderance of the evidence depends heavily on questions of credibility and weight to be given testimony, and the appellate court defers to the superior position of the trial court on those questions. Id. Furthermore, a motion to dismiss constitutes a challenge to the sufficiency of the evidence. See Ark. R. Crim. P. 33.1(b) (2003); Porter v. State, 82 Ark. App. 589, 120 S.W.3d 178 (2003). When we review a challenge to the sufficiency of the evidence, we will affirm the conviction if there is substantial evidence to support it, when viewed in the light most favorable to the State. Gilbert v. State, 341 Ark. 601, 19 S.W.3d 595 (2000) (citing Dodson v. State, 341 Ark. 41, 14 S.W.3d 487 (2000)). Substantial evidence is that which is of sufficient force and char­acter that it will, with reasonable certainty, compel a conclusion one way or the other, without resort to speculation or conjecture. Id. Only evidence supporting the verdict will be considered. Id. (citing Carmichael v. State, 340 Ark. 598, 12 S.W.3d 225 (2000)).</p>
+                <p id="b98-7" pgmap="98(70) 99(60)">
+                   Appellant asserts that Paul Dumas, the magistrate in this case, was not approved by the city’s governing body as required by Ark. Code Ann. § 16-17-107(e) (Repl. 1999); thus, appellant’s motions should have been granted.<footnotemark>1</footnotemark> Section 107(e) states that, “. . . the appointment of municipal court magistrates shall be subject to the approval of the governing body of each political subdivision. . . .” Without conceding that the appoint­ment of the magistrate was not in full compliance with the statute, the State contends on appeal that a defacto magistrate’s authority can only be challenged in a direct proceeding, not a collateral proceeding. In doing so, the State relies on the holding in Bell v. State, 334 Ark. 285, 973 S.W.2d 806 (1998). In Bell, the court stated that:</p>
+                <blockquote id="b99-5" pgmap="99">A defacto official is one who by some color of right is in possession of an office, and performs its duties with public acquiescence, though having no right in fact; the acts of defacto officials may not be questioned based upon of the lack of legal authority except by some direct proceeding instituted for the purpose by the State or by. someone claiming the office de jure, or when the person himself attempts to build up some right, or claim some privilege by reason of being the official he claims to be; in all other cases, the acts of an officer defacto are as valid and effectual while he retains the office as if he were an officer by right, and the same legal consequences will flow from them for the protection of the public and third parties.</blockquote>
+                <p id="b99-6" pgmap="99">Id. at 300, 973 S.W.2d at 814 (quoting Chronister v. State, 55 Ark. App. 93, 95, 931 S.W.2d 444, 445 (1996)). In Roberts v. State, 255 Ark. 183, 499 S.W.2d 600 (1973), the defendant challenged the authority of the deputy prosecutor to try him on the ground that he had not been reappointed after the elected prosecutor, who had originally appointed the .deputy prosecutor, began his second term. Our supreme court recognized that the deputy prosecutor was a de facto official and that, as such, the defendant was required to challenge his authority in a direct proceeding, rather than in the criminal proceeding against him. Id. Our supreme court in Roberts outlined what constitutes a collateral attack:</p>
+                <blockquote id="b99-7" pgmap="99">[There] can be gleaned several guidelines for determining whether a particular attack upon the title of a public official is “collateral.” By the very definition of the word if the attack is secondary, subsidiary, subordinate, i.e., related to the main matter under consideration but not strictly a part thereof, the attack is indirect and collateral. If the official’s tide is questioned in a proceeding to which he is not a party or which was not instituted specifically to deter­mine the validity of his title the attack is collateral. If the title of the officer is questioned in a proceeding in which he is a party merely because he is acting in his official capacity the attack is collateral. Lasdy if the attack is made because it is necessary to show the officer’s want of title to lay a basis for some other relief the attack is collateral....</blockquote>
+                <p id="b100-3" pgmap="100">Id. at 186-87, 499 S.W.2d at 602 (quoting Smith v. Landsden, 212 Tenn. 543, 370 S.W.2d 557 (1963)). Thus, even if we find that Dumas was a defacto magistrate, appellant failed to properly challenge the magistrate’s authority through a direct proceeding.</p>
+                <p id="b100-4" pgmap="100">
+                   Furthermore, appellant asserts that the magistrate in this case did not remain neutral and detached. Specifically, appel­lant argues that Dumas’s accompanying the officers to the site of the search gave the implication that Dumas did not remain neutral and detached. Appellant cites LO-JI Sales, Inc. v. New York, 442 U.S. 319 (1979), in support of this argument. In LO-JI Sales, Inc., the Court stated:</p>
+                <blockquote id="b100-5" pgmap="100">We need not question the subjective belief of the Town Justice in the propriety of his actions, but the objective facts of record manifest an erosion of whatever neutral and detached posture existed at the outset. He allowed himself to become a member, if not the leader, of the search party which was essentially a police operation. Once in the store, he conducted a generalized search under authority of an invalid warrant; he was not acting as a judicial officer but as an adjunct law enforcement officer. When he ordered an item seized because he believed it was obscene, he instructed the police officers to seize all “similar” items as well, leaving determi­nation of what was “similar” to the officer’s discretion. Indeed, he yielded to the State Police even the completion of the general provision of the warrant. Though it would not have validated the warrant in any event, the Town Justice admitted at the hearing to suppress evidence that he could not verify that the inventory prepared by the police and presented to him late that evening accurately reflected what he had ordered seized.</blockquote>
+                <p id="b100-6" pgmap="100">Id. at 320. Factually, LO-JI can be distinguished from the case at hand. Even though the magistrate’s presence at the search scene was inap­propriate, it is undisputed that Dumas stayed outside in the driveway during the execution of the search warrant and did not in fact participate in the actual search.</p>
+                <p id="b100-7" pgmap="100(60) 101(91)">
+                   Appellant also asserts that Dumas lacked neutrality and detachment because one of the affiants for the search warrant was the chief of police of Plummerville, where Dumas also served as city attorney. However, appellant has not demonstrated that any prejudice resulted. This court has repeatedly stated that prejudice is not presumed, and we will not reverse absent a showing of prejudice. Bell, supra. In the present case, Chief Hartman of the Plummerville Police Department was one of the four affiants before Dumas. However, testimony showed that each of the officers were sworn, and following questions by Dumas regarding the affidavit, Dumas signed the affidavit. In this case, there is no further evidence to support a lack of neutrality or detachment on the part of Dumas. Based on our standard of review, we hold that the trial judge did not err in denying appellant’s motion to dismiss or his motion to suppress.</p>
+                <p id="b101-5" pgmap="101">Based on the foregoing, we affirm on all points.</p>
+                <footnote label="1">
+                  <p id="b98-8" pgmap="98">1 Appellant does not argue that the magistrate was not properly assigned in accordance with Amendment 80. Amendment 80 § 8 allows a District Court judge, with the concur­rence of a majority of the Circuit Court Judges, to appoint magistrates, who shall be subject to the superintending control of the District Court and shall have power to perform such duties of the District Court as may be prescribed by Supreme Court rule. No Supreme Court rule currently exists, but because appellant does not raise tins argument we do not address it.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="91" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jp2_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.4" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="68" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.2" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="69" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="70" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jp2_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.1" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="95" ORDERLABEL="71" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.4" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="73" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="74" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="99" ORDERLABEL="75" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.4" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.2" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.11" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.10" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.5" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.6" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.7" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_99.1" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.7" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.6" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.7" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.7" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_96.1" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.6" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.5" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALH" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.14" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_94.15" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_94.16" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.9" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.8" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-14" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.17" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            <area BEGIN="BL_95.1" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.11" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-12" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.12" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-13" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.13" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.5" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.8" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            <area BEGIN="BL_101.1" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-3" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.4" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

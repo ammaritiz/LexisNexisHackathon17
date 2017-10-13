@@ -1,0 +1,918 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000676_0061" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wigley v. State">William J. WIGLEY v. STATE of Arkansas</name>
+          <docketnumber>CA CR 00-257</docketnumber>
+          <citation category="official" type="bluebook">73 Ark. App. 399</citation>
+          <citation category="parallel" type="bluebook">44 S.W.3d 751</citation>
+          <decisiondate>2001-05-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T00:52:59Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:04Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:32:03Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:34:47Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00213_0" MIMETYPE="image/tiff" CHECKSUM="4a4d51d825d833ddddea7b8fac175d01" CHECKSUMTYPE="MD5" SIZE="7190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00213_0.tif"/>
+      </file>
+      <file ID="tiff_00213_1" MIMETYPE="image/tiff" CHECKSUM="4915f8eb103b6f0c433825cb9088db5b" CHECKSUMTYPE="MD5" SIZE="41838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00213_1.tif"/>
+      </file>
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="31176ace74d664f2ad0fdde7e1247938" CHECKSUMTYPE="MD5" SIZE="62856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00214_0.tif"/>
+      </file>
+      <file ID="tiff_00214_1" MIMETYPE="image/tiff" CHECKSUM="ea49658229b6982de09a16b0ede73b61" CHECKSUMTYPE="MD5" SIZE="51766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00214_1.tif"/>
+      </file>
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="3e66297bc3a9c8cc90f8518eb2d5f5f7" CHECKSUMTYPE="MD5" SIZE="61464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00215_0.tif"/>
+      </file>
+      <file ID="tiff_00215_1" MIMETYPE="image/tiff" CHECKSUM="dfa1177e59c9d2ed0acb94f00464105f" CHECKSUMTYPE="MD5" SIZE="57592">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00215_1.tif"/>
+      </file>
+      <file ID="tiff_00216_0" MIMETYPE="image/tiff" CHECKSUM="7f0128b61632be397f0428536159c0cf" CHECKSUMTYPE="MD5" SIZE="58430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00216_0.tif"/>
+      </file>
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="61e4f1e91f0254f55a1c4f694167165b" CHECKSUMTYPE="MD5" SIZE="49278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00216_1.tif"/>
+      </file>
+      <file ID="tiff_00217_0" MIMETYPE="image/tiff" CHECKSUM="68aa3a680184f7d8f78ef65dac04793a" CHECKSUMTYPE="MD5" SIZE="56840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00217_0.tif"/>
+      </file>
+      <file ID="tiff_00217_1" MIMETYPE="image/tiff" CHECKSUM="68ac6b477a8446032a37f1b7ca9a9d04" CHECKSUMTYPE="MD5" SIZE="59840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00217_1.tif"/>
+      </file>
+      <file ID="tiff_00218_0" MIMETYPE="image/tiff" CHECKSUM="4542f6d670593e3c330740806bea338e" CHECKSUMTYPE="MD5" SIZE="49522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00218_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00213_0" MIMETYPE="image/jp2" CHECKSUM="bbaf80a6f604f0eede4cb0bede2985a3" CHECKSUMTYPE="MD5" SIZE="1409362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00213_0.jp2"/>
+      </file>
+      <file ID="jp2_00213_1" MIMETYPE="image/jp2" CHECKSUM="174c40fc5405e47a0d440e2f98ae3b01" CHECKSUMTYPE="MD5" SIZE="2319182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00213_1.jp2"/>
+      </file>
+      <file ID="jp2_00214_0" MIMETYPE="image/jp2" CHECKSUM="965b18b51f5201cf0cb6853caca9872b" CHECKSUMTYPE="MD5" SIZE="2765275">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00214_0.jp2"/>
+      </file>
+      <file ID="jp2_00214_1" MIMETYPE="image/jp2" CHECKSUM="f8344b8870cf481150e9a294137388cf" CHECKSUMTYPE="MD5" SIZE="2741528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00214_1.jp2"/>
+      </file>
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="accfbc783bd110859fba79275070043f" CHECKSUMTYPE="MD5" SIZE="2810768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00215_0.jp2"/>
+      </file>
+      <file ID="jp2_00215_1" MIMETYPE="image/jp2" CHECKSUM="026c72a9d695ded890c0439320056d49" CHECKSUMTYPE="MD5" SIZE="2736202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00215_1.jp2"/>
+      </file>
+      <file ID="jp2_00216_0" MIMETYPE="image/jp2" CHECKSUM="808de3a5ffba9327808c8d8e6b6e773c" CHECKSUMTYPE="MD5" SIZE="2722925">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00216_0.jp2"/>
+      </file>
+      <file ID="jp2_00216_1" MIMETYPE="image/jp2" CHECKSUM="d6e04ef3f5080ec7106bac602f64ffb7" CHECKSUMTYPE="MD5" SIZE="2685685">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00216_1.jp2"/>
+      </file>
+      <file ID="jp2_00217_0" MIMETYPE="image/jp2" CHECKSUM="2cfdf95b588fe622221ddd319ef413d1" CHECKSUMTYPE="MD5" SIZE="3075689">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00217_0.jp2"/>
+      </file>
+      <file ID="jp2_00217_1" MIMETYPE="image/jp2" CHECKSUM="3172b55540255f75733c68b8c64f0d9b" CHECKSUMTYPE="MD5" SIZE="2741682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00217_1.jp2"/>
+      </file>
+      <file ID="jp2_00218_0" MIMETYPE="image/jp2" CHECKSUM="45238e1b3b340ee19bfccbb2843460bf" CHECKSUMTYPE="MD5" SIZE="2660482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00218_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00213_0" MIMETYPE="text/xml" CHECKSUM="dcb328c6a7d72a34d414cf34c484ae5c" CHECKSUMTYPE="MD5" SIZE="8977">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00213_0.xml"/>
+      </file>
+      <file ID="alto_00213_1" MIMETYPE="text/xml" CHECKSUM="12f84a754a6d9bb6f29a969e5855017c" CHECKSUMTYPE="MD5" SIZE="64764">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00213_1.xml"/>
+      </file>
+      <file ID="alto_00214_0" MIMETYPE="text/xml" CHECKSUM="cbd04f216928ed22ca4728349eb4110d" CHECKSUMTYPE="MD5" SIZE="105558">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00214_0.xml"/>
+      </file>
+      <file ID="alto_00214_1" MIMETYPE="text/xml" CHECKSUM="1d1fd91c3266fb87043f0aae68cb73ee" CHECKSUMTYPE="MD5" SIZE="89194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00214_1.xml"/>
+      </file>
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="ba8043b2197a4d407d33696c6bcebcac" CHECKSUMTYPE="MD5" SIZE="106381">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00215_0.xml"/>
+      </file>
+      <file ID="alto_00215_1" MIMETYPE="text/xml" CHECKSUM="6a5df5e1a9ef34150fc29a64561a9a4b" CHECKSUMTYPE="MD5" SIZE="100922">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00215_1.xml"/>
+      </file>
+      <file ID="alto_00216_0" MIMETYPE="text/xml" CHECKSUM="2e7830ed32e19b4478e45ef2638738b0" CHECKSUMTYPE="MD5" SIZE="101987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00216_0.xml"/>
+      </file>
+      <file ID="alto_00216_1" MIMETYPE="text/xml" CHECKSUM="c24f0f25fb8e5740f9e5bd143db3fd0d" CHECKSUMTYPE="MD5" SIZE="81918">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00216_1.xml"/>
+      </file>
+      <file ID="alto_00217_0" MIMETYPE="text/xml" CHECKSUM="573ba475c7da86fc86b81b57eeaaa5b4" CHECKSUMTYPE="MD5" SIZE="97873">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00217_0.xml"/>
+      </file>
+      <file ID="alto_00217_1" MIMETYPE="text/xml" CHECKSUM="c0500c5eeca16bc2ed9b6b749a2b592a" CHECKSUMTYPE="MD5" SIZE="101318">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00217_1.xml"/>
+      </file>
+      <file ID="alto_00218_0" MIMETYPE="text/xml" CHECKSUM="956e9009b6e2a1b9895b380ece0cfa2f" CHECKSUMTYPE="MD5" SIZE="84465">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00218_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0061" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="399" lastpage="409">
+              <court id="b425-4" pgmap="425">Court of Appeals of Arkansas Divisions III and IV</court>
+              <docketnumber id="ALM" pgmap="425">CA CR 00-257</docketnumber>
+              <citation id="ANOI" pgmap="425">44 S.W.3d 751</citation>
+              <parties id="b425-3" pgmap="425">William J. WIGLEY v. STATE of Arkansas</parties>
+              <decisiondate id="AlaU" pgmap="425">Opinion delivered May 2, 2001</decisiondate>
+              <judges id="b428-10" pgmap="428">Stroud, C.J., and Jennings, Bird, and Vaught, JJ., agree.</judges>
+              <judges id="b428-11" pgmap="428">Hart, ]., dissents.</judges>
+              <attorneys id="b426-8" pgmap="426">R. Paul Hughes, III, for appellant.</attorneys>
+              <attorneys id="b426-9" pgmap="426">Mark Pryor, Att’y Gen., by: Misty Wilson Borkowski, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b426-10" pgmap="426">TERRY CRABTREE, Judge.</author>
+                <p id="Ag0" pgmap="426">Law-enforcement officials seized drugs and related materials after they made a warrantless entry into the home of a parolee, Lori Friddle, where the appellant, William Wigley, was an overnight guest. After a trial, a jury sitting in the Sebastian County Circuit Court found appellant guilty of manufacturing methamphetamine and sentenced him to twenty-­three years in the Arkansas Department of Correction. On appeal, appellant maintains that the trial court erred in denying his motion to suppress part of the evidence seized from Friddle’s residence. We affirm.</p>
+                <p id="b426-11" pgmap="426">Friddle executed a consent-in-advance form as a condition of gaining parole. Friddle’s parole officer testified that this condition of release stated that “you must admit your person, place or residence and motor vehicle to search and seizure at any time, day or night, with or without a search warrant, whenever requested to do so by any Department of Community Punishment Officer.” Following Friddle’s execution of this condition, the local drug task force began to investigate possible illegal drug activities occurring in her residence. The county criminal investigator understood, based on information gained from an informant who had been in Friddle’s residence, that illegal activities were occurring in the house. On March 4, 1999, at approximately 5:00 a.m. the investigator con­tacted Friddle’s parole officer and stated that methamphetamine was being cooked in the house. Approximately an hour later, a warrant-­less search of the house was conducted based on the “consent in advance” form signed by Friddle.</p>
+                <p id="b427-5" pgmap="427">Four detectives and two patrolmen accompanied the parole officer to Friddle’s residence to conduct the search. The search resulted in the seizure of a bag of white powder from a cigarette case with “Lori” on it, a hypodermic needle, and two used syr­inges. However, this appeal focuses on the search of a cardboard box and the seizure of its contents. In a den near the back-door entrance of the house, the officers found a cardboard box that was partially concealed with clothing and a trash bag lying on the top of the box. Inside the box, officers discovered one empty can of Toluene, one empty can of acetone, a plastic Dr. Pepper bottle with a reddish liquid, two jars with a chemical substance, tubing, and a Pyrex glassware with some residue. Based on this seized material, appellant was charged with possession of methamphetamine with intent to deliver. Appellant moved to suppress, arguing that the contents of the box were searched and seized in violation of the Fourth and Fourteenth Amendments, and the trial court denied the motion.</p>
+                <p id="b427-6" pgmap="427">
+                   A defendant, as the proponent of a motion to suppress, bears the burden of establishing that his Fourth Amendment rights have been violated. Richard v. State, 64 Ark. App. 177, 983 S.W.2d 438 (1998). When reviewing the trial court’s denial of a motion to suppress, the appellate courts make an independent determination based on the totality of the circumstances and reverse only if the trial court’s ruling was clearly against the preponderance of the evidence. Welch v. State, 330 Ark. 158, 955 S.W.2d 181 (1997).</p>
+                <p id="b427-7" pgmap="427(186) 428(91)">
+                   Appellant brings this appeal contending that the State violated his Fourth and Fourteenth Amendment rights by searching and seizing items by virtue of a warrantless search. In response, the State argues that appellant lacks standing to challenge the search because the host’s consent-in-advance rendered appellant’s expecta­tion of privacy unreasonable. It is well setded that capacity to claim the protection of the Fourth Amendment depends upon whether a person who claims the protection has a legitimate expectation of privacy in the invaded place. Katz v. United States, 389 U.S. 347 (1967). We must decide whether appellant has standing to challenge the search in Friddle’s residence. Fourth Amendment rights against unreasonable searches and seizures are personal in nature. Rakas v. Illinois, 439 U.S. 128 (1978). Thus, a defendant must have standing before he can challenge a search on Fourth Amendment grounds. Ramage v. State, 61 Ark. App. 174, 966 S.W.2d 267 (1998). A person’s Fourth Amendment rights are not violated by the intro­duction of damaging evidence secured by a search of a third per­son’s premises or property. Rankin v. State, 57 Ark. App. 125, 942 S.W.2d 867 (1997). One is not entitled to automatic standing sim­ply because he is present in the area or on the premises searched or because an element of the offense with which he is charged is possession of the thing discovered in the search. Embry v. State, 70 Ark. App. 122, 15 S.W.3d 367 (2000). The pertinent inquiry-­regarding standing to challenge a search is whether a defendant manifested a subjective expectation of privacy in the area searched and whether society is prepared to recognize that expectation as reasonable. Id.</p>
+                <p id="b428-6" pgmap="428">We are cognizant of Minnesota v. Olson, 495 U.S. 91 (1990), wherein the Supreme Court held that an overnight guest has a legitimate expectation of privacy in a host’s home. However in Olson, the Court reasoned, “From the overnight guest’s perspective, he seeks shelter in another’s home precisely because it provides him with privacy, a place where he and his possessions will not be disturbed by anyone but his host and those his host allows inside.” 495 U.S. at 99 (emphasis added). In this instance, Friddle, the host, expressly allowed law-enforcement officials to search her home and person at any time as a condition of her release.</p>
+                <p id="b428-7" pgmap="428">In United States v. Matlock, 415 U.S. 164 (1974), the Court addressed third-party consents by commenting that “any of the co-­inhabitants has the right to permit the inspection in his own right and that the others have assumed the risk that one of their number might permit the common area to be searched.” 415 U.S. at 172, n.7 (emphasis added). Here, appellant assumed this risk. Indeed, Friddle could allow anyone inside her home, and Friddle had ample time to apprize appellant of this condition of her release.</p>
+                <p id="b428-8" pgmap="428">
+                   We believe that an overnight guest has no reasonable expectation of privacy when the host consents to a search. Accord­ingly, we conclude that as an overnight guest in a parolee’s home, appellant did not have a reasonable expectation of privacy in the cardboard box located in a common area of the parolee’s residence. Thus, appellant lacks standing under the Fourth Amendment to contest the legality of the warrantless search based upon his host’s consent-in-advance.</p>
+                <p id="b428-9" pgmap="428">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author id="b429-3" pgmap="429">JOSEPHINE LINKER HART, Judge,</author>
+                <p id="AuT" pgmap="429">dissenting. Few things should cause more distress in an American than when the judiciary of this country decides to allow a defendant’s misdeeds to diminish the liberties granted in the Bill of Rights for all. When viewed as a studied statement of law, the majority’s efforts repre­sent, by any objective 'measure, a new assault on the “right of the people to be secure in their person, houses, papers, and effects against unreasonable searches and seizures . . . U.S. Const., amend. 4. See also Ark. Const, art. 2, § 15. I have neither pity for appellant in this matter nor a role in determining his guilt or innocence. Instead, after careful consideration, the majority’s opin­ion, in my view, further relegates the Fourth Amendment to a mere collection of artfully selected words that have progressively less value.</p>
+                <p id="b429-4" pgmap="429">The critical facts of this case reveal that Lori Friddle executed a consent-in-advance as a condition of gaining parole, which, accord­ing to the testimony of the parole officer, gave law enforcement officials authority to search either her person or premises at any time or for any reason. Following Friddle’s execution of this con­sent, the county criminal investigator understood, based on infor­mation gained from an informant who had been in the Friddle’s residence, that illegal activities were occurring in the house. Upon ascertaining that Friddle resided in the house and that she was on parole, the investigator contacted Friddle’s parole officer at approxi­mately 5:00 a.m. and stated that up to fifteen people were in the house and that methamphetamine was being cooked in the house. Despite the government’s knowledge that its search could affect the constitutional rights of up to fifteen people, it elected to avoid getting a warrant. Instead, within a one-hour period, it brought Friddle’s parole officer to the house and began a warrantless search of the entire premises at approximately 6:00 a.m.</p>
+                <p id="b429-5" pgmap="429(132) 430(49)">The search resulted in the seizure of both drugs and related materials: a bag of white powder from a cigarette case with “Lori” on it was located in Friddle’s bedroom, a hypodermic needle in a dresser drawer, a used syringe in a lady’s black coat that was hanging on the back of a chair in the kitchen, and a used syringe in a man’s denim jacket that was hanging on the back of a chair in the bedroom. The seized items, however, that are the subject of this appeal were found in a box, the contents of which were concealed from the police because clothing covered the box’s top, while the police were searching a common area of the house (a den near the back-door entrance). Appellant, an overnight guest, was removed from the premises by the police before the search began and, conse­quently, was unable to assert any interest in the box.<footnotemark>1</footnotemark> In fact, the box and its contents belonged to appellant. Based on the seized material, appellant was charged with possession of methampheta­mine with intent to deliver.</p>
+                <p id="b430-4" pgmap="430">Appellant moved to suppress, arguing that the contents of the box were searched and seized in violation of the Fourth Amend­ment as made applicable to the respective states through the Four­teenth Amendment, and the trial court denied the motion. From appellant’s conviction, comes this appeal.</p>
+                <p id="b430-5" pgmap="430">We, of course, begin with the recognition that Fourth Amend­ment rights are personal in nature, Rakas v. Illinois, 439 U.S. 128, 133 (1978), and “searches conducted outside the judicial process, without prior approval by judge or magistrate, are per se unreasona­ble under the Fourth Amendment . . . .” Katz v. United States, 389 U.S. 347, 357 (1967). Specifically, “searches and seizures inside a home without a warrant are presumptively unreasonable [partly because] . . . [i]n terms that apply equally to seizures of property and to seizures of persons, the Fourth Amendment has drawn a firm line at the entrance to the house.” Payton v. New York, 445 U.S. 573, 586 and 590 (1980). These principles are “subject only to a few specifically established and well-delineated exceptions.” Katz, 389 U.S. at 357. For example, searches based on first-party consent can be considered reasonable, Schneckloth v. Bustamonte, 412 U.S. 218, 219 (1973), and within the narrow parameters of United States v. Matlock, 415 U.S. 164 (1974), searches based on third-party consent can also be considered reasonable.</p>
+                <p id="b430-6" pgmap="430">To raise a Fourth Amendment challenge, the defendant must demonstrate that he has a “legitimate expectation of privacy in the invaded place,” which he can do if he establishes a subjective expectation of privacy that is “one that society is prepared to recognize as ‘reasonable.’ ” Rakas, 439 U.S. at 143-144 n.12. Com­mensurate with this principle, “an overnight guest . . . [has] an expectation of privacy in [a host’s] home,” because as a guest, he has a subjective expectation of privacy “that society is prepared to recognize as reasonable.” Minnesota v. Olson, 495 U.S. 91, 96-97 (1990). Furthermore, as the Court explained in Olson, 495 U.S. at 99-100:</p>
+                <blockquote id="b431-5" pgmap="431">That the guest has a host who has ultimate control of the house is not inconsistent with the guest having a legitimate expectation of privacy. ... If the untrammeled power to admit and exclude were essential to Fourth Amendment protection, an adult daughter tem­porarily living in the home of her parents would have no legitimate expectation of privacy ....</blockquote>
+                <p id="b431-6" pgmap="431">Overshadowing this analysis is an understanding that, “[t]he essential purpose of the proscriptions in the Fourth Amendment is to impose a standard of ‘reasonableness’ upon the exercise of discre­tion by government officials,” Delaware v. Prouse, 440 U.S. 648, 653-654 (1979), and the “Amendment is designed to prevent, not simply to redress, unlawful police action.” Chimel v. California, 395 U.S. 752, 766 n.12 (1969). Moreover, our understanding of the meaning of this Amendment is aided by an appreciation for the reasons that it was adopted. As stated in Steagald v. United States, 451 U.S. 204, 220 (1981) (citations omitted):</p>
+                <blockquote id="b431-7" pgmap="431">■The Fourth Amendment was intended partly to protect against the abuses of the general warrants that had occurred in England and of the writs of assistance used in the Colonies. The general warrant specified only an offense — typically seditious libel — and left to the discretion of the executing officials the decision as to which, persons should be arrested and which places should be searched. Similarly, the writs of assistance used in the Colonies noted only the object of the search —• any uncustomed goods — and thus left customs officials completely free to search any place where they believed such goods might be. The central objectionable feature of both warrants was that they provided no judicial check on the determination of the executing officials that the evidence available justified an intrusion into any particular home.</blockquote>
+                <p id="b431-8" pgmap="431(136) 432(46)">Commensurate with the foregoing, warrantless searches and seizures cannot be judicially sanctioned when to do so would estab­lish a principle that would expose citizens to “a significant potential [of government] abuse.” Steagald, 451 U.S. at 215. With specific regard to a consent by a third-party, the “common authority” requirement announced in Matlock cannot be inferred because “the burden of establishing . . . common authority rests upon the State.” Illinois v. Rodriguez, 497 U.S. 177, 181 (1990). Furthermore, a “determination of consent to enter must ‘be judged against an objective standard: would the facts available to the officer at the moment. . . warrant a man of reasonable caution in the belief that the consenting party had authority over the premises?” Rodriguez, 497 U.S. at 188 (quoting Terry v. Ohio, 392 U.S. 1 (1968)). This objective standard allows for the possibility that “when the invita­tion is accompanied by an explicit assertion that the person lives there, the surrounding circumstances could conceivably be such that a reasonable person would doubt its truth and not act upon it without further inquiry.” Id.</p>
+                <p id="b432-6" pgmap="432">I dissent because the majority’s view prevents an overnight guest from raising his personal Fourth Amendment rights and estab­lishes a principle that allows warrantless searches in a manner that is contrary to the requirements embodied in the Fourth Amendment.</p>
+                <p id="b432-7" pgmap="432">I.</p>
+                <p id="b432-8" pgmap="432">The defendant, as an overnight guest, plainly has standing to raise a Fourth Amendment challenge. Contrary to the majority’s opinion, the real issue in this case is not standing; instead, the issue is whether the warrantless search and seizure of the defendant’s prop­erty was reasonable in light of the parolee’s consent-in-advance. This is a important constitutional issue that has not been addressed by either the United States Supreme Court or the Arkansas Supreme Court.</p>
+                <p id="b432-9" pgmap="432">II.</p>
+                <p id="b432-10" pgmap="432">I am concerned that we have engaged in less than an indepen­dent determination based on the totality of the circumstances to determine whether the denial of the suppression motion was clearly against the preponderance of the evidence, Welch v. State, 330 Ark. 158, 164, 955 S.W.2d 181, 183 (1997), because we have not seen the document that is at the center of this storm — the parolee’s consent form. That critical document encompasses the scope and breadth of the government’s power, and in light of the fact that a critical constitutional question is posed in this case, I am uncom­fortable with affirming the trial court without the benefit of a review of the actual consent. This is not a criticism of the witness whose testimony provides the only insight into the consent. Instead, I am concerned with whether the consent provided an appropriate balance between the government’s interest in operating an effective parole system and society’s interest in safeguarding constitutional rights of citizens, whose expectations of privacy are not reduced in the way a parolee’s expectations are compromised.</p>
+                <p id="b433-5" pgmap="433">III.</p>
+                <p id="b433-6" pgmap="433">One may think that the majority’s view is perfectly appropriate because, after all, if someone associates with a parolee, then they also should expect this type of government intrusion into their lives. Such a point of view fails to recognize that Fourth Amendment rights are personal in nature and condones warrantless searches that the Amendment was conceived to prevent. One may retort that such a close adherence to the Fourth Amendment may allow a third-party to provide sanctuary for a parolee and, thereby, contra­vene parole authorities. However, as the California Court of Appeals in People v. Veronica, 107 Cal. App.3d 906, 909, 166 Cal. Rptr. 109, 110-111 (1980), so rightly put it:</p>
+                <blockquote id="b433-7" pgmap="433">This, of course, approaches the problem from the wrong end: it is the Fourth Amendment that makes a constitutional sanctuary of all “persons, houses, papers, and effects . . . .” which sanctuary can ideally only be violated by a search pursuant to a warrant. While a consent search of a parolee’s home is an exception to this basic rule, it is not, however, an end in itself which justifies further invasions of constitutionally protected zones of privacy.</blockquote>
+                <p id="b433-8" pgmap="433">Furthermore, the government does not rely on any precedent to support its ostensible position that the consent-in-advance con­stituted a valid third-party consent. Any attempt to do so must, at a minimum, concede that the consent here was unlike that consid­ered in Matlock. The search in Matlock was made immediately after the third-party consent was given. Here, we simply do not know how much time passed — days, months, or even years. Secondly, the consent in Matlock was given freely and without any benefit given in consideration for it; however, in the case at bar, the consent was bargained for and given in exchange for freedom from prison. Finally, the consent given in Matlock was undoubtedly a third-party consent; however, there is a real question of whether the consent-in-advance in this case was only a first-party consent that the government simply used as a third-party consent. We must cull through the facts of both Matlock and this case to determine whether the consent was truly a valid third-party consent. I submit that the facts here are sufficiendy distinguishable to conclude that Matlock is not controlling in this matter.</p>
+                <p id="b433-9" pgmap="433(33) 434(56)">The majority begins with the premise that the consent in this case was similar to any other typical third-party consent when, in fact, it was unlike the commonly understood concept of such a consent. Generally, the host-guest relationship is created and, there­after, the host gives the consent to search the guest’s belongings. Here, however, the consent was given before the host-guest rela­tionship was created, and there is no evidence in the record that appellant had knowledge of his host’s status as a parolee. This distinction is critical.</p>
+                <p id="b434-6" pgmap="434">One must acknowledge that this framework does not fit the facts of this case. Consequently, the majority’s view alters the tradi­tional definition of a third-party consent and allows for a new type of third-party consent. Under this new version, the host no longer has the exclusive right to consent to future searches of guests’s belonging because that power has been given to the government in consideration for freedom from prison. Stated differently, the gov­ernment is not subject to the direction of the host vis-á-vis an individual guest; instead, the government immediately acquires the power to search all guests’s property unbeknownst to everyone other than the host and the government.</p>
+                <p id="b434-7" pgmap="434">The majority’s opinion attempts to take what is actually a less-­than voluntary first-party consent, which is contrary to Schneckloth, and gives it the appearance of a valid third-party consent. Specifi­cally, because the people who are actually giving the “consent” (:i.e., the guests) are effectively dealing directly, although unknow­ingly, with the government, it cannot be said that they stand in the shoes of a third-person vis-á-vis the government. Stated differently, under the traditional concept of third-party consent, a reasonable guest knowingly assumes the potential risk that his proxy may be used to permit a government search of his property; however, under the majority’s view the guest directly and unknowingly gives the govern­ment the authority to search his property. In my view, the major­ity’s version of third-party consent allows the government to intrude on an individual’s Fourth Amendment rights by stealth.</p>
+                <p id="b434-8" pgmap="434(27) 435(112)">Here, few would doubt that the government was really con­ducting a criminal investigation instead of trying to effectively administer a parole system.<footnotemark>2</footnotemark> Moreover, the government understood that its search could touch on the constitutional rights of up to fourteen people other than the parolee. Nevertheless, it proceeded to invade a house in a manner untested by our judiciary when, by my view, it had sufficient probable cause to obtain a search warrant. The facts of this case demonstrate perfectly that in the vast majority of cases the government can both engage in effective law enforce­ment and conduct a search with judicial oversight. In my view, we should not create one more exception to the requirement that government must first get a warrant before entering a house when, in fact, a warrant could have been so easily attained.</p>
+                <p id="b435-6" pgmap="435">If there is to be liberty, then its survival depends upon the judiciary guarding it jealously. Our commission is to require that the government act faithfully in accordance with the Fourth Amendment, not to repeatedly absolve its warrantless searches and seizures. As Justice Bradley advised, “[I]Ilegitímate and unconstitu­tional practices get their first footing ... by silent approaches and slight deviations from legal modes of procedure. ... It is the duty of the courts to be watchful for the constitutional rights of the citizen, and against any stealthy encroachment thereon.” Boyd v. United States, 116 U.S. 616, 635 (1886).</p>
+                <p id="b435-7" pgmap="435">Although the Bill of Rights was a product of human efforts and, therefore, inherently imperfect, what the Founders left us, in my view, is far better than any alternative offered to date. We should, therefore, inspire compliance by the government, and in doing so, we would protect the law-abiding citizen from unreasona­ble intrusion by the government. The intent of the Fourth Amend­ment is not to protect criminals, but it is to establish rules to protect the innocent and to maintain the security of the citizenry in their own homes. By enforcing this rule, we would not only follow the mandates of the law, but we would also confirm to the people our continued faith in the vision given us by our Founders. It is upon that foundation that I respectfully offer this dissent.</p>
+                <footnote label="1">
+                  <p id="b430-7" pgmap="430">1 Even if appellant had been present during the search, he should not be expected to forego his Fifth Amendment right to remain silent in order to preserve his Fourth Amend­ment challenge to the warrantless search and seizure of his personal property.</p>
+                </footnote>
+                <footnote label="2">
+                  <p id="b434-9" pgmap="434">2 As explained in United States v. Harper, 928 F.2d 894, 897 (9th Cir. 1991) (citations omitted):</p>
+                  <blockquote id="b434-10" pgmap="434(71) 435(11)">[T]he police may not use a parole officer as a “stalking horse” to evade the fourth amendment’s warrant requirement. However, police and parole officers are entided to work together to achieve their objectives; concerted action does not in and of itself make a search constitutionally infirm. The proper question is whether the parole officer used her authority to help the police evade the fourth amendment’s warrant requirement or whether the parole officer cooperated with the police to achieve her own legitimate objectives.</blockquote>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="425" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00213_0"/>
+        <fptr FILEID="jp2_00213_0"/>
+        <fptr FILEID="alto_00213_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_425.2" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="426" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00213_1"/>
+        <fptr FILEID="jp2_00213_1"/>
+        <fptr FILEID="alto_00213_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.1" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="427" ORDERLABEL="401" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jp2_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.2" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="428" ORDERLABEL="402" TYPE="page">
+        <fptr FILEID="tiff_00214_1"/>
+        <fptr FILEID="jp2_00214_1"/>
+        <fptr FILEID="alto_00214_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.2" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="429" ORDERLABEL="403" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.2" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="430" ORDERLABEL="404" TYPE="page">
+        <fptr FILEID="tiff_00215_1"/>
+        <fptr FILEID="jp2_00215_1"/>
+        <fptr FILEID="alto_00215_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.2" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="431" ORDERLABEL="405" TYPE="page">
+        <fptr FILEID="tiff_00216_0"/>
+        <fptr FILEID="jp2_00216_0"/>
+        <fptr FILEID="alto_00216_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.2" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="432" ORDERLABEL="406" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jp2_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.2" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="433" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00217_0"/>
+        <fptr FILEID="jp2_00217_0"/>
+        <fptr FILEID="alto_00217_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_433.2" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="434" ORDERLABEL="408" TYPE="page">
+        <fptr FILEID="tiff_00217_1"/>
+        <fptr FILEID="jp2_00217_1"/>
+        <fptr FILEID="alto_00217_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_434.2" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="435" ORDERLABEL="409" TYPE="page">
+        <fptr FILEID="tiff_00218_0"/>
+        <fptr FILEID="jp2_00218_0"/>
+        <fptr FILEID="alto_00218_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_435.4" BETYPE="IDREF" FILEID="alto_00218_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-3" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.3" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.7" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.3" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.8" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALM" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.4" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.4" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANOI" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.5" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.7" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            <area BEGIN="BL_430.1" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.4" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.6" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_435.1" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.7" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.5" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.6" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlaU" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.7" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag0" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.10" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_426.11" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-11" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.9" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.8" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-4" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.4" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.5" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.6" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b435-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_435.6" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.7" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.7" BETYPE="IDREF" FILEID="alto_00217_0"/>
+            <area BEGIN="BL_434.1" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.5" BETYPE="IDREF" FILEID="alto_00217_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.4" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.5" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            <area BEGIN="BL_428.1" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b427-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_427.3" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-5" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.3" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.5" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.4" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-4" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.6" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-3" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuT" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            <area BEGIN="BL_429.5" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.6" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.5" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.4" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.8" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.7" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-4" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.6" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b433-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_433.5" BETYPE="IDREF" FILEID="alto_00217_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-6" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-7" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.5" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-11" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.12" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.9" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-8" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.6" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-9" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.7" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b434-10" BETYPE="IDREF" FILEID="casebody_0061"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_434.8" BETYPE="IDREF" FILEID="alto_00217_1"/>
+            <area BEGIN="BL_435.2" BETYPE="IDREF" FILEID="alto_00218_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

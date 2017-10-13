@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000660_0013" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Statler v. Painter">David and Margaret STATLER v. Bobby and Rose PAINTER</name>
+          <docketnumber>CA 03-531</docketnumber>
+          <citation category="official" type="bluebook">84 Ark. App. 114</citation>
+          <citation category="parallel" type="bluebook">133 S.W.3d 425</citation>
+          <decisiondate>2003-12-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:50:51Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:52:14Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:38:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:39:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00069_1" MIMETYPE="image/tiff" CHECKSUM="a49abca7c1ef7cd9519c1a1d4fe714fa" CHECKSUMTYPE="MD5" SIZE="16082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00069_1.tif"/>
+      </file>
+      <file ID="tiff_00070_0" MIMETYPE="image/tiff" CHECKSUM="b63ba97d02ccfd1710cabce86c7bc09e" CHECKSUMTYPE="MD5" SIZE="4078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00070_0.tif"/>
+      </file>
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="058477f8294422463574367d222b5f74" CHECKSUMTYPE="MD5" SIZE="37206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="bd12e39be968695882de0b2c9954889b" CHECKSUMTYPE="MD5" SIZE="49940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="8b055c64a7c9234de9857823bbb3b9d0" CHECKSUMTYPE="MD5" SIZE="49728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="238654dcb82f66d847c0bdd42eea8825" CHECKSUMTYPE="MD5" SIZE="54496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00072_0.tif"/>
+      </file>
+      <file ID="tiff_00072_1" MIMETYPE="image/tiff" CHECKSUM="88f15514093280ef52f3996227e40555" CHECKSUMTYPE="MD5" SIZE="54114">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00072_1.tif"/>
+      </file>
+      <file ID="tiff_00073_0" MIMETYPE="image/tiff" CHECKSUM="6862692f6a5353f65a4f9adc84883ff3" CHECKSUMTYPE="MD5" SIZE="20536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00073_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00069_1" MIMETYPE="image/jp2" CHECKSUM="56b0d05ef6949d515c8d7a8a27ec64a4" CHECKSUMTYPE="MD5" SIZE="1782059">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00069_1.jp2"/>
+      </file>
+      <file ID="jp2_00070_0" MIMETYPE="image/jp2" CHECKSUM="b8eaa6af515e1c466dbf71771f81fd91" CHECKSUMTYPE="MD5" SIZE="1154938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00070_0.jp2"/>
+      </file>
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="9619f232233cbab4bfc589fc44f57e1e" CHECKSUMTYPE="MD5" SIZE="2133111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="705fda2ce03db22b15b41ac340f444d2" CHECKSUMTYPE="MD5" SIZE="2512257">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="0b7fabb522f6f4270d7a320254351801" CHECKSUMTYPE="MD5" SIZE="2517001">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="11451553955c65a7c0a3b8284f1d629d" CHECKSUMTYPE="MD5" SIZE="2540238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00072_0.jp2"/>
+      </file>
+      <file ID="jp2_00072_1" MIMETYPE="image/jp2" CHECKSUM="df3daa0ef61738d334dac7e731620b96" CHECKSUMTYPE="MD5" SIZE="2558529">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00072_1.jp2"/>
+      </file>
+      <file ID="jp2_00073_0" MIMETYPE="image/jp2" CHECKSUM="2b7837c7045118eb1afc42325cd2e513" CHECKSUMTYPE="MD5" SIZE="1899127">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000660_00073_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00069_1" MIMETYPE="text/xml" CHECKSUM="637986e9bed57cf216b876c13228a317" CHECKSUMTYPE="MD5" SIZE="23482">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00069_1.xml"/>
+      </file>
+      <file ID="alto_00070_0" MIMETYPE="text/xml" CHECKSUM="d53bf4352cf18f6e8db54f52831aae01" CHECKSUMTYPE="MD5" SIZE="1681">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00070_0.xml"/>
+      </file>
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="14fa45e84cab86a2198c6ba2bb4e2443" CHECKSUMTYPE="MD5" SIZE="62256">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="616f4822407642618c4068249c85aec7" CHECKSUMTYPE="MD5" SIZE="90948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="eff1b0565e09d1bf94e05afefbbafe48" CHECKSUMTYPE="MD5" SIZE="82287">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="06f8757984d05b6ffc6c475ad155ff12" CHECKSUMTYPE="MD5" SIZE="93245">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00072_0.xml"/>
+      </file>
+      <file ID="alto_00072_1" MIMETYPE="text/xml" CHECKSUM="8a08e287d708539dcb1ef8b05f590570" CHECKSUMTYPE="MD5" SIZE="95154">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00072_1.xml"/>
+      </file>
+      <file ID="alto_00073_0" MIMETYPE="text/xml" CHECKSUM="6eeced92e7b29b75567c427ffdab407a" CHECKSUMTYPE="MD5" SIZE="34820">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000660_redacted_ALTO_00073_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="121" firstpage="114">
+              <court pgmap="138" id="b138-8">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="138" id="AGe">CA 03-531</docketnumber>
+              <citation pgmap="138" id="AfR">133 S.W.3d 425</citation>
+              <parties pgmap="138" id="b138-7">David and Margaret STATLER v. Bobby and Rose PAINTER</parties>
+              <decisiondate pgmap="138" id="b138-9">Opinion delivered December 3, 2003</decisiondate>
+              <judges pgmap="145" id="b145-6">Neal and Crabtree, JJ., agree.</judges>
+              <attorneys pgmap="140" id="b140-7">Don R. Brown, for appellant.</attorneys>
+              <attorneys pgmap="140" id="b140-8">Tom Gamer, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="140" id="AI_">Wendell L. Griffen, Judge.</author>
+                <p pgmap="140" id="AJp">Appellants David and Mar­garet Statler petitioned the Randolph County Circuit Court to reform their deed and the deed of their neighbors, appellees Bobby and Rose Painter, to correct the deeds’ description of the parties’ common border. The trial court refused to reform the deeds, and appellants appeal. We affirm in part and remand in part.</p>
+                <p pgmap="140" id="b140-10">Appellants acquired their property in 1997 from the Hufst-­edler family, who owned nearly seventy acres of land in Randolph County. That year, Darren Hufstedler informed appellant David Statler that he would like to sell some of the family’s land. Statler told Hufstedler that he wanted approximately ten acres. Hufstedler testified that whichever ten acres Statler chose was fine with him. Statler staked out the particular area he wanted, showed the area to Hufstedler, and contacted Terry Throesch to survey the area and provide a description for the deed. The chosen tract was irregularly-shaped but resembled a triangle with a wide base on the south, two fairly even sides on the west and east, and a jagged top on the north.</p>
+                <p pgmap="140(65) 141(19)" id="b140-11">Throesch observed the area Statler had staked out, set the corners, and proceeded to conduct the survey. From that survey, he prepared a legal description that would appear in the deed from the Hufstedlers to appellants. However, as Throesch would later admit, he made a mistake in surveying appellants’ eastern border; his line was not far enough east and, as a result, the description did not include a .29-acre strip that appellants had staked out. Throe-­sch’s description follows, with the mistaken portion emphasized:</p>
+                <blockquote pgmap="141" id="b141-5">A part of the Northwest Quarter of the Northwest Quarter (NW1/4 NW1/4) of Section Five (5), Township Eighteen (18) North, Range One (1) West, Randolph County, Arkansas, more particularly described as follows: Commencing at the Northwest corner of the said Northwest Quarter of the Northwest Quarter (NW1/4 NW1/4); thence South 00° 13' 06" West along the West line of said...NWl/4 NW1/4, 224.76 feet to the point of begin­ning; thence S. 89° 13' 35" East parallel with the North line of said...NWl/4 NW1/4,255.00 feet; thence North 00° 13' 05" East parallel with the West line of said.. .NW 1/4 NW 1/4170 feet; thence South 89° 13' 35" East 297.00 feet; thence South 40° 50' 22" East 150.00 feet; thence South 49° 46' 17" East 326.35 feet to the Northwesterly right of way line of U.S. Highway #62; thence in a Southwesterly direction along said right of way line the following meanders: a nontangent curve to the left, 276.83 feet, said curve having a central angle of 02° 49' 36" and a radius of 5611.06 feet; North 26° 27' 51" West 10.00 feet; a nontangent curve to the left, 404.32 feet, said curve having a central angle of 04° 07' 16" and a radius of 5621.06 feet; South 30° 35' 07" East 10.00 feet; a nontan-­gent curve to the left, 351.83 feet, said curve having a central angle of 03° 35' 33" and a radius of5611.06 feet; thence leaving said right of way line, North 00° 13' 06" East along the West line of said...NWl/4 NW1/4, 660.00 feet to the. point of beginning, containing 9.054 acres, and subject to an easement for road purpose along the West side thereof.</blockquote>
+                <p pgmap="141" id="b141-6">The error would not be discovered for several years; it was not apparent to appellants merely by looking at the survey.</p>
+                <p pgmap="141" id="b141-7">Meanwhile, the Hufstedlers sold their remaining land to the Walton family in 1998. Some of the land conveyed to the Waltons abutted appellants’ eastern border. The Walton deed described that common border in a manner that corresponded precisely to the erroneous description in appellants’ deed:</p>
+                <blockquote pgmap="141" id="b141-8">thence leaving said right-of-way line, North 49° 46' 17" West 326.35feet; thence North 40° 50' 22" West 150feet. . .</blockquote>
+                <p pgmap="142" id="b142-4">The record does not reveal who prepared this description, but in any event, the error in appellants’ survey carried over into the Walton deed.</p>
+                <p pgmap="142" id="b142-5">In 1999, Throesch was hired to divide the Walton land into three equal tracts of 19.08 acres each. He did so and prepared legal descriptions of each tract. He did not go into the field to create these descriptions. In describing the border line that Tract II shared with appellants, Throesch used the same erroneous descrip­tion that appeared in appellants’ deed. On April 3, 2000, the Waltons deeded Tract II to appellees. Appellees’ deed contained the following description of the border line that they shared with appellants:</p>
+                <blockquote pgmap="142" id="b142-6">thence leaving said right-of-way, N. 49° 46' 16"W. 326.35feet; thence N. 40° 50' 22"W. 139.60feet.</blockquote>
+                <p pgmap="142" id="b142-7">Except for a slight variation, this description of the boundary line in appellees’ deed corresponds to the erroneous description of it in appellants’ deed. Thus, Throesch’s original mistake carried over into appellees’ deed.</p>
+                <p pgmap="142" id="b142-8">The end result of Throesch’s mistake is that appellees’ deed contains the .29-acre disputed strip that should have been included in appellants’ deed.</p>
+                <p pgmap="142" id="b142-9">In 2001, in the course of setting appellees’ corners on an unrelated matter, Throesch realized his mistake. He informed appellants and appellees and tried to help them resolve the situa­tion, but his efforts were not successful; both parties wanted the strip. Thereafter, appellees began clearing the strip to erect a fence. On August 23, 2002, appellants filed suit, seeking a declaration that they owned the strip and seeking monetary damages from appellees for the destruction of trees. At trial, without objection from appellees, appellants changed their claim to seek reformation of their deed and appellees’ deed on the ground of mutual mistake. The trial court declined to grant reformation, and this appeal followed.</p>
+                <p pgmap="142(47) 143(101)" id="b142-10">
+                   Reformation is an equitable remedy that is available when the parties have reached a complete agreement but, through mutual mistake, the terms of their agreement are not correctly reflected in the written instrument purporting to evidence the agreement. Lambert v. Quinn, 32 Ark..App. 184, 798 S.W.2d 448 (1990). A mutual mistake is one that is reciprocal and common to both parties, each alike laboring under the same misconception in respect to the terms of the written instrument. Yeargan v. Bank of Montgomery County, 268 Ark. 752, 595 S.W.2d 704 (Ark. App. 1980). A mutual mistake must be shown by clear and decisive evidence that, at the time the agreement was reduced to writing, both parties intended their written agreement to say one thing and, by mistake, it expressed something different. See Lambert v. Quinn, supra. Whether a mutual mistake warranting reformation occurred is a question of fact. Id.</p>
+                <p pgmap="143" id="b143-5">
+                   Even in reformation cases, where the burden of proof is by clear and convincing evidence, we defer to the superior position of the trial judge to evaluate the evidence, Akin v. First National Bank, 25 Ark. App. 341, 758 S.W.2d 14 (1988), and the proof need not be undisputed. Lambert v. Quinn, supra. Although we review traditional equity cases de novo, the test on review is not whether we are convinced that there is clear and convincing evidence to support the trial judge’s findings but whether we can say that the trial judge’s findings are clearly erroneous. Id.</p>
+                <p pgmap="143" id="b143-6">
+                   The mistake of a draftsman, whether he is one of the parties or merely a scrivener, is an adequate ground for reformation if the writing fails to reflect the parties’ true understanding. See Jones v. Jones, 27 Ark. App. 297, 770 S.W.2d 174 (1989). A court may, through reformation, correct the description in a deed where the deed incorrectly reflects the property that the parties intended to be conveyed. See, e.g., Kohn v. Pearson, 282 Ark. 418, 670 S.W.2d 795 (1984); Galyen v. Gillenwater, 247 Ark. 701, 447 S.W.2d 137 (1969); Lambert v. Quinn, supra.</p>
+                <p pgmap="143" id="b143-7">In the case at bar, it is undisputed that the Hufstedlers intended to sell and appellants intended to buy the disputed strip of land. Darren Hufstedler allowed appellant David Statler to choose the property he wanted. Statler staked out the area that contained the strip. Throesch testified that Statler showed Hufstedler what he wanted to buy. Throesch then completed the survey that resulted in the incorrect description of the eastern border. Thus, through the mistake of the person who wrote the land description, the strip was not contained in appellants’ deed, even though both buyer and seller intended that it would be.</p>
+                <p pgmap="144" id="b144-4">
+                   Ordinarily, appellants would be entitled to reforma­tion of their deed for such a mistake. However, a party cannot obtain reformation if reformation would prejudice a subsequent bona fide purchaser. Maurice v. Schmidt, 214 Ark. 725, 218 S.W.2d 356 (1949); 76 C.J.S. Reformation of Instruments § 58 (1994); 66 Am. Jur. 2D Reformation of Instruments § 62 (2d ed. 2001); 14 Richard Powell, Powell on Real Property § 81A.07[3][d] (2000); 2 Dobbs Law of Remedies § 11.6(1) at 743, 754 (2d ed. 1993); Annot., Right to Reformation of Contract or Instrument as Affected by Intervening Rights of Third Persons, 79 A.L.R. 2d 1180 (1961 &amp; Supp. 2000). The reason behind such a rule is that, when a bona fide purchaser acquires an interest in land and makes an investment in the land, that party is entitled to have his expectations protected. Powell on Real Property, supra.</p>
+                <p pgmap="144" id="b144-5">
+                   We hold that appellees were bona fide purchasers, such that they should not be divested of the disputed strip through reformation of the deeds. If reformation were allowed in this case, appellees would lose ownership of the strip, even though the strip is contained in their deed description, they purchased the strip, and they bought their land with no notice of the mistake in the deed descriptions. Although there was some evidence that, after appel­lees purchased their property, they were unsure about where the common boundary line was located and they later recognized appellants’ ownership of the strip, there is nothing to show that, at the time of purchase or before, they had notice of any claim on the land they were purchasing. See Grasby v. Findley, 198 Ark. 1015, 132 S.W.2d 379 (1939). Therefore, appellees should be regarded as bona fide purchasers whose interests cannot be prejudiced by reformation. The trial court’s denial of reformation is therefore affirmed.<footnotemark>1</footnotemark>
+                </p>
+                <p pgmap="144(53) 145(103)" id="b144-6">
+                   Despite our affirmance of this case, we remand to the trial court to consider what appears to be an error in the order appealed from. The order sets out each parties’ ownership by reciting the legal descriptions of each party’s land. Because the deeds were not reformed, those descriptions should read the same as the descriptions in the parties’ deeds. However, the trial court’s recitation of appellants’ description appears to us to read as though it were reformed. Lines 13 and 14 contain the call lines “South 61° 31' 40" East 142.15 feet, thence South 40° 26' 39" East 332.16 feet.” We believe that this may be the description of the border as it would have read if the deed had been reformed, not as it was actually deeded. We therefore remand to the trial court for the sole purpose of considering whether a mistake occurred in drafting the order and, if so, to rectify it.</p>
+                <p pgmap="145" id="b145-5">Affirmed in part; remanded in part.</p>
+                <footnote label="1">
+                  <p pgmap="144" id="b144-7">1 While we cannot be sure of the trialjudge’s reason for denying reformation, because he announced no reason, we may affirm the court’s decision if it was correct for any reason. Fritzinger v. Beene, 80 Ark. App. 416, 97 S.W.3d 440 (2003).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="138" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00069_1"/>
+        <fptr FILEID="jp2_00069_1"/>
+        <fptr FILEID="alto_00069_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_138.2" BETYPE="IDREF" FILEID="alto_00069_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="139" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00070_0"/>
+        <fptr FILEID="jp2_00070_0"/>
+        <fptr FILEID="alto_00070_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_139.2" BETYPE="IDREF" FILEID="alto_00070_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="140" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.3" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="144" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00072_1"/>
+        <fptr FILEID="jp2_00072_1"/>
+        <fptr FILEID="alto_00072_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_144.1" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="145" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00073_0"/>
+        <fptr FILEID="jp2_00073_0"/>
+        <fptr FILEID="alto_00073_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_145.3" BETYPE="IDREF" FILEID="alto_00073_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfR" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.9" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.4" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.6" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.5" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.8" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.3" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGe" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.8" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.7" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.7" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI_" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.9" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.4" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b145-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_145.5" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.11" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJp" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.10" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_140.11" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_140.12" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.7" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-9" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.8" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b138-8" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_138.10" BETYPE="IDREF" FILEID="alto_00069_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-11" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.14" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            <area BEGIN="BL_141.1" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.13" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.3" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-5" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.4" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-6" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.5" BETYPE="IDREF" FILEID="alto_00072_1"/>
+            <area BEGIN="BL_145.1" BETYPE="IDREF" FILEID="alto_00073_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.9" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            <area BEGIN="BL_143.1" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b144-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_144.6" BETYPE="IDREF" FILEID="alto_00072_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

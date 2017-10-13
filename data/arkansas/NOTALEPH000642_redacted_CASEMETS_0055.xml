@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000642_0055" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Riley v. Drew County">William RILEY, Ed GIBSON and Travis GIBSON v. DREW COUNTY, Arkansas</name>
+          <docketnumber>CA 82-89</docketnumber>
+          <citation category="official" type="bluebook">6 Ark. App. 293</citation>
+          <citation category="parallel" type="bluebook">641 S.W.2d 38</citation>
+          <decisiondate>1982-11-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:24:07Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:09Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:20:32Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:21:40Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00161_0" MIMETYPE="image/tiff" CHECKSUM="c7ac58baa105addf63f7e73c5a95dd3e" CHECKSUMTYPE="MD5" SIZE="27158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00161_0.tif"/>
+      </file>
+      <file ID="tiff_00161_1" MIMETYPE="image/tiff" CHECKSUM="1392c5eb76eafc941ddf8301024e1726" CHECKSUMTYPE="MD5" SIZE="47396">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00161_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00161_0" MIMETYPE="image/jp2" CHECKSUM="4bde7d03d2d37629047ec4fe8ef4012a" CHECKSUMTYPE="MD5" SIZE="2320618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00161_0.jp2"/>
+      </file>
+      <file ID="jp2_00161_1" MIMETYPE="image/jp2" CHECKSUM="4c963fe4d3c7d406121ba42d270b5aa9" CHECKSUMTYPE="MD5" SIZE="2694721">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000642_00161_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00161_0" MIMETYPE="text/xml" CHECKSUM="36787fd2d17feea8b1103b7bae11e591" CHECKSUMTYPE="MD5" SIZE="41315">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00161_0.xml"/>
+      </file>
+      <file ID="alto_00161_1" MIMETYPE="text/xml" CHECKSUM="3942eb921afb49eb295dc867d3fef325" CHECKSUMTYPE="MD5" SIZE="78164">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000642_redacted_ALTO_00161_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0055" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="294" firstpage="293">
+              <court pgmap="321" id="b321-8">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="321" id="b321-7">CA 82-89</docketnumber>
+              <citation pgmap="321" id="AEm">641 S.W.2d 38</citation>
+              <parties pgmap="321" id="b321-6">William RILEY, Ed GIBSON and Travis GIBSON v. DREW COUNTY, Arkansas</parties>
+              <decisiondate pgmap="321" id="Ad7">Opinion delivered November 3, 1982</decisiondate>
+              <attorneys pgmap="321" id="b321-11">James W. Haddock, for appellants.</attorneys>
+              <attorneys pgmap="321" id="b321-12">James A. Ross, Jr., County Atty., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="321" id="b321-13">Lawson Cloninger, Judge.</author>
+                <p pgmap="321(23) 322(61)" id="Az3">In this eminent domain proceeding the Drew County Court acquired a portion of appellants’ lands for the widening and paving of an existing gravel highway designated as State Highway 277. The appellants, William Riley, Ed Gibson and Travis Gibson, filed a claim in Drew County Court seeking to have Drew County move and replace appellants’ fences along the right-­of-way. The Drew County Court denied the claims, and on appeal to the circuit court, a jury returned a verdict denying the claims of appellants.</p>
+                <p pgmap="322" id="b322-4">The question asked by appellants on this appeal is this: “Is the county liable for the replacement of fences taken in an eminent domain proceeding or does enhanced value cover that also?”</p>
+                <p pgmap="322" id="b322-5">Evidence was presented which indicates that appellants do not want to sell their land and are unable to build new fences for the control of their livestock. However, there was substantial evidence introduced from which the jury could find that the enhanced value of appellants’ land amounted to considerably more than the value of the land taken plus the cost of erecting new fences.</p>
+                <p pgmap="322" id="b322-6">Where there is a partial taking of a landowner’s property, as is the case here, the rule is that the measure of damages is the difference between the value of the whole land before the appropriation and the value of the portion remaining after the appropriation. Arkansas State Highway Commission v. Fox, 230 Ark. 287, 322 S.W.2d 81 (1959). In Cullum v. Van Buren County, 223 Ark. 525, 267 S.W.2d 14 (1954), the Arkansas Supreme Court held that even though a landowner’s fence, trees and well were destroyed by the construction of a road, the property owner had received just compensation by virtue of the benefits that his property derived from the establishment of a new road. The concept of enhancement was recognized in that case, and the landowner was disallowed any damages. In the case before the court, the jury considered all the evidence regarding appellants’ damages and the enhancement value of the remaining property, and we must conclude that the evidence was sufficient to support the verdict.</p>
+                <p pgmap="322" id="b322-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="321" ORDERLABEL="293" TYPE="page">
+        <fptr FILEID="tiff_00161_0"/>
+        <fptr FILEID="jp2_00161_0"/>
+        <fptr FILEID="alto_00161_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_321.3" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="322" ORDERLABEL="294" TYPE="page">
+        <fptr FILEID="tiff_00161_1"/>
+        <fptr FILEID="jp2_00161_1"/>
+        <fptr FILEID="alto_00161_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.2" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.12" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEm" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.10" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.9" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.8" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.11" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.7" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.8" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.5" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.6" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.17" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-13" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.19" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b321-12" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.18" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az3" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_321.20" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            <area BEGIN="BL_321.21" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            <area BEGIN="BL_322.1" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

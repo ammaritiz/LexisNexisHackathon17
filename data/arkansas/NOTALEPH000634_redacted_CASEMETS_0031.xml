@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000634_0031" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Lee v. Lee">Barbara Loftin LEE v. Robert J. LEE, Jr.</name>
+          <docketnumber>CA 90-479</docketnumber>
+          <citation category="official" type="bluebook">35 Ark. App. 192</citation>
+          <citation category="parallel" type="bluebook">816 S.W.2d 625</citation>
+          <decisiondate>1991-10-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T14:41:46Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:51:28Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T17:40:14Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T17:40:51Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="52077be6d50d8c4a888210b651c8a338" CHECKSUMTYPE="MD5" SIZE="7452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="553ce1d370ffe937da3598f26eed2837" CHECKSUMTYPE="MD5" SIZE="17920">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00109_0.tif"/>
+      </file>
+      <file ID="tiff_00109_1" MIMETYPE="image/tiff" CHECKSUM="002ea5bf48e563a8edbe6e32de247a82" CHECKSUMTYPE="MD5" SIZE="55124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00109_1.tif"/>
+      </file>
+      <file ID="tiff_00110_0" MIMETYPE="image/tiff" CHECKSUM="235f772322f3cfebcaf1deaaa09f7686" CHECKSUMTYPE="MD5" SIZE="58850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00110_0.tif"/>
+      </file>
+      <file ID="tiff_00110_1" MIMETYPE="image/tiff" CHECKSUM="ddc014322af86f4b40d8b19100d16da9" CHECKSUMTYPE="MD5" SIZE="56948">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00110_1.tif"/>
+      </file>
+      <file ID="tiff_00111_0" MIMETYPE="image/tiff" CHECKSUM="7725ff4f6cef64d82c822a500f172e97" CHECKSUMTYPE="MD5" SIZE="51216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00111_0.tif"/>
+      </file>
+      <file ID="tiff_00111_1" MIMETYPE="image/tiff" CHECKSUM="0d41f10bafb3044270d35c55d353ec4e" CHECKSUMTYPE="MD5" SIZE="48298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00111_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="13b2c0f98f4f529cce622f1f381c4663" CHECKSUMTYPE="MD5" SIZE="1250174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="469b6a6f815e78c3cc51c3f42d2d0da9" CHECKSUMTYPE="MD5" SIZE="1758268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00109_0.jp2"/>
+      </file>
+      <file ID="jp2_00109_1" MIMETYPE="image/jp2" CHECKSUM="bd232b985ea4449d8073d67f17086752" CHECKSUMTYPE="MD5" SIZE="2584169">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00109_1.jp2"/>
+      </file>
+      <file ID="jp2_00110_0" MIMETYPE="image/jp2" CHECKSUM="a328f6c69cc4e0076ef17b5353a65338" CHECKSUMTYPE="MD5" SIZE="2617659">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00110_0.jp2"/>
+      </file>
+      <file ID="jp2_00110_1" MIMETYPE="image/jp2" CHECKSUM="3a9878c399e49df37a18e453ace30213" CHECKSUMTYPE="MD5" SIZE="2666903">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00110_1.jp2"/>
+      </file>
+      <file ID="jp2_00111_0" MIMETYPE="image/jp2" CHECKSUM="a106a35d8eebc662070370ad9267a076" CHECKSUMTYPE="MD5" SIZE="2651589">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00111_0.jp2"/>
+      </file>
+      <file ID="jp2_00111_1" MIMETYPE="image/jp2" CHECKSUM="29983cd84399fd2af93fa1eddb660a2f" CHECKSUMTYPE="MD5" SIZE="2533021">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000634_00111_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="96910b7797d06f3b523c440d37397cff" CHECKSUMTYPE="MD5" SIZE="8428">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="07ac15ce12aa52fccd496ce0c238b40d" CHECKSUMTYPE="MD5" SIZE="24939">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00109_0.xml"/>
+      </file>
+      <file ID="alto_00109_1" MIMETYPE="text/xml" CHECKSUM="b9877db567377f340d09527a1eb38a0f" CHECKSUMTYPE="MD5" SIZE="88766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00109_1.xml"/>
+      </file>
+      <file ID="alto_00110_0" MIMETYPE="text/xml" CHECKSUM="039a1763a526f27118d8711a037edcab" CHECKSUMTYPE="MD5" SIZE="96794">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00110_0.xml"/>
+      </file>
+      <file ID="alto_00110_1" MIMETYPE="text/xml" CHECKSUM="fd02857ac7b0a3d444d47c8bd4dc487c" CHECKSUMTYPE="MD5" SIZE="93152">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00110_1.xml"/>
+      </file>
+      <file ID="alto_00111_0" MIMETYPE="text/xml" CHECKSUM="51e8352e7cfd9c1db0e0f162b4ebbf55" CHECKSUMTYPE="MD5" SIZE="90349">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00111_0.xml"/>
+      </file>
+      <file ID="alto_00111_1" MIMETYPE="text/xml" CHECKSUM="239121ef9d55d68e1a5d54c9849954d0" CHECKSUMTYPE="MD5" SIZE="75193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000634_redacted_ALTO_00111_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="192" lastpage="198">
+              <court pgmap="216" id="b216-5">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="216" id="b216-4">CA 90-479</docketnumber>
+              <citation pgmap="216" id="Ap">816 S.W.2d 625</citation>
+              <parties pgmap="216" id="b216-3">Barbara Loftin LEE v. Robert J. LEE, Jr.</parties>
+              <decisiondate pgmap="216" id="b216-6">Opinion delivered October 9, 1991</decisiondate>
+              <judges pgmap="222" id="b222-9">Cooper and Rogers, JJ., agree.</judges>
+              <attorneys pgmap="217" id="b217-11">Truman H. Smith, for appellant.</attorneys>
+              <attorneys pgmap="217" id="b217-12">John C. Everett, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="217" id="b217-13">George K. Cracraft, Chief Judge.</author>
+                <p pgmap="217(79) 218(30)" id="AZ7">Barbara Loftin Lee appeals from a decree of divorce entered in Washington County Chancery Court. She contends that the chancellor erred in enforcing an antenuptial agreement and, in the alternative, that the chancellor erred in his determination of the amount of property that she was entitled to receive under the agreement. Appellee, Robert J. Lee, Jr., cross-appeals, contending that the chancellor erred in dividing certain nonmarital property. We affirm the decree to the extent that the chancellor found the antenuptial agreement to be valid and enforceable, but we find sufficient merit in appellant’s second point on appeal to warrant reversal and remand. We find no merit in appellee’s cross-appeal.</p>
+                <p pgmap="218" id="b218-4">
+                   This court reviews chancery cases de novo on the record. However, we will not reverse the findings of the chancellor unless they are clearly erroneous or clearly against the preponder­ance of the evidence, giving due deference to the superior position of the chancellor to judge the credibility of witnesses and the weight to be given their testimony. Walker v. Hubbard, 31 Ark. App. 43, 787 S.W.2d 251 (1990); Ark. R. Civ. P. 52(a).</p>
+                <p pgmap="218" id="b218-5">The record indicates that the parties were married on July 18, 1980. Both parties had been married previously and had children by those marriages. They had known each other for about five weeks before they were married. Prior to their marriage, the parties signed an antenuptial agreement, which had been prepared at the direction of appellee. The agreement indicated a desire by the parties that their individual estates descend to their respective children and heirs, and provided that the property owned by each party at the time of the marriage would remain his or her separate property and that neither party would acquire, as a result of the marriage, any interest in the property or estate of the other, or right to control any interest in income, rents, and profits derived therefrom. The agreement provided that all property acquired by the parties subsequent to the marriage would be owned jointly by them. It further provided that, in the event of divorce, appellant was entitled to receive $ 1,000.00 in full satisfaction of any interest in appellee’s property that she might have acquired under the law.</p>
+                <p pgmap="218" id="b218-6">The parties separated in January 1987 and were divorced by a decree entered July 23, 1990. The chancellor found that the antenuptial agreement was valid and that the fair market value of all property acquired subsequent to the marriage, which was not replacement property, was $62,800.00. Appellant was awarded $31,400.00 plus $1,000.00 as her share under the agreement.</p>
+                <p pgmap="218" id="b218-7">Appellant first contends that the chancellor erred in finding that the antenuptial agreement was valid and enforceable. We disagree.</p>
+                <p pgmap="218(7) 219(194)" id="b218-8">
+                   Our law recognizes that parties contemplating mar­riage may, by agreement, fix the rights of each in the property of the other differently than established by law. Such agreements must be made in contemplation of the marriage lasting until death, rather than in contemplation of divorce. Oliphant v. Oliphant, 177 Ark. 613, 7 S.W.2d 783 (1928); Gooch v. Gooch, 10 Ark. App. 432, 664 S.W.2d 900 (1984). However, an agreement that is not solely intended to be operative upon divorce is not void merely because it mentions or is operative upon divorce among other contingencies. Dingledine v. Dingledine, 258 Ark. 204, 523 S.W.2d 189 (1975); Babb v. Babb, 270 Ark. 289, 604 S.W.2d 574 (Ark. App. 1980). Marriage is sufficient considera­tion for such agreements. Comstock v. Comstock, 146 Ark. 266, 225 S.W.2d 621 (1920); Babb v. Babb, supra. An antenuptial agreement will be enforced by the court where the agreement was freely entered into by both parties, and is not unjust, inequitable, or tainted with fraud. Faver v. Faver, 266 Ark. 262, 583 S.W.2d 44 (1979); Arnold v. Arnold, 261 Ark. 734, 553 S.W.2d 251 (1977); Davis v. Davis, 196 Ark. 57, 116 S.W.2d 607 (1938); Gooch v. Gooch, supra.</p>
+                <p pgmap="219" id="b219-6">At the hearing, appellant testified that appellee wanted her to sign an agreement before they were married but did not explain to her the effect of such an agreement or the rights that she would be relinquishing under it. She testified that, approximately one hour before the wedding, she received a call from appellee’s attorney’s office, advising her that she needed to sign the agreement before the wedding. Appellant stated that she went to the attorney’s office in her wedding dress and signed the docu­ment, without having it explained to her and without reading it. She testified that she was not made aware of the extent of appellee’s property before the marriage.</p>
+                <p pgmap="219(105) 220(20)" id="b219-7">Appellee testified that he and appellant had discussed the antenuptial agreement before they were married and that he advised appellant that he would not get married without such an agreement. He stated that appellant told him that she “would be glad to sign it” and “didn’t want me for anything I have.” Appellant admitted on cross-examination that there was no pressure put on her to sign the agreement. There was evidence that the agreement had been prepared and was ready for signing several days prior to the wedding. Attached to the agreement was a detailed list of all of appellee’s property and the value thereof. The list showed that, at the time the agreement was executed, appellee had a net worth in excess of $600,000.00.</p>
+                <p pgmap="220" id="b220-6">
+                   Relying on Faver, Arnold, and Davis, appellant argues that because appellee’s wealth and means were so dispro­portionate to the provisions made for her, it must be presumed that there was a designed concealment by appellee of his assets. Those cases held that, where the provisions for the wife are disproportionate to the means of the husband, a presumption arises that there has been a designed concealment. Such pre­sumption places a burden on the husband to show by a preponder­ance of the evidence that the wife had knowledge of the character and extent of his assets, or ought to have had such knowledge at the time the agreement was signed. Faver v. Faver, supra; Arnold v. Arnold, supra; Davis v. Davis, supra. Here, unlike in those cases, the presumption was overcome by proof. There was made available to appellant a complete list of appellee’s assets, the value thereof, and appellee’s estimated net worth. There was evidence that, before the marriage, appellant had been on appellee’s farm, knew that he had chicken houses and cattle, and had seen appellee’s company trucks on his property. She admitted that no pressure had been applied to force her to sign the agreement.</p>
+                <p pgmap="220" id="b220-7">
+                   We agree with the chancellor that appellant’s failure to read the proposed agreement before she signed it did not excuse her from its consequences. It is a rule of general application that one is bound to know the content of a document signed by her and if she has the opportunity to read it before she signs it, she cannot escape the obligations imposed by the document by merely stating that it was signed without reading it. See Stone v. Prescott School Dist., 119 Ark. 553, 178 S.W. 399 (1915); Lambert v. Quinn, 32 Ark. App. 184, 798 S.W.2d 448 (1990). When all of the facts and circumstances are considered, we cannot conclude that the chancellor’s findings that there had been full disclosure by the parties of their respective financial conditions, that appellant entered into the agreement freely and voluntarily, and that the provisions of the agreement were fair and equitable are clearly erroneous.</p>
+                <p pgmap="220(20) 221(6)" id="b220-8">Appellant next contends that the trial court erred in its determination of the amount of property she was entitled to receive under the agreement. We agree.</p>
+                <p pgmap="221" id="b221-6">With regard to after-acquired property, the agreement provided:</p>
+                <blockquote pgmap="221" id="b221-7">[A]ny property acquired by them subsequent to the contemplated marriage, not including the increase in presently owned property either by way of appreciation of [sic] payment of outstanding indebtednesses, shall be owned jointly by them and that in the event of divorce or death, each of them shall be entitled to the ownership of one-half of any such property acquired subsequent to the date of the contemplated marriage.</blockquote>
+                <p pgmap="221" id="b221-8">At the conclusion of the hearing, the chancellor stated:</p>
+                <blockquote pgmap="221" id="b221-9">There was discussion, some, about the value of all of it. (I sort of lumped it all together at the very end and I said, “Lee, what in your judgment is the value of that property today, because it’s the value today that I have to go by?” If the property is worn out and not in use, I can’t go back and pick up what it costs then and try to divide it in that way. He talked about the tractor, about a new chicken house, about some barns, about some other stuff the court considers rather minor and he says “Judge in my judg­ment, all of that is worth the sum of $60,000.00.” That’s the figure I wrote down after I added what he had said. In addition to that, he said, “I don’t know any other major items,” and I went back looking to see if I could find any and I found $2800.00 from Tyson stock that had been purchased since that time. So, all in all I find there’s been $62,800.00 that I think we could call a new acquisition.</blockquote>
+                <p pgmap="221" id="b221-10">This finding was carried forward in the judgment and appellant was awarded the sum of $31,400.00 as her share of the property.</p>
+                <p pgmap="221(82) 222(29)" id="b221-11">From our review of the entire record, the figure of $60,000 given by appellee as the total present value of all property acquired subsequent to the marriage is not permissibly deducible from the evidence presented on that issue. Our de novo review discloses testimony concerning a number of other items of personal property acquired subsequent to the marriage that were not included in that $60,000 figure, and we are unable to conclude that they were “minor items” or presently valueless. As the testimony is not clear as to the present value of some of those items, we are unable, on de novo review, to make an accurate determination of those values.</p>
+                <p pgmap="222" id="b222-6">
+                   We conclude that the chancellor’s finding that the total present value of all property acquired subsequent to the marriage was $62,800.00 is clearly against the preponderance of the evidence, and we reverse that portion of the decree. The cause is remanded for further proceedings to determine the present value of all “property acquired by them subsequent to the contemplated marriage, not including the increase in presently owned property either by way of appreciation [or] payment of outstanding indebtedness,” and for entry of an order awarding appellant an amount equal to one-half of the total present value thereof.</p>
+                <p pgmap="222" id="b222-7">
+                   On cross-appeal, appellee contends that the trial court erred in its determination that appellant was entitled to certain property under the agreement. He argues that although the paragraph to which the court referred in its conclusion does state that property acquired subsequent to the marriage was to be divided equally, the provisions of preceding sections provide that each will retain his or her separate property and that the other will have “no interest in the income, increased rents, or profits, or dividends arising therefrom.” He argues that these preceding provisions eliminate from consideration any property purchased with monies produced by his separate property. We disagree. The agreement clearly states that property acquired subsequent to the marriage shall be owned jointly, with each party entitled to one-­half ownership in any such property. If there is any ambiguity created in another portion of the agreement, it must be resolved in favor of appellant. Appellee prepared the agreement and any ambiguity must be resolved against him. Williams v. Cotten, 9 Ark. App. 304, 658 S.W.2d 421 (1983).</p>
+                <p pgmap="222" id="b222-8">Reversed and remanded on appeal; affirmed on cross-appeal.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="216" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.1" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="193" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.3" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="218" ORDERLABEL="194" TYPE="page">
+        <fptr FILEID="tiff_00109_1"/>
+        <fptr FILEID="jp2_00109_1"/>
+        <fptr FILEID="alto_00109_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_218.2" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="219" ORDERLABEL="195" TYPE="page">
+        <fptr FILEID="tiff_00110_0"/>
+        <fptr FILEID="jp2_00110_0"/>
+        <fptr FILEID="alto_00110_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_219.3" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="220" ORDERLABEL="196" TYPE="page">
+        <fptr FILEID="tiff_00110_1"/>
+        <fptr FILEID="jp2_00110_1"/>
+        <fptr FILEID="alto_00110_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_220.2" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="221" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00111_0"/>
+        <fptr FILEID="jp2_00111_0"/>
+        <fptr FILEID="alto_00111_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_221.3" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="222" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00111_1"/>
+        <fptr FILEID="jp2_00111_1"/>
+        <fptr FILEID="alto_00111_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_222.2" BETYPE="IDREF" FILEID="alto_00111_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.9" BETYPE="IDREF" FILEID="alto_00109_1"/>
+            <area BEGIN="BL_219.1" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.6" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.5" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.15" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_217.16" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_218.1" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.7" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.5" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.6" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.7" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b218-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_218.8" BETYPE="IDREF" FILEID="alto_00109_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.4" BETYPE="IDREF" FILEID="alto_00110_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b219-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_219.5" BETYPE="IDREF" FILEID="alto_00110_0"/>
+            <area BEGIN="BL_220.1" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.4" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.8" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.5" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.12" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-13" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.14" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-12" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.13" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b221-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_221.9" BETYPE="IDREF" FILEID="alto_00111_0"/>
+            <area BEGIN="BL_222.1" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.5" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-3" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.3" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.4" BETYPE="IDREF" FILEID="alto_00110_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.7" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.4" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.6" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-7" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.5" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.4" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.7" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b222-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_222.6" BETYPE="IDREF" FILEID="alto_00111_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b220-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_220.6" BETYPE="IDREF" FILEID="alto_00110_1"/>
+            <area BEGIN="BL_221.1" BETYPE="IDREF" FILEID="alto_00111_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

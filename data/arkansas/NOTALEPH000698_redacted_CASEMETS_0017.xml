@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000698_0017" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jones v. Billingsley">Terry JONES v. Barbara BILLINGSLEY</name>
+          <docketnumber>CA 04-153</docketnumber>
+          <citation category="official" type="bluebook">88 Ark. App. 131</citation>
+          <citation category="parallel" type="bluebook">195 S.W.3d 380</citation>
+          <decisiondate>2004-10-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T20:25:41Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:58:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-16T10:34:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-16T10:37:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="80dcc4766b04f1f3e33e142efedebf4f" CHECKSUMTYPE="MD5" SIZE="17744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="fd8eb198ddd54b158aa587613841ed88" CHECKSUMTYPE="MD5" SIZE="37786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00079_1.tif"/>
+      </file>
+      <file ID="tiff_00080_0" MIMETYPE="image/tiff" CHECKSUM="58752f79facbd0b339f8465ff8d815f1" CHECKSUMTYPE="MD5" SIZE="58638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00080_0.tif"/>
+      </file>
+      <file ID="tiff_00080_1" MIMETYPE="image/tiff" CHECKSUM="ea91c76bd4f4f259cacf41b4a1f34ef0" CHECKSUMTYPE="MD5" SIZE="57878">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00080_1.tif"/>
+      </file>
+      <file ID="tiff_00081_0" MIMETYPE="image/tiff" CHECKSUM="780c90fc74f01d83e909870ad3f290d7" CHECKSUMTYPE="MD5" SIZE="18860">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00081_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="bef33dc9477853f50be3af69e62b098e" CHECKSUMTYPE="MD5" SIZE="1738540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00079_0.jp2"/>
+      </file>
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="a39f40ad6255946014f20022f4dcdd91" CHECKSUMTYPE="MD5" SIZE="2074312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00079_1.jp2"/>
+      </file>
+      <file ID="jp2_00080_0" MIMETYPE="image/jp2" CHECKSUM="a8cb508f6899db3850ee90c99bc8371c" CHECKSUMTYPE="MD5" SIZE="2543652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00080_0.jp2"/>
+      </file>
+      <file ID="jp2_00080_1" MIMETYPE="image/jp2" CHECKSUM="5e1a42e1fe322b2da5dda46329da03c6" CHECKSUMTYPE="MD5" SIZE="2533279">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00080_1.jp2"/>
+      </file>
+      <file ID="jp2_00081_0" MIMETYPE="image/jp2" CHECKSUM="38fc6d9c154f2542286e44295af9c921" CHECKSUMTYPE="MD5" SIZE="1868262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000698_00081_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="879a3f8b2350d1c1c90b6dedf6927f88" CHECKSUMTYPE="MD5" SIZE="25322">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00079_0.xml"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="80138fcc17fddb8b1b0abb2d1e5361ff" CHECKSUMTYPE="MD5" SIZE="64341">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00079_1.xml"/>
+      </file>
+      <file ID="alto_00080_0" MIMETYPE="text/xml" CHECKSUM="6b02d75555ba66ecad7b1dad6a20e050" CHECKSUMTYPE="MD5" SIZE="100592">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00080_0.xml"/>
+      </file>
+      <file ID="alto_00080_1" MIMETYPE="text/xml" CHECKSUM="d0cf3052f827828fef6c3672f0c51b95" CHECKSUMTYPE="MD5" SIZE="98045">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00080_1.xml"/>
+      </file>
+      <file ID="alto_00081_0" MIMETYPE="text/xml" CHECKSUM="81e24c1d3ab3634ff69d44cc563f12c1" CHECKSUMTYPE="MD5" SIZE="28648">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000698_redacted_ALTO_00081_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="131" lastpage="135">
+              <court pgmap="157" id="b157-8">Court of Appeals of Arkansas</court>
+              <docketnumber pgmap="157" id="AtY">CA 04-153</docketnumber>
+              <citation pgmap="157" id="AkW">195 S.W.3d 380</citation>
+              <parties pgmap="157" id="b157-7">Terry JONES v. Barbara BILLINGSLEY</parties>
+              <decisiondate pgmap="157" id="A7-">Opinion delivered October 13, 2004</decisiondate>
+              <judges pgmap="161" id="b161-5">Gladwin and Robbins, JJ., agree.</judges>
+              <attorneys pgmap="158" id="b158-8">Chris Taylor, Jr., for appellant.</attorneys>
+              <attorneys pgmap="158" id="b158-9">Tom Allen, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="158" id="pAmt">Larry Vaught, Judge.</author>
+                <p pgmap="158" id="A7S">This is an appeal from an order granting appellee Barbara Billingsley a judgment for past-­due child support owed by appellant Terry Jones. On appeal, appel­lant argues that the trial court erred (1) in denying a motion to transfer to the proper court where there was a previous order of transfer in effect, and (2) in granting a judgment against appellant for past-due child support where his sole source of income was supplemental security income (SSI) from the Social Security Administration. We affirm.</p>
+                <p pgmap="158" id="b158-11">On July 10, 1995, Judge Stephen Choate of the Indepen­dence County Chancery Court ordered that appellant pay $112.70 per month in child support to appellee, beginning in July 1995. The child support was based on appellant’s monthly $451 SSI check. Appellant filed a timely motion to vacate that order on the ground that the order violated federal law and was inconsistent with Arkansas guidelines. We assume that the motion was deemed denied because no order appears in the record, and appellant did not file an appeal.</p>
+                <p pgmap="158(81) 159(85)" id="b158-12">On April 29, 2003, appellee filed a petition for judgment alleging that appellant had not paid any child support and was in arrears in the amount of $10,593.80. The case was assigned to Judge Harkey’s court. On June 6, 2003, appellant filed a motion to transfer the case to Judge Choate’s court on the basis that the parties had been before Judge Choate on numerous occasions, that he was familiar with the parties, and that a transfer would be in the interest of judicial economy. Appellee responded that the action was a civil action for a money judgment, that transfer would not be in the interest of judicial economy, that the issue was simple, and that there was no reason to transfer the case. On August 29, 2003, appellant filed a counter-complaint, alleging that SSI is not subject to collection of child support and that he was entitled to reim­bursement of any funds taken from him since the date that he was approved for SSI.</p>
+                <p pgmap="159" id="b159-5">The trial court entered an order granting appellee judgment for $10,816 past-due child support, plus interest in the amount of $4,867.20. The court found that appellant’s defense that “[SSI] income is not subject to the collection of support” was “unten­able.” The trial court also ordered that appellant was liable for July 2003 and August 2003 child support, which amounted to $225.40. The total amount of child-support arrearages and interest was $15,908.60. The court also awarded appellee an attorney’s fee in the amount of $1500. The court noted that although the case was submitted on appellee’s motion for judgment on the pleadings, appellant had the opportunity to offer evidence in court, but declined to do so. In addition, the trial court denied appellant’s motion to transfer and his counterclaim. Appellant filed a timely notice of appeal.</p>
+                <p pgmap="159" id="b159-6">Appellant first contends that the trial court erred in denying the motion to transfer the case from Judge Harkey’s division to Judge Choate’s division. This argument is based on the fact that “Chancellor Carl McSpadden entered an order on December 5, 1991, transferring this case to . . . the court of Judge Stephen Choate.” Therefore, appellant suggests that the present case was improperly before Judge Harkey, and thus the motion to transfer should have been granted.</p>
+                <p pgmap="159(130) 160(22)" id="b159-7">The transfer order to which appellant refers is not in the addendum. The order is, however, contained in the record, and it merely states, “Comes now the court and for good cause shown transfers this case to the court of Honorable Stephen Choate where all matters of custody may be decided as to the child of the marriage, subject to Judge Choate’s approval to transfer.” At the hearing below, appellant’s counsel argued that the case should be transferred because of this order and because Judge Choate had handled the case for twelve years and was familiar with the parties. Appellee’s counsel responded that it was a simple case with one issue — whether appellant owed child support pursuant to a court order. Counsel for appellee further added that appellant admitted in request for admissions that he had paid no support. Judge Harkey apparently agreed with appellee and denied the motion to transfer.</p>
+                <p pgmap="160" id="b160-5">
+                   The standard of review on appeal of a denial of a case-transfer request is the same as in cases of judicial disqualifica­tion, which is whether the trial judge abused his discretion. Osborne v. Power, 318 Ark. 858, 865 S.W.2d 635 (1994) (setting forth the standard of review in a judicial disqualification case). Because this was a one-issue case, which was tried on the pleadings and did not involve child custody, we cannot say that the trial judge abused his discretion in denying the motion to transfer.</p>
+                <p pgmap="160" id="b160-6">For his second point, appellant contends that the trial court erred in awarding appellee a judgment for past-due child support because his sole source of income was SSI benefits. In support of this argument he cites Davis v. Office of Child Support Enforcement, 341 Ark. 349, 20 S.W.3d 273 (2000). The Davis case involved an appeal from the trial court’s order of child support that was based on appellant’s SSI income. The supreme court reversed the court of appeals decision holding that appellant’s SSI income was income for purposes of child-support and subject to child-support pay­ments. The supreme court stated that although SSI falls within the definition of income for child-support purposes, it is not subject to state court jurisdiction. Ultimately, the supreme court held that Arkansas courts cannot order child-support payments based on income from federal SSI-disability benefits.</p>
+                <p pgmap="160" id="b160-7">Here, the order of support was made in 1995 and entered in 1996, prior to the ruling in Davis, supra. Appellee argues that appellant made no motion to modify the child-support order and that Ark. Code Ann. § 9-14-234 (Repl. 2002) provides that a support order shall be a final judgment subject to writ of garnish­ment or execution as to any payment accrued until the time either party moves to alter or modify the order. Here, appellant has filed no motion to modify the 1995/1996 order on the basis that Davis, supra, prohibits child-support payments based upon income from SSI.</p>
+                <p pgmap="160(65) 161(79)" id="b160-8">
+                   Before a child-support obligation can be modified, it is the burden of the party seeking the modification to show that there has been a change in circumstances. Woodson v. Johnson, 63 Ark. App. 192, 975 S.W.2d 880 (1998). One of the considerations in determining whether a modification is warranted is a change in income of a party. Id. Because Ark. Code Ann. §§ 9-12-314 (Repl. 2002) and 9-14-234 specifically provide that a child-support decree shall be a final judgment until either party files a motion to modify such decree, see Burnett v. Burnett, 313 Ark. 599, 855 S.W.2d 952 (1993), the child-support order at issue remained in effect at the time of the hearing because there had been no filing of a motion to modify. Accordingly, we hold that the trial court did not err in awarding appellee the judgment for past-due child support.</p>
+                <p pgmap="161" id="b161-4">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="157" ORDERLABEL="131" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="132" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.1" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="159" ORDERLABEL="133" TYPE="page">
+        <fptr FILEID="tiff_00080_0"/>
+        <fptr FILEID="jp2_00080_0"/>
+        <fptr FILEID="alto_00080_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_159.3" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="160" ORDERLABEL="134" TYPE="page">
+        <fptr FILEID="tiff_00080_1"/>
+        <fptr FILEID="jp2_00080_1"/>
+        <fptr FILEID="alto_00080_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_160.2" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="161" ORDERLABEL="135" TYPE="page">
+        <fptr FILEID="tiff_00081_0"/>
+        <fptr FILEID="jp2_00081_0"/>
+        <fptr FILEID="alto_00081_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_161.3" BETYPE="IDREF" FILEID="alto_00081_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.5" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.6" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.4" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAmt" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.9" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.13" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.5" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.6" BETYPE="IDREF" FILEID="alto_00080_0"/>
+            <area BEGIN="BL_160.1" BETYPE="IDREF" FILEID="alto_00080_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b160-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_160.7" BETYPE="IDREF" FILEID="alto_00080_1"/>
+            <area BEGIN="BL_161.1" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b159-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_159.4" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.10" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.8" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.7" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.14" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_159.1" BETYPE="IDREF" FILEID="alto_00080_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7S" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.10" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_158.11" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            <area BEGIN="BL_158.12" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.7" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7-" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.11" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkW" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.9" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtY" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.8" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.5" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b161-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_161.4" BETYPE="IDREF" FILEID="alto_00081_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

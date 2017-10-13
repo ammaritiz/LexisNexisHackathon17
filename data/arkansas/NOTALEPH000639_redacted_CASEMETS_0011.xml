@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000639_0011" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Ringier America v. Combs">RINGIER AMERICA v. Sean COMBS</name>
+          <docketnumber>CA 92-661</docketnumber>
+          <citation category="official" type="bluebook">41 Ark. App. 47</citation>
+          <citation category="parallel" type="bluebook">849 S.W.2d 1</citation>
+          <decisiondate>1993-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T00:54:03Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T14:59:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T18:42:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T18:43:08Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00036_0" MIMETYPE="image/tiff" CHECKSUM="695f97666e260e5273c74b4d7d0b1293" CHECKSUMTYPE="MD5" SIZE="13554">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00036_0.tif"/>
+      </file>
+      <file ID="tiff_00036_1" MIMETYPE="image/tiff" CHECKSUM="ef04b8cbe001393272a03c44e18b3578" CHECKSUMTYPE="MD5" SIZE="10306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00036_1.tif"/>
+      </file>
+      <file ID="tiff_00037_0" MIMETYPE="image/tiff" CHECKSUM="982cc547dab181127fb8436c8b3287df" CHECKSUMTYPE="MD5" SIZE="58558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00037_0.tif"/>
+      </file>
+      <file ID="tiff_00037_1" MIMETYPE="image/tiff" CHECKSUM="3c54bcf9537511cb601d7e6a419ecc4a" CHECKSUMTYPE="MD5" SIZE="56852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00037_1.tif"/>
+      </file>
+      <file ID="tiff_00038_0" MIMETYPE="image/tiff" CHECKSUM="bd670108354715dae17d976c113399e9" CHECKSUMTYPE="MD5" SIZE="36150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00038_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00036_0" MIMETYPE="image/jp2" CHECKSUM="07991bd276b4295cc8c79d390191afaf" CHECKSUMTYPE="MD5" SIZE="1682076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00036_0.jp2"/>
+      </file>
+      <file ID="jp2_00036_1" MIMETYPE="image/jp2" CHECKSUM="42684818c12adc8016d6e6d68a272c01" CHECKSUMTYPE="MD5" SIZE="1378886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00036_1.jp2"/>
+      </file>
+      <file ID="jp2_00037_0" MIMETYPE="image/jp2" CHECKSUM="b54d5cfc9832a328b1bfd21f3a6e98a8" CHECKSUMTYPE="MD5" SIZE="2673932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00037_0.jp2"/>
+      </file>
+      <file ID="jp2_00037_1" MIMETYPE="image/jp2" CHECKSUM="80903d77973713255a50e89ee81802cf" CHECKSUMTYPE="MD5" SIZE="2687423">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00037_1.jp2"/>
+      </file>
+      <file ID="jp2_00038_0" MIMETYPE="image/jp2" CHECKSUM="9f121085e1e0ddfc13cc2d21223050fc" CHECKSUMTYPE="MD5" SIZE="2506788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000639_00038_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00036_0" MIMETYPE="text/xml" CHECKSUM="9410d4bacc20b859bb60c238da21f84d" CHECKSUMTYPE="MD5" SIZE="17773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00036_0.xml"/>
+      </file>
+      <file ID="alto_00036_1" MIMETYPE="text/xml" CHECKSUM="a8873838dba5725828deaf62d18c367e" CHECKSUMTYPE="MD5" SIZE="13257">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00036_1.xml"/>
+      </file>
+      <file ID="alto_00037_0" MIMETYPE="text/xml" CHECKSUM="07a56632f88f8f9ae676588b527b13bc" CHECKSUMTYPE="MD5" SIZE="90810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00037_0.xml"/>
+      </file>
+      <file ID="alto_00037_1" MIMETYPE="text/xml" CHECKSUM="639179b9671652e83a7d3a7ece1048df" CHECKSUMTYPE="MD5" SIZE="89311">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00037_1.xml"/>
+      </file>
+      <file ID="alto_00038_0" MIMETYPE="text/xml" CHECKSUM="56c11508aac3223ed6c678419dcce3d2" CHECKSUMTYPE="MD5" SIZE="55639">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000639_redacted_ALTO_00038_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="47" lastpage="51">
+              <court pgmap="71" id="b71-9">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="71" id="AS">CA 92-661</docketnumber>
+              <citation pgmap="71" id="AkX">849 S.W.2d 1</citation>
+              <parties pgmap="71" id="b71-8">RINGIER AMERICA v. Sean COMBS</parties>
+              <decisiondate pgmap="71" id="b71-10">Opinion delivered February 24, 1993</decisiondate>
+              <judges pgmap="75" id="b75-9">Jennings, C.J., and Cooper, J., agree.</judges>
+              <attorneys pgmap="72" id="b72-14">Frye &amp; Mickel, P.A., by: Thomas W. Mickel, for appellant.</attorneys>
+              <attorneys pgmap="72" id="b72-15">Branch, Thompson &amp; Philhours, by: Robert F. Thompson, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="72" id="b72-16">John Mauzy Pittman, Judge.</author>
+                <p pgmap="72(21) 73(46)" id="AZ">Ringier America appeals from a decision of the Arkansas Workers’ Compensation Com­mission finding that appellee Sean Combs sustained a compensa-­ble injury on March 6,1991. Appellant contends that appellee’s injury resulted from his involvement in “horseplay” that consti­tuted a substantial deviation from the course of his employment, and that the Commission’s findings to the contrary are not supported by substantial evidence. We disagree and affirm.</p>
+                <p pgmap="73" id="b73-6">
+                   In a worker’s compensation case, the claimant has the burden of proving by a preponderance of the evidence that his claim is compensable; i.e., that his injury was the result of an accident that arose in the course of his employment, and that it grew out of or resulted from the employment. Wolfe v. City of El Dorado, 33 Ark. App. 25, 799 S.W.2d 812 (1990). When the sufficiency of the evidence is challenged on appeal, however, we will affirm if the Commission’s findings are supported by substan­tial evidence. Welch’s Laundry &amp; Cleaners v. Clark, 38 Ark. App. 223, 832 S.W.2d 283 (1992). The issue is not whether we might have reached a different result or whether the evidence would have supported a contrary finding; if reasonable minds could reach the Commission’s conclusion, we must affirm its decision. Id. In reaching our determination, this court views the evidence and all reasonable inferences deducible therefrom in the light most favorable to the Commission’s findings and gives the testimony its strongest probative force in favor of the action of the Commission, whether it favored the claimant or the employer. Roberts v. Leo Levi Hospital, 8 Ark. App. 184, 649 S.W.2d 402 (1983).</p>
+                <p pgmap="73" id="b73-7">Appellee was employed at appellant’s magazine plant. His duties involved moving stacks of magazines from a printing press to a loading area where they were placed on pallets. To prevent the magazines from sliding off of the pallets, they were covered with plastic stretch wrapping. On occasion, the wrapping would fray. When this occurred, the workers would smooth out the frayed areas with a knife or razor blade. On March 6, 1991, appellee’s hand was severely lacerated when it came into contact with a knife held by co-worker Mike Lindley.</p>
+                <p pgmap="73(50) 74(13)" id="b73-8">According to appellee’s testimony, he was about one hour into his shift at appellant’s plant and was covering the magazine-­loaded pallets with stretch wrapping. When one of the wrappings frayed, he asked to borrow a pocket knife from co-worker Lindley. When appellee felt a nudge from behind, he reached back with his right hand to receive the knife and was severely cut.</p>
+                <p pgmap="74" id="b74-6">Lindley testified that he and appellee had in the past engaged in cutting, or attempting to cut, one another’s belt loops with pocket knives. He testified that, after work began on the day in question, appellee was wrapping a stack of magazines when he asked for Lindley’s knife. Lindley testified that he grabbed appellee’s belt loop, intending to cut it, when appellee reached back and cut his hand on Lindley’s knife.</p>
+                <p pgmap="74" id="b74-7">In its opinion, the Commission noted that Lindley was apparently trying to cut appellee’s belt loop when the accident occurred. However, the Commission found that appellee was wrapping a stack of magazines and, consequently, had not deviated from his duties at the time the injury was sustained. The Commission further noted that, while appellee may have partici­pated in “belt-loop cutting” in the past, there was no evidence that he was participating in that activity, or any other form of horseplay, at or near the time of the injury. The Commission concluded that appellee was a non-participating victim and that his injury was compensable.</p>
+                <p pgmap="74" id="b74-8">
+                   The current tendency is to treat an injury resulting from horseplay as a “course-of-employment” rather than an “arising-out-of-employment” problem. Thus, minor acts of horseplay do not automatically constitute departures from em­ployment but may be found to be insubstantial. Whether initia­tion of horseplay is a deviation from one’s course of employment depends on: (1) the extent and seriousness of the deviation; (2) the completeness of the deviation (i.e., whether it was commingled with the performance of duty or involved an abandonment of duty); (3) the extent to which the practice of horseplay had become an accepted part of the employment; and (4) the extent to which the nature of the employment may be expected to include some such horseplay. 1A Larson, The Law of Workmen’s Compensation, §§ 23.00 — 23.66 (1992); see Southern Cotton Oil Divisions. Childress, 237 Ark. 909, 377 S.W.2d 167 (1964).</p>
+                <p pgmap="74(47) 75(20)" id="b74-9">
+                   The trend has also been to eliminate the distinction between instigator of and mere participant in horseplay, and the fact that the injured employee may have been the instigator will not necessarily render the injury noncompensable. See Southern Cotton Oil Division v. Childress, supra. Clearly, however, an injury to a non-participating victim of horseplay is compensable. Id.; 1A Larson, The Law of Workmen s Compensation, § 23.10.</p>
+                <p pgmap="75" id="b75-6">Appellant’s argument that the Commission erred in finding appellee to be a non-participating victim of horseplay is based primarily on its assertion that neither appellee nor Lindley were credible witnesses. Appellant points out that Lindley had given more than one version of the events prior to the hearing. It also contends that appellee’s testimony is controverted as a matter of law since he is a party to the action.</p>
+                <p pgmap="75" id="b75-7">
+                   Appellant’s argument overlooks the rule that the credibility of witnesses and the weight to be 'given to their testimony are matters solely within the province of the Commis­sion. See Wade v. Mr. C. Cavenaugh’s, 298 Ark. 363, 768 S.W.2d 521 (1989). Here, the Commission recognized that Lindley had given conflicting versions of the events. Moreover, while it is true that the uncorroborated testimony of an interested party is never considered uncontradicted, this does not mean that the fact finder may not find such testimony to be credible and believable or that it must reject such testimony if it finds the testimony worthy of belief. See Norman v. Norman, 268 Ark. 842, 596 S.W.2d 361 (Ark. App. 1980). From our review of the record, we cannot conclude that the Commission’s findings are not supported by substantial evidence.</p>
+                <p pgmap="75" id="b75-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="71" ORDERLABEL="47" TYPE="page">
+        <fptr FILEID="tiff_00036_0"/>
+        <fptr FILEID="jp2_00036_0"/>
+        <fptr FILEID="alto_00036_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.2" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="72" ORDERLABEL="48" TYPE="page">
+        <fptr FILEID="tiff_00036_1"/>
+        <fptr FILEID="jp2_00036_1"/>
+        <fptr FILEID="alto_00036_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_72.2" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="73" ORDERLABEL="49" TYPE="page">
+        <fptr FILEID="tiff_00037_0"/>
+        <fptr FILEID="jp2_00037_0"/>
+        <fptr FILEID="alto_00037_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_73.3" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="74" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00037_1"/>
+        <fptr FILEID="jp2_00037_1"/>
+        <fptr FILEID="alto_00037_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_74.2" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="75" ORDERLABEL="51" TYPE="page">
+        <fptr FILEID="tiff_00038_0"/>
+        <fptr FILEID="jp2_00038_0"/>
+        <fptr FILEID="alto_00038_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_75.3" BETYPE="IDREF" FILEID="alto_00038_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.4" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.4" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkX" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.9" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-15" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.12" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-14" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.11" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-16" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.13" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.7" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.5" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.11" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.8" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.5" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b75-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_75.6" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.7" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.14" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_72.15" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_73.1" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.4" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.6" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            <area BEGIN="BL_74.1" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.5" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b71-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_71.10" BETYPE="IDREF" FILEID="alto_00036_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.7" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            <area BEGIN="BL_75.1" BETYPE="IDREF" FILEID="alto_00038_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.6" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

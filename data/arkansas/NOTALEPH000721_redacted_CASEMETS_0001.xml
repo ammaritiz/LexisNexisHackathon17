@@ -1,0 +1,700 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000721_0001" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Speer v. State">Terry Glenn SPEER v. STATE of Arkansas</name>
+          <docketnumber>CA CR 85-79</docketnumber>
+          <citation category="official" type="bluebook">18 Ark. App. 1</citation>
+          <citation category="parallel" type="bluebook">708 S.W.2d 94</citation>
+          <decisiondate>1986-04-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T01:14:25Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:50:57Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:34:36Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:35:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00011_0" MIMETYPE="image/tiff" CHECKSUM="b9c335d23dec4a7d67ecfde8cd913a77" CHECKSUMTYPE="MD5" SIZE="7126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00011_0.tif"/>
+      </file>
+      <file ID="tiff_00011_1" MIMETYPE="image/tiff" CHECKSUM="d88e3730e706939448dd59f201f6de79" CHECKSUMTYPE="MD5" SIZE="14060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00011_1.tif"/>
+      </file>
+      <file ID="tiff_00012_0" MIMETYPE="image/tiff" CHECKSUM="a0a04036e2711d3c3fdecd75dbebeba0" CHECKSUMTYPE="MD5" SIZE="57900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00012_0.tif"/>
+      </file>
+      <file ID="tiff_00012_1" MIMETYPE="image/tiff" CHECKSUM="9a842664b5dc69b72a16ec0fcbb71097" CHECKSUMTYPE="MD5" SIZE="49266">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00012_1.tif"/>
+      </file>
+      <file ID="tiff_00013_0" MIMETYPE="image/tiff" CHECKSUM="10a1a406e0354f49448961b3224daaf8" CHECKSUMTYPE="MD5" SIZE="54850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00013_0.tif"/>
+      </file>
+      <file ID="tiff_00013_1" MIMETYPE="image/tiff" CHECKSUM="a11e9b29e08f62d71fe2ca0ca5492014" CHECKSUMTYPE="MD5" SIZE="57062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00013_1.tif"/>
+      </file>
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="0d89beee1d36a4787bb6b91551234cb0" CHECKSUMTYPE="MD5" SIZE="56302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="16762a347d05409b6e01270e4b29559c" CHECKSUMTYPE="MD5" SIZE="39658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00014_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00011_0" MIMETYPE="image/jp2" CHECKSUM="98df5d7ee5d7756f11424ad8953f503b" CHECKSUMTYPE="MD5" SIZE="1288853">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00011_0.jp2"/>
+      </file>
+      <file ID="jp2_00011_1" MIMETYPE="image/jp2" CHECKSUM="710489fa1eeb56e0814bbd02be8c4cc6" CHECKSUMTYPE="MD5" SIZE="1425978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00011_1.jp2"/>
+      </file>
+      <file ID="jp2_00012_0" MIMETYPE="image/jp2" CHECKSUM="34a77448869effbdb3b649a16f2f346b" CHECKSUMTYPE="MD5" SIZE="2673420">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00012_0.jp2"/>
+      </file>
+      <file ID="jp2_00012_1" MIMETYPE="image/jp2" CHECKSUM="7f1b9800155e7b864f5194412e8b57d2" CHECKSUMTYPE="MD5" SIZE="2585159">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00012_1.jp2"/>
+      </file>
+      <file ID="jp2_00013_0" MIMETYPE="image/jp2" CHECKSUM="423f05ae3d8d779e26da3542546a6ea8" CHECKSUMTYPE="MD5" SIZE="2700269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00013_0.jp2"/>
+      </file>
+      <file ID="jp2_00013_1" MIMETYPE="image/jp2" CHECKSUM="a642f3c0de647ed305a1a44294374707" CHECKSUMTYPE="MD5" SIZE="2637306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00013_1.jp2"/>
+      </file>
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="62b83e18b7a2e2166345c95731ac5c38" CHECKSUMTYPE="MD5" SIZE="2668117">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="f41fc44857ab6ab404ecc5e61936d930" CHECKSUMTYPE="MD5" SIZE="2496863">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000721_00014_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00011_0" MIMETYPE="text/xml" CHECKSUM="b1caef04520dbd35c534a90f9bbfe7ea" CHECKSUMTYPE="MD5" SIZE="7974">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00011_0.xml"/>
+      </file>
+      <file ID="alto_00011_1" MIMETYPE="text/xml" CHECKSUM="854a6ac314ab731b99efb5cbbb9dab8f" CHECKSUMTYPE="MD5" SIZE="18956">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00011_1.xml"/>
+      </file>
+      <file ID="alto_00012_0" MIMETYPE="text/xml" CHECKSUM="6a8ac578cc0ef024f32857ccc7410bbd" CHECKSUMTYPE="MD5" SIZE="92847">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00012_0.xml"/>
+      </file>
+      <file ID="alto_00012_1" MIMETYPE="text/xml" CHECKSUM="3326aee5bf154fa4514429d3b84b73db" CHECKSUMTYPE="MD5" SIZE="86231">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00012_1.xml"/>
+      </file>
+      <file ID="alto_00013_0" MIMETYPE="text/xml" CHECKSUM="95b53d9e87fa41e4b7cb22449111c8f0" CHECKSUMTYPE="MD5" SIZE="92181">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00013_0.xml"/>
+      </file>
+      <file ID="alto_00013_1" MIMETYPE="text/xml" CHECKSUM="16f1e7f5a17dfd37e83a9eff0a1b5379" CHECKSUMTYPE="MD5" SIZE="92974">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00013_1.xml"/>
+      </file>
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="70c4d2c014e0357311b41ceafc7fe70d" CHECKSUMTYPE="MD5" SIZE="93738">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="9df103590ffb51a8cff1d3b5707a5371" CHECKSUMTYPE="MD5" SIZE="63397">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000721_redacted_ALTO_00014_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="1" lastpage="8">
+              <court pgmap="21" id="b21-5">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="21" id="Ah">CA CR 85-79</docketnumber>
+              <citation pgmap="21" id="A1S">708 S.W.2d 94</citation>
+              <parties pgmap="21" id="b21-4">Terry Glenn SPEER v. STATE of Arkansas</parties>
+              <decisiondate pgmap="21" id="b21-6">Opinion delivered April 30, 1986</decisiondate>
+              <judges pgmap="28" id="b28-9">Cracraft, C.J., and Cooper, J., agree.</judges>
+              <attorneys pgmap="22" id="b22-17">Michael R. Salamo, for appellant.</attorneys>
+              <attorneys pgmap="22" id="b22-18">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="22" id="b22-19">Donald L. Corbin, Judge.</author>
+                <p pgmap="22(48) 23(16)" id="A2">Appellant, Terry Glenn Speer, was charged with attempted rape and convicted by a Washington County jury of first degree sexual abuse. He was fined $5,000 and sentenced to a term of three years in the Arkansas Department of Correction. We find no merit to appellant’s contention on appeal that the trial court erred in instructing the jury on first degree sexual abuse and affirm.</p>
+                <p pgmap="23" id="b23-6">The record reflects that the trial court instructed the jury on sexual abuse in the first degree over appellant’s objection. In overruling appellant’s objection to this instruction, the trial court stated that it was required to instruct the jury on every offense which could reasonably be found from the testimony and evi­dence, despite appellant’s objection. Furthermore, the court found that the instruction was clearly warranted inasmuch as there was evidence of sexual contact by forcible compulsion. Appellant argues here, as he did at trial and after trial in his motion in arrest of judgment, that sexual abuse in the first degree is not a lesser included offense of attempt to commit rape.</p>
+                <p pgmap="23" id="b23-7">In support of appellant’s argument that first degree sexual abuse is not a lesser included offense of attempted rape, appellant first contends that the prosecuting attorney committed reversible error by failing to file a bill of particulars stating what act the state would rely upon at trial to prove the crime. At a pretrial hearing on appellant’s motion for disclosure and bill of particu­lars, the prosecuting attorney stated that he had provided appellant’s attorney with all police reports and statements he had in his file and that no written response had been filed due to time limitations. This statement was not disputed. The trial court asked the parties whether the information tracked the statute and named the elements and the prosecuting attorney responded affirmatively. The prosecutor stated that the state alleged that appellant attempted to rape a girl in Springdale on April 6 or 7 and that her name had been provided in a taped statement she gave to the police. The trial court then determined that the information was adequate.</p>
+                <p pgmap="23(96) 24(62)" id="b23-8">The information alleged that appellant “. . . did unlawfully and purposely engage in conduct that constituted a substantial step in a course of conduct intended to culminate in the commis­sion of Rape in violation of Ark. Stat. Ann. § 41-701 and § 41-­1803.” Appellant contends that the information was defective as it did not provide the specific sub-section of § 41-1803 which appellant was alleged to have violated and the information also failed to provide any acts which allegedly constituted a substan­tial step. Following the jury’s return of a guilty verdict, appellant filed a motion in arrest of judgment. He alleged that he was found guilty of first degree sexual abuse, an offense that was not charged in the information. In addition, appellant contended in his motion in arrest of judgment that first degree sexual abuse was not included in the charge made in the information. This motion was overruled by the trial court.</p>
+                <p pgmap="24" id="b24-6">
+                   As stated by the supreme court in Limber v. State, 264 Ark. 479, 486, 572 S.W.2d 402, 406 (1978):</p>
+                <blockquote pgmap="24" id="b24-7">The purpose of a Bill of Particulars is to acquaint the defense with sufficient information so that a defense can be prepared. Ark. Stat. Ann. § 43-804 (Repl. 1977); Edens v. State, 235 Ark. 996, 363 S.W.2d 923 (1963). The court has some discretion in the matter. Silas v. State, 232 Ark. 248, 337 S.W.2d 644 (1960). Even so, the State in effect gave the appellants complete discovery as contemplated by Rules of Crim. Proc., Rules 17.1 and 17.2 (1976). There­fore, we cannot say that the court was in error nor the appellants were in any way prejudiced by the technical failure to file a formal answer to the motion for a Bill of Particulars.</blockquote>
+                <p pgmap="24" id="b24-8">Ark. Stat. Ann. § 43-1006 (Repl. 1977), provides for the contents of indictments and states:</p>
+                <blockquote pgmap="24" id="b24-9">The language of the indictment must be certain as to the title of the prosecution, the name of the court in which the indictment is presented, and the name of the parties. It shall not be necessary to include [a] statement of the act or acts constituting the offense, unless the offense cannot be charged without doing so. Nor shall it be necessary to allege that the act or acts constituting the offense were done wilfully, unlawfully, feloniously, maliciously, delib­erately or with premeditation, but the name of the offense charged in the indictment shall carry with it all such allegations. The State, upon request of the defendant, shall file a bill of particulars, setting out the act or acts upon which it relies for conviction.</blockquote>
+                <p pgmap="24" id="b24-10">Ark. Stat. Ann. § 43-1012 (Repl. 1977), provides as follows:</p>
+                <blockquote pgmap="24(18) 25(19)" id="b24-11">No indictment is insufficient, nor can the trial judg­ment or other proceeding thereon, be affected by any defect which does not tend to the prejudice of the substan­tial rights of the defendant on the merit.</blockquote>
+                <p pgmap="25" id="b25-6">In the case at bar, appellant relies upon the following language found in Bliss and Bliss v. State, 282 Ark. 315, 319, 668 S.W.2d 936, 938 (1984);</p>
+                <blockquote pgmap="25" id="b25-7">The request for a bill of particulars was specifically made. It was not complied with as required by Ark. Stat. Ann. § 43-1006. Therefore, it was prejudicial error to fail to furnish the appellants with a bill of particulars.</blockquote>
+                <p pgmap="25" id="b25-8">(emphasis ours). In Bliss, the appellants were charged by separate informations with the rape of the minor child by sexual intercourse or deviate sexual activity. The trial court heard appellants’ motion for a bill of particulars in a pretrial hearing wherein appellants sought to determine which part of the Arkan­sas rape statute was involved as to each of the appellants. The trial court there apparently denied this motion and during trial appellants moved for a directed verdict and made a motion to dismiss. These motions were also denied and the jury was instructed on both sexual intercourse and deviate sexual activity. The instructions and verdict forms did not indicate which offense each appellant was found guilty of. On appeal the appellants contended they were prejudiced by the failure of the state to furnish a bill of particulars and the supreme court agreed.</p>
+                <p pgmap="25" id="b25-9">
+                   We believe the facts in the case at bar and those in Bliss are distinguishable but we do not believe that Bliss stands for the proposition that a reversal is mandated upon the state’s technical failure to file a formal answer to the motion for a bill of particulars. The supreme court, in a long line of cases, has upheld the denial of requests for bills of particulars and Bliss does not purport to overturn prior law in this regard. See Silas v. State, 232 Ark. 248, 337 S.W.2d 644 (1960), cert. denied, 365 U.S. 821 (1961); Haller v. State, 217 Ark. 646, 232 S.W.2d 829 (1950); Bryant v. State, 208 Ark. 192, 185 S.W.2d 280 (1945); Brock­elhurst v. State, 195 Ark. 67, 111 S.W.2d 527 (1937).</p>
+                <p pgmap="25(40) 26(47)" id="b25-10">This court’s decision in Masingill v. State, 7 Ark. App. 90, 644 S.W.2d 614 (1983), is also distinguishable. In Masingill, we reversed the appellant’s conviction of tampering with physical evidence based upon the fact that the prosecutor had not only failed to comply properly with the appellant’s discovery motion but also, he improperly withheld details of the alleged crime which should have been set out in the state’s bill of particulars. The withholding of details of the crime there clearly served to frustrate the appellant’s defense preparation.</p>
+                <p pgmap="26" id="b26-6">
+                   In the case at bar, it is clear from the information quoted above that it set out in detail the act or acts upon which the state would rely for a conviction and contained all of the necessary requirements. Appellant had a bill of particulars in the informa­tion upon which he was tried and it would have been a useless thing to require another. Furthermore, appellant has failed to demonstrate how he was prejudiced by the state’s technical failure to file a formal answer to appellant’s motion for a bill of particulars. The supreme court has recently held in Berna v. State, 282 Ark. 563, 670 S.W.2d 434 (1984), cert. denied, 105 S.Ct. 1847 (1985), that some prejudice must be shown in order to find grounds to reverse a conviction. It is no longer presumed that, simply because an error is committed, it is prejudicial error. The trial court, therefore, properly denied this request.</p>
+                <p pgmap="26" id="b26-7">Appellant also challenges the trial court’s instruction on first degree sexual abuse on the basis that that instruction contained an additional element separate and distinct from the element required for attempted rape.</p>
+                <p pgmap="26" id="b26-8">The record reflects that Gina Wright, the victim, drove to the apartment of her boyfriend, Johnny Howard, at approximately 3:00 a.m. on April 7, 1984. Upon her arrival, she got out of her vehicle. Appellant’s truck blocked her way and Wright testified that appellant offered her money for sexual favors. When she refused, appellant slapped her, grabbed her by the neck and forced her back into her car. Appellant took the victim’s shirt off and pulled her brassiere down to her waist. He also unzipped and unsnapped her pants. Appellant fondled the victim’s breasts and announced his plan to have sexual intercourse with her. The victim’s screaming alarmed her boyfriend and he emerged from his apartment armed with a handgun. The victim and her boyfriend managed to record appellant’s license plate number. Appellant subsequently provided the police with an exculpatory statement, claiming primarily that he had not known what he was doing at the time due to a high degree of intoxication.</p>
+                <p pgmap="27" id="b27-5">
+                   An offense is a lesser included offense of another if the two are of the same generic class and the lesser is proven by a finding of the same or less than all of the elements of the greater. Ark. Stat. Ann. § 41-105(2)(a) (Repl. 1977); Thompson v. State, 284 Ark. 403, 682 S.W.2d 742 (1985). In Caton &amp; Headley v. State, 252 Ark. 420, 479 S.W.2d 537 (1972), the supreme court held it was not reversible error to refuse to instruct the jury on shoplifting when the appellant was charged with grand larceny. In so holding, the court noted that the information did not charge that the merchandise taken was offered for sale by a store. The court stated:</p>
+                <blockquote pgmap="27" id="b27-6">Where the indictment for a greater offense does not contain allegations of all the ingredients of the lesser offense, a conviction of the lesser cannot be sustained, even though the evidence may supply the missing element.</blockquote>
+                <p pgmap="27" id="b27-7">Id. at 429, 479 S.W.2d at 543. See also Henderson v. State, 286 Ark. 4, 688 S.W.2d 734 (1985).</p>
+                <p pgmap="27" id="b27-8">
+                   Attempt to commit rape is established by proof of conduct constituting a substantial step in a course of conduct that is intended to result in the commission of rape. “Sexual inter­course” means penetration, however slight, of a vagina by a penis. Ark. Stat. Ann. § 41-1801(9) (Supp. 1985). “Deviate sexual activity” means any act of sexual gratification involving the penetration, however slight, of the anus or mouth of one person by the penis of another person or the penetration, however slight, of the vagina or anus of one person by any body member or foreign instrument manipulated by another person. Ark. Stat. Ann. § 41-­1801(l)(a) and (b) (Supp. 1985).Sexualabuse in the first degree requires proof of sexual contact by forcible compulsion. Ark. Stat. Ann. § 41-1818(l)(a) (Repl. 1977). “Sexual contact” means any act of sexual gratification involving the touching of the sex organs or anus of a person, or the breast of a female. Ark. Stat. Ann. § 41-1801(8) (Repl. 1977).</p>
+                <p pgmap="27(66) 28(58)" id="b27-9">In Wood v.State, 287 Ark. 203, 697 S.W.2d 884 (1985), the Arkansas Supreme Court held there is only one crime of rape under Ark. Stat. Ann. § 41-1803. Wood had been charged with rape by sexual intercourse. At the trial he changed his story by saying he had merely fingered the victim instead of having sexual intercourse with her. The state was allowed to amend the information charging rape either by sexual intercourse or deviate sexual activity. The trial court instructed the jury that the state had the burden of proving rape by either sexual intercourse or deviate sexual activity. The supreme court there said “[t]he amendment did not change the nature or degree of the crime.” Id. at 204, 697 S.W.2d at 886.</p>
+                <p pgmap="28" id="b28-6">Appellant argues that attempted rape does not necessarily involve the touching of female breasts and the jury was therefore erroneously instructed on a charge which required an additional element separate and distinct from the elements required for attempted rape. We find this argument without merit.</p>
+                <p pgmap="28" id="b28-7">
+                   We hold that sexual abuse in the first degree is a lesser included offense of attempted rape and the trial court properly instructed the jury on sexual abuse in the first degree over appellant’s objection. It is clear that the two are of the same generic class and that sexual abuse in the first degree is proven by a finding of the same or less than all of the elements of rape. Furthermore, the indictment for attempted rape contained alle­gations of all the ingredients of sexual abuse in the first degree. Both offenses contain the element of forcible compulsion and the sexual acts of each overlap and contain the same ingredients. Both sexual intercourse and deviate sexual activity necessarily involve the touching of sexual organs and/or the anus of another. Therefore, there are no missing ingredients when the indictment is compared with the elements of the lesser included offense in the case at bar.</p>
+                <p pgmap="28" id="b28-8">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="21" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00011_0"/>
+        <fptr FILEID="jp2_00011_0"/>
+        <fptr FILEID="alto_00011_0"/>
+      </div>
+      <div ORDER="22" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00011_1"/>
+        <fptr FILEID="jp2_00011_1"/>
+        <fptr FILEID="alto_00011_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_22.2" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="23" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00012_0"/>
+        <fptr FILEID="jp2_00012_0"/>
+        <fptr FILEID="alto_00012_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_23.3" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="24" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00012_1"/>
+        <fptr FILEID="jp2_00012_1"/>
+        <fptr FILEID="alto_00012_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_24.2" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="25" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00013_0"/>
+        <fptr FILEID="jp2_00013_0"/>
+        <fptr FILEID="alto_00013_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_25.3" BETYPE="IDREF" FILEID="alto_00013_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="26" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00013_1"/>
+        <fptr FILEID="jp2_00013_1"/>
+        <fptr FILEID="alto_00013_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_26.2" BETYPE="IDREF" FILEID="alto_00013_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="27" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.2" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.2" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.7" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.2" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.5" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b21-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.6" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.6" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.5" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.4" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.5" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b26-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_26.4" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.6" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.7" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.4" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.5" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.3" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.7" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.6" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ah" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.3" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-11" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.9" BETYPE="IDREF" FILEID="alto_00012_1"/>
+            <area BEGIN="BL_25.1" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b24-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_24.8" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.7" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.4" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.6" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.4" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.5" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b23-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_23.6" BETYPE="IDREF" FILEID="alto_00012_0"/>
+            <area BEGIN="BL_24.1" BETYPE="IDREF" FILEID="alto_00012_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-17" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.13" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-19" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.15" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b22-18" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.14" BETYPE="IDREF" FILEID="alto_00011_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.5" BETYPE="IDREF" FILEID="alto_00013_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_22.16" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            <area BEGIN="BL_22.17" BETYPE="IDREF" FILEID="alto_00011_1"/>
+            <area BEGIN="BL_23.1" BETYPE="IDREF" FILEID="alto_00012_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b25-10" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_25.8" BETYPE="IDREF" FILEID="alto_00013_0"/>
+            <area BEGIN="BL_26.1" BETYPE="IDREF" FILEID="alto_00013_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1S" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_21.4" BETYPE="IDREF" FILEID="alto_00011_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

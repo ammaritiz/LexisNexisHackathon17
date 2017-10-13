@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000678_0030" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jackson v. State">Jessie JACKSON v. STATE of Arkansas</name>
+          <docketnumber>CR CR 91-154</docketnumber>
+          <citation category="official" type="bluebook">37 Ark. App. 160</citation>
+          <citation category="parallel" type="bluebook">826 S.W.2d 307</citation>
+          <decisiondate>1992-03-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T19:28:04Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:07Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T21:13:05Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T21:13:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00091_1" MIMETYPE="image/tiff" CHECKSUM="ef268779e18457dd4e8c6079b138abe2" CHECKSUMTYPE="MD5" SIZE="26862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00091_1.tif"/>
+      </file>
+      <file ID="tiff_00092_0" MIMETYPE="image/tiff" CHECKSUM="c37393db1ae7d763c52fa3cb20ad4c65" CHECKSUMTYPE="MD5" SIZE="55182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00092_0.tif"/>
+      </file>
+      <file ID="tiff_00092_1" MIMETYPE="image/tiff" CHECKSUM="6d9510d07af0cb036082cf361a35853a" CHECKSUMTYPE="MD5" SIZE="21166">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00092_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00091_1" MIMETYPE="image/jp2" CHECKSUM="cbf555a3d99138ad7c1363a476a898c6" CHECKSUMTYPE="MD5" SIZE="2235393">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00091_1.jp2"/>
+      </file>
+      <file ID="jp2_00092_0" MIMETYPE="image/jp2" CHECKSUM="24ad991658fe6beb43ea944dc91ee73c" CHECKSUMTYPE="MD5" SIZE="2681203">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00092_0.jp2"/>
+      </file>
+      <file ID="jp2_00092_1" MIMETYPE="image/jp2" CHECKSUM="d3f84159862a16cbe7738a0615a191dc" CHECKSUMTYPE="MD5" SIZE="2018749">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000678_00092_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00091_1" MIMETYPE="text/xml" CHECKSUM="6e31999b4371a45e6a05d4491f15f593" CHECKSUMTYPE="MD5" SIZE="46023">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00091_1.xml"/>
+      </file>
+      <file ID="alto_00092_0" MIMETYPE="text/xml" CHECKSUM="825dd213e050f1e0a9da6def3d6845db" CHECKSUMTYPE="MD5" SIZE="95472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00092_0.xml"/>
+      </file>
+      <file ID="alto_00092_1" MIMETYPE="text/xml" CHECKSUM="edd7cdc7d677f9016258ec2629f3f956" CHECKSUMTYPE="MD5" SIZE="34917">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000678_redacted_ALTO_00092_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0030" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="162" firstpage="160">
+              <court id="b182-9" pgmap="182">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b182-8" pgmap="182">CR CR 91-154</docketnumber>
+              <citation id="ARh" pgmap="182">826 S.W.2d 307</citation>
+              <parties id="b182-7" pgmap="182">Jessie JACKSON v. STATE of Arkansas</parties>
+              <decisiondate id="b182-10" pgmap="182">Opinion delivered March 18, 1992</decisiondate>
+              <judges id="b184-8" pgmap="184">Cracraft, C.J., and Jennings, J., agree.</judges>
+              <attorneys id="b182-13" pgmap="182">William R. Simpson, Jr., Public Defender, by: Thomas B. Devine III, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys id="b182-14" pgmap="182">Winston Bryant, Att’y Gen., by: Elizabeth A. Vines, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b182-15" pgmap="182">Judith Rogers, Judge.</author>
+                <p id="A6p" pgmap="182">The appellant, Jessie Jackson, was charged with aggravated robbery and theft of property. The trial judge, sitting as the finder of fact, found appellant guilty and sentenced him to a term of twenty years in the Department of Correction on each count, to run concurrently. For reversal, appellant argues that ownership of the property was not proven as alleged in the information, and therefore that the evidence was insufficient to support his conviction for theft of property. We disagree and affirm.</p>
+                <p id="b183-5" pgmap="183">In reviewing the sufficiency of the evidence, we view the evidence in the light most favorable to the appellee, and affirm if there is substantial evidence to support the conviction. Booker v. State, 32 Ark. App. 94, 796 S.W.2d 854 (1990). Substantial evidence is evidence of sufficient force and character that it will compel a conclusion one way or the other without resort to speculation or conjecture. Williams v. State, 304 Ark. 509, 804 S.W.2d 346 (1991).</p>
+                <p id="b183-6" pgmap="183">A person commits theft of property if he knowingly takes or exercises unauthorized control over the property of another person with the purpose of depriving the owner thereof. Ark. Code Ann. § 5-36-103 (Supp. 1991).</p>
+                <p id="b183-7" pgmap="183">At trial, Michael Baggett testified that on April 19,1990, he was in his van attempting to pull out of a parking lot onto the street when he saw appellant carrying a stereo box. Baggett and appellant engaged in conversation concerning the stereo, and Baggett indicated that he was not interested in going to appel­lant’s apartment to look at a stereo which was for sale. Appellant opened the box he was carrying, pulled out a gun, and demanded Baggett’s wallet. Baggett said that he showed appellant that he had some money, and that he gave him the $310 which was visible because he did not want appellant to take the entire wallet, which contained an additional $ 1,100. He testified that all of the money belonged to his employer, but that he was responsible for it.</p>
+                <p id="b183-8" pgmap="183">Appellant cites Fletcher v. State, 97 Ark. 1, 132 S.W. 918 (1910), and argues that the evidence is insufficient to support his conviction for theft of property because it was not proven that Baggett was the owner of the property taken. In Fletcher, it was held that, in an indictment for larceny, an allegation of ownership must be proven as alleged. The information charging appellant with theft of property alleged that the property belonged to Baggett.</p>
+                <p id="b183-9" pgmap="183(81) 184(55)">“Property of another person” is defined as “any property in which any person . . . has a possessory or proprietary interest.” Ark. Code Ann. § 5-36-101(7) (Supp. 1991). It is wholly immaterial who owns the stolen property if, at the time it is taken, it is in the possession and under the control of another person who is alleged to be the owner; possession and control in such a case constitutes special ownership. Hoover v. State, 262 Ark. 856, 562 S.W.2d 55 (1978); Harrell v. State, 169 Ark. 1038, 278 S.W. 45 (1925). It has been held that a special ownership which entitles one to exclusive possession of and control over the property is sufficient to support an allegation of ownership. Hoover v. State, supra; State v. Esmond, 135 Ark. 168, 204 S.W. 210 (1918).</p>
+                <p id="b184-6" pgmap="184">
+                   We think there is substantial evidence to support a finding that Michael Baggett had a possessory interest in the money taken by appellant, See Phillips v. State, 297 Ark. 368, 761 S.W.2d 933 (1988), and that his possession and control over the property constituted special ownership. Therefore, we must affirm.</p>
+                <p id="b184-7" pgmap="184">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="182" ORDERLABEL="160" TYPE="page">
+        <fptr FILEID="tiff_00091_1"/>
+        <fptr FILEID="jp2_00091_1"/>
+        <fptr FILEID="alto_00091_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.2" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="183" ORDERLABEL="161" TYPE="page">
+        <fptr FILEID="tiff_00092_0"/>
+        <fptr FILEID="jp2_00092_0"/>
+        <fptr FILEID="alto_00092_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.2" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="184" ORDERLABEL="162" TYPE="page">
+        <fptr FILEID="tiff_00092_1"/>
+        <fptr FILEID="jp2_00092_1"/>
+        <fptr FILEID="alto_00092_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_184.2" BETYPE="IDREF" FILEID="alto_00092_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.5" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.7" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.6" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b184-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_184.4" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.10" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.8" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.7" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            <area BEGIN="BL_184.1" BETYPE="IDREF" FILEID="alto_00092_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-6" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.4" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARh" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.9" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-5" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.3" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.6" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.5" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-13" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.16" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.11" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6p" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.19" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_182.20" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-15" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.18" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-14" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.17" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

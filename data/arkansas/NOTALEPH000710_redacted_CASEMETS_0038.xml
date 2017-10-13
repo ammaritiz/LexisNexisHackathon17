@@ -1,0 +1,452 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000710_0038" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Embry v. State">Leonard Lee EMBRY, Jr. v. STATE of Arkansas</name>
+          <docketnumber>CA CR 94-864</docketnumber>
+          <citation category="official" type="bluebook">50 Ark. App. 245</citation>
+          <citation category="parallel" type="bluebook">905 S.W.2d 73</citation>
+          <decisiondate>1995-09-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:30:49Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:16Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:32:43Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:33:23Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="d43f312330549f7c53c9b733e1491fa0" CHECKSUMTYPE="MD5" SIZE="14848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="3810e973469ca743e953eb72f58bdec9" CHECKSUMTYPE="MD5" SIZE="50768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00135_1.tif"/>
+      </file>
+      <file ID="tiff_00136_0" MIMETYPE="image/tiff" CHECKSUM="97ecbc59168fd742bcb0b544ab75736e" CHECKSUMTYPE="MD5" SIZE="56194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00136_0.tif"/>
+      </file>
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="4f67b590408bc4991248ba0f545aee63" CHECKSUMTYPE="MD5" SIZE="20004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00136_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="ce6d1e7568cb55e9150d1fbe9deb9d5c" CHECKSUMTYPE="MD5" SIZE="1756689">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00135_0.jp2"/>
+      </file>
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="37a231f69228cc04526e5346192d624f" CHECKSUMTYPE="MD5" SIZE="2584639">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00135_1.jp2"/>
+      </file>
+      <file ID="jp2_00136_0" MIMETYPE="image/jp2" CHECKSUM="a5276ab5422276fc52fb8039e8c155ed" CHECKSUMTYPE="MD5" SIZE="2668966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00136_0.jp2"/>
+      </file>
+      <file ID="jp2_00136_1" MIMETYPE="image/jp2" CHECKSUM="25fb8aed125158ee5393fc9777444d5d" CHECKSUMTYPE="MD5" SIZE="2780268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00136_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="f45f348b285000947bbf03246358a027" CHECKSUMTYPE="MD5" SIZE="23762">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00135_0.xml"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="a3c955410d9f991b1a9a90ec4edd0dc5" CHECKSUMTYPE="MD5" SIZE="88455">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00135_1.xml"/>
+      </file>
+      <file ID="alto_00136_0" MIMETYPE="text/xml" CHECKSUM="f4605aa53f2d5ac4f26d5e92232a6846" CHECKSUMTYPE="MD5" SIZE="97346">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00136_0.xml"/>
+      </file>
+      <file ID="alto_00136_1" MIMETYPE="text/xml" CHECKSUM="c0d1726103f88ac3f033b62e3e9e54d6" CHECKSUMTYPE="MD5" SIZE="29472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00136_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0038" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="248" firstpage="245">
+              <court id="b269-8" pgmap="269">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="b269-7" pgmap="269">CA CR 94-864</docketnumber>
+              <citation id="Ayr" pgmap="269">905 S.W.2d 73</citation>
+              <parties id="b269-6" pgmap="269">Leonard Lee EMBRY, Jr. v. STATE of Arkansas</parties>
+              <decisiondate id="b269-9" pgmap="269">Opinion delivered September 6, 1995</decisiondate>
+              <judges id="b272-9" pgmap="272">Rogers and Cooper, JJ., agree.</judges>
+              <attorneys id="b270-6" pgmap="270">John W. Settle Law Firm, by: John W. Settle, for appellant.</attorneys>
+              <attorneys id="b270-7" pgmap="270">Winston Bryant, Att’y Gen., by: Vada Berger, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b270-8" pgmap="270">Melvin Mayfield, Judge.</author>
+                <p id="A2Z" pgmap="270">The trial judge, without a jury, found the appellant guilty of possession of cocaine with intent to deliver and sentenced him as an habitual offender to serve six­teen years in the Arkansas Department of Correction with eight years suspended.</p>
+                <p id="b270-9" pgmap="270">Sahibzada Ahmed, a general surgeon, testified that on May 13, 1993, the appellant came to the emergency room at Sparks Hospital in Fort Smith and said he had swallowed a small plas­tic Ziploc bag containing cocaine. Dr. Ahmed said that appel­lant was very nervous and concerned that it might be harmful to him and, from what appellant told them, there was a significant amount of cocaine in the bag. Dr. Ahmed testified that he knew a high dose of cocaine could be lethal; that there was a possibility that the bag could dissolve and discharge its contents into appel­lant’s gastrointestinal tract; and that he recommended surgery to remove the bag from appellant’s stomach. Dr. Ahmed testified that he surgically opened appellant’s stomach under general anes­thesia and retrieved a small bag, about two inches by one and one-half inches in size. The bag, which was not hermetically sealed, contained a crystal and white powder that was tinted and a “little red” due to stomach bile. Dr. Ahmed testified he gave the bag to one of the nurses working with him, and he did not open the bag or attempt to measure its contents. The doctor tes­tified that he thought there was a usable amount of cocaine in the bag but this was not based on his expertise as a medical doctor.</p>
+                <p id="b270-10" pgmap="270">Barbara Gillory, an operating room staff nurse, testified that she observed Dr. Ahmed take a small plastic bag from appellant; that it was opened; and that it contained some white powder and some liquid possibly from the stomach. She testified that she sealed it in a plastic isolation bag and later gave it to Detective Paul Smith.</p>
+                <p id="b270-11" pgmap="270(20) 271(43)">Detective Smith testified he went to Sparks Hospital where Ms. Gillory gave him the plastic bag found in appellant’s stom­ach. Smith testified that he looked at the substance in the bag; that it resembled a street-illicit drug; and that he thought the sub­stance was cocaine. Detective Smith later conducted a field test on the substance and it tested positive for cocaine.</p>
+                <p id="b271-4" pgmap="271">Nick Dawson, a drug chemist at the Arkansas State Crime Laboratory, testified that he performed screening tests and thin-­layer chromatography on the substance which indicated the pres­ence of cocaine. He said that he did not quantitate the substance because it was not very pure; that it had a lot of extra “peaks” from whatever was in the liquid part.</p>
+                <p id="b271-5" pgmap="271">
+                   Appellant advances two arguments which challenge the sufficiency of the evidence. In resolving the question of the sufficiency of the evidence in a criminal case, we view the evi­dence in the light most favorable to the appellee and affirm if there is substantial evidence to support the decision of the trier of fact. Ryan v. State, 30 Ark. App. 196, 786 S.W.2d 835 (1990). Substantial evidence is that which is of sufficient force and char­acter that it will, with reasonable certainty and precision, com­pel a conclusion one way or the other without resorting to spec­ulation or conjecture. Williams v. State, 298 Ark. 484, 768 S.W.2d 539 (1989); Ryan, supra.</p>
+                <p id="b271-6" pgmap="271">
+                   Appellant first argues the trial court erred in finding that he was in possession of cocaine because the substance was in his body. He cites Ark. Code Ann. § 3-3-203(a)(2) (1987) in support of this argument. That statute provides that intoxicating liquor, wine, or beer in the body of a minor shall not be deemed to be in his possession. But there is no such exemption contained within the controlled substances statutes. Moreover, appellant was not convicted of possession of cocaine for having consumed it but for having an entire bag of cocaine in his body. There is no evidence that he had any intention of “consuming” it. To the contrary, the evidence indicates that he requested that the cocaine be removed out of concern that it could be harmful to him.</p>
+                <p id="b271-7" pgmap="271(64) 272(4)">Appellant also argues the trial court erred in finding the sub­stance removed constituted a “usable” amount of cocaine. See Harbison v. State, 302 Ark. 315, 790 S.W.2d 146 (1990) (appel­lant was found to be in possession of a bottle which contained cocaine dust or residue, but it was too small to weigh with the state crime laboratory equipment which could weigh nothing smaller than one milligram).</p>
+                <p id="b272-6" pgmap="272">Here, however, there was clearly a measurable amount of cocaine. The bag which was surgically removed from appellant’s stomach was approximately two inches by one and one-half inches and contained a visible amount of a substance which later proved to be cocaine. Moreover, Dr. Ahmed testified that from what appellant told him there was a significant amount of cocaine in the bag. Indeed, the appellant came into the emergency room fearful that the substance contained in the bag which he swallowed could be harmful to him and allowed it to be surgically removed.</p>
+                <p id="b272-7" pgmap="272">
+                   We think there is substantial evidence to support appellant’s conviction for possession of cocaine.</p>
+                <p id="b272-8" pgmap="272">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="269" ORDERLABEL="245" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.2" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="246" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.1" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="271" ORDERLABEL="247" TYPE="page">
+        <fptr FILEID="tiff_00136_0"/>
+        <fptr FILEID="jp2_00136_0"/>
+        <fptr FILEID="alto_00136_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_271.3" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="272" ORDERLABEL="248" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jp2_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.2" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-10" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.11" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-11" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.12" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            <area BEGIN="BL_271.1" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.4" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.6" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.5" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.6" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.8" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.10" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.11" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.5" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.7" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2Z" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.8" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            <area BEGIN="BL_270.9" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-8" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.7" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b270-9" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_270.10" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-5" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.5" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-4" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.4" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-7" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.7" BETYPE="IDREF" FILEID="alto_00136_0"/>
+            <area BEGIN="BL_272.1" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b271-6" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_271.6" BETYPE="IDREF" FILEID="alto_00136_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayr" BETYPE="IDREF" FILEID="casebody_0038"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.9" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,820 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000674_0027" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Anderson v. Holliday">Jane B. ANDERSON; Rosalind B. Angell; Elizabeth B. Taylor; Wendy B. Patton; Rosalind B. Angell, Trustee of the Rosalind B. Angell Trust; Toplaw Trustee, Ltd., a Corporation; and Lawtop Trustee, Ltd., a Corporation v. Albert E. HOLLIDAY and Michael E. Holliday</name>
+          <docketnumber>CA 98-568</docketnumber>
+          <citation category="official" type="bluebook">65 Ark. App. 165</citation>
+          <citation category="parallel" type="bluebook">986 S.W.2d 116</citation>
+          <decisiondate>1999-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:03:54Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:01:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-26T13:11:44Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-26T13:12:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00094_0" MIMETYPE="image/tiff" CHECKSUM="2d9d8e0ff4a6cb7d55fd2b59c649fc7f" CHECKSUMTYPE="MD5" SIZE="18124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00094_0.tif"/>
+      </file>
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="f87421cca2e0c2c98e2d49edbea3dac5" CHECKSUMTYPE="MD5" SIZE="4464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00094_1.tif"/>
+      </file>
+      <file ID="tiff_00095_0" MIMETYPE="image/tiff" CHECKSUM="371b4eb482ce91d76eb1332053ace9dd" CHECKSUMTYPE="MD5" SIZE="4132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00095_0.tif"/>
+      </file>
+      <file ID="tiff_00095_1" MIMETYPE="image/tiff" CHECKSUM="db8b8dba6d0e5db240b0cfa21c655a72" CHECKSUMTYPE="MD5" SIZE="48820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00095_1.tif"/>
+      </file>
+      <file ID="tiff_00096_0" MIMETYPE="image/tiff" CHECKSUM="c0542996bfab75a4dc3e75723e59f6ef" CHECKSUMTYPE="MD5" SIZE="50476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00096_0.tif"/>
+      </file>
+      <file ID="tiff_00096_1" MIMETYPE="image/tiff" CHECKSUM="980cd65d0a9bc9f0bc39c2fdf246d966" CHECKSUMTYPE="MD5" SIZE="52572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00096_1.tif"/>
+      </file>
+      <file ID="tiff_00097_0" MIMETYPE="image/tiff" CHECKSUM="65ad93783bedac51fff0a2d6977e5e20" CHECKSUMTYPE="MD5" SIZE="55648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00097_0.tif"/>
+      </file>
+      <file ID="tiff_00097_1" MIMETYPE="image/tiff" CHECKSUM="9ea2937d1a848af9a9b67295154ae54d" CHECKSUMTYPE="MD5" SIZE="52786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00097_1.tif"/>
+      </file>
+      <file ID="tiff_00098_0" MIMETYPE="image/tiff" CHECKSUM="45c898b878c8909ff26f850394639ea7" CHECKSUMTYPE="MD5" SIZE="54204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00098_0.tif"/>
+      </file>
+      <file ID="tiff_00098_1" MIMETYPE="image/tiff" CHECKSUM="d7ccc25de058762f40d2deb15777bc97" CHECKSUMTYPE="MD5" SIZE="50348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00098_1.tif"/>
+      </file>
+      <file ID="tiff_00099_0" MIMETYPE="image/tiff" CHECKSUM="88b5e4161b2d2bacb08b0dd16a2498a5" CHECKSUMTYPE="MD5" SIZE="48820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00099_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00094_0" MIMETYPE="image/jp2" CHECKSUM="8b85e013a91a011dadaf3fe186c850fa" CHECKSUMTYPE="MD5" SIZE="1749390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00094_0.jp2"/>
+      </file>
+      <file ID="jp2_00094_1" MIMETYPE="image/jp2" CHECKSUM="1115cda580b59854f1b07db9fb9a4f85" CHECKSUMTYPE="MD5" SIZE="983682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00094_1.jp2"/>
+      </file>
+      <file ID="jp2_00095_0" MIMETYPE="image/jp2" CHECKSUM="21e34f7e5a18243646ed6812dcbfae1f" CHECKSUMTYPE="MD5" SIZE="1030390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00095_0.jp2"/>
+      </file>
+      <file ID="jp2_00095_1" MIMETYPE="image/jp2" CHECKSUM="8a4cd6c131cd0591da5047fcbd7d9a72" CHECKSUMTYPE="MD5" SIZE="2359988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00095_1.jp2"/>
+      </file>
+      <file ID="jp2_00096_0" MIMETYPE="image/jp2" CHECKSUM="eaa6b5f392b339c5f60c97024d29554a" CHECKSUMTYPE="MD5" SIZE="2457928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00096_0.jp2"/>
+      </file>
+      <file ID="jp2_00096_1" MIMETYPE="image/jp2" CHECKSUM="16fc4fe85d17fd1269bb55de6b314281" CHECKSUMTYPE="MD5" SIZE="2447007">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00096_1.jp2"/>
+      </file>
+      <file ID="jp2_00097_0" MIMETYPE="image/jp2" CHECKSUM="1282e0daa67bbfe14b787d59968f6c04" CHECKSUMTYPE="MD5" SIZE="2470236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00097_0.jp2"/>
+      </file>
+      <file ID="jp2_00097_1" MIMETYPE="image/jp2" CHECKSUM="75cfe162dff50445e3cc302df5a7cc87" CHECKSUMTYPE="MD5" SIZE="2469938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00097_1.jp2"/>
+      </file>
+      <file ID="jp2_00098_0" MIMETYPE="image/jp2" CHECKSUM="0f5e06bd4768354ec7e862ad177270c0" CHECKSUMTYPE="MD5" SIZE="2502723">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00098_0.jp2"/>
+      </file>
+      <file ID="jp2_00098_1" MIMETYPE="image/jp2" CHECKSUM="4905ce7f38ba01df7c25122fcc2497df" CHECKSUMTYPE="MD5" SIZE="2448727">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00098_1.jp2"/>
+      </file>
+      <file ID="jp2_00099_0" MIMETYPE="image/jp2" CHECKSUM="44ed6e0f4d66b6d50606886671664381" CHECKSUMTYPE="MD5" SIZE="2455832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000674_00099_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00094_0" MIMETYPE="text/xml" CHECKSUM="e292a588cad4f68b6efa8044e1e635f0" CHECKSUMTYPE="MD5" SIZE="25181">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00094_0.xml"/>
+      </file>
+      <file ID="alto_00094_1" MIMETYPE="text/xml" CHECKSUM="c0999be7e3c442987de8cad5b64b5654" CHECKSUMTYPE="MD5" SIZE="1775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00094_1.xml"/>
+      </file>
+      <file ID="alto_00095_0" MIMETYPE="text/xml" CHECKSUM="f83963a54ee9b705a0eb9ca8e0780ac8" CHECKSUMTYPE="MD5" SIZE="1685">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00095_0.xml"/>
+      </file>
+      <file ID="alto_00095_1" MIMETYPE="text/xml" CHECKSUM="5667bedf785f0d9be7e8e44e5c957169" CHECKSUMTYPE="MD5" SIZE="79827">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00095_1.xml"/>
+      </file>
+      <file ID="alto_00096_0" MIMETYPE="text/xml" CHECKSUM="f9fb93f9afb0a71b4a23601f3e104760" CHECKSUMTYPE="MD5" SIZE="89177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00096_0.xml"/>
+      </file>
+      <file ID="alto_00096_1" MIMETYPE="text/xml" CHECKSUM="05de4c7cbab0473e7f2554044f9c425d" CHECKSUMTYPE="MD5" SIZE="91871">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00096_1.xml"/>
+      </file>
+      <file ID="alto_00097_0" MIMETYPE="text/xml" CHECKSUM="f393b563ee2bc41eed16bce92bcfef81" CHECKSUMTYPE="MD5" SIZE="94509">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00097_0.xml"/>
+      </file>
+      <file ID="alto_00097_1" MIMETYPE="text/xml" CHECKSUM="76dabf33eaf9fdbbf5bce3aab19f0537" CHECKSUMTYPE="MD5" SIZE="89193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00097_1.xml"/>
+      </file>
+      <file ID="alto_00098_0" MIMETYPE="text/xml" CHECKSUM="9189d413def284922fe32a8c219f1437" CHECKSUMTYPE="MD5" SIZE="93302">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00098_0.xml"/>
+      </file>
+      <file ID="alto_00098_1" MIMETYPE="text/xml" CHECKSUM="931e463834cb6aa6dd908a05d02501a7" CHECKSUMTYPE="MD5" SIZE="92414">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00098_1.xml"/>
+      </file>
+      <file ID="alto_00099_0" MIMETYPE="text/xml" CHECKSUM="5dde085800e9fd7acc5a9e0a9856e8a6" CHECKSUMTYPE="MD5" SIZE="83043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000674_redacted_ALTO_00099_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="165" lastpage="175">
+              <court pgmap="187" id="b187-10">Court of Appeals of Arkansas Division III</court>
+              <docketnumber pgmap="187" id="b187-8">CA 98-568</docketnumber>
+              <citation pgmap="187" id="b187-9">986 S.W.2d 116</citation>
+              <parties pgmap="187" id="b187-7">Jane B. ANDERSON; Rosalind B. Angell; Elizabeth B. Taylor; Wendy B. Patton; Rosalind B. Angell, Trustee of the Rosalind B. Angell Trust; Toplaw Trustee, Ltd., a Corporation; and Lawtop Trustee, Ltd., a Corporation v. Albert E. HOLLIDAY and Michael E. Holliday</parties>
+              <decisiondate pgmap="187" id="b187-11">Opinion delivered February 24, 1999</decisiondate>
+              <judges pgmap="197" id="b197-8">Stroud and Roaf, JJ., agree.</judges>
+              <attorneys pgmap="190" id="b190-6">Butler, Hicky &amp; Long, for appellants.</attorneys>
+              <attorneys pgmap="190" id="b190-7">Roscopf &amp; Roscopf, P.A., by: Charles B. Roscopf, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="190" id="Abq">Margaret Meads, Judge.</author>
+                <p pgmap="190" id="AAu">This case involves a claim of ownership by adverse possession of a paved section of a drainage ditch. Appellants appeal the St. Francis County Chan­cery Court’s decree which found that appellees adversely pos­sessed a 295-foot section of a drainage ditch and quieted title to the 295-foot section in appellees. We affirm.</p>
+                <p pgmap="190" id="b190-9">In August 1995, appellees filed a complaint requesting that title be quieted in them to a section of a drainage ditch located along the north side of Deadrick Road, near its intersection with Arkansas Highway No. 1 in Forrest City. In their complaint, appellees asserted that they owned by adverse possession through their predecessor-in-interest a 465-foot section of the drainage ditch which lay along the north side of Deadrick Road. Appellees also alleged that the north side of the 465-foot section of the ditch abutted a parcel of land they had purchased in 1992 from Gib-Ark Realty Corporation (Gib-Ark). Appellants, the record owners of the property, filed an answer and counterclaim in which they alleged, in essence, that appellees did not adversely possess the sec­tion of the drainage ditch and requested that title to the property be quieted in them based on their inheritance in 1977 of a 60-acre tract which included the subject drainage ditch.</p>
+                <p pgmap="190(102) 191(65)" id="b190-10">On November 5, 1997, the chancery court entered a decree quieting title in appellants to a 170-foot open section of the drain­age ditch. However, the court quieted tide in appellees to the 295-foot section of the drainage ditch that had been filled and paved, finding that appellees had established ownership by adverse possession. On appeal, appellants challenge the latter ruling only, contending there was insufficient evidence to support the court’s finding. Appellants argue that the chancery court erred in finding that appellees adversely possessed the paved section of the drainage ditch because appellees failed to prove that: (1) they had paid property taxes for seven years on the paved section of the ditch; (2) their use of the paved ditch was open, visible, and notorious; (3) they had continuously used the paved ditch for seven years; (4) they had used the paved ditch exclusively; and (5) they had the intent to hold the paved ditch adversely to appellants’ title to the land. We do not agree.</p>
+                <p pgmap="191" id="b191-5">
+                   The requirements to establish ownership of land by adverse possession are well developed in Arkansas case law:</p>
+                <blockquote pgmap="191" id="b191-6">It is well setded that, in order to establish tide by adverse possession, appellee had the burden of proving that she had been in possession of the property continuously for more than seven years and that her possession was visible, notorious, distinct, exclusive, hostile, and with intent to hold against the true owner. The proof required as to the extent of possession and dominion may vary according to the location and character of the land. It is ordinarily sufficient that the acts of ownership are of such a nature as one would exercise over her own property and would not exercise over that of another, and that the acts amount to such dominion over the land as to which it is reasonably adapted. Whether possession is adverse to the true owner is a question of fact. (Citations omitted.)</blockquote>
+                <p pgmap="191" id="b191-7">Moses v. Dautartas, 53 Ark. App. 242, 244, 922 S.W.2d 345, 346 (1996).</p>
+                <p pgmap="191" id="b191-8">
+                   The standards governing our review of a chancery court decision are also well established. Although we try chancery cases de novo on the record, we do not reverse unless we determine that the chancery court’s findings were clearly erroneous. Jennings v. Burford, 60 Ark. App. 27, 958 S.W.2d 12 (1997). In reviewing a chancery court’s findings, we give due deference to the chancel­lor’s superior position to determine the credibility of witnesses and the weight to be accorded to their testimony. Id.</p>
+                <p pgmap="191(61) 192(13)" id="b191-9">The testimony revealed that in 1968, Gib-Ark purchased a four-acre parcel of land which included what it understood to be 465 feet of frontage on Deadrick Road; however, the four-acre parcel did not adjoin Deadrick Road. Instead, a drainage ditch, which varied from five feet to twenty feet in width, lay between the four-acre parcel and Deadrick Road. Gib-Ark had purchased the four acres in order to build and operate a Gibson’s discount store.</p>
+                <p pgmap="192" id="b192-5">Albert Holliday, Gib-Ark’s chief executive officer in 1968, testified that Gib-Ark purchased the land along Deadrick Road with the intention of having direct access thereto, and that he and Gib-Ark’s other officer, “were under the opinion that we were buying everything . . . out to Deadrick Road.” When Gib-Ark constructed the Gibson’s store in 1968, it built a parking lot that included 295 feet of the 465-foot section of the drainage ditch. Gib-Ark cleared debris from the ditch, installed forty-eight-inch drainage pipes, filled it in, compacted the soil, and paved the sur­face. From September 1968 to June 1974, this 295-foot section of the drainage ditch was part of the Gibson’s store parking lot.</p>
+                <p pgmap="192" id="b192-6">Mr. Holliday further testified that in June 1974, a tornado destroyed the Gibson’s store, which was not rebuilt. In 1977, Gib-Ark sold 1.28 acres of the four-acre parcel to Fred’s Dollar Store, Inc., and in 1992, it sold the remainder of the property to Albert and Michael Holliday. He said that he had given Fred’s and other businesses in the vicinity permission to use the property, and had allowed civic organizations and produce vendors to use the property from time to time.</p>
+                <p pgmap="192" id="b192-7">Albert Holliday also testified regarding the cleanup and main­tenance work that had been performed to the Gibson’s parking lot after June 1974. He stated that the tornado debris was hauled off and disposed of, and that in 1992 or 1993 he hired a contractor to fill in potholes in the parking lot, including the paved section of the ditch. With regard to the 170-foot section of the drainage ditch that was not paved, he testified that from time to time Gib-­Ark or, after 1992, appellees, would have the open ditch cleaned up, or the city would clean the ditch and bill appellees for the cost of the cleanup.</p>
+                <p pgmap="192" id="b192-8">Michael Holliday corroborated his father’s testimony regard­ing the permissive uses granted to Fred’s and others on occasion. He testified that since the mid-’70s, the subject property has been a paved area providing access to Deadrick Road. He stated that he believed he and his father owned the property, and no one had attempted to keep him off the property or to otherwise control the property since they purchased it.</p>
+                <p pgmap="193" id="b193-4">Appellants assert that appellees failed to prove they had paid property taxes on the land in question for a period of seven years. In support of this allegation, appellants cite Ark. Code Ann. §18-­ll-106(a)(l)(A) (Supp. 1997), which requires actual or construc­tive possession of the property being claimed and either holding color of title to the land for at least seven years and paying ad valorem taxes on the land during this seven-year period, or hold­ing color of title and paying ad valorem taxes for at least seven years on land contiguous to the land being claimed by adverse possession. Appellants also cite Ark. Code Ann. § 18-11-102 (1987), which provides that possession of unimproved or unen­closed land is deemed to be in the person who pays the taxes thereon if he has color of title and has paid the taxes for at least seven years in succession.</p>
+                <p pgmap="193" id="b193-5">
+                   We conclude that this argument is procedurally barred. Prom the record before us, it does not appear that appellants made this argument to the trial court. In order to preserve an issue for appellate review, appellants must have presented the issue to the chancery court. See Riffle v. Worthen, 327 Ark. 470, 939 S.W.2d 294 (1997); Fields v. Ginger, 54 Ark. App. 216, 925 S.W.2d 794 (1996). It is axiomatic that the record on appeal is limited to what is abstracted and the burden is clearly placed on the appealing party to provide an abstract sufficient for appellate review. Califor­nia v. West, 61 Ark. App. 69, 964 S.W.2d 221 (1998).</p>
+                <p pgmap="193" id="b193-6">Appellants next contend that the chancery court erred in finding that Gib-Ark’s and appellees’ possession was open, visible, and notorious. Appellants base this argument on Gib-Ark’s and appellees’ use of the paved ditch to provide access from Deadrick Road onto their property and on the principle that use of unoccu­pied and unenclosed land for passage is presumed to be permissive in nature. Appellants further contend that Gib-Ark’s and appellees’ use of the property was not notorious, noting that in July 1993, Wal-Mart Stores, Inc., obtained easements over or near the paved ditch from appellants, not appellees, and claiming that if appellees’ use of the paved ditch were notorious, then Wal-Mart would have sought the easements from appellees. We disagree.</p>
+                <p pgmap="193(19) 194(114)" id="b193-7">
+                   Possession of land is sufficiently open, visible, and notorious for adverse possession if the acts of ownership of the adverse possessor are such that the true owner of the land would have knowledge of the adverse possession. Cooper v. Cook, 220 Ark. 344, 247 S.W.2d 957 (1952). It is ordinarily sufficient that the acts of ownership are those that one would exercise over his own property and would not exercise over that of another, and that the acts amount to dominion reasonably adapted to the land. Welder v. Wiggs, 31 Ark. App. 163, 790 S.W.2d 913 (1990). The true owner of adversely-possessed land can receive actual knowl­edge of the adverse nature of the possession by its very openness and notoriety. See Scott v. Hill, 1 Ark. App. 281, 614 S.W.2d 690 (1981).</p>
+                <p pgmap="194" id="b194-5">
+                   Here, the appellants’ predecessor-in-title, Jeannette Lenygon, had actual notice in 1968 when Gib-Ark placed pipes in the 295-foot section of the drainage ditch and paved it as part of its parking lot. Ms. Lenygon’s actual notice of this paving was established by the testimony of Dennis Jarrett, Ms. Lenygon’s land manager since 1952. On cross-examination, Mr. Jarrett admitted that in 1968 he had observed Gib-Ark placing pipes in the drain­age ditch, filling the ditch, and paving it over. Moreover, he acknowledged that Ms. Lenygon had seen the paved section of the ditch and had made no protest to him about it, nor did she instruct him to notify Gib-Ark to stop using the paved ditch as access to the Gibson’s parking lot. Additionally, appellant Rosa­lind Angelí testified that she learned several years ago that appellees were using the property but she made no objection.</p>
+                <p pgmap="194" id="b194-6">
+                   We also disagree with appellants’ contention that Gib­Ark’s and appellees’ use of the property was not open, visible, and notorious simply because Wal-Mart Stores, Inc., did not obtain easements from appellees. We note that Wal-Mart obtained its easements in 1993. Events that happened years after Gib-Ark could have obtained ownership of the paved ditch by adverse pos­session are not proof that Gib-Ark did not adversely possess the property from the fall of 1968 to the fall of 1975. See McLaughlin v. Sicard, 63 Ark. App. 212, 977 S.W.2d 1 (1998) (adverse posses­sion maintained for the seven-year period vests title in the adverse possessor as completely as would a deed from the holder of record title).</p>
+                <p pgmap="195" id="b195-4">
+                   The chancery court did not err in finding that Gib­Ark’s improvement of the 295-foot section of the drainage ditch was sufficient to communicate to Ms. Lenygon Gib-Ark’s intent to adversely possess the property. Gib-Ark’s acts of ownership were such as one would exercise over his own property and would not exercise over the property of another. Cf. Welder v. Wiggs, supra. Moreover, because Ms. Lenygon had actual notice of Gib­Ark’s acts of ownership over the 295-foot section of the drainage ditch, appellees were not required to prove that Gib-Ark’s posses­sion and use of the ditch were notorious. 10 David A. Thomas, Thompson on Real Property § 87.08 at 127 (Thomas ed., 1994).</p>
+                <p pgmap="195" id="b195-5">Appellants also maintain that the chancery court erred in finding that appellees and Gib-Ark had continuously used the paved ditch for seven years because the Gibson’s store was not in operation for seven years. It is true that Gib-Ark operated the Gibson’s store less than six years, from the fall of 1968 to June 1974. However, appellants’ argument is meritless because it equates Gib-Ark’s operation of its Gibson’s store with its continu­ous occupation of the paved ditch for seven years, from the fall of 1968 to the fall of 1975.</p>
+                <p pgmap="195" id="b195-6">
+                   Gib-Ark used the 295-foot section of the drainage ditch beginning in the fab of 1968 by placing drainage pipes, fill­ing the ditch, paving it, and using it for access to the Gibson’s store. Although this use is static and perhaps passive, adverse pos­session does not require that the adverse possessor’s use of the property be dynamic or active. See Moses v. Dautartas, supra, wherein Dautartas’ proof of adverse possession consisted, in part, of evidence that she maintained a large woodpile and built a con­crete drainage structure on her property that encroached on part of the disputed property. See also 2 C.J.S. Adverse Possession § 37 at 698 (1972) (digging of drainage ditches is a sufficient improvement of land to indicate that it is being adversely possessed).</p>
+                <p pgmap="195(61) 196(52)" id="b195-7">
+                   Appellants next argue that the chancery court erred in finding that Gib-Ark and appellees had exclusively used the paved ditch. According to appellants, Gib-Ark and appellees did not exclusively use the property because the public continually drove over the ditch in order to reach the Gibson’s store parking lot and, after June 1974, the parking lots of nearby stores. We disagree. The public’s use of land that is adversely possessed does not render the adverse possessor’s use non-exclusive, so long as the public’s use and the adverse possessor’s use of the land are not the same. 3 Am. Tur. 2d Adverse Possession § 79 (1986); 2 C.J.S. Adverse Posses­sion § 56 (1972).</p>
+                <p pgmap="196" id="b196-3">Although we have found no Arkansas case direcdy on point, Bensdorf v. Uihlein, 111 S.W. 481 (Tenn. 1915), is illustrative of this principle. In that case, the disputed property was a small tri­angle of land in front of appellants’ building which had fallen into disrepair. Appellants took possession of the property, paved it with bricks, and used the area as an entrance to their building. The public used the area in question as a shortcut between two nearby streets. The Tennessee Supreme Court quieted title to the property in appellants by virtue of adverse possession. With respect to exclusivity, the court stated:</p>
+                <blockquote pgmap="196" id="b196-4">The use and occupation of this triangular corner made by the defendants, and the use and occupation thereof enjoyed by the public, were not common uses. The-triangle was used by the public merely as a passway. . . . Defendants, however, used the lot as an attractive, paved, and commodious entrance to their store­house. No other person had a store fronting on this lot. No other person used the lot for the same purposes that defendants used it. No other person put the lot to the use to which it was best adapted. The public and the defendants used the lot in an altogether different manner. There was nothing in common between the use of the defendants and the use of the public. The use made of this lot by the public was under license, and a mere permissive use will not destroy the exclusiveness of an adverse claimant’s possession.</blockquote>
+                <p pgmap="196" id="b196-5">Bensdorf, 111 S.W. at 483.</p>
+                <p pgmap="196" id="b196-6">
+                   In the case at bar, appellees and their predecessors used the disputed property as an entrance to their property. There was no other business fronting on the property. Although the public traveled across the property and civic organizations used it from time to time, this usage was permissive, not possessory, and did not destroy the exclusiveness of appellees’ use.</p>
+                <p pgmap="196(20) 197(70)" id="b196-7">Finally, appellants assert that the chancery court erred in finding that appellees had the intent to adversely possess the paved ditch. To support this argument, appellants note that a few months prior to filing this lawsuit, appellee Albert Holliday asked appellants’ property manager, Dennis Jarrett, if they would quit­claim the disputed property to appellees. Appellants also contend that the wording of certain easements that Gib-Ark granted to Fred’s Dollar Store, Inc., in 1977 suggests that Gib-Ark was aware it did not have title to the disputed property. We disagree.</p>
+                <p pgmap="197" id="b197-5">
+                   Albert Holliday’s conversation with Dennis Jarrett occurred in 1995. Gib-Ark granted the easements to Fred’s Dol­lar Store in 1977. If Gib-Ark obtained ownership of the section of the drainage ditch at issue by adverse possession, it did so by the fall of 1975. Events that occurred after the fall of 1975, even if they amounted to a recognition by Gib-Ark or appellees that appellants might have a claim to the disputed property, do not divest appellees of their ownership of the property, nor would such recognition estop appellees from adversely possessing it. See Tull v. Ashcraft, 231 Ark. 928, 333 S.W.2d 490 (1960); McLaughlin v. Sicard, supra. At most, recognition by appellees that a true owner may have had a claim to the property would be admissible to show that their possession was not adverse to the true owner. See Lowe v. Cox, 210 Ark. 169, 194 S.W.2d 892 (1946). At trial, appellee Albert Holliday testified that when Gib-Ark purchased its property in 1968, it intended to have access to Deadrick Road; and after paving the parking lot for the Gibson’s store, it intended to own, control, and exercise dominion over the paved section of the drainage ditch. Whether Gib-Ark had the intention from the fall of 1968 to the fall of 1975 to adversely possess the paved ditch was a matter of witness credibility, which was for the chancery court to decide. See Jennings v. Buford, supra.</p>
+                <p pgmap="197" id="b197-6">
+                   For the reasons set forth above, we cannot say that the chancery court’s findings were clearly erroneous. Therefore, we affirm the chancery court’s decree quieting title in appellees to the 295-foot strip of property.</p>
+                <p pgmap="197" id="b197-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="187" ORDERLABEL="165" TYPE="page">
+        <fptr FILEID="tiff_00094_0"/>
+        <fptr FILEID="jp2_00094_0"/>
+        <fptr FILEID="alto_00094_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_187.3" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="188" ORDERLABEL="166" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jp2_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.2" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="189" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00095_0"/>
+        <fptr FILEID="jp2_00095_0"/>
+        <fptr FILEID="alto_00095_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.3" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="190" ORDERLABEL="168" TYPE="page">
+        <fptr FILEID="tiff_00095_1"/>
+        <fptr FILEID="jp2_00095_1"/>
+        <fptr FILEID="alto_00095_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.2" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="191" ORDERLABEL="169" TYPE="page">
+        <fptr FILEID="tiff_00096_0"/>
+        <fptr FILEID="jp2_00096_0"/>
+        <fptr FILEID="alto_00096_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.3" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="192" ORDERLABEL="170" TYPE="page">
+        <fptr FILEID="tiff_00096_1"/>
+        <fptr FILEID="jp2_00096_1"/>
+        <fptr FILEID="alto_00096_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.2" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="193" ORDERLABEL="171" TYPE="page">
+        <fptr FILEID="tiff_00097_0"/>
+        <fptr FILEID="jp2_00097_0"/>
+        <fptr FILEID="alto_00097_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.2" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="194" ORDERLABEL="172" TYPE="page">
+        <fptr FILEID="tiff_00097_1"/>
+        <fptr FILEID="jp2_00097_1"/>
+        <fptr FILEID="alto_00097_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.2" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="195" ORDERLABEL="173" TYPE="page">
+        <fptr FILEID="tiff_00098_0"/>
+        <fptr FILEID="jp2_00098_0"/>
+        <fptr FILEID="alto_00098_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.2" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="196" ORDERLABEL="174" TYPE="page">
+        <fptr FILEID="tiff_00098_1"/>
+        <fptr FILEID="jp2_00098_1"/>
+        <fptr FILEID="alto_00098_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.2" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="197" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00099_0"/>
+        <fptr FILEID="jp2_00099_0"/>
+        <fptr FILEID="alto_00099_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_197.3" BETYPE="IDREF" FILEID="alto_00099_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.7" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.7" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.4" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.12" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.5" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abq" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.9" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.8" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.9" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-3" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.4" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.8" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.4" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.7" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.11" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.5" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.13" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            <area BEGIN="BL_191.1" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.6" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.5" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.4" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAu" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.10" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            <area BEGIN="BL_190.11" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.6" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.5" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.3" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b197-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_197.7" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.10" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.8" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            <area BEGIN="BL_197.1" BETYPE="IDREF" FILEID="alto_00099_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.4" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.5" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.6" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.8" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_192.1" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.7" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.6" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.5" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.4" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.4" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.3" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.6" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            <area BEGIN="BL_194.1" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.5" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.7" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.6" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            <area BEGIN="BL_196.1" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

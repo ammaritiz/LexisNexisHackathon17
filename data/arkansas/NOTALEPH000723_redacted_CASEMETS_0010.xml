@@ -1,0 +1,760 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000723_0010" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Washington v. State">Wardell WASHINGTON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 89-204</docketnumber>
+          <citation category="official" type="bluebook">31 Ark. App. 62</citation>
+          <citation category="parallel" type="bluebook">787 S.W.2d 254</citation>
+          <decisiondate>1990-04-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T22:47:22Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:50:51Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:35:39Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:37:08Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="825ffdf508c8cf302da8f0f21eb9952f" CHECKSUMTYPE="MD5" SIZE="31380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="0a344c2756b1a33bd4f58c57b6bd8688" CHECKSUMTYPE="MD5" SIZE="22158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00044_0.tif"/>
+      </file>
+      <file ID="tiff_00044_1" MIMETYPE="image/tiff" CHECKSUM="59a33b4838a4244ff3d4e7b515ebf539" CHECKSUMTYPE="MD5" SIZE="48446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00044_1.tif"/>
+      </file>
+      <file ID="tiff_00045_0" MIMETYPE="image/tiff" CHECKSUM="67934a96fb5590931189056011b98945" CHECKSUMTYPE="MD5" SIZE="55322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00045_0.tif"/>
+      </file>
+      <file ID="tiff_00045_1" MIMETYPE="image/tiff" CHECKSUM="224c0e81c87e4bce257670e429caa021" CHECKSUMTYPE="MD5" SIZE="55020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00045_1.tif"/>
+      </file>
+      <file ID="tiff_00046_0" MIMETYPE="image/tiff" CHECKSUM="76cb7794375888480b558e98d975e5a9" CHECKSUMTYPE="MD5" SIZE="57274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00046_0.tif"/>
+      </file>
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="46c0d338d5ed01357a921608bef7c26f" CHECKSUMTYPE="MD5" SIZE="53818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="e608d455f516956541db8e6a3749f342" CHECKSUMTYPE="MD5" SIZE="37496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00047_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="28714c4975ba92edab7d3bdc05df50ff" CHECKSUMTYPE="MD5" SIZE="2101300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="93386121a1a0ab20dbf43adefc9191c0" CHECKSUMTYPE="MD5" SIZE="1652159">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00044_0.jp2"/>
+      </file>
+      <file ID="jp2_00044_1" MIMETYPE="image/jp2" CHECKSUM="c561bb063f234497c58cc07e84fa3be6" CHECKSUMTYPE="MD5" SIZE="2541877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00044_1.jp2"/>
+      </file>
+      <file ID="jp2_00045_0" MIMETYPE="image/jp2" CHECKSUM="560ec9b7ef648c9ae1171ce9711a148d" CHECKSUMTYPE="MD5" SIZE="2618681">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00045_0.jp2"/>
+      </file>
+      <file ID="jp2_00045_1" MIMETYPE="image/jp2" CHECKSUM="19b94a563ee92c9162edd1c2883b69c0" CHECKSUMTYPE="MD5" SIZE="2594604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00045_1.jp2"/>
+      </file>
+      <file ID="jp2_00046_0" MIMETYPE="image/jp2" CHECKSUM="0f9a1a5411bb2c83633830b220f39252" CHECKSUMTYPE="MD5" SIZE="2633852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00046_0.jp2"/>
+      </file>
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="22245f9f5b66084d03312cb1160d8f07" CHECKSUMTYPE="MD5" SIZE="2625961">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00046_1.jp2"/>
+      </file>
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="c4ff8f1e64ced44fc5992ca34ac7bf2f" CHECKSUMTYPE="MD5" SIZE="2480085">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000723_00047_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="0133db981d624eaae42bd18500c18af5" CHECKSUMTYPE="MD5" SIZE="45293">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="13106f9ff864942b4b67e1886a6b8413" CHECKSUMTYPE="MD5" SIZE="34540">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00044_0.xml"/>
+      </file>
+      <file ID="alto_00044_1" MIMETYPE="text/xml" CHECKSUM="c9b95d6615b14e09612297c768e774f7" CHECKSUMTYPE="MD5" SIZE="77949">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00044_1.xml"/>
+      </file>
+      <file ID="alto_00045_0" MIMETYPE="text/xml" CHECKSUM="b38fa174ef93c3b68977679e57065545" CHECKSUMTYPE="MD5" SIZE="86849">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00045_0.xml"/>
+      </file>
+      <file ID="alto_00045_1" MIMETYPE="text/xml" CHECKSUM="f78dbb53018c54be9da1a7b904a38bc3" CHECKSUMTYPE="MD5" SIZE="88471">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00045_1.xml"/>
+      </file>
+      <file ID="alto_00046_0" MIMETYPE="text/xml" CHECKSUM="ad2f6d7c4d53361363f100ebc83e1c12" CHECKSUMTYPE="MD5" SIZE="91451">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00046_0.xml"/>
+      </file>
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="443a693a30caa1e486e5bb054f9ddf52" CHECKSUMTYPE="MD5" SIZE="88340">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00046_1.xml"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="10bbbe4ddf10f64f3f2db2f015627001" CHECKSUMTYPE="MD5" SIZE="63570">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000723_redacted_ALTO_00047_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="69" firstpage="62">
+              <court id="b86-10" pgmap="86">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b86-9" pgmap="86">CA CR 89-204</docketnumber>
+              <citation id="A6n" pgmap="86">787 S.W.2d 254</citation>
+              <parties id="b86-8" pgmap="86">Wardell WASHINGTON v. STATE of Arkansas</parties>
+              <decisiondate id="b86-11" pgmap="86">Opinion delivered April 18, 1990</decisiondate>
+              <otherdate id="AtW" pgmap="86">[Rehearing denied May 30, 1990.]</otherdate>
+              <judges id="b93-9" pgmap="93">Corbin, C.J., and Mayfield, J., agree.</judges>
+              <attorneys id="b87-11" pgmap="87">Hale, Young, Green &amp; Nixon, by: Milas H. Hale III, for appellant.</attorneys>
+              <attorneys id="b87-12" pgmap="87">Steve Clark, Att’y Gen., by: J. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b87-13" pgmap="87">James R. Cooper, Judge.</author>
+                <p id="AVO" pgmap="87(109) 88(29)">The appellant was charged with three counts of committing forgery in violation of Ark. Code Ann. § 5-37-201 (1987). At the close of the State’s case, the trial court granted the appellant’s motion for a directed verdict as to two of the counts. The jury convicted the appellant on the remaining count and, after finding that he was an habitual offender, sentenced him to thirty years in the Arkansas Department of Correction. On appeal he argues three points for reversal: 1) that the trial court erred in refusing to dismiss the charge because he was tried in violation of his right to a speedy trial; 2) that the trial court erred in allowing a book on how to commit forgery to be introduced into evidence; and 3) that the evidence is insufficient to support the verdict. We affirm.</p>
+                <p id="b88-6" pgmap="88">Pursuant to Harris v. State, 284 Ark. 247, 681 S.W.2d 334 (1984), we first consider the sufficiency of the evidence, including any erroneously admitted evidence, before considering other arguments. At the close of the State’s case, the appellant moved for a directed verdict. The appellant did not put on any evidence and the trial court granted the appellant’s motion as to two of the counts.</p>
+                <p id="b88-7" pgmap="88">
+                   A motion for a directed verdict is a challenge to the sufficiency of the evidence. On appeal in criminal cases, we review the evidence in the light most favorable to the State and affirm if there is any substantial evidence to support the conviction. Harris v. State, 15 Ark. App. 58, 689 S.W.2d 353. Substantial evidence is evidence of sufficient force and character that it will, with reasonable certainty, compel a conclusion one way or the other without resorting to speculation or conjecture. Johnson v. State, 7 Ark. App. 172, 646 S.W.2d 22 (1983). According to Ark. Code Ann. § 5-37-201 (1987):</p>
+                <blockquote id="b88-8" pgmap="88">(a) A person forges a written instrument, if with the purpose to defraud, he draws, makes, completes, alters, counterfeits, possesses, or utters, any written instrument that purports to be or is calculated to become or to represent if completed the act of a person who did not authorize that act.</blockquote>
+                <blockquote id="b88-9" pgmap="88">(c) A person commits forgery in the second degree if he forges a written instrument that is:</blockquote>
+                <blockquote id="b88-10" pgmap="88">(1) A deed, will, codicil, contract assignment, check, commercial instrument, credit card, or other written instrument that does or may evidence, creates, transfer, terminate, or otherwise affect a legal right, interest, obligation, or status.</blockquote>
+                <p id="b88-11" pgmap="88(32) 89(68)">The record reveals that the appellant and Donna Sales were both charged with the three counts of forgery. Entered into evidence was the transcript of Ms. Sales’s guilty plea in which she admitted that she forged and passed the three checks and that the appellant was her accomplice. When Ms. Sales testified at the trial, she denied that the appellant was her accomplice, but she admitted that she implicated him when she pled guilty. She also admitted that she did so when she talked with Little Rock Detective David Ebinger while she was incarcerated in the Arkansas Department of Correction.</p>
+                <p id="b89-6" pgmap="89">Etta Mae Horton, a vice-president with First National Bank in West Memphis, Arkansas, testified that in 1985 and 1986 a person known as Jewell Small had an open account at the bank. She also stated that three checks, numbers 278, 287, and 289, were drawn on the account of Jewell Small and that the account was closed in January 1986.</p>
+                <p id="b89-7" pgmap="89">Pamela Merrell testified that in 1987 she had an account with First Federal in Little Rock. After being shown the three checks and their corresponding deposit slips, she stated that she did not know anything about the checks and did not authorize anyone to deposit them or withdraw funds out of her account.</p>
+                <p id="b89-8" pgmap="89">Sandra Anderson testified that on September 18, 1987, she was employed by First Federal Savings of Arkansas at the Westchase Plaza Branch. On that date a woman matching the description of Ms. Sales presented a check to her in the amount of $610.00. The check, number 289, listed Pamela Merrell as the payee and was drawn on the account of Jewell Small. The woman deposited the check and received $450.00 back in cash. The woman returned a few days later and Ms. Anderson and a co­worker, Irene Fuller, recognized her and started the surveillance camera.</p>
+                <p id="b89-9" pgmap="89">According to Ms. Fuller, when the woman returned, she presented check number 287 in the amount of $650.00 and requested that it be cashed. That check also listed Pamela Merrell as the payee and was drawn on the account of Jewell Small. Ms. Fuller refused to cash the check, alerted the police, and the woman left. She identified photographs taken by the surveillance camera as being photographs of the woman who presented the two checks.</p>
+                <p id="b89-10" pgmap="89(19) 90(42)">Karen Scarborough testified that she worked at First Fed­eral’s Rodney Parham Branch in September 1987 and that check number 278 in the amount of $595.00 was presented to her. She stated that she gave cash back in the amount of $400.00. Check number 278 had the same payee and was drawn on the same account as the other two checks.</p>
+                <p id="b90-6" pgmap="90">Ms. Sales testified that she forged and passed the checks and that the photographs taken by the surveillance camera were photographs of her. She stated that the checks were given to her by a friend named Lisa and that the appellant had never touched them. However, Jim Beck, a latent fingerprints examiner with the Arkansas State Crime Laboratory, testified that a fingerprint on check number 278 matched the appellant’s fingerprint. He did not find any other prints belonging to the appellant. (The trial court later granted the appellant’s motion to dismiss the charges relating to the checks numbered 287 and 289).</p>
+                <p id="b90-7" pgmap="90">Officer Bill Rives of the Little Rock Police Department stated that, in 1983, he arrested Pamela Washington who was in the appellant’s car and that pursuant to the arrest he seized a black satchel. According to Officer Rives, the satchel had been in the care and custody of the Little Rock Police Department since 1983.</p>
+                <p id="b90-8" pgmap="90">David Ebinger testified that, at Ms. Sales’s request, he interviewed Ms. Sales in June 1988 at the Department of Correction Women’s Unit. According to Detective Ebinger, Ms. Sales admitted that she got the three checks involved in this case from the appellant, that the appellant told her which account she should deposit them in, supplied her with the account numbers, drove her to the banks to deposit the checks, and told her how much “cash-back” she should request.</p>
+                <p id="b90-9" pgmap="90">He also stated that Ms. Sales told him about a book the appellant had on how to conduct fraudulent activity with banking establishments. The book she described fit the description of a book found in the black satchel recovered by the police in 1983. According to Detective Ebinger, the book contains descriptions of the same type of cash-back scheme involved in the present case. This book was entered into evidence, over the objections of the appellant, as was a handwritten lawsuit filed by the appellant in federal court in which the appellant asserted that book belongs to him and sought its return.</p>
+                <p id="b91-3" pgmap="91">
+                   We find the evidence to be sufficient to support the appellant’s conviction. We also find that the fingerprint on check #278 which matched the appellant’s is sufficient corroboration of Ms. Sales’s testimony. See Maynard v. State, 21 Ark. App. 20, 727 S.W.2d 858 (1987). Even though Ms. Sales recanted her prior statements regarding the appellant’s involvement, these inconsistencies were for the jury to resolve. See Johnson v. State, 298 Ark. 617, 770 S.W.2d 128 (1989).</p>
+                <p id="b91-4" pgmap="91">Next, the appellant argues that his right to a speedy trial was violated. The appellant filed a motion to dismiss arguing that he was denied his right to a speedy trial and the trial court held a hearing on this issue. According to the record of that hearing, a bench warrant was issued for the appellant’s arrest on October 2, 1987, for the forgeries committed on September 18 and 21, 1987. However, the appellant was arrested for unrelated forgery charges in Pine Bluff on December 21, 1987. Detective Ebinger testified that he was present when the appellant was arrested in Pine Bluff and that he requested that the Jefferson County authorities notify him when the Pine Bluff charges were disposed of, and that the appellant be turned over to him at that time.</p>
+                <p id="b91-5" pgmap="91">The appellant was tried and convicted of the Pine Bluff charges on August 22, 1988, and on that date he was served with a warrant stemming from the Little Rock forgery charges. The appellant was transported to Little Rock and he waived plea and arraignment in Little Rock Municipal Court on August 23, 1988. However, the federal government had also placed a detainer on the appellant on December 21, 1987, and, on August 30, 1988, the appellant was placed in the custody of the United States Marshall’s office because the appellant had violated his federal parole.</p>
+                <p id="b91-6" pgmap="91">On September 23, 1988, a felony information was filed charging the appellant with the offenses which occurred in Little Rock and, on November 7, 1988, the Warrants Division of the Pulaski County Sheriffs Office received a bench warrant. Wayne Overton, an employee in the Warrants Division, testified that he notified the federal government of the warrant and placed a detainer on the appellant on November 22, 1988. The appellant was picked up from federal custody on March 7, 1989.</p>
+                <p id="b91-7" pgmap="91(10) 92(39)">The appellant’s hearing on his motion to dismiss was held April 24, 1989. The appellant agreed to waive his speedy trial rights from April 24 to the time for trial so that the trial court could consider his speedy trial arguments. The appellant was tried on May 9, 1989.</p>
+                <p id="b92-6" pgmap="92">The State concedes that because the appellant was charged after October 1, 1987, the twelve-month limitation contained in the amended version of Ark. R. Crim. P. 28.1 applies. The appellant contends that this twelve-month period began to run on December 21, 1987, when the Little Rock authorities placed a detainer on him after he was arrested in Pine Bluff. The State contends that the twelve-month period began to run when the appellant was arrested after his Pine Bluff trial on August 22, 1988.</p>
+                <p id="b92-7" pgmap="92">
+                   We find that the time limitation began to run on August 22, 1988, the date the appellant was arrested. Time generally begins to run when the appellant either is arrested or charged in circuit court. Arkansas Rule of Criminal Procedure 28.2 provides:</p>
+                <blockquote id="b92-8" pgmap="92">The time for trial shall commence running, without demand by the defendant, from the following dates:</blockquote>
+                <blockquote id="b92-9" pgmap="92">(a) from the date the charge is filed, except that if prior to that time the defendant has been continuously held in custody or on bail or lawfully at liberty to answer for the same offense or an offense based on the same conduct or arising from the same criminal episode, then the time for trial shall commence running from the date of arrest;</blockquote>
+                <p id="b92-10" pgmap="92">Therefore, because the appellant was not charged with the forgeries in Little Rock until after he was arrested on August 22, 1988, the time limitation began to run when he was arrested.</p>
+                <p id="b92-11" pgmap="92(101) 93(47)">We find no merit in the appellant’s contention that the time began to run when he was arrested in Pine Bluff on December 21, 1987, because that arrest arose out of a separate criminal episode. Although Detective Ebinger did request that he be notified when the Pine Bluff charges were disposed of, there is nothing in the record which indicates that the appellant was being held in Pine Bluff solely because Little Rock authorities requested it. The appellant was clearly being held in Pine Bluff pursuant to the charges in Pine Bluff, and the time period could not begin to run on the Little Rock charges until he was either charged with them or arrested for them. See Hall v. State, 281 Ark. 282, 663 S.W.2d 926 (1984), and Mackey v. State, 279 Ark. 307, 651 S.W.2d 82 (1983) (incarcerated appellant’s time began to run from date charged).</p>
+                <p id="b93-6" pgmap="93">In light of our holding, we do not need to discuss whether the time the appellant was in federal custody was excludable pursu­ant to Ark. R. Crim. P. 28.3 because the appellant was tried within twelve months of August 22, 1988.</p>
+                <p id="b93-7" pgmap="93">
+                   The appellant’s last argument concerns the introduc­tion into evidence of the book on how to commit forgeries. However, the book is not a part of the record in this case and we cannot determine whether its introduction was prejudicial. Al­though there is a copy of the handwritten lawsuit the appellant filed in federal court which requests the return of the book, the appellant’s lawsuit was dismissed and at the time of trial the book was apparently still in the custody of the police department. Furthermore, the appellant does not offer an explanation as to why the book is not in the record and there is no indication that the appellant took any steps to insure that it was made part of the record. The appellant has the duty to provide a complete record from which the appellate court can determine an asserted error. Stone v. State, 290 Ark. 204, 718 S.W.2d 102 (1986). Because the appellant has failed to include the book in the record we cannot address his argument.</p>
+                <p id="b93-8" pgmap="93">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="86" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.2" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="88" ORDERLABEL="64" TYPE="page">
+        <fptr FILEID="tiff_00044_1"/>
+        <fptr FILEID="jp2_00044_1"/>
+        <fptr FILEID="alto_00044_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_88.2" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="89" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00045_0"/>
+        <fptr FILEID="jp2_00045_0"/>
+        <fptr FILEID="alto_00045_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_89.3" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="90" ORDERLABEL="66" TYPE="page">
+        <fptr FILEID="tiff_00045_1"/>
+        <fptr FILEID="jp2_00045_1"/>
+        <fptr FILEID="alto_00045_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_90.2" BETYPE="IDREF" FILEID="alto_00045_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="91" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00046_0"/>
+        <fptr FILEID="jp2_00046_0"/>
+        <fptr FILEID="alto_00046_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_91.2" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="92" ORDERLABEL="68" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.2" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="69" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-3" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.3" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.7" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.7" BETYPE="IDREF" FILEID="alto_00046_0"/>
+            <area BEGIN="BL_92.1" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.8" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            <area BEGIN="BL_90.1" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.6" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.4" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.10" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.6" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.7" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.6" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.9" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            <area BEGIN="BL_89.1" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.10" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-12" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.11" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-13" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.12" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.8" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.4" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.5" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.5" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b91-4" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_91.4" BETYPE="IDREF" FILEID="alto_00046_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtW" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.12" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.6" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b90-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_90.7" BETYPE="IDREF" FILEID="alto_00045_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.5" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.4" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.4" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.8" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.7" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.5" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.7" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.6" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.11" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.9" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_93.1" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.5" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.8" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVO" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.13" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            <area BEGIN="BL_87.14" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            <area BEGIN="BL_88.1" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6n" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.9" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.7" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.6" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.5" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.4" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

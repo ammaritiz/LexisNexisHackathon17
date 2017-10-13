@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000681_0030" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Phillips v. Arkansas Department of Human Services">Billy PHILLIPS and Tina Phillips v. ARKANSAS DEPARTMENT of HUMAN SERVICES</name>
+          <docketnumber>CA 98-1274</docketnumber>
+          <citation category="official" type="bluebook">64 Ark. App. 201</citation>
+          <citation category="parallel" type="bluebook">980 S.W.2d 276</citation>
+          <decisiondate>1998-12-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T23:55:18Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:29Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-21T11:43:04Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-21T11:43:57Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00112_0" MIMETYPE="image/tiff" CHECKSUM="cdf010be4cd8bcae643b3b8377617ff0" CHECKSUMTYPE="MD5" SIZE="22076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00112_0.tif"/>
+      </file>
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="3b20c56d3d8e30c750fca8f8bb4f3d63" CHECKSUMTYPE="MD5" SIZE="28858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00112_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00112_0" MIMETYPE="image/jp2" CHECKSUM="13e7376fa5da6fb52402e3bb1087d213" CHECKSUMTYPE="MD5" SIZE="1984784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00112_0.jp2"/>
+      </file>
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="ab8939edf6ed749a47942824bd86c55b" CHECKSUMTYPE="MD5" SIZE="2023237">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000681_00112_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00112_0" MIMETYPE="text/xml" CHECKSUM="9a90a374f0b50c9db8d730837b5dc326" CHECKSUMTYPE="MD5" SIZE="31504">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00112_0.xml"/>
+      </file>
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="4693a9315021d8a51c273962fe56ea6b" CHECKSUMTYPE="MD5" SIZE="47704">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000681_redacted_ALTO_00112_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0030" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="201" lastpage="202">
+              <court id="b223-9" pgmap="223">Court of Appeals of Arkansas</court>
+              <docketnumber id="b223-8" pgmap="223">CA 98-1274</docketnumber>
+              <citation id="ACY" pgmap="223">980 S.W.2d 276</citation>
+              <parties id="b223-7" pgmap="223">Billy PHILLIPS and Tina Phillips v. ARKANSAS DEPARTMENT of HUMAN SERVICES</parties>
+              <decisiondate id="AOr" pgmap="223">Opinion delivered December 9, 1998</decisiondate>
+              <attorneys id="b224-9" pgmap="224">Christine Horwart, for appellants.</attorneys>
+              <attorneys id="b224-10" pgmap="224">No response.</attorneys>
+              <opinion type="majority">
+                <author id="b224-11" pgmap="224">Per Curiam.</author>
+                <p id="AKG" pgmap="224">
+                   We hereby grant the motion of the appellants to proceed in forma pauperis and write simply to say that by granting the motion, we are not granting attorney fees. In Webber v. Arkansas Dept. of Human Services, 334 Ark. 527, 975 S.W. 2d 829 (1998), the supreme court refused to allow attorney fees because the appellant in that case failed to cite any authority in support of the petition for attorney fees in an appeal from juvenile court. We would, of course, follow its man­date. However, the decision in Post v. State, 311 Ark. 510, 845 S.W. 2d 487 (1993), a case involving attorney fees for indigent criminal defendants, mandated payment of reasonable attorney fees for appointed attorneys in criminal cases. Though the nature of the proceedings is different, i.e., one is criminal and one civil, the juvenile code requires an appointment of counsel in termina­tion cases. The cases appear in conflict and only the Supreme Court can give guidance to attorneys as to whether or not they will be paid for their appellate representation of indigent parents who lose their parental rights.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="223" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00112_0"/>
+        <fptr FILEID="jp2_00112_0"/>
+        <fptr FILEID="alto_00112_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_223.2" BETYPE="IDREF" FILEID="alto_00112_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="224" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.2" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOr" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.12" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-7" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.8" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKG" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.10" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_224.11" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_224.12" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-10" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.8" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-11" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.9" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.11" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b223-8" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.9" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACY" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_223.10" BETYPE="IDREF" FILEID="alto_00112_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-9" BETYPE="IDREF" FILEID="casebody_0030"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.7" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

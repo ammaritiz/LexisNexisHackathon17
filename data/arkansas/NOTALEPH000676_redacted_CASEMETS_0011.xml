@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000676_0011" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Donald v. State">Gregory DONALD v. STATE of Arkansas</name>
+          <docketnumber>CA CR 00-677</docketnumber>
+          <citation category="official" type="bluebook">73 Ark. App. 79</citation>
+          <citation category="parallel" type="bluebook">42 S.W.3d 563</citation>
+          <decisiondate>2001-03-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T00:52:59Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:04Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:32:03Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:34:46Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="4578ef35dfe96ab905b42083e726a4d3" CHECKSUMTYPE="MD5" SIZE="29558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="b50eda045214a8d447984283cfc4ddd3" CHECKSUMTYPE="MD5" SIZE="57640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="fffe2ae55c674c74402f1e2adb179f97" CHECKSUMTYPE="MD5" SIZE="32882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00054_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="bd92a46bd84dbab59200ebce46d33f7d" CHECKSUMTYPE="MD5" SIZE="2273461">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="f81828d54ef3048e54db301afedd63dc" CHECKSUMTYPE="MD5" SIZE="2800088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="7349b180ba1407d8a8584e4854ecd1d1" CHECKSUMTYPE="MD5" SIZE="2478678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00054_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="8c6b1b340f793108c2ed016547432bb2" CHECKSUMTYPE="MD5" SIZE="46159">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="acf3ca5f254d31e3fdf406b61c87e38b" CHECKSUMTYPE="MD5" SIZE="92558">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="ebcc5685cb5f88038c0e9b53f3193bb0" CHECKSUMTYPE="MD5" SIZE="52911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00054_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="79" lastpage="81">
+              <court id="b105-6" pgmap="105">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b105-4" pgmap="105">CA CR 00-677</docketnumber>
+              <citation id="b105-5" pgmap="105">42 S.W.3d 563</citation>
+              <parties id="b105-3" pgmap="105">Gregory DONALD v. STATE of Arkansas</parties>
+              <decisiondate id="b105-7" pgmap="105">Opinion delivered March 7, 2001</decisiondate>
+              <judges id="b107-8" pgmap="107">Pittman and Hart, JJ., agree.</judges>
+              <attorneys id="b105-12" pgmap="105">Charles S. Gibson, for appellant.</attorneys>
+              <attorneys id="b105-13" pgmap="105">Mark Pryor, Att’y Gen., by: Misty Wilson Borkowski, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b105-15" pgmap="105">LARRY D. VAUGHT, Judge.</author>
+                <p id="AH8" pgmap="105">Appellant Gregory Donald was I /convicted of driving while intoxicated. After the jury deadlocked in the sentencing phase, the trial court assumed the sentencing function. Appellant was given the maximum sentence of a year in jail, a $1,000 fine, and suspension of his driver’s license for 120 days. Appellant argues that the trial court committed reversible error in imposing this sentence in the absence of a presentence report required by Arkansas Code Annotated section 5-65-109 (Repl. 1997), and the State concedes the issue. We agree, and reverse the sentence and remand for resentencing.</p>
+                <p id="b105-17" pgmap="105(42) 106(97)">In August of 1999, after appellant was found guilty of DWI, the trial court ordered appellant’s probation officer, Ms. Moody, to prepare a presentence report. Sentencing was set for November 8, 1999. At the sentencing hearing, Moody stated that she was unable to prepare the report because she was waiting for some papers to be filled out by appellant. The trial judge expressed his disappointment that the report had not been completed and instructed Moody that if she had informed the court that she needed information, he would have ordered cooperation. The judge also instructed Moody that she should have, at the very least, presented the information that her office had on record relating to appellant’s criminal history. Appellant responded that he had seen Moody three times in the interim and she had not inquired about any missing information.</p>
+                <p id="b106-6" pgmap="106">Despite appellant’s objection, the trial judge continued with sentencing. Interestingly, the trial judge made several comments during the sentencing indicating that knowledge of the appellant’s criminal history and his history with alcohol abuse would have been useful in deciding the length of appellant’s incarceration.</p>
+                <p id="b106-7" pgmap="106">
+                   Appellant argues that the trial judge’s imposition of sen­tencing absent a presentence report amounts to reversible error. Arkansas Code Annotated section 5-65-109 provides in pertinent part:</p>
+                <blockquote id="b106-8" pgmap="106">(a) Upon a plea of guilty or nolo contendere to or a finding of guilt of violating § 5-65-103, the court shall immediately request, and the Highway Safety Program or its designee shall provide, a presentence screening and assessment report of the defendant; (b) The presentence report shall be provided within thirty (30) days of the request, and the court shall not pronounce sentence until receipt of the presentence report-, (c) The report shall include, but not be limited to, the offender’s driving record, an alcohol problem assessment, and a victim impact statement where applicable.</blockquote>
+                <p id="b106-9" pgmap="106">(Emphasis added.) Our supreme court has given us strong direction regarding the presentence report requirement of section 5-65-109. In Watson v. City of Fayetteville, 322 Ark. 324, 909 S.W.2d 637 (1995), the defendant refused to participate in the presentence interview, upon the advice of his counsel that he may further incriminate himself. The supreme court held that even when the defendant does not willingly cooperate during the presentence interview, the language of section 5-65-109 remains clear and mandatory. Additionally, the court reasoned that the requirement is absolute and refused to apply an invited-error analysis. Id.</p>
+                <p id="b106-10" pgmap="106(31) 107(21)">In the case at bar, the record reflects the appellant was willing to participate in the presentence interview. Specifically, the report was initially requested by appellant, the sentencing took place over the appellant’s objection, the appellant never refused participation, and the trial court attributed the failure to produce a report to miscommunication.</p>
+                <p id="b107-6" pgmap="107">
+                   The State concedes that the trial court erred by sentencing without the report, but asks that the case be certified to the supreme court to overturn Watson because the statutory require­ment of a presentence report produces “absurd results” through “invited error.” This issue was thoroughly addressed by the supreme court in Watson, under a much more favorable fact scenario. In Watson, there was undisputed evidence that the defendant refused to cooperate, yet the supreme court still held the trial court to the statutory requirements of section 5-65-109. In contrast, the evi­dence in this case suggests a much different scenario. The appellant was willing to participate in the presentence process, and the court’s initial request for the report came at appellant’s urging. Therefore, we reverse the sentence and remand for resentencing in accordance with this opinion and Arkansas Code Annotated section 5-65-109.</p>
+                <p id="b107-7" pgmap="107">Reversed and remanded for resentencing.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="105" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.2" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-13" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.13" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-12" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.12" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-17" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.17" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.6" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.7" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-3" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.7" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-15" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.14" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AH8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.15" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_105.16" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.8" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

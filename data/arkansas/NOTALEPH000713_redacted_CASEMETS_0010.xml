@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000713_0010" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hogan v. Holliday">Elizabeth HOGAN v. Brenda HOLLIDAY</name>
+          <docketnumber>CA 00-42</docketnumber>
+          <citation category="official" type="bluebook">72 Ark. App. 67</citation>
+          <citation category="parallel" type="bluebook">31 S.W.3d 875</citation>
+          <decisiondate>2000-12-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:11:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:34:32Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T14:38:35Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T14:41:54Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="73f3fb5a22552b598380be19df014106" CHECKSUMTYPE="MD5" SIZE="11550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="6a62cd23e829a4376832117999c0876b" CHECKSUMTYPE="MD5" SIZE="48536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="00ed81197c3bb8e6eb40a8cb86db1998" CHECKSUMTYPE="MD5" SIZE="55944">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="aad0354e5ffb3fd91c7d3576c5970463" CHECKSUMTYPE="MD5" SIZE="28296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00049_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="509d6f2549c854f0cd205955ef7b2a21" CHECKSUMTYPE="MD5" SIZE="1805034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00048_0.jp2"/>
+      </file>
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="b64c62c3c7ca2ca3977178bc6a11bba4" CHECKSUMTYPE="MD5" SIZE="2635502">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00048_1.jp2"/>
+      </file>
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="9559621d3be437ef63cab9af1855925c" CHECKSUMTYPE="MD5" SIZE="2761342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="4904b6d21c9cf3ff59651a2c445bcab1" CHECKSUMTYPE="MD5" SIZE="2469575">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000713_00049_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="f20860c5abbf3693ec77bbb07a8f075b" CHECKSUMTYPE="MD5" SIZE="15968">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00048_0.xml"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="129c8fe68c536da7229cff1074387fe6" CHECKSUMTYPE="MD5" SIZE="78342">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00048_1.xml"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="3dfc8c4760f55f8822572149c6f4fa32" CHECKSUMTYPE="MD5" SIZE="97708">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="9a5041feddf2fd6ca5f7e93afb46dde5" CHECKSUMTYPE="MD5" SIZE="48151">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000713_redacted_ALTO_00049_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0010" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="67" lastpage="70">
+              <court pgmap="95" id="b95-9">Court of Appeals of Arkansas Divisions I and II</court>
+              <docketnumber pgmap="95" id="AIt">CA 00-42</docketnumber>
+              <citation pgmap="95" id="A5CJ">31 S.W.3d 875</citation>
+              <parties pgmap="95" id="b95-8">Elizabeth HOGAN v. Brenda HOLLIDAY</parties>
+              <decisiondate pgmap="95" id="b95-10">Opinion delivered December 6, 2000</decisiondate>
+              <judges pgmap="98" id="b98-7">Hart, Jennings, Meads, and Pittman, JJ., agree.</judges>
+              <judges pgmap="98" id="b98-8">Crabtree, J., dissents.</judges>
+              <attorneys pgmap="96" id="b96-7">Wright, Chaney, Berry, Daniel, Hughes &amp; Moore, P.A., by: Rod­ney P. Moore, for appellant.</attorneys>
+              <attorneys pgmap="96" id="b96-8">Taylor King &amp; Associates, by: Taylor A. King, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="96" id="pAka">Layton Roaf, Judge.</author>
+                <p pgmap="96" id="AJe">Elizabeth Hogan appeals from a circuit court order setting aside a jury verdict that found Hogan negligent in an automobile accident but awarded zero damages. Hogan argues that the circuit court abused its discretion in granting plaintiff/appellee Brenda Holliday a new trial. We affirm.</p>
+                <p pgmap="96" id="b96-10">Hogan and Holliday were involved in a three-car accident in which Hogan rear-ended a truck driven by Randall Wagner, who then struck the rear of Holliday’s car. Hogan testified that she was going thirty-five miles per hour and reduced her speed only mini­mally before she struck Wagner. Although Holliday stated she was not injured at the scene of the accident, she sought medical treat­ment several weeks after the accident because of persistent head­aches, neck and back pain and soreness, commencing the night of the accident. Holliday eventually was seen by Dr. D’Orsay Bryant, an orthopedic surgeon, about four weeks after the accident. Dr. Bryant noted swelling and persistent muscle spasms in Holliday’s neck and lower back, and diagnosed a whiplash-type muscular and ligamentous injury. An MRI showed evidence of degenerative disc disease. Dr. Bryant prescribed a conservative treatment regimen, including physical therapy, medication and a TENS unit. Dr. Bry­ant testified by deposition that a muscle spasm is an objective finding, that a person can not fake a muscle spasm, and that Hol-­liday’s degenerative disc disease did not play a significant role in her injury. Holliday incurred medical expenses totaling $7,131 as a result of this treatment.</p>
+                <p pgmap="96(52) 97(29)" id="b96-11">After the trial of Holliday’s negligence action against Hogan, the jury found against Hogan on the issue of negligence but awarded no damages to Holliday. Holliday moved for a new trial, asserting that the damages were grossly inadequate and that the verdict was contrary to the preponderance of the evidence and the law. The trial court ordered a new trial, finding that the verdict of the jury was clearly contrary to the preponderance of the evidence and should be set aside.</p>
+                <p pgmap="97" id="b97-5">On appeal, Hogan argues that the trial court abused its discre­tion in granting Holliday a new trial. Hogan contends, in essence, that Holliday’s case relied primarily upon her testimony as to her injury and that the jury was entitled to find that she was not injured in the accident. In this regard, Hogan asserts that Holliday’s car suffered only minimal damage, she did not receive medical treat­ment until a month after the accident, she continued to work at a manual-labor job following the accident, ' and that her muscle spasms could have come from her work 'activities. Consequently, Hogan asserts, Holliday failed- to meet her burden of proving that Hogan’s negligence was the proximate cause of her injury and damages. Hogan further contends that the trial court impermissibly shifted the burden to her to prove that Holliday suffered pre­existing or subsequently-caused injuries.</p>
+                <p pgmap="97" id="b97-6">
+                   The law affecting the granting of a new trial is well settled.­Arkansas Rule of Civil Procedure 59(a) provides that a new trial may be granted, among other reasons, for error in the assessment of the amount of recovery, whether too large, or too small, and when the verdict is clearly contrary to the preponderance of the evidence. Garnett v. Crow, 70 Ark. App. 97, 14 S.W.3d 531 (2000). The test we apply on review of the granting of a new trial is whether there was a manifest abuse of discretion. Carr v. Woods, 294 Ark. 13, 740 S.W.2d 145 (1987); Eisner v. Fields, 67 Ark. App. 238, 998 S.W.2d 421 (1999). A manifest abuse of discretion in granting a new trial means discretion improvidently exercised, i.e., exercised thought­lessly and without due consideration. Nazarenko v. CTI Trucking Co., 313 Ark. 570, 856 S.W.2d 869 (1993). A showing of an abuse of discretion is .more difficult when a new trial has been granted because the party opposing the motion will have- another opportu­nity to prevail. Young v. Honeycutt, 324 Ark. 120, 919 S.W.2d 216 (1996). Accordingly, he has less basis for a claim of prejudice than does one who has unsuccessfully moved for a new trial. Carr v. Woods, supra.</p>
+                <p pgmap="97(36) 98(119)" id="b97-7">
+                   Two cases are relied upon by Hogan as having facts analo­gous to this case, in that there was an admission or finding of negligence on the part of the defendant, but the jury awarded the plaintiff no damages. However, in both cases the supreme court affirmed the trial court’s denial of a new trial. See Thigpen v. Polite, 289 Ark. 514, 712 S.W.2d 910 (1986); Webb v. Thomas, 310 Ark. 553, 837 S.W.2d 875 (1992). Consequently, we do not deem these cases to provide authority for reversing the trial court’s grant of a new trial. Given that a showing of abuse of discretion is more difficult when a new trial is granted, we cannot say that, based on the record before us, the trial court’s granting of a new trial to Holliday was such a manifest abuse of discretion, exercised thought­lessly and without due consideration, so as to warrant reversal of this case.</p>
+                <p pgmap="98" id="b98-6">Affirmed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="98" id="pAr5">Crabtree, Judge,</author>
+                <p pgmap="98" id="AHd">dissenting. The jury heard the testimony of the witnesses, viewed the evidence, and heard arguments in this case. They found that the plaintiff did not suffer damages as a result of the negligence of the defendants. In my opinion, there is more than sufficient evidence to support the verdict. The jury decided the case, and that should be the end of it.</p>
+                <p pgmap="98" id="b98-10">I dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="95" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="68" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.2" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="69" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="70" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.2" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAr5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.8" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAka" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.9" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHd" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.9" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_98.10" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            <area BEGIN="BL_98.11" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.13" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-11" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.14" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.12" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.7" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIt" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.8" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-9" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.10" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.7" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.4" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.6" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-8" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.6" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJe" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.10" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_96.11" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_96.12" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5CJ" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.9" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-10" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.11" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-6" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b98-7" BETYPE="IDREF" FILEID="casebody_0010"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_98.5" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

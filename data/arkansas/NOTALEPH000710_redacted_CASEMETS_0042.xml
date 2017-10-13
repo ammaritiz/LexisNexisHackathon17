@@ -1,0 +1,408 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000710_0042" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Dupree v. State">Paul Ray DUPREE v. STATE of Arkansas</name>
+          <docketnumber>CA CR 94-1126</docketnumber>
+          <citation category="official" type="bluebook">50 Ark. App. 271</citation>
+          <citation category="parallel" type="bluebook">906 S.W.2d 315</citation>
+          <decisiondate>1995-09-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:30:49Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:16Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T03:32:43Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T03:33:23Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00148_0" MIMETYPE="image/tiff" CHECKSUM="e3c155ba5375f60c8761be87bcdf84ea" CHECKSUMTYPE="MD5" SIZE="12566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00148_0.tif"/>
+      </file>
+      <file ID="tiff_00148_1" MIMETYPE="image/tiff" CHECKSUM="66aaafcf3035c79acb0588bac710b6f3" CHECKSUMTYPE="MD5" SIZE="56698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00148_1.tif"/>
+      </file>
+      <file ID="tiff_00149_0" MIMETYPE="image/tiff" CHECKSUM="74a12251adad0407f47687d6b2018136" CHECKSUMTYPE="MD5" SIZE="41154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00149_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00148_0" MIMETYPE="image/jp2" CHECKSUM="c61052c9aa8d314cab2739ad75442759" CHECKSUMTYPE="MD5" SIZE="1646921">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00148_0.jp2"/>
+      </file>
+      <file ID="jp2_00148_1" MIMETYPE="image/jp2" CHECKSUM="70a13a39237ddd4c55d6f9bdbac275b7" CHECKSUMTYPE="MD5" SIZE="2682688">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00148_1.jp2"/>
+      </file>
+      <file ID="jp2_00149_0" MIMETYPE="image/jp2" CHECKSUM="f81c381f9ee0376748d4370bae7d0fb1" CHECKSUMTYPE="MD5" SIZE="2551364">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000710_00149_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00148_0" MIMETYPE="text/xml" CHECKSUM="59f1a93fb92c2a610f342e4d2fc0fa50" CHECKSUMTYPE="MD5" SIZE="19043">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00148_0.xml"/>
+      </file>
+      <file ID="alto_00148_1" MIMETYPE="text/xml" CHECKSUM="40ddf444340f2f7abf1d7ef47cb9ff94" CHECKSUMTYPE="MD5" SIZE="97821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00148_1.xml"/>
+      </file>
+      <file ID="alto_00149_0" MIMETYPE="text/xml" CHECKSUM="840b66463bf216ea02c76f6a721fefe3" CHECKSUMTYPE="MD5" SIZE="67692">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000710_redacted_ALTO_00149_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="273" firstpage="271">
+              <court id="b295-4" pgmap="295">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="A4N" pgmap="295">CA CR 94-1126</docketnumber>
+              <citation id="Ato" pgmap="295">906 S.W.2d 315</citation>
+              <parties id="b295-3" pgmap="295">Paul Ray DUPREE v. STATE of Arkansas</parties>
+              <decisiondate id="b295-5" pgmap="295">Opinion delivered September 27, 1995</decisiondate>
+              <judges id="b297-11" pgmap="297">Mayfield and Rogers, JJ., agree.</judges>
+              <attorneys id="b295-11" pgmap="295">Daniel D. Becker and Terri L. Harris, for appellant.</attorneys>
+              <attorneys id="b295-12" pgmap="295">Winston Bryant, Att’y Gen., by: J. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b295-13" pgmap="295">James R. Cooper, Judge.</author>
+                <p id="AU7" pgmap="295(16) 296(101)">The appellant was convicted in a jury trial of second degree criminal mischief. He was sentenced to six years in the Arkansas Department of Correction and fined $1,000.00. He was also convicted of driving while intoxicated, reckless driving, driving without a license, driving without proper insurance and refusal to submit to a chemical test with the sen­tences for these convictions to run concurrently with the crimi­nal mischief sentence. On appeal, he argues that the trial court erred in denying his motion for a directed verdict on the charge of refusal to submit to a chemical test and that the trial court committed reversible error in admitting into evidence an Arkansas Traffic Violation Report. We affirm.</p>
+                <p id="b296-6" pgmap="296">
+                   In order to question the sufficiency of the evidence on appeal, where there has been a jury trial, the appellant must move for a directed verdict at the close of the evidence presented by the State and at the close of all the evidence. Ark. R. Crim. R 36.21(b). A motion for a directed verdict must be specific enough to apprise the trial court of the particular basis on which the motion is made. Clay v. State, 318 Ark. 550, 886 S.W.2d 608 (1994); Walker v. State, 318 Ark. 107, 883 S.W.2d 831 (1994). A general motion for a directed verdict which does not specify the grounds for the motion is insufficient to preserve a specific argument for appellate review. Walker v. State, supra.</p>
+                <p id="b296-7" pgmap="296">Here, the appellant made only a general motion for a directed verdict at the close of the State’s case and renewed all previous motions at the end of the case. The appellant’s motion failed to state the specific grounds on which it was made, and further­more failed to specify which of the charges he was challenging. Consequently, the appellant’s argument is not preserved for appel­late review.</p>
+                <p id="b296-8" pgmap="296(123) 297(17)">In his second argument, the appellant contends that the trial court erred in admitting into evidence State’s Exhibit No. 3, a copy of an Arkansas Traffic Violation Report. This exhibit was offered on behalf of the State to support the charge of driving with­out a driver’s license. The first page of the exhibit indicates that the appellant was issued an identification card instead of a valid operator’s license. The second page of the exhibit is a certifica­tion by the Manager of the Driver Control Section of the Depart­ment of Finance and Administration that the first page was a true and correct copy of a record from the Office of Driver Control. Following the certification is an acknowledgment by a notary public that the manager of the driver control section personally appeared before her and executed the certification.</p>
+                <p id="b297-6" pgmap="297">The appellant contends that the exhibit was not properly authenticated because the signature attesting to the authenticity of the document was a stamp purporting to be the signature of the manager of the driver control section rather than a hand­written signature. The appellant concedes that this type of doc­ument is generally admissible under Arkansas Rule of Evidence 902 as a self-authenticating document. However, he asserts that this exhibit does not comply with Rule 902 because the signa­ture was not handwritten.</p>
+                <p id="b297-7" pgmap="297">
+                   Rule 902(4) provides that the following documents are self-authenticating:</p>
+                <blockquote id="b297-8" pgmap="297">Certified copies of public records. A copy of an official record or report or entry therein, or of a document autho­rized by law to be recorded or filed and actually recorded or filed in the public office, including data compilations in any form, certified as correct by the custodian or other person authorized to make the certification, by a certifi­cate complying with paragraph (1), (2), or (3), or com­plying with any law of the United States or of this State.</blockquote>
+                <p id="b297-9" pgmap="297">There is nothing in the rule which mandates that the certi­fication contain a handwritten signature. The appellant has not cited to us any authority in support of this argument. Moreover, printing, typing, or stamping a name in the place where a signature should appear is sufficient if it is intended as a signature. Ragge v. Bryan, 249 Ark. 164, 458 S.W.2d 403 (1970). Thus, we find that the trial court did not err in admitting the exhibit as a self-­authenticating document.</p>
+                <p id="b297-10" pgmap="297">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="295" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00148_0"/>
+        <fptr FILEID="jp2_00148_0"/>
+        <fptr FILEID="alto_00148_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_295.2" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="296" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00148_1"/>
+        <fptr FILEID="jp2_00148_1"/>
+        <fptr FILEID="alto_00148_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_296.2" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="297" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00149_0"/>
+        <fptr FILEID="jp2_00149_0"/>
+        <fptr FILEID="alto_00149_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_297.3" BETYPE="IDREF" FILEID="alto_00149_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-11" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.9" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-10" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.8" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ato" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.5" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-13" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.15" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-12" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.14" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-11" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.13" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.6" BETYPE="IDREF" FILEID="alto_00148_1"/>
+            <area BEGIN="BL_297.1" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-9" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.7" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4N" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.4" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.4" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b296-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_296.5" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.6" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.7" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.6" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b295-3" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.3" BETYPE="IDREF" FILEID="alto_00148_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_295.16" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_295.17" BETYPE="IDREF" FILEID="alto_00148_0"/>
+            <area BEGIN="BL_296.1" BETYPE="IDREF" FILEID="alto_00148_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.5" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b297-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_297.4" BETYPE="IDREF" FILEID="alto_00149_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

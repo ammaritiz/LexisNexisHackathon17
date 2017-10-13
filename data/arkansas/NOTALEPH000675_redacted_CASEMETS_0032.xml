@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000675_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Fields v. State">Maurice Eugene FIELDS, Jr. v. STATE of Arkansas</name>
+          <docketnumber>CA CR 90-337</docketnumber>
+          <citation category="official" type="bluebook">36 Ark. App. 179</citation>
+          <citation category="parallel" type="bluebook">820 S.W.2d 467</citation>
+          <decisiondate>1991-12-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T01:37:01Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:05:54Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T15:33:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T15:34:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="12da8dc3f2e8523f6e8e164eed32a443" CHECKSUMTYPE="MD5" SIZE="19786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="8931de1b84a69ccd035344409b60cafd" CHECKSUMTYPE="MD5" SIZE="29118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="7135a2f5fe57d6321871990b3590a4ba" CHECKSUMTYPE="MD5" SIZE="56416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="d2386bffbc72383a16267d3d22546ba7" CHECKSUMTYPE="MD5" SIZE="55862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="77c3c8fd0e1516873a7bd5019877bd54" CHECKSUMTYPE="MD5" SIZE="55282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00104_0.tif"/>
+      </file>
+      <file ID="tiff_00104_1" MIMETYPE="image/tiff" CHECKSUM="a135288fad9f21150c2ec3da8d301e5f" CHECKSUMTYPE="MD5" SIZE="56436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00104_1.tif"/>
+      </file>
+      <file ID="tiff_00105_0" MIMETYPE="image/tiff" CHECKSUM="ddc6a8bb95ea57e2d74ef7184904e646" CHECKSUMTYPE="MD5" SIZE="32820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00105_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="f3cd5e715af2885f00af269c2f944b3a" CHECKSUMTYPE="MD5" SIZE="1902098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00102_0.jp2"/>
+      </file>
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="e0187cde5ef0292cec39594c2c9b44f6" CHECKSUMTYPE="MD5" SIZE="1896027">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="3a47152c70a05bf1fa6a51f6cc1a114b" CHECKSUMTYPE="MD5" SIZE="2617760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="f83f998d856d6595954c05e20fb5eb01" CHECKSUMTYPE="MD5" SIZE="2590087">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="4641920fee99bdddb25327afc7d28bc9" CHECKSUMTYPE="MD5" SIZE="2675877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00104_0.jp2"/>
+      </file>
+      <file ID="jp2_00104_1" MIMETYPE="image/jp2" CHECKSUM="461788c88a9b401c7136dcae030f1407" CHECKSUMTYPE="MD5" SIZE="2650174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00104_1.jp2"/>
+      </file>
+      <file ID="jp2_00105_0" MIMETYPE="image/jp2" CHECKSUM="ca9899956d0981639567a4fddb1d4b4c" CHECKSUMTYPE="MD5" SIZE="2195718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000675_00105_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="dd905c852c1f00e91bdc0808680e55bd" CHECKSUMTYPE="MD5" SIZE="30334">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00102_0.xml"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="ce063e556d8297b0a4aede6106f3984f" CHECKSUMTYPE="MD5" SIZE="47182">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="1b03b631aa4859c5d4a884e1140863f5" CHECKSUMTYPE="MD5" SIZE="94250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="c48ee237a2868cfe12e20cdcd1438f3e" CHECKSUMTYPE="MD5" SIZE="91619">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="6e35df619290c13af69a19ef8b86170e" CHECKSUMTYPE="MD5" SIZE="85327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00104_0.xml"/>
+      </file>
+      <file ID="alto_00104_1" MIMETYPE="text/xml" CHECKSUM="361be10e0aec6ba47df846f12873ebd0" CHECKSUMTYPE="MD5" SIZE="93020">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00104_1.xml"/>
+      </file>
+      <file ID="alto_00105_0" MIMETYPE="text/xml" CHECKSUM="8af34c5eb89bea20ff8a2579f6e7a6c4" CHECKSUMTYPE="MD5" SIZE="50600">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000675_redacted_ALTO_00105_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="185" firstpage="179">
+              <court pgmap="203" id="b203-10">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="203" id="b203-9">CA CR 90-337</docketnumber>
+              <citation pgmap="203" id="ARq">820 S.W.2d 467</citation>
+              <parties pgmap="203" id="b203-8">Maurice Eugene FIELDS, Jr. v. STATE of Arkansas</parties>
+              <decisiondate pgmap="203" id="b203-11">Opinion delivered December 11, 1991</decisiondate>
+              <judges pgmap="209" id="b209-8">Cracraft, C.J., and Mayfield, J., agree.</judges>
+              <attorneys pgmap="204" id="b204-10">William R. Simpson, Jr., Public Defender, by: Didi H. Sailings, Deputy Public Defender, for appellant.</attorneys>
+              <attorneys pgmap="204" id="b204-11">Winston Bryant, Att’y Gen., by: /. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="204" id="b204-12">Elizabeth W. Danielson, Judge.</author>
+                <p pgmap="204" id="A6kS">Appellant Maurice Fields was charged with aggravated robbery and entered a plea of not guilty by reason of mental disease or defect. Appellant waived his right to a jury trial and was found guilty of the offense of aggravated robbery. He was sentenced as an habitual offender to twenty-eight years in the Arkansas Department of Correction. Appellant contends on appeal that (1) the trial court erred in finding he could appreciate the criminality of his conduct and conform his conduct to the requirements of the law and (2) the trial court erred in considering appellant’s exercise of his Mi­randa rights in finding appellant mentally responsible. We find no error and affirm.</p>
+                <p pgmap="204(46) 205(32)" id="b204-13">The evidence reveals that on February 16, 1988, appellant entered a Union National Bank and handed a teller a note that stated: “This is a robbery. Don’t make it murder.” Appellant opened a bag and had the teller put money into it. He then left the bank on foot, pursued by a customer who was in the bank at the time of the robbery. Shortly thereafter, appellant was appre­hended by the police, and charged with aggravated robbery.</p>
+                <p pgmap="205" id="b205-6">After appellant entered a plea of not guilty by reason of mental disease or defect, he was evaluated by the Arkansas State Hospital. The hospital staff diagnosed appellant as not fit to stand trial, and requested that he be admitted for treatment. After three months of treatment, the State Hospital reported that appellant was fit to proceed, but concluded that he lacked the capacity to appreciate the criminality of his conduct or to conform his conduct to the requirements of the law at the time the crime was committed.</p>
+                <p pgmap="205" id="b205-7">
+                   Appellant first contends that the trial court erred in finding appellant could appreciate the criminality of his conduct and conform his conduct to the requirements of the law. Appel­lant relies on Ark. Code Ann. § 5-2-313 (1987), which provides that on the basis of a psychiatric report filed pursuant to Ark. Code Ann.§ 5-2-305, “the court may, after a hearing if a hearing is requested, enter judgment of acquittal on the ground of mental disease or defect if it is satisfied that, at the time of the conduct charged, the defendant lacked capacity, as a result of mental disease or defect, to conform his conduct to the requirements of the law or to appreciate the criminality of his conduct.” Lack of capacity due to mental disease or defect is an affirmative defense and must be proved by a preponderance of the evidence. Ark. Code Ann. § 5-2-312 (1987); Franks v. State, 306 Ark. 75, 811 S.W.2d 301 (1991). A motion for directed verdict based on this defense may be granted only when no factual issues exist. Franks, 306 Ark. 75, 811 S.W.2d 301.</p>
+                <p pgmap="205" id="b205-8">Appellant did present evidence in support of his contention that he lacked the capacity to appreciate the criminality of his conduct at the time the crime was committed. However, there was also substantial evidence to support the trial court’s finding that appellant failed to prove his affirmative defense by a preponder­ance of the evidence. In reaching its decision, the trial court considered the medical testimony, testimony by family members, and evidence of appellant’s demeanor at the time of the crime and shortly thereafter.</p>
+                <p pgmap="205(10) 206(129)" id="b205-9">The night before the robbery, appellant was trying to get money to leave town. He asked his parents for the money, but they declined to give it to him. The next day he robbed the bank. Witnesses to the crime testified that there was nothing unusual or bizarre about appellant’s appearance or actions on that day. Police officers who spoke with appellant shortly after the crime testified that he was lucid and in control, and that there was nothing bizarre about his behavior. A psychologist who had found appellant insane with regard to an earlier robbery testified that he had relied in part on the opinions of the police and eyewitnesses, and that his opinion might very well change in this case if the eyewitnesses and police officers described appellant as appearing normal at the time of the robbery.</p>
+                <p pgmap="206" id="b206-6">
+                   Medical evidence that a defendant lacks the capacity to appreciate the criminality of his conduct or conform his conduct to the requirements of the law does not obligate a judge to acquit under § 5-2-313 if there is substantial evidence presented that would support the judge’s finding that the affirmative defense of mental defect was not proved by a preponderance of the evidence. See Franks, 306 Ark. 75, 811 S.W.2d 301; Robertson v. State, 304 Ark. 332, 802 S.W.2d 920 (1991). Substantial evidence is evidence of sufficient force and character to compel a conclusion of reasonable and material certainty. Addison v. State, 298 Ark. 1, 765 S.W.2d 566 (1989). Wecannot say the trial court erred in finding appellant failed to prove by a preponderance of the evidence that he was incapable of con­forming his conduct to the requirements of the laws at the time the crime was committed.</p>
+                <p pgmap="206" id="b206-7">Appellant’s second contention is that the trial court erred in considering his exercise of his Miranda rights in finding appellant mentally responsible. During presentation of the state’s case, there was testimony by one of the officers involved in appellant’s arrest that appellant carried on normal conversation with them but invoked his right to remain silent and refused to make a statement.</p>
+                <p pgmap="206(51) 207(78)" id="b206-8">For reversal on this point, appellant relies on Wainwright v. Greenfield, 474 U.S. 284 (1986), in which the United States Supreme Court held that use of a defendant’s exercise of his Miranda rights as evidence of his sanity violates due process. In Greenfield, the prosecutor introduced the testimony of two police officers who described the occasions on which the defendant had exercised his right to remain silent and had expressed his desire to talk to an attorney before answering any questions. Both officers repeated several colloquies with the defendant. In his closing argument, over defense counsel’s objection, the prosecutor re­viewed the testimony of the officers and suggested that the defendant’s repeated refusals to answer questions demonstrated a degree of comprehension that was inconsistent with his claim of insanity.</p>
+                <p pgmap="207" id="b207-6">On appeal, Greenfield relied on the case of Doyle v. Ohio, 426 U.S. 610(1976), in which the Supreme Court held that cross-­examination regarding a defendant’s post-Miranda warnings silence was fundamentally unfair and violated the Due Process Clause of the Fourteenth Amendment. The court noted that the source of the unfairness was the implicit assurance contained in the Miranda warnings that one’s choice to remain silent would carry no penalty.</p>
+                <p pgmap="207" id="b207-7">The court in Greenfield found that it was equally unfair to breach the implied promise of the Miranda warnings by using the defendant’s silence to overcome his plea of insanity. 474 U.S. at 292. In so holding, however, the court noted that “the State’s legitimate interest in proving that the defendant’s behavior appeared to be rational at the time of his arrest could have been served by carefully farmed questions that avoided any mention of the defendant’s exercise of his constitutional rights to remain silent and to consult counsel.” 474 U.S. at 295. In a footnote to this statement, the court observed that the defendant had not contested the point that a prosecutor may legitimately inquire into and comment upon purely demeanor or behavior evidence. Id.</p>
+                <p pgmap="207(86) 208(62)" id="b207-8">In Greer v. Miller, 482 U.S. 756 (1987), the court again applied Doyle v. Ohio in determining whether a prosecutor’s question regarding a defendants’ postarrest silence required reversal of the conviction. In Miller, the trial court had sustained an objection to the prosecutor’s question about the defendant’s silence. The jury was instructed to disregard any questions to which an objection was sustained. The United States Supreme Court found no constitutional error, noting that the prosecutor was not allowed to undertake impeachment on or call attention to the defendant’s silence. 483 U.S. at 764. In Sims v. State, 30 Ark. App. 168, 786 S.W.2d 839 (1990), we held that “where a defendant’s silence is mentioned by the State, it is harmless error if there is no prosecutorial focus by repetitive questioning or arguing on a defendant’s silence where the evidence of guilt is overwhelming.” 30 Ark. App. at 172.</p>
+                <p pgmap="208" id="b208-4">In the case at bar, the trial judge was aware of Wainwright v. Greenfield and the restrictions it imposed. In a letter to counsel for both parties, he stated, “ [ Wainwright v. Greenfield] would not prohibit police officers who had contact with Fields to be called to respond to carefully phrased questions about the defendant and his demeanor. It only prohibits this being coupled with reference to his Miranda warnings.”</p>
+                <p pgmap="208" id="b208-5">There was certainly no prosecutorial focus on the defend­ant’s exercise of his rights; in fact, the prosecutor carefully framed her questions regarding appellant’s demeanor and in­structed the witness not to testify as to what the defendant said. She asked questions such as whether appellant was coherent, whether he had exhibited bizarre behavior, and whether he had responded in an appropriate conversational manner. During the trial, the prosecutor never asked any questions regarding appel­lant’s exercise of his Miranda rights.</p>
+                <p pgmap="208" id="b208-6">In response to the prosecutor’s question about appellant’s demeanor, one officer made reference to the fact that the defendant had exercised his rights and chose not to make a formal statement. The focus of the officer’s testimony was not on appellant’s exercise of his rights but on appellant’s demeanor and behavior as he conversed with the police officers. In Lindgren v. Lane, 925 F.2d 198 (7th Cir. 1991), the Seventh Circuit Court of Appeals found no violation of due process, although an officer did make a reference to the defendant’s post-Miranda silence, because the prosecutor did not call attention to the silence and the silence was not submitted to the jury as evidence of the defend­ant’s sanity. 925 F.2d at 201.</p>
+                <p pgmap="208(60) 209(18)" id="b208-7">
+                   In response to objections to the officer’s testimony in this case, the judge replied in part that he did not have a problem with the reference to the Miranda rights being a little out of line because he, not a jury, was hearing the matter. He pointed out that in the Greenfield case a jury was involved, which created a potential problem, but that he knew “those things” happened, referring to the defendant’s choice to exercise his rights.</p>
+                <p pgmap="209" id="b209-6">
+                   In cases tried without a jury, the judge is presumed to have considered only competent evidence, and this presumption is overcome only when there is an indication that the trial judge did give some consideration to the inadmissible evidence. Summerlin v. State, 7 Ark. App. 10, 643 S.W.2d 582 (1982). Here all indications are that the trial judge was well aware that he could not use appellant’s exercise of his Miranda rights as evidence of appellant’s sanity and that he did in fact restrict his considera­tions to evidence concerning appellant’s demeanor and behavior during the time appellant was conversing with the officers. Because there was no prosecutorial focus on appellant’s exercise of his Miranda rights and the judge did not use appellant’s exercise of his rights as evidence of sanity, the officer’s brief reference to the fact that appellant had exercised his rights did not result in a violation of appellant’s due process rights.</p>
+                <p pgmap="209" id="b209-7">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="203" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="182" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.2" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="183" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.3" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="208" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00104_1"/>
+        <fptr FILEID="jp2_00104_1"/>
+        <fptr FILEID="alto_00104_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_208.2" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="209" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00105_0"/>
+        <fptr FILEID="jp2_00105_0"/>
+        <fptr FILEID="alto_00105_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_209.3" BETYPE="IDREF" FILEID="alto_00105_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6kS" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.12" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_204.13" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.6" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.7" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.1" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.4" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.5" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.5" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-4" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.4" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.6" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            <area BEGIN="BL_207.1" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.4" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.6" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_208.1" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.10" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.9" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-13" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.14" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_205.1" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.11" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.11" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.7" BETYPE="IDREF" FILEID="alto_00104_1"/>
+            <area BEGIN="BL_209.1" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.4" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.5" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b208-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_208.6" BETYPE="IDREF" FILEID="alto_00104_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b209-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_209.6" BETYPE="IDREF" FILEID="alto_00105_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.10" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARq" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.9" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

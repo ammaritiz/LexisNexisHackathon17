@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000727_0041" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Sherman v. State">Garland Charles SHERMAN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 89-201</docketnumber>
+          <citation category="official" type="bluebook">30 Ark. App. 217</citation>
+          <citation category="parallel" type="bluebook">785 S.W.2d 49</citation>
+          <decisiondate>1990-03-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T20:44:18Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:33:19Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:44:22Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:45:02Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="35f33b58633823c96d906cc556be3a5e" CHECKSUMTYPE="MD5" SIZE="35386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00121_0.tif"/>
+      </file>
+      <file ID="tiff_00121_1" MIMETYPE="image/tiff" CHECKSUM="8c95c3ea20c9fd247cf1b4156cd8372b" CHECKSUMTYPE="MD5" SIZE="25140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00121_1.tif"/>
+      </file>
+      <file ID="tiff_00122_0" MIMETYPE="image/tiff" CHECKSUM="8e001d02297175e598eb1259250bd5f6" CHECKSUMTYPE="MD5" SIZE="46018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00122_0.tif"/>
+      </file>
+      <file ID="tiff_00122_1" MIMETYPE="image/tiff" CHECKSUM="3fde89cadf474074812523d256f61621" CHECKSUMTYPE="MD5" SIZE="51412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00122_1.tif"/>
+      </file>
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="18f932f0ff9bec5c54720f880ada1e8b" CHECKSUMTYPE="MD5" SIZE="19968">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00123_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="44f4f22d212166c30cd23a50e3229ed2" CHECKSUMTYPE="MD5" SIZE="2197539">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00121_0.jp2"/>
+      </file>
+      <file ID="jp2_00121_1" MIMETYPE="image/jp2" CHECKSUM="c45520fa254ad7402fa421d396362986" CHECKSUMTYPE="MD5" SIZE="1802092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00121_1.jp2"/>
+      </file>
+      <file ID="jp2_00122_0" MIMETYPE="image/jp2" CHECKSUM="7d58b2e43a1a77a7e279fda096e4ddcc" CHECKSUMTYPE="MD5" SIZE="2521284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00122_0.jp2"/>
+      </file>
+      <file ID="jp2_00122_1" MIMETYPE="image/jp2" CHECKSUM="5ecd85308ebbc1747bdf6ece15e9222f" CHECKSUMTYPE="MD5" SIZE="2536533">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00122_1.jp2"/>
+      </file>
+      <file ID="jp2_00123_0" MIMETYPE="image/jp2" CHECKSUM="03ef02ea61e217274c86a8bb6ccc180f" CHECKSUMTYPE="MD5" SIZE="1801244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000727_00123_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="22cea26a4376aff2d9c7f86760d60f8b" CHECKSUMTYPE="MD5" SIZE="55557">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000727_redacted_ALTO_00121_0.xml"/>
+      </file>
+      <file ID="alto_00121_1" MIMETYPE="text/xml" CHECKSUM="53abc03285a5c970d3fb4860bb9c86da" CHECKSUMTYPE="MD5" SIZE="40699">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000727_redacted_ALTO_00121_1.xml"/>
+      </file>
+      <file ID="alto_00122_0" MIMETYPE="text/xml" CHECKSUM="907028f6905efc50df41fbce95319619" CHECKSUMTYPE="MD5" SIZE="78395">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000727_redacted_ALTO_00122_0.xml"/>
+      </file>
+      <file ID="alto_00122_1" MIMETYPE="text/xml" CHECKSUM="8c377c3672045263d3c1e728a138e4e4" CHECKSUMTYPE="MD5" SIZE="86452">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000727_redacted_ALTO_00122_1.xml"/>
+      </file>
+      <file ID="alto_00123_0" MIMETYPE="text/xml" CHECKSUM="7c5b7a30a5f4258dd139d0503ab4bc11" CHECKSUMTYPE="MD5" SIZE="30318">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000727_redacted_ALTO_00123_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="217" lastpage="221">
+              <court id="b241-9" pgmap="241">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="Af6a" pgmap="241">CA CR 89-201</docketnumber>
+              <citation id="A6t" pgmap="241">785 S.W.2d 49</citation>
+              <parties id="b241-8" pgmap="241">Garland Charles SHERMAN v. STATE of Arkansas</parties>
+              <decisiondate id="b241-10" pgmap="241">Opinion delivered March 7, 1990</decisiondate>
+              <otherdate id="AMUb" pgmap="241">[Rehearing denied April 11, 1990.]</otherdate>
+              <judges id="b245-5" pgmap="245">Corbin, C.J., and Cracraft, J., agree.</judges>
+              <attorneys id="b242-11" pgmap="242">Stripling &amp; Morgan, by: M. Edward Morgan, for appellant.</attorneys>
+              <attorneys id="b242-12" pgmap="242">Steve Clark, Att’y Gen., by: J. Brent Standridge, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b242-13" pgmap="242">James R. Cooper, Judge.</author>
+                <p id="AOb" pgmap="242">The appellant in this criminal case was charged on January 11, 1989 with theft by receiving, a class C felony, and on April 27, 1989, he entered a guilty plea to that charge. At a sentencing hearing held on May 11, 1989, the trial court sentenced the appellant as a habitual offender to thirty years in the Arkansas Department of Correction. From that decision, comes this appeal.</p>
+                <p id="b242-14" pgmap="242">For reversal, the appellant contends that the trial court erred in sentencing him as a habitual offender. We agree, and we modify the sentence imposed by the trial court.</p>
+                <p id="b242-15" pgmap="242(40) 243(98)">
+                   We first address the threshold question of our jurisdic­tion. The State asserts that this Court lacks jurisdiction to entertain a direct appeal from a guilty plea. We note that direct appeals from guilty pleas are, with few exceptions, prohibited under Arkansas law. See Redding v. State, 293 Ark. 411, 738 S.W.2d 410 (1987); Ark. Code Ann. § 16-91-101 (c) (1987); Ark. R. Crim. P. 36.1; but cf. Ark. R. Crim. P. 24.3(b). However, we think this general prohibition is addressed to challenges to the adjudication of guilt, and that questions addressed solely to the legality of the sentence imposed may properly be entertained on direct appeal, as the Arkansas Supreme Court did in Brimer v. State, 295 Ark. 20, 746 S.W.2d 370 (1988). We conclude that we have jurisdiction to review the legality of the appellant’s sentence.</p>
+                <p id="b243-6" pgmap="243">The record shows that the State filed a felony information on January 11,1989, alleging that the appellant committed class C felony theft by receiving on January 5,1989. No prior convictions were alleged, and the Habitual Offender Act was not mentioned. On January 23,1989, the State amended the felony information to allege that the appellant committed Class C felony theft by receiving on January 7,1989, rather than January 5, as stated in the original information. Again, no mention was made of prior convictions or the Habitual Offender Act.</p>
+                <p id="b243-7" pgmap="243">At a proceeding held on April 27, 1989, the appellant withdrew his initial plea of not guilty to the charge alleged in the information and entered a guilty plea, and the following exchange took place:</p>
+                <blockquote id="b243-8" pgmap="243">THE COURT: Would you tell him the range of punish­ment that, uh, he could receive upon a plea of guilty?</blockquote>
+                <blockquote id="b243-9" pgmap="243">BY MR. MORGAN:</blockquote>
+                <blockquote id="b243-10" pgmap="243">Q. Are you aware that you can receive — that the charge you are charged with is a class C felony?</blockquote>
+                <blockquote id="b243-12" pgmap="243">A. Yes, I am aware of it.</blockquote>
+                <blockquote id="b243-13" pgmap="243">Q. And, that you can receive from three to ten years for a class C felony?</blockquote>
+                <blockquote id="b243-15" pgmap="243">A. Yes.</blockquote>
+                <blockquote id="b243-16" pgmap="243">Q. All right. And/or up to a ten thousand dollar fine?</blockquote>
+                <blockquote id="b243-17" pgmap="243">A. Yes, sir.</blockquote>
+                <p id="b243-18" pgmap="243(22) 244(6)">The trial court proceeded to establish the factual basis for the plea, and then accepted the appellant’s guilty plea and set a sentencing hearing for May 11, 1989.</p>
+                <p id="b244-6" pgmap="244">Although the record is devoid of any allegation of prior convictions or reference to the Habitual Offender Act, the trial court imposed a thirty-year sentence at the sentencing hearing, stating that:</p>
+                <blockquote id="b244-7" pgmap="244">Mr. Sherman, I had a presentence investigation made on you, and I find that, uh, you’re a four-time loser. Burglary and grand larceny in Texas. Theft, you went to the Department of Correction at Huntsville; that was in 1973. The first charge was 1972. 1974 you were charged with murder, and you got life in the Department of Correction at Huntsville. And, November the 6th, ‘85, armed violence, you got six years for that. That’s four-time loser, and you plead guilty here to theft by receiving, which is a C felony. And, for four or more priors on a C felony, you can get from ten to thirty years. I’m sentencing you to thirty years in the Arkansas Department of Correction.</blockquote>
+                <p id="b244-8" pgmap="244">(The presentence report to which the court referred is not a part of the record of this case.) The appellant made a timely objection to any sentence exceeding ten years on the grounds that the State has the burden of proving prior convictions, and that the State had not charged him as a habitual offender.</p>
+                <p id="b244-9" pgmap="244">
+                   In Finch v. State, 262 Ark. 313, 556 S.W.2d 434 (1977), the Arkansas Supreme Court stated that:</p>
+                <blockquote id="b244-10" pgmap="244">Whenever the state seeks to charge one as a previous offender or habitual criminal in order to warrant the imposition of additional punishment for the offense charged, the previous offense is an essential element in the punishment, which must be alleged in the indictment or information.</blockquote>
+                <p id="b244-11" pgmap="244(87) 245(80)">Finch v. State, 262 Ark. at 316; accord, Clinkscale v. State, 269 Ark. 324, 602 S.W.2d 618 (1980). In the case at bar there is no indication that the State ever alleged previous offenses or charged the appellant as a habitual offender, or that the State took any action to amend the information to include such allegations: instead, the record shows only that the appellant was charged with class C felony theft by receiving. Because the maximum permissible sentence for this offense is ten years where the Habitual Offender Act has not been invoked, see Ark. Code Ann. § 5-4-401 (a)(4) (1987), the thirty-year sentence imposed by the trial court was not an authorized disposition. We therefore reduce the appellant’s sentence to ten years, the maximum allowable under the State’s charges and allegations for the offense to which the appellant entered his guilty plea. See Ellis v. State, 270 Ark. App. 243, 603 S.W.2d 891 (1980); Scott v. State, 1 Ark. App. 207, 614 S.W.2d 239 (1981).</p>
+                <p id="b245-4" pgmap="245">Affirmed as modified.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="241" ORDERLABEL="217" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="242" ORDERLABEL="218" TYPE="page">
+        <fptr FILEID="tiff_00121_1"/>
+        <fptr FILEID="jp2_00121_1"/>
+        <fptr FILEID="alto_00121_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_242.2" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="243" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00122_0"/>
+        <fptr FILEID="jp2_00122_0"/>
+        <fptr FILEID="alto_00122_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_243.3" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="244" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00122_1"/>
+        <fptr FILEID="jp2_00122_1"/>
+        <fptr FILEID="alto_00122_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_244.2" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="245" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jp2_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.7" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.4" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.5" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMUb" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.12" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.6" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOb" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.12" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_242.13" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.7" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.10" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.9" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.5" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-18" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.14" BETYPE="IDREF" FILEID="alto_00122_0"/>
+            <area BEGIN="BL_244.1" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.8" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-15" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.15" BETYPE="IDREF" FILEID="alto_00121_1"/>
+            <area BEGIN="BL_243.1" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-14" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.14" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-11" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.9" BETYPE="IDREF" FILEID="alto_00122_1"/>
+            <area BEGIN="BL_245.1" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.11" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-13" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.11" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b242-12" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_242.10" BETYPE="IDREF" FILEID="alto_00121_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6t" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.9" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-4" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.4" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-16" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.12" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-17" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.13" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-15" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.11" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-12" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.9" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-13" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.10" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b243-10" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_243.8" BETYPE="IDREF" FILEID="alto_00122_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-9" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.7" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.5" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.4" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af6a" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.8" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b244-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_244.6" BETYPE="IDREF" FILEID="alto_00122_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

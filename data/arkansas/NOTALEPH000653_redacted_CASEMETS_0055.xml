@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000653_0055" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Flores v. State">Bryant Manuel FLORES v. STATE of Arkansas</name>
+          <docketnumber>CA CR 01-239</docketnumber>
+          <citation category="official" type="bluebook">75 Ark. App. 397</citation>
+          <citation category="parallel" type="bluebook">58 S.W.3d 417</citation>
+          <decisiondate>2001-11-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:11:56Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:01Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:33:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:34:14Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00213_0" MIMETYPE="image/tiff" CHECKSUM="c06ece825bab4ec006baf11d8b6a10c2" CHECKSUMTYPE="MD5" SIZE="32760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00213_0.tif"/>
+      </file>
+      <file ID="tiff_00213_1" MIMETYPE="image/tiff" CHECKSUM="c7719b55abb802ace4ed33a1ec548a67" CHECKSUMTYPE="MD5" SIZE="3744">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00213_1.tif"/>
+      </file>
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="2621a69c600032ebc1f4d448bb467113" CHECKSUMTYPE="MD5" SIZE="4516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00214_0.tif"/>
+      </file>
+      <file ID="tiff_00214_1" MIMETYPE="image/tiff" CHECKSUM="0ae8e802f74718ff8a76f7cbb4649603" CHECKSUMTYPE="MD5" SIZE="30770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00214_1.tif"/>
+      </file>
+      <file ID="tiff_00215_0" MIMETYPE="image/tiff" CHECKSUM="c34671ca3559490970778e23b3b6ed84" CHECKSUMTYPE="MD5" SIZE="61656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00215_0.tif"/>
+      </file>
+      <file ID="tiff_00215_1" MIMETYPE="image/tiff" CHECKSUM="aa2d1f3d09275f9b78f909fd59ece825" CHECKSUMTYPE="MD5" SIZE="57900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00215_1.tif"/>
+      </file>
+      <file ID="tiff_00216_0" MIMETYPE="image/tiff" CHECKSUM="13615b83dddf4494232201a7f143ca24" CHECKSUMTYPE="MD5" SIZE="61062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00216_0.tif"/>
+      </file>
+      <file ID="tiff_00216_1" MIMETYPE="image/tiff" CHECKSUM="8d22cbaabcc53c8597d7a28ec603066a" CHECKSUMTYPE="MD5" SIZE="50856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00216_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00213_0" MIMETYPE="image/jp2" CHECKSUM="ec95971830ca0c2860503529104e98cb" CHECKSUMTYPE="MD5" SIZE="2312164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00213_0.jp2"/>
+      </file>
+      <file ID="jp2_00213_1" MIMETYPE="image/jp2" CHECKSUM="cbc22833f543be66ea4fe0d0301b464d" CHECKSUMTYPE="MD5" SIZE="1070671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00213_1.jp2"/>
+      </file>
+      <file ID="jp2_00214_0" MIMETYPE="image/jp2" CHECKSUM="6d3ca7776e67cc45182ff036a574a3ee" CHECKSUMTYPE="MD5" SIZE="1177893">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00214_0.jp2"/>
+      </file>
+      <file ID="jp2_00214_1" MIMETYPE="image/jp2" CHECKSUM="05e5aa0b57f46b77f4c8378463067ce7" CHECKSUMTYPE="MD5" SIZE="1989671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00214_1.jp2"/>
+      </file>
+      <file ID="jp2_00215_0" MIMETYPE="image/jp2" CHECKSUM="9eb02be6c68283943f9047593743665f" CHECKSUMTYPE="MD5" SIZE="2722269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00215_0.jp2"/>
+      </file>
+      <file ID="jp2_00215_1" MIMETYPE="image/jp2" CHECKSUM="50d58040955397292ea046279a4c11d4" CHECKSUMTYPE="MD5" SIZE="2622871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00215_1.jp2"/>
+      </file>
+      <file ID="jp2_00216_0" MIMETYPE="image/jp2" CHECKSUM="5b4563cc137074ec9100628f471f465f" CHECKSUMTYPE="MD5" SIZE="3100676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00216_0.jp2"/>
+      </file>
+      <file ID="jp2_00216_1" MIMETYPE="image/jp2" CHECKSUM="c90944fe95b2f12cc1ab19007f7c5384" CHECKSUMTYPE="MD5" SIZE="2577515">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00216_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00213_0" MIMETYPE="text/xml" CHECKSUM="408e1f5d4e0edb3a5f8650f020a26f54" CHECKSUMTYPE="MD5" SIZE="54586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00213_0.xml"/>
+      </file>
+      <file ID="alto_00213_1" MIMETYPE="text/xml" CHECKSUM="7a802ad56ea3a5b5742ad8db2fa03869" CHECKSUMTYPE="MD5" SIZE="1684">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00213_1.xml"/>
+      </file>
+      <file ID="alto_00214_0" MIMETYPE="text/xml" CHECKSUM="e4409b5360a682cf8034868c9352d650" CHECKSUMTYPE="MD5" SIZE="1775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00214_0.xml"/>
+      </file>
+      <file ID="alto_00214_1" MIMETYPE="text/xml" CHECKSUM="ec35bf9e8944d5d2a4bf8a2938943360" CHECKSUMTYPE="MD5" SIZE="50175">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00214_1.xml"/>
+      </file>
+      <file ID="alto_00215_0" MIMETYPE="text/xml" CHECKSUM="eab9424dd5a8294957c0c10205fb8b71" CHECKSUMTYPE="MD5" SIZE="99276">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00215_0.xml"/>
+      </file>
+      <file ID="alto_00215_1" MIMETYPE="text/xml" CHECKSUM="9e804c29908003aca4982cde350ab3be" CHECKSUMTYPE="MD5" SIZE="95254">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00215_1.xml"/>
+      </file>
+      <file ID="alto_00216_0" MIMETYPE="text/xml" CHECKSUM="ad91d6b9e788cbe09966a64619d16397" CHECKSUMTYPE="MD5" SIZE="102624">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00216_0.xml"/>
+      </file>
+      <file ID="alto_00216_1" MIMETYPE="text/xml" CHECKSUM="60f8338aead2e8dc502676102335cda7" CHECKSUMTYPE="MD5" SIZE="87262">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00216_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0055" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="404" firstpage="397">
+              <court id="b425-10" pgmap="425">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="Acr" pgmap="425">CA CR 01-239</docketnumber>
+              <citation id="A6x" pgmap="425">58 S.W.3d 417</citation>
+              <parties id="b425-9" pgmap="425">Bryant Manuel FLORES v. STATE of Arkansas</parties>
+              <decisiondate id="b425-11" pgmap="425">Opinion delivered November 7, 2001</decisiondate>
+              <judges id="b432-8" pgmap="432">Stroud, C.J., and Jennings, J., agree.</judges>
+              <attorneys id="b428-9" pgmap="428">Daniel D. Becker, for appellant.</attorneys>
+              <attorneys id="b428-10" pgmap="428">Mark Pryor, Att’y Gen., by: Michael C. Angel, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b428-12" pgmap="428">J­OSEPHINE Linker Hart, Judge.</author>
+                <p id="AtZ" pgmap="428">Appellant, Bryant Manuel Flores, was charged with capital murder in the death of three-year-old Victor Stephens. At a jury trial, he was convicted of second-degree murder and sentenced to twelve years’ imprison­ment in the Arkansas Department of Correction. On appeal, he challenges the trial court’s decision to admit hearsay over his objec­tion. We reverse and remand.</p>
+                <p id="b428-13" pgmap="428">Prior to trial, the State filed a motion in limine seeking the court’s permission to introduce at trial hearsay from Dr. Karl F. Wagenhauser, who treated Victor when he was brought to the emergency room at St. Joseph’s Hospital in Hot Springs by his mother, Karen Stephens. Wagenhauser’s testimony, in the form it was admitted at trial, was that when he spoke with Stephens at the hospital, she told him that “both she and [appellant] had struck Victor and that [appellant] had thrown Victor up against the wall.”</p>
+                <p id="b428-14" pgmap="428(31) 429(48)">Prior to trial and after hearing evidence regarding the admissi­bility of Wagenhauser’s testimony, the court issued a letter opinion addressing the State’s motion in limine. Citing Rule 803(4) of the Arkansas Rules of Evidence, the court found that “the statement told by the doctor that there [were] multiple traumas to the child and that the child’s body had been thrown against a hard surface” was “reasonably pertinent to the treatment and diagnosis of the child at the time.”</p>
+                <p id="b429-6" pgmap="429">On appeal, appellant challenges the admissibility of the hearsay under the exception to the hearsay rule provided in Rule 803(4). In response, the State argues (1) that appellant’s argument was not preserved for appellate review; (2) that the evidence was properly admitted under Rule 803(4); (3) that the evidence was admissible because the case concerns medical testimony regarding child abuse; (4) that, though not argued at trial, the evidence could also have been admitted under Rule 803(24) because the evidence had “equivalent circumstantial guarantees of trustworthiness”; and (5) that, though not argued at trial, the evidence could also have been admitted into evidence as an excited utterance pursuant to Rule 803(2). We examine the State’s arguments in that order.</p>
+                <p id="b429-7" pgmap="429">
+                   Citing Huls v. State, 27 Ark. App. 242, 770 S.W.2d 160 (1989), the State argues that appellant’s argument was not preserved for appellate review. In Hub, this court concluded that a defendant’s argument challenging the admissibility of hearsay testimony under Rule 803(4) was not preserved for appellate review because the defendant’s argument to the trial court in his motion in limine was vague, and appellant failed to specifically argue that the hearsay was inadmissible because it identified him as the perpetrator of the crime. In the case at bar, however, the court’s letter opinion specifi­cally recognized that what was at issue was whether the “statement was provided not to merely identify the perpetrators but to provide the doctor with information as to the cause and extent of his injuries.” Because the issue was squarely presented to the court, we conclude that Huh is inapposite and find that the issue was properly preserved for appellate review.</p>
+                <p id="b429-8" pgmap="429">Next, the State argues that the evidence was admissible under Rule 803(4), which provides that hearsay is not excluded if it consists of “[statements made for purposes of medical diagnosis or treatment and describing medical history, or past or present symp­toms, pain, or sensation, or the inception or general character of the cause or external source thereof insofar as reasonably pertinent to diagnosis or treatment.” The State urges that the hearsay was admis­sible because Stephens believed that this information was crucial to her son’s treatment and because Wagenhauser testified that the information confirmed his diagnosis.</p>
+                <p id="b430-5" pgmap="430">
+                   The Arkansas Supreme Court has previously noted that</p>
+                <blockquote id="b430-6" pgmap="430">where an injured party has described how his injury occurred, the basis for this hearsay exception is his strong motivation to be truthful in giving statements for diagnosis and treatment. More­over, it has been suggested that, under these circumstances, a fact reliable enough to serve as the basis for diagnosis is also reliable enough to escape hearsay proscription. Thus, the trustworthiness of statements made to a physician and offered at trial under the exception may be tested by determining whether the information provided is of a type reasonably relied upon by a physician in diagnosis and treatment, and by determining whether the patient’s motive is consistent with this rule’s purpose.</blockquote>
+                <p id="b430-7" pgmap="430">Benson v. Shuler Drilling Co., Inc., 316 Ark. 101, 107-08, 871 S.W.2d 552, 555-56 (1994)(citations omitted). We have likewise observed that the declarant’s motive in making the statement must be consis­tent with the purposes of promoting treatment, and the content of the statement must be such as is reasonably relied on by a physician in treatment or diagnosis. Huls, 27 Ark. App. at 245-46, 770 S.W.2d at 162.</p>
+                <p id="b430-8" pgmap="430">
+                   Because Stephens’s statement to Wagenhauser was not sufficiently trustworthy, we cannot conclude that the court properly admitted the hearsay. The hearsay originated not from the victim but rather from appellant’s codefendant, who in effect blamed appellant for Victor’s fatal injury, even though she admitted to Wagenhauser some culpability. In support of our conclusion that the hearsay was not trustworthy, we note that under Rule 804(b)(3) of the Arkansas Rules of Evidence, statements against interest are not excluded by the hearsay rule if the declarant is unavailable as a witness. Specifically excluded from this exception, however, is “[a] statement or confession offered against the accused in a criminal case, made by a codefendant or other person implicating both himself and the accused. ...” That type of statement is precisely what is presented here. Given that such statements are specifically excluded from one exception to the hearsay rule, we cannot con­clude that such statements are trustworthy enough to be considered admissible under Rule 803(4).</p>
+                <p id="b430-9" pgmap="430(50) 431(49)">
+                   Moreover, we do not consider the hearsay, as required by Rule 803(4), “reasonably pertinent to diagnosis or treatment.” As Wagenhauser testified at the hearing on the motion in limine, Ste­phens’s statement did not make any difference in his treatment of Victor and that her statement “basically confirmed what we’d already suspected,” that is, that someone caused Victor’s injuries. Compare Carton v. Missouri Pac. R.R. Co., 303 Ark. 568, 798 S.W.2d 674 (1990)(holding that, where plaintiff stated that her foot slipped, plaintiffs further statement that she accumulated diesel fuel on her boot, was not pertinent to diagnosis or treatment).</p>
+                <p id="b431-6" pgmap="431">
+                   Citing United States v. Renville, 779 F.2d 430 (8th Cir. 1985), and cases from our court relying on Renville, the State argues that because this case involves a victim of child abuse, then the hearsay disclosing the identity of the abuser is admissible because appellant’s status as a household member of the victim is reasonably pertinent to a course of treatment including removal from the home. In Renville, the United States Court of Appeals for the Eighth Circuit held that statements of identity to a physician by a child sexually abused by a family member are of a type physicians reasonably rely on in composing a diagnosis and course of treat­ment. Id. at 438. The court, however, recognized that it must also focus on the “declarant’s motivation for giving the information” and that “this component reflects the premise underlying the rule that the patient’s selfish interest in receiving proper treatment guar­antees the trustworthiness of the statements,” further noting that “[statements of fault traditionally have failed to meet the criterion” because such statements are made “without reasonable expectation that the information will facilitate treatment.” Id. Flere, we must conclude that, given Stephens’s status as a codefendant and that the statement came from Stephens and not the victim, the statement lacks the necessary guarantees of trustworthiness and is not admis­sible under the theory set forth in Renville.</p>
+                <p id="b431-7" pgmap="431">
+                   We also conclude that, contrary to the State’s argument made for the first time on appeal, the evidence was not properly admitted under Rule 803(24), which permits as an exception to the hearsay rule the introduction of a</p>
+                <blockquote id="b431-8" pgmap="431(119) 432(23)">statement not specifically covered by any of the foregoing excep­tions but having equivalent circumstantial guarantees of trustwor­thiness, if the court determines that (i) the statement is offered as evidence of a material fact; (ii) the statement is more probative on the point for which it is offered than any other evidence which the proponent can procure through reasonable efforts; and (iii) the general purposes of these rules and the interests of justice will best be served by admission of the statement into evidence. However, a statement may not be admitted under this exception unless the proponent of it makes known to the adverse party sufficiently in advance to provide the adverse party with a fair opportunity to prepare to meet it, his intention to offer the statement and the particulars of it, including the name and address of the declarant.</blockquote>
+                <p id="b432-4" pgmap="432">For the reasons stated above, Wagenhauser’s testimony regarding what he was told by appellant’s codefendant, Stephens, lacks cir­cumstantial guarantees of trustworthiness.</p>
+                <p id="b432-5" pgmap="432">
+                   Finally, the State argues for the first time on appeal that the hearsay is admissible as an excited utterance. Rule 803(2) pro­vides that “[a] statement relating to a startling event or condition made while the declarant was under the stress of excitement caused by the event or condition,” is not excluded by the hearsay rule. Several factors to consider when determining if a statement falls under this exception include the lapse of time, the age of the declarant, the physical and mental condition of the declarant, the characteristics of the event, and the subject matter of the statement. Fudge v. State, 341 Ark. 759, 768, 20 S.W.3d 315, 320, cert. denied, 531 U.S. 1020 (2000) (citing United States v. Iron Shell, 633 F.2d 77 (8th Cir. 1980)). Furthermore, it must appear that “ ‘the declarant’s condition at the time was such that the statement was spontaneous, excited or impulsive rather than the product of reflection and delib­eration.’ ” Id. (quoting Iron Shell, 633 F.2d at 85-86). Here, how­ever, there is no indication that Stephens’s remarks were made under the stress of excitement. Compare Huls, 27 Ark. App. at 246, 770 S.W.2d at 162-63 (holding that the record was devoid of any testimony tending to show that the declarant was still under the influence of stress or excitement associated with the startling event when the statement was made).</p>
+                <p id="b432-6" pgmap="432">
+                   Because we conclude that the hearsay was not admissible under any of the theories proposed by the State, we conclude that the court improperly admitted the hearsay into evidence. Further, there is no argument to be made that admission of the hearsay was harmless, as it was the only evidence presented by the State regard­ing who committed the murder. Consequently, we must reverse and remand this case for a new trial in which the hearsay statement is not admitted into evidence.</p>
+                <p id="b432-7" pgmap="432">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="425" ORDERLABEL="397" TYPE="page">
+        <fptr FILEID="tiff_00213_0"/>
+        <fptr FILEID="jp2_00213_0"/>
+        <fptr FILEID="alto_00213_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_425.3" BETYPE="IDREF" FILEID="alto_00213_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="426" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00213_1"/>
+        <fptr FILEID="jp2_00213_1"/>
+        <fptr FILEID="alto_00213_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.2" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="427" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jp2_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.2" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="428" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00214_1"/>
+        <fptr FILEID="jp2_00214_1"/>
+        <fptr FILEID="alto_00214_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_428.2" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="429" ORDERLABEL="401" TYPE="page">
+        <fptr FILEID="tiff_00215_0"/>
+        <fptr FILEID="jp2_00215_0"/>
+        <fptr FILEID="alto_00215_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_429.3" BETYPE="IDREF" FILEID="alto_00215_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="430" ORDERLABEL="402" TYPE="page">
+        <fptr FILEID="tiff_00215_1"/>
+        <fptr FILEID="jp2_00215_1"/>
+        <fptr FILEID="alto_00215_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_430.1" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="431" ORDERLABEL="403" TYPE="page">
+        <fptr FILEID="tiff_00216_0"/>
+        <fptr FILEID="jp2_00216_0"/>
+        <fptr FILEID="alto_00216_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_431.3" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="432" ORDERLABEL="404" TYPE="page">
+        <fptr FILEID="tiff_00216_1"/>
+        <fptr FILEID="jp2_00216_1"/>
+        <fptr FILEID="alto_00216_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_432.2" BETYPE="IDREF" FILEID="alto_00216_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.6" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-4" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.4" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.3" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.4" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.9" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.6" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-12" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.10" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_428.11" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-13" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.15" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-14" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.16" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_429.1" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.8" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-11" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.13" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-10" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.12" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.6" BETYPE="IDREF" FILEID="alto_00216_0"/>
+            <area BEGIN="BL_432.1" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b428-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.8" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acr" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.10" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.4" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b425-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.9" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b431-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_431.5" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.5" BETYPE="IDREF" FILEID="alto_00215_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b430-9" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_430.7" BETYPE="IDREF" FILEID="alto_00215_1"/>
+            <area BEGIN="BL_431.1" BETYPE="IDREF" FILEID="alto_00216_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtZ" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_428.12" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_428.13" BETYPE="IDREF" FILEID="alto_00214_1"/>
+            <area BEGIN="BL_428.14" BETYPE="IDREF" FILEID="alto_00214_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6x" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_425.11" BETYPE="IDREF" FILEID="alto_00213_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-8" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.6" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.5" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b429-6" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_429.4" BETYPE="IDREF" FILEID="alto_00215_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-5" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.5" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b432-7" BETYPE="IDREF" FILEID="casebody_0055"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_432.7" BETYPE="IDREF" FILEID="alto_00216_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,650 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000657_0002" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Anderson v. Mitts">Sandy and Terry ANDERSON v. Wendy and Jimmy MITTS</name>
+          <docketnumber>CA 03-965</docketnumber>
+          <citation category="official" type="bluebook">87 Ark. App. 19</citation>
+          <citation category="parallel" type="bluebook">185 S.W.3d 154</citation>
+          <decisiondate>2004-06-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:11:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:28Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T17:41:23Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T17:42:21Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="047260913195d882e1e61a340f0edf68" CHECKSUMTYPE="MD5" SIZE="34762">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00021_0.tif"/>
+      </file>
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="b7765f796bf91596521ff2fba154c317" CHECKSUMTYPE="MD5" SIZE="4464">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00021_1.tif"/>
+      </file>
+      <file ID="tiff_00022_0" MIMETYPE="image/tiff" CHECKSUM="fd40311bd8e053ca9911415ae1366c21" CHECKSUMTYPE="MD5" SIZE="41246">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00022_0.tif"/>
+      </file>
+      <file ID="tiff_00022_1" MIMETYPE="image/tiff" CHECKSUM="9cdf880fe28fd5792ad7f435afd15674" CHECKSUMTYPE="MD5" SIZE="54476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00022_1.tif"/>
+      </file>
+      <file ID="tiff_00023_0" MIMETYPE="image/tiff" CHECKSUM="ccfcc143a4f87a4c2aa9e26a55defafb" CHECKSUMTYPE="MD5" SIZE="53224">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00023_0.tif"/>
+      </file>
+      <file ID="tiff_00023_1" MIMETYPE="image/tiff" CHECKSUM="b1db85c17bf9e7e1818c32422539db46" CHECKSUMTYPE="MD5" SIZE="44642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00023_1.tif"/>
+      </file>
+      <file ID="tiff_00024_0" MIMETYPE="image/tiff" CHECKSUM="417b39097f47838fe287fb880c10392d" CHECKSUMTYPE="MD5" SIZE="43914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00024_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="e4e2495a571fbd99229d2f3a5fbd839c" CHECKSUMTYPE="MD5" SIZE="2203523">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00021_0.jp2"/>
+      </file>
+      <file ID="jp2_00021_1" MIMETYPE="image/jp2" CHECKSUM="869b1f5921095fe05c21d19b7c9de4f9" CHECKSUMTYPE="MD5" SIZE="1063503">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00021_1.jp2"/>
+      </file>
+      <file ID="jp2_00022_0" MIMETYPE="image/jp2" CHECKSUM="4fc00b66ba185469b17819fe51d5df84" CHECKSUMTYPE="MD5" SIZE="2208392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00022_0.jp2"/>
+      </file>
+      <file ID="jp2_00022_1" MIMETYPE="image/jp2" CHECKSUM="f3cee5c067a606668ece523d53fe8dca" CHECKSUMTYPE="MD5" SIZE="2482753">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00022_1.jp2"/>
+      </file>
+      <file ID="jp2_00023_0" MIMETYPE="image/jp2" CHECKSUM="ce1cd78f47d6082b8c54c577d18161f2" CHECKSUMTYPE="MD5" SIZE="2528858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00023_0.jp2"/>
+      </file>
+      <file ID="jp2_00023_1" MIMETYPE="image/jp2" CHECKSUM="a9749d46b17137f9bf72639cbbf02cfe" CHECKSUMTYPE="MD5" SIZE="2783901">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00023_1.jp2"/>
+      </file>
+      <file ID="jp2_00024_0" MIMETYPE="image/jp2" CHECKSUM="07b18ceff755cd8ba9cab7d78c1e0aca" CHECKSUMTYPE="MD5" SIZE="2440604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00024_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="890e449b8865ee2c05c81225c2e64155" CHECKSUMTYPE="MD5" SIZE="57259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00021_0.xml"/>
+      </file>
+      <file ID="alto_00021_1" MIMETYPE="text/xml" CHECKSUM="fdbcf4e5d29f942a57488801761b7949" CHECKSUMTYPE="MD5" SIZE="1766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00021_1.xml"/>
+      </file>
+      <file ID="alto_00022_0" MIMETYPE="text/xml" CHECKSUM="a6db0490ea0ded0b4e4bbd977b53e463" CHECKSUMTYPE="MD5" SIZE="78207">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00022_0.xml"/>
+      </file>
+      <file ID="alto_00022_1" MIMETYPE="text/xml" CHECKSUM="bcf20f96cf4f134e9058559369a306fc" CHECKSUMTYPE="MD5" SIZE="104670">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00022_1.xml"/>
+      </file>
+      <file ID="alto_00023_0" MIMETYPE="text/xml" CHECKSUM="4e5c22527b789c26aae5cda5e71bf9be" CHECKSUMTYPE="MD5" SIZE="94518">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00023_0.xml"/>
+      </file>
+      <file ID="alto_00023_1" MIMETYPE="text/xml" CHECKSUM="d7035851f6fe19f5055532da367a97c0" CHECKSUMTYPE="MD5" SIZE="85991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00023_1.xml"/>
+      </file>
+      <file ID="alto_00024_0" MIMETYPE="text/xml" CHECKSUM="725f4152da3041e559e8917caffa4792" CHECKSUMTYPE="MD5" SIZE="80042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00024_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0002" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="25" firstpage="19">
+              <court pgmap="41" id="b41-10">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="41" id="b41-9">CA 03-965</docketnumber>
+              <citation pgmap="41" id="AWm">185 S.W.3d 154</citation>
+              <parties pgmap="41" id="b41-8">Sandy and Terry ANDERSON v. Wendy and Jimmy MITTS</parties>
+              <decisiondate pgmap="41" id="b41-11">Opinion delivered June 16, 2004</decisiondate>
+              <judges pgmap="47" id="b47-9">Gladwin and Robbins, JJ., agree.</judges>
+              <attorneys pgmap="43" id="b43-7">Dick Jarboe; and Grider Law Firm, PLC, by: M. Joseph Grider, for appellants.</attorneys>
+              <attorneys pgmap="43" id="b43-8">Stidham Law Firm, P.A., by: Daniel T. Stidham, for appellees.</attorneys>
+              <opinion type="majority">
+                <author pgmap="43" id="b43-9">John F. Stroud, Jr., Chief Judge.</author>
+                <p pgmap="43" id="A1">This case involves a child, T.J. Anderson, who received a severe burn to his left hand while staying at his maternal aunt’s house when he was thirteen months old. Appellants, Terry and Sandy Anderson, are the child’s parents. Appellees, Jimmy and Wendy Mitts, were married at the time, and Wendy is the child’s maternal aunt. At trial, appellees sought, and were granted, a directed verdict at the close of appellants’ case. We reverse and remand for a new trial.</p>
+                <p pgmap="43" id="b43-12">Sandy Anderson, T.J.’s mother, testified that T.J. was born in 1994, and that he was eight years old at the time of trial. She said that at the time of the burn, September 25, 1995, he was thirteen months old. She explained that at the time T.J.’s hand was burned, they lived in a house owned by, and located next door to, her sister, Wendy. She said that she was painting on September 25; that Wendy asked to take T.J. to her house with her; and that it was not unusual for her to do that. Sandy testified that she was very familiar with the house in which her sister lived. She drew a rough sketch of the layout, showing the location of the couch, television, and wall heater. She said that she was nervous about the heater because she had small children and did not want them to brush up against it, and that she asked Wendy when she was taking T.J. home with her if the heater was on. She said that Wendy responded that it was not. Sandy stated that she learned about the burn just after it happened, that Wendy carried T.J. back to Sandy’s house, and that T.J. was screaming. Sandy said that her husband took both her and T.J. to the emergency room.</p>
+                <p pgmap="44" id="b44-4">Sandy also described the treatment for the burn and the follow-up therapy and surgery that T.J. had to undergo. She explained the disfigurement and the limitations in his use of the burned hand.</p>
+                <p pgmap="44" id="b44-5">Sandy recounted that Wendy had told her that she felt responsible for what had happened. Sandy said that when she allowed T.J. to go to Wendy’s house, she trusted Wendy to look after him and to protect him from getting into the heater. She said that in her opinion, the heater was located in a high-traffic area of the house because it was between the kitchen and the living room where all of the kids played. She also explained that the couch was positioned in such a way that if you were sitting on the couch watching television, your back would be to the heater.</p>
+                <p pgmap="44" id="b44-6">Sandy stated that she and her sister often babysat each other’s children; that she had Wendy’s kids the most because she did not work outside of the home; and that they did not pay each other to babysit.</p>
+                <p pgmap="44" id="b44-7">Wendy testified that when she first arrived home with T.J., the heater was off, and that her husband at the time, Jimmy Mitts, subsequently turned it on. She stated that she recalled reading the instruction manual for the heater and that it provided in part that young children should be carefully supervised when they were in the same room with the heater. She also agreed with Sandy that the heater was located in a high-traffic area and that the manual cautioned against locating the heaters in such areas. She said that she and her husband were on the couch, that the heater was behind them, that they heard T.J. cry out in pain, and that they jumped up and ran to him. She said that it never occurred to her that a child could get his hands up against the white-hot bricks inside the heater. She said that prior to the incident, T.J. had been in her lap on the couch; that her two children came into the room; that T.J. wanted to leave with them to go to a bedroom; that she watched him follow them around the corner to the bedroom; and that she thought that was where he was until she heard him cry. She said that it was probably fifteen to thirty minutes from the time he left her lap until the burn.</p>
+                <p pgmap="44(48) 45(25)" id="b44-8">Jimmy Mitts testified that when he came home on Septem­ber 25, T.J. was already at the house; that he turned the heater on; and that he was on the couch with his back to the heater when the injury occurred. He acknowledged being aware of the safety precautions listed in the manual. He also agreed that a person had to be more cautious and careful in supervising a younger child like T.J.</p>
+                <p pgmap="45" id="b45-6">In making his motion for a directed verdict, appellees’ attorney argued that the child was a licensee; that the duty of care owed by appellees to the child as a licensee was not to injure him through wanton or willful conduct, which would require some intentional or utter disregard for the child’s safety; and that the appellants failed to meet their burden of proof. Appellants’ attor­ney countered that a distinction had to be made when the licensee was a thirteen-month-old baby and appellees had asked to keep him. He contended that they assumed the duty to exercise ordi­nary care for T.J. The trial court decided that “premises liability law was applicable regardless of the assumed liability concept and regardless of the tender age of the child.” He directed a verdict in favor of the appellees.</p>
+                <p pgmap="45" id="b45-7">Appellants raise two points of appeal: 1) that there was evidence from which a jury could find that the appellees were guilty of ordinary negligence, and 2) that the trial court erred in finding that the standard of care was willful or wanton negligence in granting the motion for directed verdict. These two points of appeal can best be discussed together, and it is more logical to address the appropriate standard of care first.</p>
+                <p pgmap="45" id="b45-8">Appellants contend that the trial court erred in finding that the appropriate standard of care under these circumstances was the duty owed by a landowner to a licensee, i.e., the duty not to cause injury by willful or wanton conduct. Instead, they argue that because T.J. was a thirteen-month-old child, the appropriate standard of care was the duty to exercise ordinary care to avoid injury to the child. We agree.</p>
+                <p pgmap="45(100) 46(25)" id="b45-9">
+                   The trial court’s analysis of this issue went astray when it focused on the child’s status upon the land in determining what duty was owed by appellees. Our research did not reveal an Arkansas case directly on point, but an Alabama Supreme Court case explains the issues well. In Standifer v. Pate, 291 Ala. 434, 282 So. 2d 261 (1973), the Alabama Supreme Court overruled an earlier case in which it had held that a nine-year-old boy, for whom the property owner had undertaken to supervise activities, was a “mere licensee and therefore the duty owed him was not to wilfully or wantonly injure him or not to negligently injure him after discovering his peril.” In overruling that earlier case, the court explained in Standifer:</p>
+                <blockquote pgmap="46" id="b46-5">While the allegations in the instant case are almost the same as those found in our recent case of Nelson v. Gatlin, we think that case must be overruled insofar as it may be inconsistent with the holding in the case at bar.</blockquote>
+                <blockquote pgmap="46" id="b46-6">As noted in the dissent of Mr. Justice Harwood in the Nelson case, the gravamen of the count is negligent supervision. The place at which such supervision occurred should not affect the duty owed the plaintiff. The location of the alleged breach of duty is unimpor­tant, whether it occurred on the plaintiffs premises or elsewhere.</blockquote>
+                <blockquote pgmap="46" id="b46-7">We find such reasoning to be persuasive. As stated in Nelson v. Gatlin, the recognized duty owed by an occupier of land in Alabama to a licensee is not to wilfully or wantonly injure him, or not to negligently injure him after discovering him in peril.</blockquote>
+                <blockquote pgmap="46" id="b46-8">While this is a correct statement of the rule, it must be noted that this states only the duty [a] rising out of and [cjreated by the land occupier-licensee relationship. It in no way abrogates or insulates a land occupier from duties which arise from other relationships between himself and another on his premises. The occurrence of the breach of duty on one’s own premises is a mere fortuity.</blockquote>
+                <blockquote pgmap="46" id="b46-9">Count Three in the instant case alleges a breach of duty arising out of a relationship of volunteer babysitter and child. In [a recent case] involving gratuitous safety inspection of business premises, this court held that a volunteer is under a duty, once he has acted or assumed the duty, to execute the tasks undertaken with reasonable care.</blockquote>
+                <p pgmap="46" id="b46-10">Id. at 436-37, 282 So. 2d at 263 (citations omitted).</p>
+                <p pgmap="46" id="b46-11">
+                   Moreover, in a passage from a treatise on torts, The Law of Torts, which discusses children and premises liability, the author explains:</p>
+                <blockquote pgmap="46(35) 47(108)" id="b46-12">Children, like adults, may be licensees, as for example where they are social guests or with adults who are social guests. In such cases, they are ordinarily owed only the care owed to adult licensees. However, where the defendant owes a duty of care to child trespass­ers under the rules stated below, he owes the same duty to child licensees. In addition to the limitation on duty implied in the licensee category, some authority holds that with children of tender years who are accompanied by parents, responsibility for their safety shifts to the parents, at least if the parents know of the danger. On the other hand, if the landowner (or anyone else) has been entrusted with and accepted responsibility for supervising a child, he owes a duty of reasonable care to provide supervision regardless of the child’s status on the land.</blockquote>
+                <p pgmap="47" id="b47-5">Dan B. Dobbs, § 236 (West 2001) (emphasis added).</p>
+                <p pgmap="47" id="b47-6">
+                   Appellees’ reliance upon Bader v. Lawson, 320 Ark. 561, 898 S.W.2d 40 (1995), is misplaced. In Bader, unlike the instant case, the landowner did not undertake to supervise the care of the eight-year-old child involved in that case. The child came upon his property to jump on a trampoline in his back yard and was injured. It is precisely those types of premises-liability cases for which drawing distinctions in status in order to define duties make sense. Here, however, Wendy undertook the responsibility of caring for the thirteen-month-old child. She picked up the child from his house, where he was under the care of his mother, and took him to her own house. In doing so, she assumed a responsi­bility that went above and beyond any duty that might arise merely by virtue of the child’s status upon the premises. As explained in the Alabama case, the location of any breach of that higher duty does not affect its analysis.</p>
+                <p pgmap="47" id="b47-7">
+                   Consequently, because the trial court employed the wrong standard of care in ruling on the motion, we hold that it erred in directing a verdict in this case. There was sufficient evidence to submit to the jury on the issue of whether appellees breached their duty of ordinary care with respect to the child.</p>
+                <p pgmap="47" id="b47-8">Reversed and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="41" ORDERLABEL="19" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.3" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="42" ORDERLABEL="20" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jp2_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.2" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="43" ORDERLABEL="21" TYPE="page">
+        <fptr FILEID="tiff_00022_0"/>
+        <fptr FILEID="jp2_00022_0"/>
+        <fptr FILEID="alto_00022_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_43.3" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="44" ORDERLABEL="22" TYPE="page">
+        <fptr FILEID="tiff_00022_1"/>
+        <fptr FILEID="jp2_00022_1"/>
+        <fptr FILEID="alto_00022_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_44.1" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="45" ORDERLABEL="23" TYPE="page">
+        <fptr FILEID="tiff_00023_0"/>
+        <fptr FILEID="jp2_00023_0"/>
+        <fptr FILEID="alto_00023_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_45.3" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="46" ORDERLABEL="24" TYPE="page">
+        <fptr FILEID="tiff_00023_1"/>
+        <fptr FILEID="jp2_00023_1"/>
+        <fptr FILEID="alto_00023_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_46.2" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="47" ORDERLABEL="25" TYPE="page">
+        <fptr FILEID="tiff_00024_0"/>
+        <fptr FILEID="jp2_00024_0"/>
+        <fptr FILEID="alto_00024_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_47.3" BETYPE="IDREF" FILEID="alto_00024_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.9" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.7" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.8" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWm" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.9" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.10" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.7" BETYPE="IDREF" FILEID="alto_00022_1"/>
+            <area BEGIN="BL_45.1" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.7" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.8" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.8" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.7" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.5" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.13" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-10" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.10" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-11" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.11" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.4" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.5" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.6" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.10" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_43.11" BETYPE="IDREF" FILEID="alto_00022_0"/>
+            <area BEGIN="BL_43.12" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.7" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b47-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_47.8" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-8" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.6" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.7" BETYPE="IDREF" FILEID="alto_00023_0"/>
+            <area BEGIN="BL_46.1" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.4" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.6" BETYPE="IDREF" FILEID="alto_00023_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b43-9" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_43.9" BETYPE="IDREF" FILEID="alto_00022_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.6" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.5" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-5" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.4" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b44-4" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_44.3" BETYPE="IDREF" FILEID="alto_00022_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-6" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.4" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b45-7" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_45.5" BETYPE="IDREF" FILEID="alto_00023_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b46-12" BETYPE="IDREF" FILEID="casebody_0002"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_46.11" BETYPE="IDREF" FILEID="alto_00023_1"/>
+            <area BEGIN="BL_47.1" BETYPE="IDREF" FILEID="alto_00024_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000680_0046" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="White v. Georgia-Pacific Corp.">Jimmy WHITE v. GEORGIA-PACIFIC CORPORATION</name>
+          <docketnumber>CA 98-1066</docketnumber>
+          <citation category="official" type="bluebook">66 Ark. App. 337</citation>
+          <citation category="parallel" type="bluebook">989 S.W.2d 942</citation>
+          <decisiondate>1999-05-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T20:32:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:24Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:26:40Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:27:58Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="a05ba88f9f5ab85a9a8de0d397538425" CHECKSUMTYPE="MD5" SIZE="7582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="106f3055726fffa11b874a87abab1f18" CHECKSUMTYPE="MD5" SIZE="43130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="81f265813c32c67bf03c153bf421aefb" CHECKSUMTYPE="MD5" SIZE="51734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00184_0.tif"/>
+      </file>
+      <file ID="tiff_00184_1" MIMETYPE="image/tiff" CHECKSUM="64a76ab71aca167683092f371e3a4383" CHECKSUMTYPE="MD5" SIZE="52384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00184_1.tif"/>
+      </file>
+      <file ID="tiff_00185_0" MIMETYPE="image/tiff" CHECKSUM="fa21fb7a2e1b99f750a34d0bcc497cc1" CHECKSUMTYPE="MD5" SIZE="51100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00185_0.tif"/>
+      </file>
+      <file ID="tiff_00185_1" MIMETYPE="image/tiff" CHECKSUM="925699f87a682aea48935ffa736c023d" CHECKSUMTYPE="MD5" SIZE="55682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00185_1.tif"/>
+      </file>
+      <file ID="tiff_00186_0" MIMETYPE="image/tiff" CHECKSUM="1cf479d3f83fd611afb6214b62006ec0" CHECKSUMTYPE="MD5" SIZE="22716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00186_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="45928571869f8fe6b8a8834ae409bf4c" CHECKSUMTYPE="MD5" SIZE="1347243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="3d21052b02e0019e11817744a1ef346a" CHECKSUMTYPE="MD5" SIZE="2314727">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="18cd3194943b5f90cae7465a16ac0242" CHECKSUMTYPE="MD5" SIZE="2480698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00184_0.jp2"/>
+      </file>
+      <file ID="jp2_00184_1" MIMETYPE="image/jp2" CHECKSUM="ce61b3995001b4dd691e2298930efb3d" CHECKSUMTYPE="MD5" SIZE="2554089">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00184_1.jp2"/>
+      </file>
+      <file ID="jp2_00185_0" MIMETYPE="image/jp2" CHECKSUM="6fbafc94dc6f7316c1cf9bd5f409c7e2" CHECKSUMTYPE="MD5" SIZE="2513620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00185_0.jp2"/>
+      </file>
+      <file ID="jp2_00185_1" MIMETYPE="image/jp2" CHECKSUM="cad3dbfc39b6de92c878c666f32b650f" CHECKSUMTYPE="MD5" SIZE="2539640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00185_1.jp2"/>
+      </file>
+      <file ID="jp2_00186_0" MIMETYPE="image/jp2" CHECKSUM="efdbb26c34059141eb81deb68b069179" CHECKSUMTYPE="MD5" SIZE="1971786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000680_00186_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="5ee02cef6f07068f39a110d71014823b" CHECKSUMTYPE="MD5" SIZE="8063">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="309aded477892cdd3f1d29ba88cb6e12" CHECKSUMTYPE="MD5" SIZE="73026">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="fcffa552125d112441589e63ad7a6bdf" CHECKSUMTYPE="MD5" SIZE="85206">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00184_0.xml"/>
+      </file>
+      <file ID="alto_00184_1" MIMETYPE="text/xml" CHECKSUM="3eb19ef4373461d2b7bf7704b33fab2d" CHECKSUMTYPE="MD5" SIZE="94958">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00184_1.xml"/>
+      </file>
+      <file ID="alto_00185_0" MIMETYPE="text/xml" CHECKSUM="4fd6369e5a91fb3bd42f6b40d80cd979" CHECKSUMTYPE="MD5" SIZE="90250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00185_0.xml"/>
+      </file>
+      <file ID="alto_00185_1" MIMETYPE="text/xml" CHECKSUM="f0c43dd1792d8d3547f34b762ac38f5c" CHECKSUMTYPE="MD5" SIZE="105204">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00185_1.xml"/>
+      </file>
+      <file ID="alto_00186_0" MIMETYPE="text/xml" CHECKSUM="f63613dfca6fc702c4a75d22d84134db" CHECKSUMTYPE="MD5" SIZE="36819">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000680_redacted_ALTO_00186_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="343" firstpage="337">
+              <court pgmap="365" id="b365-4">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="365" id="b365-3">CA 98-1066</docketnumber>
+              <citation pgmap="365" id="ANTZ">989 S.W.2d 942</citation>
+              <parties pgmap="365" id="b365-2">Jimmy WHITE v. GEORGIA-PACIFIC CORPORATION</parties>
+              <decisiondate pgmap="365" id="b365-5">Opinion delivered May 19, 1999</decisiondate>
+              <judges pgmap="371" id="b371-6">Robbins, C.J., and Meads, J., agree.</judges>
+              <attorneys pgmap="366" id="b366-6">Robert L. Depper, Jr., for appellant.</attorneys>
+              <attorneys pgmap="366" id="b366-7">Mark Alan Peoples, PLC, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="366" id="AUer">John F. Stroud, Jr., Judge.</author>
+                <p pgmap="366" id="AAma">Jimmy White, a forklift driver at Georgia-Pacific’s Crossett plant, injured a foot and ankle when he slipped and fell on a step. The incident occurred when he stepped through a doorway to take a smoke break approximately two hours into his shift. After a hearing, the administrative law judge concluded that the injury did not occur in the course and scope of Mr. White’s job duties for Georgia Pacific. The Commission adopted and affirmed the decision of the law judge. Mr. White now raises two points in appealing the Commission’s decision. He contends 1) that “there does not exist substantial evidence to support the decision” that he did not prove by a preponderance of the evidence that his injury occurred in the course and scope of his employment, and 2) that the injury is compensable under the personal comfort doctrine. We affirm.</p>
+                <p pgmap="366(143) 367(16)" id="b366-9">
+                   We note initially that when a workers’ compensation claim is denied, the substantial evidence standard of review requires us to affirm' the Commission if its opinion displays a sub­stantial basis for the denial of the relief sought. Linthicum v. Mar-­Bax Shirt Co., 23 Ark. App. 26, 741 S.W.2d 275 (1987). On appeal in workers’ compensation cases, we view the evidence and all reasonable inferences deducible therefrom in the light most favorable to the Commission’s findings and will affirm if those findings are supported by substantial evidence. Jeter v. B.R. McGinty Mechanical, 62 Ark. App. 53, 968 S.W.2d 645 (1998). Substantial evidence means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion. Id. The issue on appeal is not whether we might have reached a different result or whether the evidence would have supported a contrary finding; if reasonable minds could reach the Commission’s conclu­sion, we must affirm its decision. Id.</p>
+                <p pgmap="367" id="b367-5">Under Arkansas Code Annotated section 11-9-102 (5) (A) (i) (Supp. 1997), an accidental injury causing internal or external harm to the body, arising out of and in the course of employment and which requires medical services or results in disability or death, is a compensable injury. Act 796 of 1993 excluded from the definition of “compensable injury” an injury inflicted upon an employee at a time when employment services were not being performed. See Ark. Code Ann. § 11-9-102(5)(B)(iii) (Supp. 1997). The term “employment services” is not defined by the Act.</p>
+                <p pgmap="367" id="b367-6">
+                   In Olsten Kimberly Quality Care v. Pettey, 328 Ark. 381, 944 S.W.2d 524 (1997), our supreme court affirmed the compen­sability of an injury suffered in an automobile accident by a nurse en route to provide nursing services in a patient’s home. The Olsten decision included the Commission’s construction of the term “employment services”:</p>
+                <blockquote pgmap="367" id="b367-7">[C]onsidering the ordinary and usually accepted meaning of this term in common language, we find that an employee is perform­ing employment services when she is engaging in an activity which carries out the employer’s purpose or advances the employer’s interests. Obviously, an employee carries out the employer’s purpose or advances the employer’s interests when she engages in the primary activity which she was hired to perform. However an employee also carries out the employer’s purpose or advances the employer’s interests when she engages in incidental activities which are inherently necessary for the performance of the primary activity.</blockquote>
+                <p pgmap="367(99) 368(91)" id="b367-8">328 Ark. at 384, 944 S.W.2d at 526 (1997). We followed the reasoning of the Olsten court in Harding v. City of Texarkana, 62 Ark. App. 137, 970 S.W.2d 303 (1998), where we held that an employee is performing employment services when he is engaged in the primary activity that he was hired to perform or in inciden­tal activities that are inherently necessary for the performance of the primary activity. We rejected the argument made in Harding that an employee’s break advanced her employer’s interest by allowing her to relax, which in turn helped her to work more efficiently during the rest of her work shift. In that case, the claimant worked on the third floor of her office building but was not allowed to smoke there; on her way to the designated smoking area, she exited the elevator on the first floor, tripped over a rolled-up carpet, and was injured. The Commission found that her claim was not compensable because she was not performing employment services when she was injured. We addressed her arguments regarding compensability, arguments similar to those of appellant in the present case, as follows:</p>
+                <blockquote pgmap="368" id="b368-5">Appellant argues, on public policy grounds, that her break advanced her employer’s interest by allowing her to relax, which in turn helped her to work more efficiently throughout the rest of her work shift. We are not unsympathetic to this argument. Under former law, the definition of compensable injury did not include a strict requirement that the injury occur while the worker was performing employment services, and a claimant’s activities at the moment of injury were relevant only to the sepa­rate and broader question of whether the injury arose out of and in the course of the employment. It is clear that, under former law, appellant’s injury while en route to the break area would have been in the course of her employment pursuant to the per­sonal-comfort doctrine. It may be true that the interests of both workers and employers would be better served by a more uni­form application of an administrative remedy than they would be by the uncertainty inherent in a tort claim based on premises lia­bility. Nevertheless, the legislature, rather than the courts, is empowered to declare public policy, and whether a law is good or bad, wise or unwise, is a question for the legislature, rather than the courts. In the present case, Act 796 of 1993 applies and, although appellant’s break may have indirectly advanced her employer’s interests, it was not inherently necessary for the per­formance of the job she was hired to do. Consequently, we hold that the Commission did not err in finding that appellant was not performing employment services when she was injured.</blockquote>
+                <p pgmap="368" id="b368-6">62 Ark. App. at 138-39, 970 S.W.2d at 303-04 (citations omitted).</p>
+                <p pgmap="368(33) 369(145)" id="b368-7">We again addressed the issue of whether a break advances an employer’s interest in Ray v. University of Arkansas, 66 Ark. App. 177, 990 S.W.2d 558 (1999). In that case, the university provided the employee two unpaid thirty-minute breaks and two paid fif­teen-minute breaks. The employee, a food-service worker in the cafeteria, was injured when she slipped in a puddle of salad dress­ing as she was getting herself a snack in the cafeteria during a paid fifteen-minute break. There was testimony that the university provided free meals for cafeteria workers as inducement for them to remain on the premises, that the fifteen-minute breaks were occasionally interrupted by students asking workers for assistance,' and that a worker who was approached by a student was required to leave her break and address the student’s needs. The Commis­sion found it compelling that appellant was reaching for an apple for personal consumption when she slipped and fell and was not assisting student diners or “otherwise benefitting the employer.” We reversed the Commission’s denial of the claim, ruling as follows:</p>
+                <blockquote pgmap="369" id="b369-5">We hold that appellant was performing employment services at the time she was injured based on the fact that appellant was paid for her fifteen-minute breaks and was required to assist stu­dent diners if the need arose. Appellant’s employer gleaned ben­efit from appellant being present and required to aid students on her break.</blockquote>
+                <blockquote pgmap="369" id="b369-6">We find Harding v. City of Texarkana, 62 Ark. App. 137, 970 S.W.2d 303 (1998), distinguishable. . . .</blockquote>
+                <blockquote pgmap="369" id="b369-7">Unlike the employer in Harding, the University of Arkansas required Ray to be available to work during her break and paid her for the time she was on break, presumably because she was required to help students. The University of Arkansas was clearly benefitted by Ray’s being in the cafeteria and available for stu­dents during her paid break. The benefit was not tangential as in Harding, but was directly related to the job that Ray performed and for which she was paid. In distinguishing Harding, we specif­ically note that, unlike the break in Harding, the appellee employer in this case furnished food for its resting employees and paid for the break to induce them to be available to serve students even during the break period.</blockquote>
+                <p pgmap="369" id="b369-8">66 Ark. App. at 180-81, 990 S.W.2d at 560-61 (1999).</p>
+                <p pgmap="369(24) 370(185)" id="b369-9">In the present case, appellant testified at the hearing that it was his job as a forklift operator to load veneer dryers with lum­ber. Regarding his breaks, he stated that his workday was sup­posed to include two ten-minute breaks and a lunch break, but that he didn’t get the official short breaks because there was no one to relieve him; that he therefore didn’t have time to smoke in the designated areas, and he usually stayed in the job area to watch his job and be alert for the supervisor’s call; that on the date of the accident he stepped about two feet away from his forklift to an outside door in front of No. 5 dryer, planning to smoke and watch his job; and that he had taken smoke breaks there in the past and his supervisor was aware of it. He testified that he fell when he stepped out the doorway and slipped on algae on the concrete, and that he heard his ankle snap. He wore a cast and didn’t go back to work until almost nine weeks later. Although he couldn’t put pressure on his leg when he first returned to work, he was working “full speed” by the time of the hearing.</p>
+                <p pgmap="370" id="b370-5">Appellant argues that it appears from the employer’s provision of three breaks a day that the employer believed that breaks were important for the business. He supports this argument with his unrebutted testimony that employees receive three breaks, the first for a smoke break, the second for lunch, and the third for a smoke break; that he sometimes did not get his breaks because no one was available to relieve him; that he commonly would stay in his job area to see if his dryers needed attention and to be alert for his supervisor, who might call him. He further testified that on the night he was injured his supervisor had told him to take the break when he could; that his supervisor previously had seen him in the area where he was injured and had never complained; and that when he sustained his injury, he was not more than approximately two or three feet from the forklift and twelve to fifteen feet from a dryer. He contends that at the time he was exercising a break, he was engaged in the services of his employment.</p>
+                <p pgmap="370(80) 371(117)" id="b370-6">
+                   In Harding, we found that employment services were not being performed because the claimant was on a floor of the building other than that where she worked, headed for the only area where she was allowed to smoke. In Ray, we held that the benefit to the employer was not tangential as in Harding, but was directly related to the job that the employee performed and for which she was paid. We think that this case is governed by the Harding case, and that there was substantial evidence to support the finding of the Commission that appellant was not performing employment services at the time of his injury, which occurred as he was exiting his work area to take a smoking break. Although appellant’s break may have indirectly advanced his employer’s interest, and although under former law and the personal-comfort doctrine the injury sustained en route to a break would have been in the course of employment, under Act 796 of 1993 this claim is barred by the finding that appellant was not performing employ­ment services at the time of injury. See Harding v. City of Texar­kana, 62 Ark. App. 137, 970 S.W.2d 303 (1998).</p>
+                <p pgmap="371" id="b371-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="365" ORDERLABEL="337" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.2" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="338" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.2" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="339" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.3" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="368" ORDERLABEL="340" TYPE="page">
+        <fptr FILEID="tiff_00184_1"/>
+        <fptr FILEID="jp2_00184_1"/>
+        <fptr FILEID="alto_00184_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_368.2" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="369" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00185_0"/>
+        <fptr FILEID="jp2_00185_0"/>
+        <fptr FILEID="alto_00185_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_369.3" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="370" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00185_1"/>
+        <fptr FILEID="jp2_00185_1"/>
+        <fptr FILEID="alto_00185_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_370.2" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="371" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00186_0"/>
+        <fptr FILEID="jp2_00186_0"/>
+        <fptr FILEID="alto_00186_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_371.3" BETYPE="IDREF" FILEID="alto_00186_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-2" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.3" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAma" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.10" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_366.11" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_366.12" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.5" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANTZ" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.5" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.4" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.4" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUer" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.9" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.6" BETYPE="IDREF" FILEID="alto_00184_1"/>
+            <area BEGIN="BL_369.1" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b371-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_371.4" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.7" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.8" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.6" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.13" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            <area BEGIN="BL_367.1" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.7" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.6" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b368-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_368.5" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b370-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_370.5" BETYPE="IDREF" FILEID="alto_00185_1"/>
+            <area BEGIN="BL_371.1" BETYPE="IDREF" FILEID="alto_00186_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.7" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            <area BEGIN="BL_368.1" BETYPE="IDREF" FILEID="alto_00184_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.8" BETYPE="IDREF" FILEID="alto_00185_0"/>
+            <area BEGIN="BL_370.1" BETYPE="IDREF" FILEID="alto_00185_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.7" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.4" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.6" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b369-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_369.5" BETYPE="IDREF" FILEID="alto_00185_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.4" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044133498667_1277" publicationstatus="published">
+          <court abbreviation="U.S." jurisdiction="United States">Supreme Court of the United States</court>
+          <name abbreviation="Fox v. Florida Bar">Fox v. Florida Bar; Lay v. United States; Aftermath Records, dba Aftermath Entertainment, et al. v. F. B. T. Productions, LLC, et al.; Lakshminarasimha v. United States et al.; Olson v. Estate of Gaignat, Deceased; Stratton v. Texas (three judgments); Day v. United States; Brown v. Bradshaw, Warden; Laffiteau v. Management and Legal Agents for Camelot Inn; Cooper v. Hobbs, Director, Arkansas Department of Correction; Berry v. Citibank F. S. B.; Chambers v. Justice of the Peace Court, Precinct One; Nelson v. Jackson, Warden; West v. United States; Bramage v. HSBC Bank Nevada, N. A.; DeYoung v. Schofield, Warden; Alston v. Court of Appeals of Wisconsin; Rosenfeld v. Hackett et al.; Jones v. Larkins, Warden; Johnson v. Kelly, Warden; Rameses v. Kernan, Warden, et al.; Ciria v. Rubino et al.; Richard v. Wenerowicz, Superintendent, State Correctional Institution at Graterford; Solomon v. United States; Dorsey v. Shinseki, Secretary of Veterans Affairs; Ellis v. Palmer, Warden, et al.; Tuvalu v. Woodford et al.; Deonarinesingh v. United States</name>
+          <docketnumber>No. 10-677; No. 10-695; No. 10-768; No. 10-934; No. 10-7842; No. 10-8006; No. 10-8191; No. 10-8202; No. 10-8230; No. 10-8253; No. 10-8274; No. 10-8333; No. 10-8404; No. 10-8407; No. 10-8430; No. 10-8456; No. 10-8485; No. 10-8491; No. 10-8508; No. 10-8604; No. 10-8679; No. 10-8687; No. 10-8791; No. 10-8873; No. 10-8889; No. 10-8921; No. 10-8971; No. 10-9300</docketnumber>
+          <citation category="official" type="bluebook">563 U.S. 1003</citation>
+          <decisiondate>2011-05-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-09-09T22:56:45Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2016-11-09T23:34:08Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2016-11-22T11:01:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2016-11-22T11:07:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20161011.post162</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00515_0" MIMETYPE="image/tiff" CHECKSUM="2a54180f8b32fb606f582d6f7002620c" CHECKSUMTYPE="MD5" SIZE="45764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00515_0.tif"/>
+      </file>
+      <file ID="tiff_00515_1" MIMETYPE="image/tiff" CHECKSUM="31fdd3d91a52c7387de58237f7715fe0" CHECKSUMTYPE="MD5" SIZE="42022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00515_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00515_0" MIMETYPE="image/jp2" CHECKSUM="e1edf9884d0e4443caf15f88a4c190b7" CHECKSUMTYPE="MD5" SIZE="2539210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00515_0.jp2"/>
+      </file>
+      <file ID="jp2_00515_1" MIMETYPE="image/jp2" CHECKSUM="bd0edd2b76a31b39724a7eb5a9bce3dc" CHECKSUMTYPE="MD5" SIZE="2111407">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044133498667_00515_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00515_0" MIMETYPE="text/xml" CHECKSUM="f14e19c8b78584b0ba6ae94db15e13d1" CHECKSUMTYPE="MD5" SIZE="88431">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044133498667_redacted_ALTO_00515_0.xml"/>
+      </file>
+      <file ID="alto_00515_1" MIMETYPE="text/xml" CHECKSUM="9d43c94249ea6e10fcd8a8b9c54a0793" CHECKSUMTYPE="MD5" SIZE="68901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044133498667_redacted_ALTO_00515_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_1277" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="1003" lastpage="1004">
+              <docketnumber pgmap="1029" id="b1029-7">No. 10-677.</docketnumber>
+              <docketnumber pgmap="1029" id="AIb">No. 10-695.</docketnumber>
+              <docketnumber pgmap="1029" id="A6mI">No. 10-768.</docketnumber>
+              <docketnumber pgmap="1029" id="AstT">No. 10-934.</docketnumber>
+              <docketnumber pgmap="1029" id="ATHl">No. 10-7842.</docketnumber>
+              <docketnumber pgmap="1029" id="AHMi">No. 10-8006.</docketnumber>
+              <docketnumber pgmap="1029" id="AWRR">No. 10-8191.</docketnumber>
+              <docketnumber pgmap="1029" id="AUzF">No. 10-8202.</docketnumber>
+              <docketnumber pgmap="1029" id="AUEs">No. 10-8230.</docketnumber>
+              <docketnumber pgmap="1029" id="A32l">No. 10-8253.</docketnumber>
+              <docketnumber pgmap="1029" id="A1p">No. 10-8274.</docketnumber>
+              <docketnumber pgmap="1029" id="AeQuq">No. 10-8333.</docketnumber>
+              <docketnumber pgmap="1029" id="AmPX">No. 10-8404.</docketnumber>
+              <docketnumber pgmap="1029" id="AX6S">No. 10-8407.</docketnumber>
+              <docketnumber pgmap="1029" id="AV7">No. 10-8430.</docketnumber>
+              <docketnumber pgmap="1029" id="Amh">No. 10-8456.</docketnumber>
+              <docketnumber pgmap="1029" id="Akf">No. 10-8485.</docketnumber>
+              <docketnumber pgmap="1029" id="AJBT">No. 10-8491.</docketnumber>
+              <docketnumber pgmap="1029" id="AVYl">No. 10-8508.</docketnumber>
+              <docketnumber pgmap="1029" id="AIh_">No. 10-8604.</docketnumber>
+              <docketnumber pgmap="1029" id="Abo">No. 10-8679.</docketnumber>
+              <docketnumber pgmap="1030" id="ANFX">No. 10-8687.</docketnumber>
+              <docketnumber pgmap="1030" id="AG6i">No. 10-8791.</docketnumber>
+              <docketnumber pgmap="1030" id="AISi">No. 10-8873.</docketnumber>
+              <docketnumber pgmap="1030" id="AiH6">No. 10-8889.</docketnumber>
+              <docketnumber pgmap="1030" id="AT2u">No. 10-8921.</docketnumber>
+              <docketnumber pgmap="1030" id="AQr1">No. 10-8971.</docketnumber>
+              <docketnumber pgmap="1030" id="AyD">No. 10-9300.</docketnumber>
+              <parties pgmap="1029(127) 1030(40)" id="AqBV">Fox v. Florida Bar, Lay v. United States, Aftermath Records, dba Aftermath Enter­tainment, et al. v. F. B. T. Productions, LLC, et al., Lakshminarasimha v. United States et al., Olson v. Estate of Gaignat, Deceased, Stratton v. Texas (three judgments), Day v. United States, Brown v. Bradshaw, Warden, Laffiteau v. Management and Legal Agents for Camelot Inn, Cooper v. Hobbs, Director, Arkansas De­partment of Correction, Berry v. Citibank F. S. B., Chambers v. Justice of the Peace Court, Precinct One, Nelson v. Jackson, Warden, West v. United States, Bramage v. HSBC Bank Nevada, N. A., DeYoung v. Schofield, Warden, Alston v. Court of Appeals of Wisconsin, Rosenfeld v. Hackett et al., Jones v. Larkins, Warden, Johnson v. Kelly, Warden, Rameses v. Kernan, Warden, et al., Ciria v. Rubino et al., Richard v. Wenerowicz, Superintendent, State Correctional Institution at Graterford, Solomon v. United States, Dorsey v. Shinseki, Secretary of Veterans Affairs, Ellis v. Palmer, Warden, et al., Tuvalu v. Woodford et al., Deonarinesingh v. United States,</parties>
+              <opinion type="majority">
+                <p pgmap="1029" id="AZG_">562 U. S. 1286;</p>
+                <p pgmap="1029" id="AsR5">562 U. S. 1264;</p>
+                <p pgmap="1029" id="AmYp">562 U. S. 1286;</p>
+                <p pgmap="1029" id="AhnV">562 U. S. 1288;</p>
+                <p pgmap="1029" id="A5r0">562 U. S. 1228;</p>
+                <p pgmap="1029" id="AsE3">562 U. S. 1231;</p>
+                <p pgmap="1029" id="AOm">562 U. S. 1238;</p>
+                <p pgmap="1029" id="AIVf">562 U. S. 1238;</p>
+                <p pgmap="1029" id="AOJ3">562 U. S. 1275;</p>
+                <p pgmap="1029" id="A4rv">562 U. S. 1240;</p>
+                <p pgmap="1029" id="AdmU">562 U. S. 1275;</p>
+                <p pgmap="1029" id="Aq2z">562 U. S. 1260;</p>
+                <p pgmap="1029" id="A5Ufz">562 U. S. 1260;</p>
+                <p pgmap="1029" id="AxuM">562 U. S. 1244;</p>
+                <p pgmap="1029" id="AcWM">562 U. S. 1293;</p>
+                <p pgmap="1029" id="AGQm">562 U. S. 1293;</p>
+                <p pgmap="1029" id="AQUZ">562 U. S. 1294;</p>
+                <p pgmap="1029" id="AF6N">ante, p. 906;</p>
+                <p pgmap="1029" id="AFPH">562 U. S. 1294;</p>
+                <p pgmap="1029" id="A5UK">ante, p. 907;</p>
+                <p pgmap="1029" id="A0XI">ante, p. 909;</p>
+                <p pgmap="1030" id="Am0Y">562 U. S. 1295;</p>
+                <p pgmap="1030" id="AKf2">ante, p. 921;</p>
+                <p pgmap="1030" id="AX9n">562 U. S. 1279;</p>
+                <p pgmap="1030" id="ArbB">ante, p. 922;</p>
+                <p pgmap="1030" id="Aqki">ante, p. 922;</p>
+                <p pgmap="1030" id="ASg">562 U. S. 1299; and</p>
+                <p pgmap="1030" id="ALPG">ante, p. 926. Petitions for rehearing denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1029" ORDERLABEL="1003" TYPE="page">
+        <fptr FILEID="tiff_00515_0"/>
+        <fptr FILEID="jp2_00515_0"/>
+        <fptr FILEID="alto_00515_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1029.2" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1030" ORDERLABEL="1004" TYPE="page">
+        <fptr FILEID="tiff_00515_1"/>
+        <fptr FILEID="jp2_00515_1"/>
+        <fptr FILEID="alto_00515_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1030.26" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am0Y" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.17" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGQm" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.83" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.84" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcWM" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.81" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.82" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdmU" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.77" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AX9n" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.20" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQUZ" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.85" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASg" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.23" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANFX" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.1" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AstT" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.21" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUzF" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.25" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6mI" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.20" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQr1" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.6" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4rv" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.76" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1p" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.28" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiH6" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.4" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqki" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.22" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amh" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.33" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATHl" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.22" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIVf" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.74" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJBT" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.35" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIh_" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.37" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5UK" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.88" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOJ3" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.75" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVYl" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.36" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT2u" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.5" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AX6S" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.31" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeQuq" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.29" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF6N" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.86" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqBV" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.39" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.40" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.41" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.42" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.43" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.44" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.45" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.46" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.47" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.48" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.49" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.50" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.51" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.52" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.53" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.54" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.55" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.56" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.57" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.58" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.59" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.60" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.61" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.62" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.63" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1030.8" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.9" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.10" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.11" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.12" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.13" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.14" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.15" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.16" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKf2" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.18" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.19" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyD" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.7" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1029-7" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.18" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUEs" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.26" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIb" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.19" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A32l" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.27" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhnV" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.68" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWRR" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.24" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akf" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.34" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHMi" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.23" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5Ufz" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.79" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsR5" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.65" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmPX" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.30" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG6i" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.2" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0XI" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.89" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.90" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abo" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.38" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmYp" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.66" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.67" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AISi" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.3" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALPG" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.24" BETYPE="IDREF" FILEID="alto_00515_1"/>
+            <area BEGIN="BL_1030.25" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsE3" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.71" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.72" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5r0" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.69" BETYPE="IDREF" FILEID="alto_00515_0"/>
+            <area BEGIN="BL_1029.70" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxuM" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.80" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq2z" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.78" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArbB" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1030.21" BETYPE="IDREF" FILEID="alto_00515_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFPH" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.87" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZG_" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.64" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOm" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.73" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV7" BETYPE="IDREF" FILEID="casebody_1277"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1029.32" BETYPE="IDREF" FILEID="alto_00515_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

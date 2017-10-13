@@ -1,0 +1,586 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000653_0032" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Narup v. Narup">James L. NARUP v. Linda Leann NARUP</name>
+          <docketnumber>CA 00-1234</docketnumber>
+          <citation category="official" type="bluebook">75 Ark. App. 217</citation>
+          <citation category="parallel" type="bluebook">57 S.W.3d 224</citation>
+          <decisiondate>2001-10-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T22:11:56Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:23:01Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T19:33:06Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T19:34:14Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00123_0" MIMETYPE="image/tiff" CHECKSUM="70b7b30e3527963b3af2745847079b42" CHECKSUMTYPE="MD5" SIZE="36746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00123_0.tif"/>
+      </file>
+      <file ID="tiff_00123_1" MIMETYPE="image/tiff" CHECKSUM="c530fd6da95098b5343e9ecfa24cc808" CHECKSUMTYPE="MD5" SIZE="3918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00123_1.tif"/>
+      </file>
+      <file ID="tiff_00124_0" MIMETYPE="image/tiff" CHECKSUM="2506dab4ac95f53f2c4b6fdc468d59a8" CHECKSUMTYPE="MD5" SIZE="52332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00124_0.tif"/>
+      </file>
+      <file ID="tiff_00124_1" MIMETYPE="image/tiff" CHECKSUM="ce4276c92ab50c18b25e74fd96c1a95a" CHECKSUMTYPE="MD5" SIZE="58404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00124_1.tif"/>
+      </file>
+      <file ID="tiff_00125_0" MIMETYPE="image/tiff" CHECKSUM="67ba0bc969f48de283b7328ad003cdb0" CHECKSUMTYPE="MD5" SIZE="54600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00125_0.tif"/>
+      </file>
+      <file ID="tiff_00125_1" MIMETYPE="image/tiff" CHECKSUM="c08492fa11040b8d393ec5d0f5ea13c9" CHECKSUMTYPE="MD5" SIZE="40570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00125_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00123_0" MIMETYPE="image/jp2" CHECKSUM="2dab771740d4439b4d77b04d46d40934" CHECKSUMTYPE="MD5" SIZE="2406353">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00123_0.jp2"/>
+      </file>
+      <file ID="jp2_00123_1" MIMETYPE="image/jp2" CHECKSUM="3e24b9a10e8d277fe70b397090c06a8f" CHECKSUMTYPE="MD5" SIZE="1147604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00123_1.jp2"/>
+      </file>
+      <file ID="jp2_00124_0" MIMETYPE="image/jp2" CHECKSUM="0976bf56707395fe3feaa8b0b0193846" CHECKSUMTYPE="MD5" SIZE="2609785">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00124_0.jp2"/>
+      </file>
+      <file ID="jp2_00124_1" MIMETYPE="image/jp2" CHECKSUM="3e5c7cdca132862289fd02a77daf1c80" CHECKSUMTYPE="MD5" SIZE="2643069">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00124_1.jp2"/>
+      </file>
+      <file ID="jp2_00125_0" MIMETYPE="image/jp2" CHECKSUM="01595d8e331bf660bc1f56dbdf5227e9" CHECKSUMTYPE="MD5" SIZE="2657667">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00125_0.jp2"/>
+      </file>
+      <file ID="jp2_00125_1" MIMETYPE="image/jp2" CHECKSUM="f84f1fff059a923aa98461bc6bfcd40a" CHECKSUMTYPE="MD5" SIZE="2482173">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000653_00125_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00123_0" MIMETYPE="text/xml" CHECKSUM="484e9dad482c61e4193ae3a2dc65776f" CHECKSUMTYPE="MD5" SIZE="67602">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00123_0.xml"/>
+      </file>
+      <file ID="alto_00123_1" MIMETYPE="text/xml" CHECKSUM="fcc0e8c771e493ff568ee1186d755472" CHECKSUMTYPE="MD5" SIZE="1684">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00123_1.xml"/>
+      </file>
+      <file ID="alto_00124_0" MIMETYPE="text/xml" CHECKSUM="e79addcc23e4f79de9cd3749227e8475" CHECKSUMTYPE="MD5" SIZE="83404">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00124_0.xml"/>
+      </file>
+      <file ID="alto_00124_1" MIMETYPE="text/xml" CHECKSUM="cb9400cbad1ec30649c845ea64b2ab17" CHECKSUMTYPE="MD5" SIZE="93998">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00124_1.xml"/>
+      </file>
+      <file ID="alto_00125_0" MIMETYPE="text/xml" CHECKSUM="8b90ec8a4f66eea86d03b2d559598521" CHECKSUMTYPE="MD5" SIZE="94309">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00125_0.xml"/>
+      </file>
+      <file ID="alto_00125_1" MIMETYPE="text/xml" CHECKSUM="9ec607e44f467680400c48e817a581c2" CHECKSUMTYPE="MD5" SIZE="68143">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000653_redacted_ALTO_00125_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0032" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="222" firstpage="217">
+              <court id="b245-9" pgmap="245">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber id="Auv" pgmap="245">CA 00-1234</docketnumber>
+              <citation id="AEWY" pgmap="245">57 S.W.3d 224</citation>
+              <parties id="b245-8" pgmap="245">James L. NARUP v. Linda Leann NARUP</parties>
+              <decisiondate id="b245-10" pgmap="245">Opinion delivered October 10, 2001</decisiondate>
+              <judges id="b250-10" pgmap="250">Stroud, C.J., and Neal, J., agree.</judges>
+              <attorneys id="b247-5" pgmap="247">Davidson Law Firm, Ltd., by: Charles Darwin “Skip" Davidson, for appellant.</attorneys>
+              <attorneys id="b247-6" pgmap="247">Friday, Eldredge &amp; Clark, by: Barry E. Coplin and Betty J. Demory, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pATC" pgmap="247">Wendell L. GRIFFEN, Judge.</author>
+                <p id="AOM9" pgmap="247">This case involves a dispute about a chancellor’s power to clarify a temporary order after a divorce decree is entered. The decree, entered on March 14, 2000, ordered appellant, James Narup, to maintain appellee Linda Leann Narup’s medical insurance through July 2000. However, the decree failed to mention the party responsible for appellee’s out­standing medical expenses. Appellee subsequendy filed a motion seeking clarification of previous orders — including a 1999 tempo­rary order concerning payment of appellee’s medical expenses. Fol­lowing a hearing, the chancellor entered an order that found appel­lant responsible for appellee’s medical expenses from 1997 to March 14, 2000. Appellant now argues that the chancellor lacked jurisdic­tion to modify the divorce decree and that the order from the temporary hearing did not conform to the trial record. We affirm.</p>
+                <p id="b247-8" pgmap="247">Facts and Procedural History</p>
+                <p id="b247-9" pgmap="247">Appellant filed for divorce on March 10, 1999. The court scheduled a temporary hearing for April 28, 1999. During that hearing, the chancellor stated the following:</p>
+                <blockquote id="b247-10" pgmap="247">The COURT: I’m going to order $3,000 in spousal support, pro-rate April, the next payment due May 1. Mr. Narup will pay the drug bills that are at the pharmacist that are prescribed. Ms. Narup will pay her own co-pay, insurance co-pay.</blockquote>
+                <p id="b247-11" pgmap="247">Following the hearing, the chancellor entered a temporary order, dated May 21, 1999, that directed appellant to pay appellee’s medi­cal and pharmaceutical expenses that were not covered by insurance with the exception of a co-payment, which the chancellor ordered appellee to pay. Neither party appealed the temporary order.</p>
+                <p id="b247-12" pgmap="247(58) 248(25)">A two-day hearing occurred on January 20 and 21, 2000. During the hearing, appellant introduced Exhibit 1, which outlined the parties’ assets and liabilities and included a list of appellee’s outstanding medical expenses from 1997 through 1999. Following the hearing, the chancellor entered a divorce decree on March 14, 2000, that ordered, among other things, appellant to maintain appellee’s medical insurance through July 2000. However, the order did not address the party responsible for appellee’s outstanding medical expenses. Neither party appealed the decree.</p>
+                <p id="b248-6" pgmap="248">On March 29, 2000, appellee filed a Motion for Clarification regarding her outstanding medical expenses and argued that the decree failed to address the party responsible for paying medical bills that she incurred through 1999. Appellant filed a response, dated April 6, 2000, and contended that appellee had enough money to pay her medical expenses and that the chancellor did not order him to pay medical expenses. He further alleged that the expenses were not reasonable or necessary.</p>
+                <p id="b248-7" pgmap="248">The chancellor held a hearing on the Motion for Clarification on June 21, 2000. He later entered an order dated June 30, 2000, that directed appellant to pay appellee’s medical expenses from 1997 through the date of the divorce. In making his findings, the chan­cellor referred to previously entered orders, including the tempo­rary order dated May 21, 1999, which ordered appellant to pay appellee’s medical and pharmaceutical expenses not covered by insurance. Appellant filed a motion for reconsideration on July 21, 2000. That motion marked the first time that appellant alleged that the 1999 temporary order erroneously directed him to pay appel-­lee’s medical bills. In response, appellee argued that appellant’s motion for reconsideration should be dismissed as untimely because it was filed more than ten days following the entry of the June 30, 2000 order. Alternatively, she asserted that the chancellor discussed the medical expenses during the two-day trial and at the 1999 temporary hearing when he ordered her to pay a co-insurance payment of $10 and $20 per visit. She contended appellant did not file a timely appeal or motion regarding the 1999 temporary order, and that the temporary order should not be modified. Also, she argued that the June 30, 2000 order was not a modification to the final decree. Appellant now challenges the June 30, 2000 order on appeal, contending that the chancellor lacked jurisdiction to enter the order and that the temporary order from which the chancellor based his decision did not conform to the transcript of the tempo­rary hearing.</p>
+                <p id="b248-8" pgmap="248">Standard of Review</p>
+                <p id="b248-9" pgmap="248(32) 249(44)">
+                   Chancery decisions are reviewed de novo on appeal, and are not reversed unless this court finds that the chancellor’s decision is clearly erroneous. See Reddick v. Streett, 313 Ark. 706, 858 S.W.2d 62 (1993). We hold that the June 30, 2000 order directing appellant to pay appellee’s medical expenses from 1997 through the date of the divorce was not clearly erroneous because the chancellor had inherent power to correct the record pursuant to well-settled case law.</p>
+                <p id="b249-6" pgmap="249">Jurisdiction to Enter June 30, 2000 Order</p>
+                <p id="b249-7" pgmap="249">
+                   Trial courts have inherent power to enter an order for the purpose of correcting a judgment to ensure that the judgment is truthful and that it accurately reflects the court’s original ruling. See McGibbony v. McGibbony, 12 Ark. App. 141, 671 S.W.2d 212 (1984). This power is not absolute, and the court is limited to correcting the order to reflect the action the court actually took as demon­strated by the record rather than the action the court should have taken. See id. .This being so, a trial court has the power to correct a decree to accurately reflect its original rifling or to interpret its prior decision. See Sims v. First State Bank of Plainview, 73 Ark. App. 325, 43 S.W.3d 175 (2001).</p>
+                <p id="b249-8" pgmap="249">In Sims, supra, the appellants argued that the chancellor had jurisdiction to set aside a November 1999 replevin order based on their January 24, 2000 motion to set aside pursuant to Rule 60(b) of our Rules of Civil Procedure. Our court disagreed, and held that Rule 60 expressly prohibits a trial court from modifying or setting aside an order after the expiration of ninety days unless a party presents proof of an enumerated exception. However, we recog­nized a trial court’s inherent power to correct a record to ensure that the record accurately reflects what actually happened. We then upheld the chancellor’s order entered in April 13, 2000, as an interpretation of its November 1999 order. See Sims, supra.</p>
+                <p id="b249-9" pgmap="249">The record in the present case demonstrates that the chancellor entered the temporary order, dated May 21, 1999, which directed appellant to pay appellee’s medical and pharmaceutical expenses not covered by insurance with the exception of a co-payment amount. In addition, during the trial, appellant offered into evidence Exhibit 1, which included an itemized list of appellee’s medical expenses from 1997 through 1999.</p>
+                <p id="b249-10" pgmap="249(41) 250(17)">
+                   Contrary to appellant’s contentions, the chancellor’s June 30, 2000 order did not modify its March 14, 2000 decree. Instead, the order interpreted the trial court’s May 21, 1999 order and clarified its March 14, 2000 decree with respect to the earlier court’s original ruling. Given our decision in Sims, supra, the chan­cellor had jurisdiction to do so.</p>
+                <p id="b250-6" pgmap="250">Failure of Temporary Order to Conform to the Transcript</p>
+                <p id="b250-7" pgmap="250">
+                   For his second point, appellant asserts that the temporary order that the chancellor relied on in entering the June 30, 2000 order did not conform to the transcript. Appellant’s argument is not timely. Our laws are well settled that an appellant may not argue on appeal that a trial court acted erroneously when the appellant encouraged, acquiesced, or consented to the action. See Dodson v. Dodson, 37 Ark. App. 86, 825 S.W.2d 608 (1992). To preserve an allegation of error, an appellant is required to raise the error in the court proceeding below, at the first opportunity. See Edwards v. Stills, 335 Ark. 470, 984 S.W.2d 366 (1998).</p>
+                <p id="b250-8" pgmap="250">
+                   Following a temporary hearing on April 28, 1999, the chancellor entered a temporary order on May 21, 1999. Appellant did not object to the order, move for the chancellor to reconsider the order, or seek to correct the order. It is significant that appellant did not complain about the temporary order during the two-day hearing. Appellant also did not object to the language in the order when.he responded to appellee’s motion for clarification or during the hearing on the motion for clarification. The record indicates that the first time appellant complained about the language of the order was more than a year later when he filed a motion requesting that the chancellor reconsider his June 30, 2000 order. Because appellant did not seek to modify or correct the temporary order in a timely fashion, he has not preserved this issue for appellate review.</p>
+                <p id="b250-9" pgmap="250">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="245" ORDERLABEL="217" TYPE="page">
+        <fptr FILEID="tiff_00123_0"/>
+        <fptr FILEID="jp2_00123_0"/>
+        <fptr FILEID="alto_00123_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_245.3" BETYPE="IDREF" FILEID="alto_00123_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="246" ORDERLABEL="218" TYPE="page">
+        <fptr FILEID="tiff_00123_1"/>
+        <fptr FILEID="jp2_00123_1"/>
+        <fptr FILEID="alto_00123_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_246.1" BETYPE="IDREF" FILEID="alto_00123_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="247" ORDERLABEL="219" TYPE="page">
+        <fptr FILEID="tiff_00124_0"/>
+        <fptr FILEID="jp2_00124_0"/>
+        <fptr FILEID="alto_00124_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_247.2" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="248" ORDERLABEL="220" TYPE="page">
+        <fptr FILEID="tiff_00124_1"/>
+        <fptr FILEID="jp2_00124_1"/>
+        <fptr FILEID="alto_00124_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_248.2" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="249" ORDERLABEL="221" TYPE="page">
+        <fptr FILEID="tiff_00125_0"/>
+        <fptr FILEID="jp2_00125_0"/>
+        <fptr FILEID="alto_00125_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_249.3" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="250" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00125_1"/>
+        <fptr FILEID="jp2_00125_1"/>
+        <fptr FILEID="alto_00125_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_250.2" BETYPE="IDREF" FILEID="alto_00125_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.11" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.4" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.5" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.6" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b248-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_248.7" BETYPE="IDREF" FILEID="alto_00124_1"/>
+            <area BEGIN="BL_249.1" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-11" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.13" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.12" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-12" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.14" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_248.1" BETYPE="IDREF" FILEID="alto_00124_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.7" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.4" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.6" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pATC" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.6" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOM9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.7" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.8" BETYPE="IDREF" FILEID="alto_00124_0"/>
+            <area BEGIN="BL_247.9" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.8" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.7" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.6" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.5" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.4" BETYPE="IDREF" FILEID="alto_00125_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-5" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.3" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.10" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b245-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.7" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-6" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.4" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEWY" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.9" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b250-7" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_250.5" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-9" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.11" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b247-8" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_247.10" BETYPE="IDREF" FILEID="alto_00124_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auv" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_245.8" BETYPE="IDREF" FILEID="alto_00123_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b249-10" BETYPE="IDREF" FILEID="casebody_0032"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_249.8" BETYPE="IDREF" FILEID="alto_00125_0"/>
+            <area BEGIN="BL_250.1" BETYPE="IDREF" FILEID="alto_00125_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

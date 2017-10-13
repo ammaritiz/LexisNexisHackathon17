@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000706_0051" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. State">John SMITH v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-691</docketnumber>
+          <citation category="official" type="bluebook">85 Ark. App. 475</citation>
+          <citation category="parallel" type="bluebook">157 S.W.3d 566</citation>
+          <decisiondate>2004-04-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T20:21:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:08Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-15T21:45:16Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-15T21:49:17Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00250_0" MIMETYPE="image/tiff" CHECKSUM="19b17560daf7a25d7bdfeb8f54f731b5" CHECKSUMTYPE="MD5" SIZE="8892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00250_0.tif"/>
+      </file>
+      <file ID="tiff_00250_1" MIMETYPE="image/tiff" CHECKSUM="b4e1311b52a6646c5f689fee1a699101" CHECKSUMTYPE="MD5" SIZE="26352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00250_1.tif"/>
+      </file>
+      <file ID="tiff_00251_0" MIMETYPE="image/tiff" CHECKSUM="80d09386091bcd02d8d0d8fa33d9fc2d" CHECKSUMTYPE="MD5" SIZE="49830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00251_0.tif"/>
+      </file>
+      <file ID="tiff_00251_1" MIMETYPE="image/tiff" CHECKSUM="a76c82f06b820d72128ceadb3aa42ef2" CHECKSUMTYPE="MD5" SIZE="55540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00251_1.tif"/>
+      </file>
+      <file ID="tiff_00252_0" MIMETYPE="image/tiff" CHECKSUM="0b7fcd5bd47c3c8571a84eaa9d113aa8" CHECKSUMTYPE="MD5" SIZE="54648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00252_0.tif"/>
+      </file>
+      <file ID="tiff_00252_1" MIMETYPE="image/tiff" CHECKSUM="a500ce59ef4b6d638373576a1d5249d4" CHECKSUMTYPE="MD5" SIZE="56188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00252_1.tif"/>
+      </file>
+      <file ID="tiff_00253_0" MIMETYPE="image/tiff" CHECKSUM="c87b59f37e44435065a83dc3e4aa5ce2" CHECKSUMTYPE="MD5" SIZE="30928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00253_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00250_0" MIMETYPE="image/jp2" CHECKSUM="de313b60ff4f366325428ea791ac6aa3" CHECKSUMTYPE="MD5" SIZE="1626630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00250_0.jp2"/>
+      </file>
+      <file ID="jp2_00250_1" MIMETYPE="image/jp2" CHECKSUM="038537369900df30ade9346935ebe2dc" CHECKSUMTYPE="MD5" SIZE="1932488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00250_1.jp2"/>
+      </file>
+      <file ID="jp2_00251_0" MIMETYPE="image/jp2" CHECKSUM="3d89cd8c77d67bba6059b2e8e9cd3204" CHECKSUMTYPE="MD5" SIZE="2611020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00251_0.jp2"/>
+      </file>
+      <file ID="jp2_00251_1" MIMETYPE="image/jp2" CHECKSUM="5d3155c5030f088e051a95406d2da051" CHECKSUMTYPE="MD5" SIZE="2619909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00251_1.jp2"/>
+      </file>
+      <file ID="jp2_00252_0" MIMETYPE="image/jp2" CHECKSUM="867535c928f83ffc2f65f24dfe0adcdc" CHECKSUMTYPE="MD5" SIZE="2657746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00252_0.jp2"/>
+      </file>
+      <file ID="jp2_00252_1" MIMETYPE="image/jp2" CHECKSUM="9ee0cba273dc1f1dd7ee14a13e7c9584" CHECKSUMTYPE="MD5" SIZE="2636719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00252_1.jp2"/>
+      </file>
+      <file ID="jp2_00253_0" MIMETYPE="image/jp2" CHECKSUM="1b698b8119bdbbb4befa953b08ef5dc0" CHECKSUMTYPE="MD5" SIZE="2340831">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000706_00253_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00250_0" MIMETYPE="text/xml" CHECKSUM="e28ce9c84a5f1e6d3659875119a4e878" CHECKSUMTYPE="MD5" SIZE="10655">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00250_0.xml"/>
+      </file>
+      <file ID="alto_00250_1" MIMETYPE="text/xml" CHECKSUM="d3d37d6bf80b80457a0f38822ad3b384" CHECKSUMTYPE="MD5" SIZE="45637">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00250_1.xml"/>
+      </file>
+      <file ID="alto_00251_0" MIMETYPE="text/xml" CHECKSUM="55e5822c0ae3cf8c8ab3690158dee5a5" CHECKSUMTYPE="MD5" SIZE="91035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00251_0.xml"/>
+      </file>
+      <file ID="alto_00251_1" MIMETYPE="text/xml" CHECKSUM="c9c19b40c717918f7c773ab43ea8de58" CHECKSUMTYPE="MD5" SIZE="99845">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00251_1.xml"/>
+      </file>
+      <file ID="alto_00252_0" MIMETYPE="text/xml" CHECKSUM="4792590596cbc835575b21f3912296b6" CHECKSUMTYPE="MD5" SIZE="95890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00252_0.xml"/>
+      </file>
+      <file ID="alto_00252_1" MIMETYPE="text/xml" CHECKSUM="ec3b65858177f4dd64cbdf5a0d01e889" CHECKSUMTYPE="MD5" SIZE="94711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00252_1.xml"/>
+      </file>
+      <file ID="alto_00253_0" MIMETYPE="text/xml" CHECKSUM="bee8de980899c1f6140e09b96688462b" CHECKSUMTYPE="MD5" SIZE="52443">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000706_redacted_ALTO_00253_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0051" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="481" firstpage="475">
+              <court id="b499-9" pgmap="499">Court of Appeals of Arkansas Division I</court>
+              <docketnumber id="b499-7" pgmap="499">CA CR 03-691</docketnumber>
+              <citation id="b499-8" pgmap="499">157 S.W.3d 566</citation>
+              <parties id="b499-6" pgmap="499">John SMITH v. STATE of Arkansas</parties>
+              <decisiondate id="b499-10" pgmap="499">Opinion delivered April 7, 2004</decisiondate>
+              <judges id="b505-7" pgmap="505">Baker, J., agrees.</judges>
+              <judges id="b505-8" pgmap="505">Crabtree, J., concurs.</judges>
+              <attorneys id="b500-10" pgmap="500">Witt Law Firm, P.C., by; Ernie Witt, for appellant.</attorneys>
+              <attorneys id="b500-11" pgmap="500">Mike Beebe, Att’y Gen., by: Brent P. Gasper, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b500-12" pgmap="500">John F. Stroud, Jr.,</author>
+                <p id="AtM" pgmap="500">Chief Judge. Appellant, John Smith, was found guilty by a Yell County jury of the offenses of possession of a fireann by certain persons, aggravated assault, resisting arrest, and two counts of terroristic threatening in the first degree. He makes the following arguments on appeal:</p>
+                <blockquote id="b500-13" pgmap="500">I.With respect to the conviction and sentence on the charge of possession of a firearm by certain persons, the appellant was charged and convicted of a Class D felony and sentenced for a Class B felony of which the jury was not instructed in the guilt phase of the trial.</blockquote>
+                <blockquote id="b500-14" pgmap="500">II.The trial court erred in fading to grant a mistrial during the guilt phase of the trial based upon improper closing argument by the prosecutor.</blockquote>
+                <blockquote id="b500-15" pgmap="500">III.The trial court erred in failing to grant a mistrial during the sentencing phase of the trial based upon the prosecutor’s comment in closing argument that the jury should recommend to the trial court consecutive sentences.</blockquote>
+                <blockquote id="b501-4" pgmap="501">IV. The Judgment and Commitment Order should be corrected to reflect that the [sentence] for offense no. 6, resisting arrest, should run concurrently and not consecutively pursuant to Ark. Code Ann. § 5-4-403.</blockquote>
+                <p id="b501-5" pgmap="501">Because appellant does not contest the sufficiency of the evidence, it is not necessary to recount the testimony of the witnesses in detail. In summary, on January 12, 2002, appellant went to his ex-girlfriend’s house with a rifle, told her that he was going to kill her, and then shot at her. When law enforcement officers arrived, appellant had already been relieved of his gun but had retrieved a kitchen knife from the house; he used the knife to threaten one of the officers, telling the officer that he was going to “stick the knife in his heart and twist it.” After appellant refused to put down the knife, officers sprayed him with pepper spray and hit him across the shoulders with a police baton, which caused him to drop the knife. Appellant was then taken into custody.</p>
+                <p id="b501-6" pgmap="501">Appellant was first charged with the offense of possession of firearms by certain persons, a Class D felony. The State later amended the information to make this offense a Class B felony. During the guilt phase of the trial, the jury was only instructed, “John Smith is charged with the offense of possession of a firearm. To sustain this charge the State must prove the following things beyond a reasonable doubt. First, that John Smith has been convicted of a felony; and Second, that he possessed or owned a firearm.”</p>
+                <p id="b501-7" pgmap="501">Arkansas Code Annotated section 5-73-103(c) (Supp. 2003), which sets forth the offense classifications for possession of firearms by certain persons, provides:</p>
+                <blockquote id="b501-8" pgmap="501">(1) A person who violates this section commits a Class B felony if:</blockquote>
+                <blockquote id="b501-9" pgmap="501">(A) He or she has a prior violent felony conviction;</blockquote>
+                <blockquote id="b501-10" pgmap="501">(B) His or her current possession of a firearm involves the commission of another crime; or</blockquote>
+                <blockquote id="b501-11" pgmap="501">(C) He or she has been previously convicted under this section or a similar provision from another jurisdiction.</blockquote>
+                <blockquote id="b501-12" pgmap="501">(2) A person who violates this section commits a Class D felony, if he or she has been previously convicted of a felony and his or her present conduct or the prior felony conviction does not fall within subdivision (c)(1) of this section.</blockquote>
+                <blockquote id="b502-4" pgmap="502">(3) Otherwise, he or she commits a Class A misdemeanor.</blockquote>
+                <p id="b502-5" pgmap="502">In the present case, although the State had amended the offense to a Class B felony, the instruction given to the jury during the guilt phase of the trial was for a Class D felony. The jury was never given the opportunity to determine if the facts of appellant’s case constituted a Class B felony under Ark. Code Ann. § 5-73-­103(c)(1).</p>
+                <p id="b502-6" pgmap="502">In the sentencing phase of the trial, the jury was instructed on the range of punishment for a Class B felony instead of a Class D felony. The sentence for a Class B felony shall be no less than five years nor more than twenty years, Ark. Code Ann. § 5-4-­401(a)(3) (Repl. 1997), but the sentence for a Class D felony shall not exceed six years. Ark. Code Ann. § 5-4-401 (a) (5) (Repl. 1997). However, appellant made no objection to the erroneous instruction, and the jury sentenced him to a term of twelve years in the Arkansas Department of Correction for this offense. Appellant now contends that this was an illegal sentence.</p>
+                <p id="b502-7" pgmap="502">Although appellant was sentenced to twice the amount of years allowed for a Class D felony, we are not able to address his argument on appeal because it was not preserved for our review with an objection to the erroneous jury instruction at the trial court level during the sentencing portion of appellant’s trial. In Jones v. State, 83 Ark. App. 195, 119 S.W.3d 70 (2003), this court held that even though the appellant was incorrectly sentenced as a habitual offender, thus making his sentence twice as long as the one that could have been imposed if he had not been found to be a habitual offender, the argument was not preserved for appellate review because there had been no objection to the proof of his habitual-offender status during his sentencing. Although Jones was a bench trial, one of the cases pited therein, Shockley v. State, 282 Ark. 281, 668 S.W.2d 22 (1984), involved ajury trial. In that case, the trial judge erroneously instructed the jury with regard to appellant’s habitual-offender status, but there was no objection to the erroneous instruction, and appellant did not proffer an instruc­tion of his own. Our supreme court held that such a failure precluded consideration of the issue on appeal.</p>
+                <p id="b502-8" pgmap="502(31) 503(24)">
+                   We find these cases, while not directly on point, to be strongly analogous to the case at bar. Therefore, we hold that appellant’s failure to object to the erroneous jury instruction during the sentencing phase of his trial precludes consideration of this point on appeal. Appellant may, however, pursue postconvic­tion remedies from his sentence.</p>
+                <p id="b503-5" pgmap="503">Appellant’s second and third points concern the trial court’s denial of his motions for mistrial, one during the guilt phase of the trial and one during the sentencing phase of the trial. During closing arguments in the guilt phase of the trial, the prosecuting attorney stated:</p>
+                <blockquote id="b503-6" pgmap="503">That’s why I’m telling you to look at all of his actions, not just look at his words. I didn’t come in here and say, hey, he said he was going to kill her and that’s the only proof we’ve got. If he’d come in there and said that and waved the gun around and not fired at anybody, I’d say Mr. Witt’s right. He’s just a blow hard, but this guy’s something more. This is a "guy that’s a dangerous man. He’s been convicted of terroristic threatening before. He shouldn’t have had this gun, but he took it.</blockquote>
+                <p id="b503-7" pgmap="503">Appellant’s counsel objected and moved for a mistrial, arguing that it was improper for the prosecutor to call attention to his prior convic­tion for terroristic threatening as prior misconduct instead of the purpose for which it was admitted, which was to prove that he had a previous felony conviction. The prosecutor responded that it was strictly argument, and that the information had been previously admitted without objection. Appellant’s motion for mistrial was denied, but over the State’s objection, the trial judge instructed the jury to disregard the prosecutor’s argument with regard to the prior conviction regarding terroristic threatening as it related to prior bad conduct.</p>
+                <p id="b503-8" pgmap="503">Appellant also moved for a mistrial during the closing arguments of the sentencing phase of the trial when the prosecutor stated, “I’d like for you to give the full range of punishment, but that’s your business. You’re the conscience. Make a recommen­dation somewhere to this Court on the verdict forms that the terms of imprisonment run consecutively rather than concurrent.” Ap­pellant objected, arguing that those were improper statements to make to the jury because they had not been instructed in that area. The trial judge denied appellant’s motion for mistrial, but in­structed the jury to disregard the prosecutor’s argument regarding making a recommendation to the court as to whether the sentences should run concurrently or consecutively because that decision was within the province of the court, not the jury.</p>
+                <p id="b504-4" pgmap="504">
+                   A mistrial is a drastic remedy that should be resorted to only when there has been an error so prejudicial that justice cannot be served by continuing the trial or where any possible prejudice cannot be removed by admonishing the jury or some other curative relief. Wilkins v. State, 324 Ark. 60, 918 S.W.2d 702 (1996). An admonition is the proper remedy where the assertion of prejudice is highly speculative. Id. The trial court has wide discretion in granting or denying a motion for mistrial, and such a decision will not be disturbed on appeal absent an abuse of that discretion. Ward v. State, 338 Ark. 619, 1 S.W.3d 1 (1999).</p>
+                <p id="b504-5" pgmap="504">
+                   We hold that there was no error in the trial court’s denial of appellant’s motions for mistrial. In both cases, the trial judge admonished the jury to disregard the comments made by the prosecutor. In the guilt phase, although the prosecutor’s comment did bring attention to the fact that appellant had been previously convicted of terroristic threatening, such information was already in evidence because the felony conviction had been introduced as part of the State’s case to prove that appellant was a felon in possession of a firearm. Furthermore, the trial judge instructed the jury to disregard the prosecutor’s argument with regard to the prior terroristic-threatening conviction as it related to prior bad conduct.</p>
+                <p id="b504-6" pgmap="504">
+                   Likewise, in the sentencing phase, the trial judge also instructed the jury to disregard the prosecutor’s comments regard­ing the recommendation that appellant’s sentences run consecu­tively. Although Arkansas Code Annotated section 5-4-403(d) (Supp. 2003) states that the court is not bound by the recommen­dations of consecutive or concurrent sentencing options of the jury, which indicates that it is not improper for the jury to make a recommendation, the decision of whether to impose consecutive or concurrent sentences lies solely within the province of the trial judge. See Smith v. State, 352 Ark. 92, 98 S.W.3d 433 (2003). In the present case, it does not appear from the record that the jury made a recommendation as to whether the sentences should run con­secutively or concurrently. For these reasons, we cannot say that the trial court abused its discretion in denying appellant’s motions for mistrial.</p>
+                <p id="b504-7" pgmap="504(30) 505(55)">In his last point on appeal, appellant contends that the judgment and commitment order must be corrected to reflect that offense number six, resisting arrest, a Class A misdemeanor, should run concurrently and not consecutively to the felony offenses pursuant to Arkansas Code Annotated section 5-4-403 (Supp. 2003). Subsection (c)(1) of that statute provides: “A sentence of imprisonment for a misdemeanor and a sentence of imprisonment for a felony shall run concurrently, and both sentences shall be satisfied by service of sentence for a felony.”</p>
+                <p id="b505-5" pgmap="505">
+                   On the line of the judgment and commitment order that states which sentences are to run consecutively, it appears that the following is written in: “Offenses 2, 3, 6, 5.” Appellant contends that because offense six is a misdemeanor, it must be run concurrently with one of the felony offenses. However, the State points out, and we so find, that what appellant is construing as an out-of-order numeral six is actually an ampersand. This assertion is further borne out by the fact that if one adds up the sentences for offenses two, three, and five, the offenses for which the sentences were ordered to run consecutively, that number equals 264 months, or twenty-two years, which is the total amount of time to be served on all of the offenses.</p>
+                <p id="b505-6" pgmap="505">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="499" ORDERLABEL="475" TYPE="page">
+        <fptr FILEID="tiff_00250_0"/>
+        <fptr FILEID="jp2_00250_0"/>
+        <fptr FILEID="alto_00250_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_499.3" BETYPE="IDREF" FILEID="alto_00250_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="500" ORDERLABEL="476" TYPE="page">
+        <fptr FILEID="tiff_00250_1"/>
+        <fptr FILEID="jp2_00250_1"/>
+        <fptr FILEID="alto_00250_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_500.1" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="501" ORDERLABEL="477" TYPE="page">
+        <fptr FILEID="tiff_00251_0"/>
+        <fptr FILEID="jp2_00251_0"/>
+        <fptr FILEID="alto_00251_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_501.3" BETYPE="IDREF" FILEID="alto_00251_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="502" ORDERLABEL="478" TYPE="page">
+        <fptr FILEID="tiff_00251_1"/>
+        <fptr FILEID="jp2_00251_1"/>
+        <fptr FILEID="alto_00251_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_502.1" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="503" ORDERLABEL="479" TYPE="page">
+        <fptr FILEID="tiff_00252_0"/>
+        <fptr FILEID="jp2_00252_0"/>
+        <fptr FILEID="alto_00252_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_503.4" BETYPE="IDREF" FILEID="alto_00252_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="504" ORDERLABEL="480" TYPE="page">
+        <fptr FILEID="tiff_00252_1"/>
+        <fptr FILEID="jp2_00252_1"/>
+        <fptr FILEID="alto_00252_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_504.1" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="505" ORDERLABEL="481" TYPE="page">
+        <fptr FILEID="tiff_00253_0"/>
+        <fptr FILEID="jp2_00253_0"/>
+        <fptr FILEID="alto_00253_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_505.4" BETYPE="IDREF" FILEID="alto_00253_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.4" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.5" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-11" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.10" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-10" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.9" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-13" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.15" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-12" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.11" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-15" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.17" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b500-14" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.16" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.7" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.8" BETYPE="IDREF" FILEID="alto_00251_1"/>
+            <area BEGIN="BL_503.1" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.5" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-12" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.12" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.6" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-10" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.10" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-11" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.11" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.5" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.4" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.7" BETYPE="IDREF" FILEID="alto_00252_1"/>
+            <area BEGIN="BL_505.1" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b504-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_504.6" BETYPE="IDREF" FILEID="alto_00252_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.8" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.7" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.8" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.9" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-9" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.10" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b499-10" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_499.11" BETYPE="IDREF" FILEID="alto_00250_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.6" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.7" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b505-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_505.7" BETYPE="IDREF" FILEID="alto_00253_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-7" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.7" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.6" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.5" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b502-4" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_502.4" BETYPE="IDREF" FILEID="alto_00251_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-6" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.6" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-9" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.9" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-5" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.5" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b503-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_503.8" BETYPE="IDREF" FILEID="alto_00252_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtM" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_500.12" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            <area BEGIN="BL_500.13" BETYPE="IDREF" FILEID="alto_00250_1"/>
+            <area BEGIN="BL_500.14" BETYPE="IDREF" FILEID="alto_00250_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b501-8" BETYPE="IDREF" FILEID="casebody_0051"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_501.8" BETYPE="IDREF" FILEID="alto_00251_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

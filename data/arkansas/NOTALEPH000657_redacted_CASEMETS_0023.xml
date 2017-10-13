@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000657_0023" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Strack v. Capital Services Group, Inc.">Joe STRACK v. CAPITAL SERVICES GROUP, INC.</name>
+          <docketnumber>CA 03-916</docketnumber>
+          <citation category="official" type="bluebook">87 Ark. App. 202</citation>
+          <citation category="parallel" type="bluebook">189 S.W.3d 484</citation>
+          <decisiondate>2004-06-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:11:42Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:46:28Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T17:41:23Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T17:42:21Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="5958f31b550a90b552eb30272c339687" CHECKSUMTYPE="MD5" SIZE="9280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="6937f4a51ff6ea86149524e585661c63" CHECKSUMTYPE="MD5" SIZE="48230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00113_0.tif"/>
+      </file>
+      <file ID="tiff_00113_1" MIMETYPE="image/tiff" CHECKSUM="540806194189980b444976f9e795af07" CHECKSUMTYPE="MD5" SIZE="58888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00113_1.tif"/>
+      </file>
+      <file ID="tiff_00114_0" MIMETYPE="image/tiff" CHECKSUM="5656021d8bada696fc3ddbfc8932e5f8" CHECKSUMTYPE="MD5" SIZE="44994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00114_0.tif"/>
+      </file>
+      <file ID="tiff_00114_1" MIMETYPE="image/tiff" CHECKSUM="4e7d4df91c68cf73abc71dc73b9168a5" CHECKSUMTYPE="MD5" SIZE="30916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00114_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="00338423b74bcc4b63054770bbb46070" CHECKSUMTYPE="MD5" SIZE="1425204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00112_1.jp2"/>
+      </file>
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="5f11a5207f827f2b5732125d72d545d4" CHECKSUMTYPE="MD5" SIZE="2429874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00113_0.jp2"/>
+      </file>
+      <file ID="jp2_00113_1" MIMETYPE="image/jp2" CHECKSUM="44c6d5aff12a5a5ab0b8e9092514a38a" CHECKSUMTYPE="MD5" SIZE="2527900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00113_1.jp2"/>
+      </file>
+      <file ID="jp2_00114_0" MIMETYPE="image/jp2" CHECKSUM="c6f775a04f346f3ec204a3accb7aa37b" CHECKSUMTYPE="MD5" SIZE="2455914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00114_0.jp2"/>
+      </file>
+      <file ID="jp2_00114_1" MIMETYPE="image/jp2" CHECKSUM="a0f4d24251ddda1c5eb863bc992865e0" CHECKSUMTYPE="MD5" SIZE="2060417">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000657_00114_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="8141a18c27bab411b60b326290b2e246" CHECKSUMTYPE="MD5" SIZE="11862">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00112_1.xml"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="ad0f23d422f5c7d06f3abc05b5b3d817" CHECKSUMTYPE="MD5" SIZE="76733">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00113_0.xml"/>
+      </file>
+      <file ID="alto_00113_1" MIMETYPE="text/xml" CHECKSUM="4de6f18fbc3d36b3e9a89fad1c4279e1" CHECKSUMTYPE="MD5" SIZE="104477">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00113_1.xml"/>
+      </file>
+      <file ID="alto_00114_0" MIMETYPE="text/xml" CHECKSUM="81bca919c5584606c01d5163a7704dcb" CHECKSUMTYPE="MD5" SIZE="74781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00114_0.xml"/>
+      </file>
+      <file ID="alto_00114_1" MIMETYPE="text/xml" CHECKSUM="48f37c2a342cd69d7bff69fe00386b91" CHECKSUMTYPE="MD5" SIZE="50555">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000657_redacted_ALTO_00114_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0023" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="206" firstpage="202">
+              <court pgmap="224" id="b224-5">Court of Appeals of Arkansas Divisions III and IV</court>
+              <docketnumber pgmap="224" id="b224-4">CA 03-916</docketnumber>
+              <citation pgmap="224" id="AKl">189 S.W.3d 484</citation>
+              <parties pgmap="224" id="b224-3">Joe STRACK v. CAPITAL SERVICES GROUP, INC.</parties>
+              <decisiondate pgmap="224" id="AJn">Opinion delivered June 30, 2004</decisiondate>
+              <otherdate pgmap="224" id="b224-6">[Rehearing denied August 25, 2004.<footnotemark>*</footnotemark>]</otherdate>
+              <judges pgmap="227" id="b227-7">Pittman, Neal, and Baker, JJ., agree.</judges>
+              <judges pgmap="227" id="b227-8">Hart and Roaf, JJ., dissent.</judges>
+              <attorneys pgmap="225" id="b225-6">Rose Law Firm, by: Tim Boe, John D. Coulter, and Robyn P. Allmendinger, for appellant.</attorneys>
+              <attorneys pgmap="225" id="b225-7">Hopkins &amp; Allison, by: Gregory M. Hopkins, William P. Allison, and Stewart Headlee, for appellee.</attorneys>
+              <footnote label="*">
+                <p pgmap="224" id="b224-15">* Hart and Roaf, JJ., would grant rehearing.</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="225" id="b225-8">Wendell L. Griffen, Judge.</author>
+                <p pgmap="225" id="A_c">Appellant appeals from an order granting appellee's motion for summary judg­ment. Because the order did not dispose of all of the claims pled in the lawsuit, it is not a final, appealable order, and we therefore dismiss the appeal.</p>
+                <p pgmap="225" id="b225-9">Appellant is the former owner of a five-percent interest in appellee Capital Services Group (CSG). Following his ouster from the company in November 2001, appellant received the first of several quarterly distribution checks, as provided by the company’s Members Agreement. Appellant disputed the amount of the check and raised other questions concerning CSG’s calculation of its distributable income, but he ultimately offered to settle the total amount he would be owed on quarterly distributions for $40,000, less amounts already received. CSG accepted the settlement, and appellant deposited the settlement check.</p>
+                <p pgmap="225" id="b225-10">Thereafter, appellant informed CSG that he would continue to assert claims against it, prompting CSG to seek a declaratory judgment that it had no further liability to appellant. Appellant answered and counterclaimed that the settlement was tainted by fraud and was not an effective release of his claims. He also sought monetary damages for: 1) insurance fraud, based on an allegation that CSG was participating in an illegal commission-sharing scheme; 2) securities fraud, based on an allegation that, in repur­chasing his interest after the ouster, CSG failed to disclose material information; 3) civil conspiracy in connection with the alleged insurance scheme.</p>
+                <p pgmap="225(51) 226(109)" id="b225-11">CSG filed a motion for summary judgment, arguing that appellant’s claims were barred by the settlement. A hearing was held, during which appellant’s causes of action for insurance fraud, securities fraud, and civil conspiracy were not discussed. Following the hearing, the trial judge issued a letter ruling, stating that he did not find “any evidence that [CSG] breached any duty to [appel­lant] or misrepresented any fact to induce [appellant] to enter into the settlement agreement.” The judge further stated that “since there is insufficient evidence to support a claim for fraud or breach of fiduciary duty the settlement agreement is valid and enforce­able.” The letter ruling did not mention the insurance fraud, securities fraud, or conspiracy counts. In the summary-judgment order entered April 23, 2003, the judge incorporated the letter ruling and found that CSG had “no further liability or obligation to [appellant] and that [appellant] holds no further valid claims against [CSG].” Appellant appeals from that order.</p>
+                <p pgmap="226" id="b226-5">
+                   The question of whether an order is final and subject to appeal is a jurisdictional question, which we will raise on our own even if the parties do not. Epting v. Precision Paint &amp; Glass Co., 353 Ark. 84, 110 S.W.3d 747 (2003). When more than one claim for relief is presented in an action, whether as a claim, counter­claim, cross-claim, or third-party claim, the trial court may direct entry of a final judgment as to one or more but fewer than all of the claims only upon an express determination, supported by specific factual findings, that there is no just reason for delay, and upon an express direction for the entry of judgment. Ark. R. Civ. P. 54(b)(1) (2004). In the event the court so finds, it shall execute a Rule 54(b) certificate and set forth the factual findings upon which the determination to enter judgment as final is based. See id.</p>
+                <p pgmap="226(182) 227(11)" id="b226-6">
+                   In the case at bar, the court’s order disposed of appel­lant’s claim that the settlement should be set aside for fraud, but it did not dispose of or otherwise resolve appellant’s claims for insurance fraud, securities fraud, and civil conspiracy. Further, the order did not contain a Rule 54(b) certificate designating it as a final order. Therefore, the order is not an appealable order. See, e.g., Hambay v. Williams, 335 Ark. 352, 980 S.W.2d 263 (1998); Capital Life &amp; Accident Co. v. Phelps, 72 Ark. App. 464, 37 S.W.3d 692 (2001). Although the order contains broad language that CSG has no further liability to appellant and that appellant has no further claims against CSG, when that language is read in the context of the court’s letter ruling, which we may consider along with the language of the order, see Guest v. San Pedro, 70 Ark. App. 389, 19 S.W.3d 62 (2000), it is clear that the trial court’s ruling was limited to the question of whether the settlement was valid and did not address appellant’s damage claims for insurance fraud, securities fraud, and civil conspiracy. We therefore dismiss the appeal without prejudice.</p>
+                <p pgmap="227" id="b227-6">■Dismissed.</p>
+              </opinion>
+              <opinion type="dissent">
+                <author pgmap="227" id="pAyG">Andree Layton Roaf, Judge,</author>
+                <p pgmap="227" id="ABB">dissenting. I would reach the merits of this case because the trial judge’s order resolved all ofStrack’s claims against CSG. The language of the order could not be clearer. It reads:</p>
+                <blockquote pgmap="227" id="b227-10">Pursuant to the Arkansas Declaratory Judgment Act, codified in Ark. Code Ann. §§ 16-111-101 et. seq, Plaintiff [CSG] is entitled to Declaratory Judgment in its favor and against Defendant Joe I. Strack establishing that Plaintiff has no further liability or obligation to Defendant Strack and that Strack holds no further valid claims against CSG.</blockquote>
+                <blockquote pgmap="227" id="b227-11">ACCORDINGLY, IT IS HEREBY CONSIDERED, ORDERED, ADJUDGED AND DECREED that Plaintiff Capital Services Group, LLC has no .. further liability or obligation to Defendant foe I. Strack.</blockquote>
+                <blockquote pgmap="227" id="b227-12">IT IS FURTHER HEREBY CONSIDERED, ORDERED, ADJUDGED AND DECREED that Defendant Joe I. Strack holds no further valid claims against Plaintiff Capital Services Group, LLC.</blockquote>
+                <p pgmap="227" id="b227-13">(Emphasis added in italics.) Three times, the court either states that CSG has no further liability to Strack or that Strack has no further claims against CSG. The only logical interpretation of that language is that Strack’s claims against CSG have been dismissed in their entirety and the issues in the case have been fully resolved, thus leaving us with a final, appealable order.</p>
+                <p pgmap="227(77) 228(136)" id="b227-14">As a general rule, judgments are construed like any other instrument; the determinative factor is the intention of the court, as gathered from the judgment itself and the record. See Fox v. Fox, 68 Ark. App. 281, 7 S.W.3d 339 (1999). Further, when interpret­ing instruments, our courts have recognized that words used in the instrument are to be taken and understood in their plain and ordinary meaning. See Phi Kappa Tau Housing Corp. v. Wengert, 350 Ark. 335, 86 S.W.3d 856 (2002). It is plain to me that the court’s intention was to dismiss all of Strack’s claims against CSG, which would include the claims for insurance fraud, securities fraud, and civil conspiracy. However, the majority ignores the plain language of the order, disregards the trial court’s express intention,- and instead holds that the order is not final, simply because it does not mention the claims for insurance fraud, securities fraud, and civil conspiracy. The majority has thus elevated form over substance, a practice that our courts have routinely criticized and refused to countenance. See Southern Farm Bureau Cas. Ins. Co. v. Brinker, 350 Ark. 15, 84 S.W.3d 846 (2002); Glover v. Woodhaven Homes, Inc., 346 Ark. 397, 57 S.W.3d 211 (2001); Tapp v. Fowler, 291 Ark. 309, 724 S.W.2d 176 (1987).</p>
+                <p pgmap="228" id="b228-6">Because I believe it is quite clear that the trial court intended to and in fact did dismiss all pending claims in the lawsuit, I respectfully dissent from the majority’s dismissal of this appeal. I am authorized to state that Judge Hart joins in this dissent.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="224" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.1" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.2" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="226" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00113_1"/>
+        <fptr FILEID="jp2_00113_1"/>
+        <fptr FILEID="alto_00113_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_226.2" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="227" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00114_0"/>
+        <fptr FILEID="jp2_00114_0"/>
+        <fptr FILEID="alto_00114_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_227.3" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="228" ORDERLABEL="206" TYPE="page">
+        <fptr FILEID="tiff_00114_1"/>
+        <fptr FILEID="jp2_00114_1"/>
+        <fptr FILEID="alto_00114_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_228.2" BETYPE="IDREF" FILEID="alto_00114_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-9" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.10" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.7" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.5" BETYPE="IDREF" FILEID="alto_00113_1"/>
+            <area BEGIN="BL_227.1" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-13" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.13" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b226-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_226.4" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-4" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.4" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-5" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.6" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.8" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.6" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.5" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKl" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.5" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-8" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.6" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-11" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.11" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-3" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.3" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABB" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.8" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            <area BEGIN="BL_227.9" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJn" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.7" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-12" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.12" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-15" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.12" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-7" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.5" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.4" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAyG" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.7" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.10" BETYPE="IDREF" FILEID="alto_00114_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b228-6" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_228.4" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-11" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.12" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_226.1" BETYPE="IDREF" FILEID="alto_00113_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-10" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.11" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b227-14" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_227.14" BETYPE="IDREF" FILEID="alto_00114_0"/>
+            <area BEGIN="BL_228.1" BETYPE="IDREF" FILEID="alto_00114_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_c" BETYPE="IDREF" FILEID="casebody_0023"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.8" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_225.9" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

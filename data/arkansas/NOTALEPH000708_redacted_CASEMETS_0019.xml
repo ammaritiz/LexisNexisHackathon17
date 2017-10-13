@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000708_0019" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hyatt v. State">Randy HYATT v. STATE of Arkansas</name>
+          <docketnumber>CA CR 98-182</docketnumber>
+          <citation category="official" type="bluebook">63 Ark. App. 114</citation>
+          <citation category="parallel" type="bluebook">975 S.W.2d 433</citation>
+          <decisiondate>1998-09-30</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:26:04Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:29Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T10:55:46Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T10:56:49Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00070_1" MIMETYPE="image/tiff" CHECKSUM="7b8a78b6380eae64e70c87fe30e77224" CHECKSUMTYPE="MD5" SIZE="7620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00070_1.tif"/>
+      </file>
+      <file ID="tiff_00071_0" MIMETYPE="image/tiff" CHECKSUM="f3ee149309cca4fb56535ceed118ec7b" CHECKSUMTYPE="MD5" SIZE="41552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00071_0.tif"/>
+      </file>
+      <file ID="tiff_00071_1" MIMETYPE="image/tiff" CHECKSUM="0ea877616e2350dbd40792f247470b89" CHECKSUMTYPE="MD5" SIZE="48128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00071_1.tif"/>
+      </file>
+      <file ID="tiff_00072_0" MIMETYPE="image/tiff" CHECKSUM="dcfc14256a916a85b86ac7aa80aa14f7" CHECKSUMTYPE="MD5" SIZE="45056">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00072_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00070_1" MIMETYPE="image/jp2" CHECKSUM="1a8f499b37b54074116081af61b155f3" CHECKSUMTYPE="MD5" SIZE="1421829">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00070_1.jp2"/>
+      </file>
+      <file ID="jp2_00071_0" MIMETYPE="image/jp2" CHECKSUM="3be3553a8bda4f202939de9a0b8d9975" CHECKSUMTYPE="MD5" SIZE="2379204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00071_0.jp2"/>
+      </file>
+      <file ID="jp2_00071_1" MIMETYPE="image/jp2" CHECKSUM="925b6a6c1449921e5b1b58e48f24cbe4" CHECKSUMTYPE="MD5" SIZE="2488872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00071_1.jp2"/>
+      </file>
+      <file ID="jp2_00072_0" MIMETYPE="image/jp2" CHECKSUM="1c4bd772c40240d0af72f27e47dda258" CHECKSUMTYPE="MD5" SIZE="2455496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00072_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00070_1" MIMETYPE="text/xml" CHECKSUM="cab883ab8b8d42b0b485cda3d43ac29c" CHECKSUMTYPE="MD5" SIZE="8344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00070_1.xml"/>
+      </file>
+      <file ID="alto_00071_0" MIMETYPE="text/xml" CHECKSUM="2e18e0cf412c4fa5f136ee39bce126ca" CHECKSUMTYPE="MD5" SIZE="71729">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00071_0.xml"/>
+      </file>
+      <file ID="alto_00071_1" MIMETYPE="text/xml" CHECKSUM="73bf9e89c26b81b2b04f80a9f5242806" CHECKSUMTYPE="MD5" SIZE="85913">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00071_1.xml"/>
+      </file>
+      <file ID="alto_00072_0" MIMETYPE="text/xml" CHECKSUM="690c07a4ca67be2cde2686f547308f8b" CHECKSUMTYPE="MD5" SIZE="76379">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00072_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="117" firstpage="114">
+              <court id="b140-4" pgmap="140">Court of Appeals of Arkansas Division II</court>
+              <docketnumber id="Aed" pgmap="140">CA CR 98-182</docketnumber>
+              <citation id="Ab2" pgmap="140">975 S.W.2d 433</citation>
+              <parties id="b140-3" pgmap="140">Randy HYATT v. STATE of Arkansas</parties>
+              <decisiondate id="b140-5" pgmap="140">Opinion delivered September 30, 1998</decisiondate>
+              <judges id="b143-8" pgmap="143">Rogers and Griffen, JJ., agree.</judges>
+              <attorneys id="b141-7" pgmap="141">Booth &amp; Honeycutt, PLC, by: J. Marvin Honeycutt, for appellant.</attorneys>
+              <attorneys id="b141-8" pgmap="141">Winston Bryant, Att’y Gen., by: Sandy Moll, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b141-9" pgmap="141">John Mauzy Pittman, Judge.</author>
+                <p id="AY3" pgmap="141">Randy Hyatt appeals from his conviction at a jury trial of rape, for which he was sentenced to thirty years in the Arkansas Department of Correction. He con­tends that the trial court erred in allowing the prosecuting witness to testify concerning other instances of sexual abuse by appellant. We affirm.</p>
+                <p id="b141-10" pgmap="141(219) 142(17)">Appellant was charged with having raped his thirteen-year-­old daughter on January 24, 1997. At trial, the victim testified that she began living with her mother and appellant approximately three years prior to the trial, or two and one-half years prior to the offense for which appellant was being tried. Before that, the vic­tim had lived with her grandmother. At some point, the family moved to Oregon for several months and then moved back to Arkansas. The victim testified that, on January 24, she and her family went to Wal-Mart. When they returned home, appellant told her that he needed to talk to her in her bedroom about her grades. Once in the bedroom, appellant told her to take off all of her clothes, which she did. He then removed his clothes and pen­etrated her vagina with his finger and his penis. Afterwards, appel­lant told her to get dressed, which she did. Over appellant’s objection, the victim was also allowed to testify that, while they lived in Oregon, appellant began touching her private areas under her clothing. She stated that this would occur about once a week. She further testified that, after returning to Arkansas, appellant continued to touch her in the same places. Eventually, appellant began to remove the victim’s clothes and have intercourse with her. According to the victim, this activity continued periodically until the episode for which appellant was prosecuted.</p>
+                <p id="b142-5" pgmap="142">
+                   On appeal, appellant contends that the trial court erred in permitting the victim to testify about any acts of sexual misconduct by appellant other than that which occurred on Janu­ary 24. He argues that the evidence was unrelated to the charged offense in time, location, and nature, and was introduced only to show his poor character in violation of Ark. R. Evid. 404. We find no error.</p>
+                <p id="b142-6" pgmap="142">Rule 404(b) provides:</p>
+                <blockquote id="b142-7" pgmap="142">Other Crimes, Wrongs, or Acts. Evidence of other crimes, wrongs, or acts is not admissible to prove the character of a person in order to show that he acted in conformity there­with. It may, however, be admissible for other purposes, such as proof of motive, opportunity, intent, preparation, plan, knowledge, identity, or absence of mistake or accident.</blockquote>
+                <p id="b142-8" pgmap="142">The admission or rejection of evidence under Rule 404(b) is left to the sound discretion of the trial court and will not be disturbed absent a manifest abuse of discretion. Munson v. State, 331 Ark. 41, 959 S.W.2d 39 (1998). Were this not a case involving the sexual abuse of a child, the evidence of appellant’s other bad acts might well be inadmissible character evidence under Rule 404. See Greenlee v. State, 318 Ark. 191, 884 S.W.2d 947 (1994). However, our courts have long recognized a “pedophile excep­tion,” which allows proof of “similar acts with the same child or other children in the same household when it is helpful in show­ing a proclivity toward a specific act with a person or class of per­sons with whom the accused has an intimate relationship.” Id. at 197, 884 S.W.2d at 950 (citations omitted). Such evidence not only helps to prove the depraved sexual instinct of the accused, Hernandez v. State, 331 Ark. 301, 962 S.W.2d 756 (1998), but is also admissible to show the familiarity of the parties and antece­dent conduct toward one another and to corroborate the testi­mony of the victim, Free v. State, 293 Ark. 65, 732 S.W.2d 452 (1987) (citing Williams v. State, 103 Ark. 70, 146 S.W.2d 471 (1912)).</p>
+                <p id="b143-4" pgmap="143">
+                   The fact that some of appellant’s prior misconduct occurred in Oregon up to as much as two and one-half years before the charged offense does not necessarily render the evi­dence inadmissible. See Greenlee v. State, supra (evidence of multi­ple prior sexual offenses that occurred in Oklahoma admitted in Arkansas rape case); Munson v. State, supra (two and one-half years between prior conduct and charged offense); Mosley v. State, 325 Ark. 469, 929 S.W.2d 693 (1996) (eleven years between prior conviction and charged offense). Nor was the evidence in this case inadmissible simply because some of the prior conduct did not rise to the level of rape. See Greenlee v. State, supra (evidence of indecent exposure and lewd molestation offenses admitted in rape prosecution). In line with our supreme court’s statement in Free v. State, supra, of the purpose behind admitting this type of evidence, one text writer explains the point as follows:</p>
+                <blockquote id="b143-5" pgmap="143">The “entire picture” theory is important in sex offense liti­gation. The theory is sometimes used to admit uncharged aspects of the sexual relationship between the victim and the perpetrator. Such evidence is particularly relevant when the perpetrator engages in a course of progressively more intrusive sexual con­duct with the child. The perpetrator may begin with seductive talk or brief touching, and progress over weeks or months to sex­ual intercourse, fellatio, and similar invasive acts. When the defendant is charged with a single incident of invasive sexual con­tact, the jury sometimes needs information about the entire course of the relationship to fairly evaluate the victim’s credibility.</blockquote>
+                <p id="b143-6" pgmap="143">2 J. Meyers, Evidence in Child Abuse and Neglect Cases, § 8.25, pp. 483-84 (3d ed. 1997) (footnotes omitted). From our review of the record in this case, we cannot conclude that the trial court abused its discretion in admitting the evidence of appellant’s prior sexual misconduct toward the victim.</p>
+                <p id="b143-7" pgmap="143">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="140" ORDERLABEL="114" TYPE="page">
+        <fptr FILEID="tiff_00070_1"/>
+        <fptr FILEID="jp2_00070_1"/>
+        <fptr FILEID="alto_00070_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_140.1" BETYPE="IDREF" FILEID="alto_00070_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="141" ORDERLABEL="115" TYPE="page">
+        <fptr FILEID="tiff_00071_0"/>
+        <fptr FILEID="jp2_00071_0"/>
+        <fptr FILEID="alto_00071_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_141.2" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="142" ORDERLABEL="116" TYPE="page">
+        <fptr FILEID="tiff_00071_1"/>
+        <fptr FILEID="jp2_00071_1"/>
+        <fptr FILEID="alto_00071_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_142.2" BETYPE="IDREF" FILEID="alto_00071_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="143" ORDERLABEL="117" TYPE="page">
+        <fptr FILEID="tiff_00072_0"/>
+        <fptr FILEID="jp2_00072_0"/>
+        <fptr FILEID="alto_00072_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_143.2" BETYPE="IDREF" FILEID="alto_00072_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.4" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.3" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.6" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.5" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.7" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.9" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.8" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b143-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_143.7" BETYPE="IDREF" FILEID="alto_00072_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ab2" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.5" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-8" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.7" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.10" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_141.11" BETYPE="IDREF" FILEID="alto_00071_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-4" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.6" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.7" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b140-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.3" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.5" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-7" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.6" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aed" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_140.4" BETYPE="IDREF" FILEID="alto_00070_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b142-5" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_142.4" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b141-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_141.12" BETYPE="IDREF" FILEID="alto_00071_0"/>
+            <area BEGIN="BL_142.1" BETYPE="IDREF" FILEID="alto_00071_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

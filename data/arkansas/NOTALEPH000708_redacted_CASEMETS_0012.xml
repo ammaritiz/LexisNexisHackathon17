@@ -1,0 +1,584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000708_0012" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Felgate v. State">John FELGATE v. STATE of Arkansas</name>
+          <docketnumber>CA CR 98-192</docketnumber>
+          <citation category="official" type="bluebook">63 Ark. App. 76</citation>
+          <citation category="parallel" type="bluebook">974 S.W.2d 479</citation>
+          <decisiondate>1998-09-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T02:26:04Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:45:29Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T10:55:46Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T10:56:49Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00051_1" MIMETYPE="image/tiff" CHECKSUM="7010d54aa01877e9776f2dd6cc70e45b" CHECKSUMTYPE="MD5" SIZE="7428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00051_1.tif"/>
+      </file>
+      <file ID="tiff_00052_0" MIMETYPE="image/tiff" CHECKSUM="63c87d6c9ecdb776ac83740d5646bfc1" CHECKSUMTYPE="MD5" SIZE="44136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00052_0.tif"/>
+      </file>
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="6e40cf63c15224552895781489500e15" CHECKSUMTYPE="MD5" SIZE="51962">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="64e614abc0f7bbe4c6fc1081c72424e6" CHECKSUMTYPE="MD5" SIZE="45750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00053_0.tif"/>
+      </file>
+      <file ID="tiff_00053_1" MIMETYPE="image/tiff" CHECKSUM="588be1271cfcdb3a3c0669f171520471" CHECKSUMTYPE="MD5" SIZE="53078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00053_1.tif"/>
+      </file>
+      <file ID="tiff_00054_0" MIMETYPE="image/tiff" CHECKSUM="d63072a116aa5e8f544d233fbfd3fcce" CHECKSUMTYPE="MD5" SIZE="37564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00054_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00051_1" MIMETYPE="image/jp2" CHECKSUM="e9ae5a505baeb9a9fbc160d466512bdc" CHECKSUMTYPE="MD5" SIZE="1343559">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00051_1.jp2"/>
+      </file>
+      <file ID="jp2_00052_0" MIMETYPE="image/jp2" CHECKSUM="381c7cb40d1e297714186ace34875e3e" CHECKSUMTYPE="MD5" SIZE="2431998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00052_0.jp2"/>
+      </file>
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="e6fbbe64a4d610b9207eb3f937d84966" CHECKSUMTYPE="MD5" SIZE="2982030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="8679cd26f75043867fd2f5c5a177991b" CHECKSUMTYPE="MD5" SIZE="2502899">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00053_0.jp2"/>
+      </file>
+      <file ID="jp2_00053_1" MIMETYPE="image/jp2" CHECKSUM="e7de22995fa304684ed01fc7f76fb4da" CHECKSUMTYPE="MD5" SIZE="2594072">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00053_1.jp2"/>
+      </file>
+      <file ID="jp2_00054_0" MIMETYPE="image/jp2" CHECKSUM="b86ca4656f44d61625cf47bd4a68fc43" CHECKSUMTYPE="MD5" SIZE="2379010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000708_00054_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00051_1" MIMETYPE="text/xml" CHECKSUM="bbb7fa0cae5cde2e3fcaf0604e7dccd0" CHECKSUMTYPE="MD5" SIZE="8347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00051_1.xml"/>
+      </file>
+      <file ID="alto_00052_0" MIMETYPE="text/xml" CHECKSUM="98d1d4cbcdfc9277861b2fc100ebbd94" CHECKSUMTYPE="MD5" SIZE="76966">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00052_0.xml"/>
+      </file>
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="e18cad876f2ffe1307ece7a64f9270bc" CHECKSUMTYPE="MD5" SIZE="87927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="76a380632faa69e4024d55805b9564a9" CHECKSUMTYPE="MD5" SIZE="81263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00053_0.xml"/>
+      </file>
+      <file ID="alto_00053_1" MIMETYPE="text/xml" CHECKSUM="e2c359b54ad7af77ef85934cba97e3dd" CHECKSUMTYPE="MD5" SIZE="91437">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00053_1.xml"/>
+      </file>
+      <file ID="alto_00054_0" MIMETYPE="text/xml" CHECKSUM="a556f1671b1c2ae0a7e6a46c41deeb02" CHECKSUMTYPE="MD5" SIZE="68398">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000708_redacted_ALTO_00054_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0012" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="81" firstpage="76">
+              <court id="b102-6" pgmap="102">Court of Appeals of Arkansas Division III</court>
+              <docketnumber id="b102-4" pgmap="102">CA CR 98-192</docketnumber>
+              <citation id="b102-5" pgmap="102">974 S.W.2d 479</citation>
+              <parties id="b102-3" pgmap="102">John FELGATE v. STATE of Arkansas</parties>
+              <decisiondate id="b102-7" pgmap="102">Opinion delivered September 16, 1998</decisiondate>
+              <judges id="b107-9" pgmap="107">Stroud and Roaf, JJ., agree.</judges>
+              <attorneys id="b103-5" pgmap="103">Hilburn, Calhoon, Harper, Pruniski &amp; Calhoun, Ltd., by: Sam Hilburn and Dorcy Kyle Corbin, for appellant.</attorneys>
+              <attorneys id="b103-6" pgmap="103">Winston Bryant, Att’y Gen., by: Gil Dudley, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b103-7" pgmap="103">John B. Robbins, Chief Judge.</author>
+                <p id="Apz" pgmap="103">Appellant John Felgate was convicted in a bench trial of DWI and failing to submit to a Breathalyzer test. As a result of his convictions, he was fined $1,000.00, and his driver’s license was suspended for six months. Mr. Felgate now appeals from his DWI conviction, arguing that there was insufficient evidence to support the verdict.</p>
+                <p id="b103-8" pgmap="103">
+                   The test for determining the sufficiency of the evi­dence is whether the verdict is supported by substantial evidence, direct or circumstantial. Thomas v. State, 312 Ark. 158, 847 S.W.2d 695 (1993). Substantial evidence is evidence forceful enough to compel a conclusion one way or the other beyond sus­picion or conjecture. Lukach v. State, 310 Ark. 119, 835 S.W.2d 852 (1992). In determining the sufficiency of the evidence, we review the proof in the fight most favorable to the appellee, con­sidering only that evidence which tends to support the verdict. Brown v. State, 309 Ark. 503, 832 S.W.2d 477 (1992).</p>
+                <p id="b103-9" pgmap="103">Officer Robert Stanley Jones testified first on behalf of the State. He stated that, at about 2:00 a.m. on November 22, 1996, he met Mr. Felgate’s Jeep on an Arkadelphia street and noticed that a headlight was out. Officer Jones turned around, pursued the Jeep, and after following it for a short while he decided to make a stop. Prior to the stop, Officer Jones did not observe erratic driving, although he did notice that the Jeep crossed the center fine a couple of times.</p>
+                <p id="b103-10" pgmap="103(43) 104(72)">When the stop was made, Officer Jones informed Mr. Fel-­gate that one of his headlights was not working, at which time Mr. Felgate raised the hood of his Jeep and attempted to correct the problem by adjusting some loose wiring. Officer Jones noticed that Mr. Felgate smelled of alcohol and was unsteady on his feet, but did not ask him if he had been drinking. Shortly thereafter, Officer Richie Smith arrived at the scene, and Officer Jones noticed that, while he was questioning Mr. Felgate’s girl­friend, Officer Smith was subjecting Mr. Felgate to field sobriety tests. Based on Officer Smith’s observations, Mr. Felgate was placed under arrest and transported to the police station.</p>
+                <p id="b104-5" pgmap="104">Officer Smith testified that, while at the scene of the arrest, he asked Mr. Felgate if he had been drinking, and Mr. Felgate replied that he had had one mixed drink. According to Officer Smith, he administered three sobriety tests before making the decision to arrest Mr. Felgate on suspicion of DWI. While at the police station, Officer Smith advised Mr. Felgate of his rights regarding the administration of a Breathalyzer test, and Mr. Fel-­gate refused to take the test after being asked to do so.</p>
+                <p id="b104-6" pgmap="104">Kim Bryan, Mr. Felgate’s girlfriend, testified that she was riding in the passenger’s seat of Mr. Felgate’s Jeep during this inci­dent. According to her testimony, she arrived at his fraternity house at about midnight, and the couple proceeded to eat at the Waffle House sometime thereafter. She acknowledged that she had been drinking beer, but maintained that she was unaware that Mr. Felgate had been drinking at all.</p>
+                <p id="b104-7" pgmap="104">Mr. Felgate’s roommate at the fraternity house also testified on Mr. Felgate’s behalf. He stated that he saw Mr. Felgate mix one screwdriver on the night in question, and that he was certain that this was the only drink that Mr. Felgate could have consumed while he was at the fraternity house before driving to the Waffle House. Mr. Felgate testified on his own behalf, and he also indi­cated that he consumed just one drink on the night of his arrest. He estimated that the drink probably contained less than two ounces of vodka, and explained that he refused to take the Breathalyzer test because it was his understanding that “if you drink one drink, . . . you are going to fail it anyway.”</p>
+                <p id="b104-8" pgmap="104(18) 105(33)">For reversal, Mr. Felgate contends that his DWI conviction was not supported by substantial evidence. Pursuant to Ark. Code Ann.§ 5-65-103(a) (Repl. 1997), it is unlawful for any per­son who is intoxicated to operate a motor vehicle. “Intoxicated” is defined by Ark. Code Ann. § 5-65-102(1) (Repl. 1997), which provides:</p>
+                <blockquote id="b105-5" pgmap="105">(1) “Intoxicated” means influenced or affected by the inges­tion of alcohol, a controlled substance, any intoxicant, or any combination thereof, to such a degree that the driver’s reactions, motor skills, and judgment are substantially altered and the driver, therefore, constitutes a clear and substantial danger of physical injury or death to himself and other motorists or pedestrians [.]</blockquote>
+                <p id="b105-6" pgmap="105">Mr. Felgate submits that, in the case at bar, there was no evidence produced to demonstrate that his actual driving skills were impaired or that his driving created a substantial danger to himself or others.</p>
+                <p id="b105-7" pgmap="105">In support of his argument, Mr. Felgate notes that Officer Jones admitted that, prior to the stop, nothing led him to believe that the driver of the Jeep posed a danger to others on the high­way. Moreover, although Officer Jones executed the stop of Mr. Felgate’s vehicle, he did not ask whether Mr. Felgate had been drinking and did not make the decision to have him arrested. Officer Jones’s testimony regarding Mr. Felgate’s driving was cor­roborated by Mr. Felgate’s girlfriend, who testified that he was not driving erratically before the stop, and that he appeared to be normal.</p>
+                <p id="b105-8" pgmap="105">Mr. Felgate also argues that Officer Smith’s testimony was inconclusive because, although he stated that the three sobriety tests led him to believe that Mr. Felgate was intoxicated, he could not remember specifics about the tests. Officer Smith’s explana­tion for failing to give more specific testimony was that the inci­dent occurred a long time ago and that he had since thrown away his field notes.</p>
+                <p id="b105-9" pgmap="105(48) 106(92)">Finally, Mr. Felgate contends that the trial court erred in stating that his failure to submit to the Breathalyzer test had a “great impact” on how it decided the case. Mr. Felgate points out that, at the time of his arrest, he was only twenty years old and could have been successfully prosecuted under Ark. Code Ann. § 5-65-303 (Repl. 1997) if he had registered only .02% on a Breathalyzer test. He submits that one drink might have resulted in such a reading, and therefore argues that his refusal to take the test offered little to prove that he had committed DWI, the offense with which he was charged. Mr. Felgate further notes that, dur­ing the time that he was arrested and refused the Breathalyzer test, there was no evidence that he exhibited glassy eyes, slurred speech, or staggering.</p>
+                <p id="b106-5" pgmap="106">
+                   We find that there was substantial evidence to support Mr. Felgate’s DWI conviction. At the scene of the arrest, both police officers smelled alcohol on Mr. Felgate’s breath, and Mr. Felgate admitted that he had consumed alcohol on the evening at issue. Although Officer Smith could not recall the specifics regarding the sobriety tests, he indicated that he administered the horizontal-gaze-nystagmus test, ABC’s test, and finger-to-nose test, and that Mr. Felgate failed all three. Moreover, it was Officer Smith’s recollection that the vehicle smelled of alcohol, and that it appeared that a drink had been spilled on the interior and partially disposed of on the ground outside of the Jeep. Finally, there was evidence that Mr. Felgate crossed the center fine prior to the stop and was unsteady on his feet after being stopped by Officer Jones.</p>
+                <p id="b106-6" pgmap="106(159) 107(122)">
+                   Mr. Felgate argues that the trial court erred in plac­ing great weight on his refusal to submit to a Breathalyzer test during its deliberation of his guilt, because that fact does not prove any element of the offense of DWI. Furthermore, he argues that his reluctance to be tested was because he could have been found guilty of violating Ark. Code Ann. § 5-65-303 (DUI) if the test reflected a blood-alcohol level of as much as .02%. First, we note that refusal to be tested is admissible evidence on the issue of intoxication because it may indicate the defendant’s fear of the results of the test and consciousness of guilt. Medlock v. State, 332 Ark. 106, 964 S.W.2d 196 (1998); Spicer v. State, 32 Ark. App. 209, 799 S.W.2d 562 (1990). As to Mr. Felgate’s argument that he refused the Breathalyzer test because of his concern about DUI exposure rather than DWI, we recognize that, because Mr. Felgate was twenty years of age at the time, it is conceivable that part of his motive for refusing the test was to avoid any positive blood-­alcohol reading at all. However, his abstract does not reflect that he made this argument before the trial court. Therefore, we can­not now consider the argument as it is being raised for the first time on appeal. Harris v. State, 320 Ark. 677, 899 S.W.2d 459 (1995). Notwithstanding his failure to make this argument before the trial court, we note that in Hill v. State, 366 So.2d 318 (Ala. 1989), which was cited with approval in Medlock v. State, supra, and Spicer v. State, supra, the Alabama Supreme Court addressed an analogous contention as follows:</p>
+                <blockquote id="b107-5" pgmap="107">Any circumstance tending to show the refusal was conditioned upon factors other than consciousness of guilt may properly be considered by the jury in determining the weight to attach to the refusal. Therefore, the evidence of Hill’s refusal to submit to a chemical test for intoxication was relevant and properly admitted. Whether his refusal was due to the desire for consultation with his physician or attorney or to the fear of bodily harm, rather than consciousness of guilt, was best determined by the jury.</blockquote>
+                <p id="b107-6" pgmap="107">Hill v. State, 366 So.2d at 321. Similarly, whether Mr. Felgate’s refusal to submit to a chemical test for intoxication was due to a consciousness of guilt of DWI, or whether it was out of fear of conviction for DUI, was a matter for the court sitting as fact-­finder to weigh and determine.</p>
+                <p id="b107-7" pgmap="107">We conclude that the evidence before the trial court consti­tuted substantial evidence to support Mr. Felgate’s conviction for DWI.</p>
+                <p id="b107-8" pgmap="107">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="102" ORDERLABEL="76" TYPE="page">
+        <fptr FILEID="tiff_00051_1"/>
+        <fptr FILEID="jp2_00051_1"/>
+        <fptr FILEID="alto_00051_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_102.1" BETYPE="IDREF" FILEID="alto_00051_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="103" ORDERLABEL="77" TYPE="page">
+        <fptr FILEID="tiff_00052_0"/>
+        <fptr FILEID="jp2_00052_0"/>
+        <fptr FILEID="alto_00052_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_103.2" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="104" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.2" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="106" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00053_1"/>
+        <fptr FILEID="jp2_00053_1"/>
+        <fptr FILEID="alto_00053_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_106.2" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="107" ORDERLABEL="81" TYPE="page">
+        <fptr FILEID="tiff_00054_0"/>
+        <fptr FILEID="jp2_00054_0"/>
+        <fptr FILEID="alto_00054_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_107.3" BETYPE="IDREF" FILEID="alto_00054_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-4" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.4" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.5" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.6" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.7" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.4" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b106-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_106.5" BETYPE="IDREF" FILEID="alto_00053_1"/>
+            <area BEGIN="BL_107.1" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b102-3" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_102.3" BETYPE="IDREF" FILEID="alto_00051_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-10" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.12" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_104.1" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apz" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.8" BETYPE="IDREF" FILEID="alto_00052_0"/>
+            <area BEGIN="BL_103.9" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.7" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.5" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.7" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.6" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.11" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b103-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_103.10" BETYPE="IDREF" FILEID="alto_00052_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.7" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.6" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.8" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            <area BEGIN="BL_106.1" BETYPE="IDREF" FILEID="alto_00053_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-9" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.8" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.4" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.6" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b107-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_107.5" BETYPE="IDREF" FILEID="alto_00054_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-7" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.6" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-6" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-8" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.7" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.1" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-5" BETYPE="IDREF" FILEID="casebody_0012"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.4" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

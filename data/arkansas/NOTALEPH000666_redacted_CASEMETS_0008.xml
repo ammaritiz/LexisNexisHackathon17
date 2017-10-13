@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000666_0008" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. Gerber Products">Sharron SMITH v. GERBER PRODUCTS</name>
+          <docketnumber>CA 95-890</docketnumber>
+          <citation category="official" type="bluebook">54 Ark. App. 57</citation>
+          <citation category="parallel" type="bluebook">922 S.W.2d 365</citation>
+          <decisiondate>1996-06-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:40:15Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:56:36Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-25T12:32:31Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-25T12:35:23Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170721.post180</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00042_0" MIMETYPE="image/tiff" CHECKSUM="f2a537740b6e86fd02f696c2f59d495f" CHECKSUMTYPE="MD5" SIZE="20812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00042_0.tif"/>
+      </file>
+      <file ID="tiff_00042_1" MIMETYPE="image/tiff" CHECKSUM="cc314536f45795f22e86ae0f9c6592a1" CHECKSUMTYPE="MD5" SIZE="39438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00042_1.tif"/>
+      </file>
+      <file ID="tiff_00043_0" MIMETYPE="image/tiff" CHECKSUM="cb5cc7831ea89f6836cdc16bbb733512" CHECKSUMTYPE="MD5" SIZE="53590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00043_0.tif"/>
+      </file>
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="04a9582667ef62d89b6a9fa1e0ef545a" CHECKSUMTYPE="MD5" SIZE="36656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00043_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00042_0" MIMETYPE="image/jp2" CHECKSUM="2dff7bf03a6091eea75acc92b89ae204" CHECKSUMTYPE="MD5" SIZE="1770262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00042_0.jp2"/>
+      </file>
+      <file ID="jp2_00042_1" MIMETYPE="image/jp2" CHECKSUM="886b30b9e25d7851ec3142e263308e9f" CHECKSUMTYPE="MD5" SIZE="2091429">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00042_1.jp2"/>
+      </file>
+      <file ID="jp2_00043_0" MIMETYPE="image/jp2" CHECKSUM="c080cb2d2e994ae714ef16761e1fa44d" CHECKSUMTYPE="MD5" SIZE="2580941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00043_0.jp2"/>
+      </file>
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="b9be3aeefaad7dd5eb34f34b92834fa0" CHECKSUMTYPE="MD5" SIZE="2304482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000666_00043_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00042_0" MIMETYPE="text/xml" CHECKSUM="38d47de3de82f05ff0692b25201928e8" CHECKSUMTYPE="MD5" SIZE="34766">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000666_redacted_ALTO_00042_0.xml"/>
+      </file>
+      <file ID="alto_00042_1" MIMETYPE="text/xml" CHECKSUM="78dfaa7a53b513a153cfce79dc5b3ab3" CHECKSUMTYPE="MD5" SIZE="60377">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000666_redacted_ALTO_00042_1.xml"/>
+      </file>
+      <file ID="alto_00043_0" MIMETYPE="text/xml" CHECKSUM="69f83fc2632e90ee2979997c366becd9" CHECKSUMTYPE="MD5" SIZE="86485">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000666_redacted_ALTO_00043_0.xml"/>
+      </file>
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="9fc069f7a440ad0d5007333418f7267d" CHECKSUMTYPE="MD5" SIZE="55560">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000666_redacted_ALTO_00043_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0008" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="60" firstpage="57">
+              <court id="b83-8" pgmap="83">Court of Appeals of Arkansas Division III</court>
+              <docketnumber id="Aqt" pgmap="83">CA 95-890</docketnumber>
+              <citation id="A6s" pgmap="83">922 S.W.2d 365</citation>
+              <parties id="b83-7" pgmap="83">Sharron SMITH v. GERBER PRODUCTS</parties>
+              <decisiondate id="b83-9" pgmap="83">Opinion delivered June 5, 1996</decisiondate>
+              <judges id="b86-10" pgmap="86">Rogers and Neal, JJ., agree.</judges>
+              <attorneys id="b84-8" pgmap="84">Walker Law Firm, by: Eddie H. Walker, Jr., for appellant.</attorneys>
+              <attorneys id="b84-9" pgmap="84">Shaw, Ledbetter, Hornberger, Cogbill &amp; Arnold, by: James A. Arnold, II, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b84-10" pgmap="84">John B. Robbins, Judge.</author>
+                <p id="AV4" pgmap="84">Appellant Sharron Smith suffered a back injury while working for appellee Gerber Products on July 30, 1993. Gerber Products accepted the injury as compensable and covered related medical expenses. However, Gerber Products con­tested Ms. Smith’s claim that she was entitled to permanent disabil­ity for her anatomical impairment and wage loss. After a hearing, the Workers’ Compensation Commission denied all permanent benefits. Ms. Smith now appeals, arguing that the Commission erred in finding that she failed to prove entitlement to benefits for her permanent impairment. Alternatively, Ms. Smith contends that, even if she is not entitled to permanent impairment benefits, the Commission erred in denying permanent partial wage-loss disabil­ity benefits. We find no error and affirm.</p>
+                <p id="b84-11" pgmap="84(103) 85(21)">
+                   When reviewing decisions from the Workers’ Compen­sation Commission, we view the evidence and all reasonable infer­ences deducible therefrom in the light most favorable to the Com­mission’s findings and affirm if supported by substantial evidence. Welch’s Laundry &amp; Cleaners v. Clark, 38 Ark. App. 223, 832 S.W.2d 283 (1992). Substantial evidence is that which a reasonable person might accept as adequate to support a conclusion. City of Fort Smith v. Brooks, 40 Ark. App. 120, 842 S.W.2d 463 (1992). A decision by the Workers’ Compensation Commission should not be reversed unless it is clear that fair-minded persons could not have reached the same conclusions if presented with the same facts. Silvicraft, Inc. v. Lambert, 10 Ark. App. 28, 661 S.W.2d 403 (1983).</p>
+                <p id="b85-6" pgmap="85">Dr. James Standefer treated Ms. Smith for her back problems and ultimately concluded that she had a 9% impairment to the body as a whole. He noted that she had persistent low back and right hip pain as well as neck and shoulder pain. After conducting diagnostic tests, Dr. Standefer diagnosed a small disc herniation in addition to degenerative changes. He testified that “the degenerative changes definitely preceded the July, 1993 accident.”</p>
+                <p id="b85-7" pgmap="85">In denying permanent anatomical benefits, the Commission did not find that Ms. Smith was not permanently anatomically impaired. Rather, it determined that the compensable injury was not the major cause of any permanent impairment. Arkansas Code Annotated § 11-9 — 102(5) (F) (ii) (Repl. 1996) provides:</p>
+                <blockquote id="b85-8" pgmap="85">(a) Permanent benefits shall be awarded only upon a determination that the compensable injury was the major cause of the disability or impairment.</blockquote>
+                <blockquote id="b85-9" pgmap="85">(b) If any compensable injury combines with a preexist­ing disease or condition or the natural process of aging to cause or prolong disability-or a need for treatment, perma­nent benefits shall be payable for the resultant condition only if the compensable injury is the major cause of the perma­nent disability or need for treatment.</blockquote>
+                <p id="b85-10" pgmap="85">Arkansas Code Annotated § 11-9-102(14) defines “major cause” as “more than fifty percent (50%) of the cause.” The Commission determined that Ms. Smith failed to prove entitlement to benefits for her anatomical impairment rating because she failed to prove that her compensable injury was the major cause of this impair­ment. Ms. Smith asserts that this finding was erroneous.</p>
+                <p id="b85-11" pgmap="85(89) 86(36)">
+                   We find that substantial evidence supports the Commis­sion’s finding that Ms. Smith’s compensable injury was not the major cause of her permanent impairment. Dr. Standefer, as well as another treating physician, opined that Ms. Smith’s complaints of pain were caused by degenerative changes. Although Dr. Standefer concluded that Ms. Smith’s back condition was aggravated by her work-related injury, he stated that he would have given Ms. Smith the same work restrictions solely on the basis of the degenerative changes which preceded her injury. Based on this testimony, the Commission concluded that Ms. Smith’s permanent condition was more a result of degeneration than an isolated incident. We find no error in this finding, and thus affirm the Commission’s denial of benefits fqr a permanent impairment.</p>
+                <p id="AVR" pgmap="86">
+                   Ms. Smith’s remaining argument is that, even if she is not entitled to permanent impairment benefits, she should have been given wage-loss benefits. She relies on Arkansas Code Annotated § ll-9-522(b)(l) (Repl. 1996) which provides:</p>
+                <blockquote id="b86-7" pgmap="86">In considering claims for permanent partial disability benefits in excess of the employee’s percentage of permanent physical impairment, the commission may take into account, in addi­tion to the percentage of permanent physical impairment, such factors as the employee’s age, education, work experi­ence, and other matters reasonably expected to affect his future earning capacity.</blockquote>
+                <p id="b86-8" pgmap="86">Without now deciding whether a claimant may ever be entitled to wage-loss benefits in the absence of a compensable physical impair­ment, we believe Ark. Code Ann. § ll-9-102(5)(F)(ii)(a), quoted above, is dispositive of Ms. Smith’s claim. Consequendy, because there is substantial evidence to support the Commission’s determi­nation that Ms. Smith’s compensable injury was not the major cause of her disability she can not be entided to permanent benefits.</p>
+                <p id="b86-9" pgmap="86">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="83" ORDERLABEL="57" TYPE="page">
+        <fptr FILEID="tiff_00042_0"/>
+        <fptr FILEID="jp2_00042_0"/>
+        <fptr FILEID="alto_00042_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_83.3" BETYPE="IDREF" FILEID="alto_00042_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="84" ORDERLABEL="58" TYPE="page">
+        <fptr FILEID="tiff_00042_1"/>
+        <fptr FILEID="jp2_00042_1"/>
+        <fptr FILEID="alto_00042_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_84.2" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="85" ORDERLABEL="59" TYPE="page">
+        <fptr FILEID="tiff_00043_0"/>
+        <fptr FILEID="jp2_00043_0"/>
+        <fptr FILEID="alto_00043_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_85.3" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="86" ORDERLABEL="60" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.2" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.8" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.10" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.6" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.12" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            <area BEGIN="BL_85.1" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.9" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.9" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b83-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.6" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV4" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.10" BETYPE="IDREF" FILEID="alto_00042_1"/>
+            <area BEGIN="BL_84.11" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqt" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.7" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6s" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_83.8" BETYPE="IDREF" FILEID="alto_00042_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVR" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.4" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-10" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.8" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-11" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.9" BETYPE="IDREF" FILEID="alto_00043_0"/>
+            <area BEGIN="BL_86.1" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.7" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.5" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.6" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.7" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-9" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.8" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b84-8" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_84.7" BETYPE="IDREF" FILEID="alto_00042_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-6" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.4" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b85-7" BETYPE="IDREF" FILEID="casebody_0008"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_85.5" BETYPE="IDREF" FILEID="alto_00043_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

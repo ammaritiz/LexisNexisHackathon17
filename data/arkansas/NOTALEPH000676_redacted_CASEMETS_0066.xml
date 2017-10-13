@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000676_0066" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Jones v. State">Tommy Wayne JONES v. STATE of Arkansas</name>
+          <docketnumber>CA CR 00-284</docketnumber>
+          <citation category="official" type="bluebook">73 Ark. App. 432</citation>
+          <citation category="parallel" type="bluebook">44 S.W.3d 765</citation>
+          <decisiondate>2001-05-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T00:52:59Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:06:04Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:32:03Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:34:48Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00229_1" MIMETYPE="image/tiff" CHECKSUM="2adc61fb6ebd5b31c7ef874df1dc6ec0" CHECKSUMTYPE="MD5" SIZE="10970">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00229_1.tif"/>
+      </file>
+      <file ID="tiff_00230_0" MIMETYPE="image/tiff" CHECKSUM="14fe7ce8eca47735224a07268f3d4f7d" CHECKSUMTYPE="MD5" SIZE="24768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00230_0.tif"/>
+      </file>
+      <file ID="tiff_00230_1" MIMETYPE="image/tiff" CHECKSUM="857a9e838b6e1ce5053de36c87159ed7" CHECKSUMTYPE="MD5" SIZE="57154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00230_1.tif"/>
+      </file>
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="9da21e3cd90e81892b85254b424b3874" CHECKSUMTYPE="MD5" SIZE="54160">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00231_0.tif"/>
+      </file>
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="a6748222fa1a6c87642debe60f1015dd" CHECKSUMTYPE="MD5" SIZE="53378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00231_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00229_1" MIMETYPE="image/jp2" CHECKSUM="79890948ad643a02ff8c5f963b7b26ab" CHECKSUMTYPE="MD5" SIZE="1754214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00229_1.jp2"/>
+      </file>
+      <file ID="jp2_00230_0" MIMETYPE="image/jp2" CHECKSUM="85e338b0561828bc62c1dfada9221ad3" CHECKSUMTYPE="MD5" SIZE="1899009">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00230_0.jp2"/>
+      </file>
+      <file ID="jp2_00230_1" MIMETYPE="image/jp2" CHECKSUM="264d28986d7a65be4eb0bf2e75d5f5f8" CHECKSUMTYPE="MD5" SIZE="2779671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00230_1.jp2"/>
+      </file>
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="b4f469f756f0947d7e67db430c5b0e40" CHECKSUMTYPE="MD5" SIZE="3207103">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00231_0.jp2"/>
+      </file>
+      <file ID="jp2_00231_1" MIMETYPE="image/jp2" CHECKSUM="bca369677238f932f9b31fac26defbfc" CHECKSUMTYPE="MD5" SIZE="2688136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000676_00231_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00229_1" MIMETYPE="text/xml" CHECKSUM="fc8dea3bfdc070101cb7d252ad2a37c7" CHECKSUMTYPE="MD5" SIZE="15199">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00229_1.xml"/>
+      </file>
+      <file ID="alto_00230_0" MIMETYPE="text/xml" CHECKSUM="4e78ba835d2b615e7a363d777bf5c7b5" CHECKSUMTYPE="MD5" SIZE="41710">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00230_0.xml"/>
+      </file>
+      <file ID="alto_00230_1" MIMETYPE="text/xml" CHECKSUM="a4852535e553c9d4cb97ad453d660efd" CHECKSUMTYPE="MD5" SIZE="100741">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00230_1.xml"/>
+      </file>
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="a4285be20e375e8e4e92ee56b468413d" CHECKSUMTYPE="MD5" SIZE="95238">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00231_0.xml"/>
+      </file>
+      <file ID="alto_00231_1" MIMETYPE="text/xml" CHECKSUM="a1a3c11071c0339ba7e8986108ad7b3b" CHECKSUMTYPE="MD5" SIZE="92185">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000676_redacted_ALTO_00231_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0066" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="432" lastpage="436">
+              <court id="b458-9" pgmap="458">Court of Appeals of Arkansas Division IV</court>
+              <docketnumber id="Acg" pgmap="458">CA CR 00-284</docketnumber>
+              <citation id="AhK" pgmap="458">44 S.W.3d 765</citation>
+              <parties id="b458-8" pgmap="458">Tommy Wayne JONES v. STATE of Arkansas</parties>
+              <decisiondate id="b458-10" pgmap="458">Opinion delivered May 9, 2001</decisiondate>
+              <judges id="b462-10" pgmap="462">Neal and Baker, JJ., agree.</judges>
+              <attorneys id="b459-11" pgmap="459">J. Blake Hendrix, for appellant.</attorneys>
+              <attorneys id="b459-12" pgmap="459">Mark Pryor, Att’y Gen., by: James R. Gowen, Jr., Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b459-13" pgmap="459">Josephine Linker Hart, Judge.</author>
+                <p id="Aq9x" pgmap="459">Appellant, Tommy Wayne Jones, was convicted of the crime of rape and sentenced to forty years’ imprisonment in the Arkansas Department of Correc­tion. Appellant raises three issues on appeal. First, appellant argues that because his blood and saliva samples were the product of an unlawful search and seizure, the trial court erred in refusing to suppress the results of DNA tests performed on the samples. Sec­ond, in an issue not preserved for appellate review, appellant argues that the trial court erred in refusing to suppress the same DNA test results as the product of a violation of his right to counsel. Third, appellant argues that the trial court erred in refusing to grant a mistrial after the State mentioned during voir dire that the victim was mentally impaired. We conclude that there is merit to appel­lant’s first point and reverse and remand.</p>
+                <p id="b460-5" pgmap="460">On June 21, 1996, appellant was charged by a sworn informa­tion with rape, having engaged in sexual intercourse or deviate sexual activity with another person who is less than fourteen years of age. See Ark. Code Ann. § 5-14-103(a)(4) (Repl. 1997). At the bottom of the information was the signature of a circuit judge dated that same day. The judge concluded that “[a]fter a preliminary examination I find probable cause exists for the issuance of an arrest warrant against named defendant.” On that same day, the judge issued an order directing appellant to submit samples of his blood for testing by the Arkansas State Crime Laboratory. On July 31, 1996, the State presented to the judge a motion in which it noted that the judge had previously made a probable cause determination and that it had received the test results from the laboratory. The State requested that it be allowed to take additional samples of appellant’s blood and saliva in order to conduct DNA and other comparisons to evidence related to the crime. In his order signed that same day, the judge found probable cause to require appellant to submit to the taking of the samples.</p>
+                <p id="b460-6" pgmap="460">At a hearing on appellant’s subsequent motion to suppress, Kimberly Warren, a child-abuse investigator for the Arkansas State Police, testified that on July 31, 1996, she presented to the issuing judge, who also was presiding over the hearing on the motion to suppress, an order for the taking of appellant’s blood and saliva. Warren testified that while she recalled that the judge asked her questions regarding the case, she did not recall the gist of the questions or recall whether she was placed under oath. She further testified that the judge “already had knowledge of what was going on in the case.”</p>
+                <p id="b460-7" pgmap="460">After hearing the arguments of counsel, the court denied appellant’s motion to suppress. The court stated as follows:</p>
+                <blockquote id="b460-8" pgmap="460">The Fourth Amendment requirements with respect to proba­ble cause, factual determinations, affidavit or any other thing which an issuing magistrate relies upon is obviously required to be docu­mented or recorded. The Fourth Amendment arguments of proba­ble cause versus reasonable cause, which is a requirement of 18.1 I think on the discovery matters that the Court is required to do, are two different things.</blockquote>
+                <blockquote id="b460-9" pgmap="460(44) 461(25)">I think the Court by its finding that an order was issued and signed has made that finding, I don’t think there’s near as strict requirements of making that determination of reasonable cause as a Fourth Amendment requirement of probable cause. The taking of blood, saliva, these are things that are allowed by discovery. These are not considered the types of intrusions that are in violation of the constitution.</blockquote>
+                <blockquote id="b461-6" pgmap="461">The procedures followed here, as testified by Ms. Warren, this Court feels is in compliance with the statute. So the motion to suppress with respect to the taking of the blood and the order entered with respect to that, the Court will deny that.</blockquote>
+                <blockquote id="b461-7" pgmap="461">While it is, quote, technically a search, I don’t think it’s the search that is provided with the full Fourth Amendment guarantees such as a house and other items that the Fourth Amendment was designed for.</blockquote>
+                <p id="b461-8" pgmap="461(252) 462(15)">
+                   Appellant argues that the blood and saliva samples should be suppressed because no affidavit or recorded testimony under oath supported the warrants authorizing the taking of the samples. The Fourth Amendment to the United States Constitution provides in part that “[n]o Warrants shall issue, but upon probable cause, sup­ported by Oath or affirmation The taking of blood by a law enforcement officer constitutes a search and seizure. See Mills v. State, 322 Ark. 647, 660, 910 S.W.2d 682, 689 (1995).<footnotemark>1</footnotemark> In this case, each “order,” as they were designated by the judge, permitted the taking of such samples from appellant and were tantamount to search warrants. As reflected by the record and as conceded by the State during oral arguments, neither a written affidavit nor recorded oral testimony supported the issuance of either search warrant. Moreover, “[ujnrecorded oral testimony may not be considered, by the trial court or appellate courts, when determining whether there was sufficient probable cause to issue a search warrant.” Moya v. State, 335 Ark. 193, 202, 981 S.W.2d 521, 525 (1998). Further­more, “[w]here there is neither a written affidavit nor sworn, recorded testimony in support of a search warrant, this court will not apply the good-faith exception to uphold the search warrant.” Id.; see United States v. Leon, 468 U.S. 897 (1984). Thus, because neither search warrant was supported by either a written affidavit or sworn, recorded testimony, the warrants failed to meet the require­ments set forth in the United States Constitution, and the warrants may not be upheld by a good-faith analysis. Consequently, we must reverse on this point.</p>
+                <p id="b462-6" pgmap="462">
+                   Appellant also argues that the DNA test results should have been suppressed because he was denied his Sixth Amendment right to counsel. Even assuming appellant raised this argument at the suppression hearing, he did not receive a ruling thereon. Thus, appellant has waived this issue for purposes of appeal. See Walls v. State, 341 Ark. 787, 793, 20 S.W.3d 322, 325 (2000).</p>
+                <p id="b462-7" pgmap="462">Finally, appellant contends that the judge erred in refusing to declare a mistrial when, during voir dire, the State told potential jurors that the victim was mentally impaired and further asked whether they would be willing to be patient when she testified. As noted by appellant, the rape statute provides that a person commits rape if he engages in sexual intercourse or deviate sexual activity with another person “[n]ot his spouse who is less than sixteen (16) years of age and who is incapable of consent because he is mentally defective or mentally incapacitated.” Ark. Code Ann. § 5-14-­103(a)(5) (Repl. 1997). Appellant observes that he was charged with rape for having engaged in sexual intercourse or deviate sexual activity with another person who is less than fourteen years of age and argues that the question posed by the State “raised the specter that the appellant was also guilty of having sexual intercourse with a person who was mentally defective, a formulation under which the appellant was not charged.”</p>
+                <p id="b462-8" pgmap="462">
+                   We note that evidence was adduced at trial that the victim had “limited mental abilities,” which provided a basis for the State’s inquiry. Moreover, the jury was not instructed regarding the portion of the rape statute having to do with sexual intercourse or deviate sexual activity with a person who is mentally defective or mentally incapacitated and was instead instructed only regarding sexual intercourse or deviate sexual activity with another person who is less than fourteen years of age. Consequently, we fail to see how the jury could have convicted him of rape on any basis other than as described in the jury’s instructions. A jury is presumed to follow the court’s instructions. See Hall v. State, 315 Ark. 385, 392, 868 S.W.2d 453, 456-57 (1993). Thus, we find no prejudice on this point.</p>
+                <p id="b462-9" pgmap="462">Reversed and remanded.</p>
+                <footnote label="1">
+                  <p id="b461-9" pgmap="461">1 We note that, “subject to constitutional limitations, a judicial officer may require a defendant to ... permit the taking of samples of his blood, hair[,] and other materials of his body which involve no unreasonable intrusion thereof ....” Ark.R..Crim.P. 18.1(a)(vii) (2000)(emphasis added).</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="458" ORDERLABEL="432" TYPE="page">
+        <fptr FILEID="tiff_00229_1"/>
+        <fptr FILEID="jp2_00229_1"/>
+        <fptr FILEID="alto_00229_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.2" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="459" ORDERLABEL="433" TYPE="page">
+        <fptr FILEID="tiff_00230_0"/>
+        <fptr FILEID="jp2_00230_0"/>
+        <fptr FILEID="alto_00230_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.2" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="460" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00230_1"/>
+        <fptr FILEID="jp2_00230_1"/>
+        <fptr FILEID="alto_00230_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.1" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="461" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.3" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="462" ORDERLABEL="436" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jp2_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.2" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-10" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.11" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq9x" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.11" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            <area BEGIN="BL_459.12" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.6" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.7" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.6" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            <area BEGIN="BL_462.1" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-5" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.3" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.6" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-10" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.8" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhK" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.9" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-8" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.7" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.10" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.5" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.7" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_461.1" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.5" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-11" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.8" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acg" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.8" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-13" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.10" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-12" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.9" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-9" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.7" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.4" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-7" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.5" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-6" BETYPE="IDREF" FILEID="casebody_0066"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

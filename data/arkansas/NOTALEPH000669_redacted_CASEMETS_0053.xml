@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000669_0053" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Hill v. State">Richard HILL v. STATE of Arkansas</name>
+          <docketnumber>CA CR 84-90</docketnumber>
+          <citation category="official" type="bluebook">13 Ark. App. 307</citation>
+          <citation category="parallel" type="bluebook">688 S.W.2d 628</citation>
+          <decisiondate>1985-02-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-23T19:59:05Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:01:15Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-14T17:11:10Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-14T17:11:45Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post176</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00164_0" MIMETYPE="image/tiff" CHECKSUM="75b1461dadbdffe0fc1bc89e66da579f" CHECKSUMTYPE="MD5" SIZE="7346">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00164_0.tif"/>
+      </file>
+      <file ID="tiff_00164_1" MIMETYPE="image/tiff" CHECKSUM="99c3c764c3b453271524e32bb8fecefd" CHECKSUMTYPE="MD5" SIZE="47342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00164_1.tif"/>
+      </file>
+      <file ID="tiff_00165_0" MIMETYPE="image/tiff" CHECKSUM="0b43450ceb085fe993f2c5a2861bcf6a" CHECKSUMTYPE="MD5" SIZE="52234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00165_0.tif"/>
+      </file>
+      <file ID="tiff_00165_1" MIMETYPE="image/tiff" CHECKSUM="01983661dc7430d6433d2bfeaf3173d0" CHECKSUMTYPE="MD5" SIZE="31648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00165_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00164_0" MIMETYPE="image/jp2" CHECKSUM="c69ca426e94690fc69d55dbc92e363f7" CHECKSUMTYPE="MD5" SIZE="1348011">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00164_0.jp2"/>
+      </file>
+      <file ID="jp2_00164_1" MIMETYPE="image/jp2" CHECKSUM="8d1ae1c302ab1bb92a83f8abe34995be" CHECKSUMTYPE="MD5" SIZE="2490179">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00164_1.jp2"/>
+      </file>
+      <file ID="jp2_00165_0" MIMETYPE="image/jp2" CHECKSUM="aa591f640ad50d4df0c14b9b7df57fc4" CHECKSUMTYPE="MD5" SIZE="3044651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00165_0.jp2"/>
+      </file>
+      <file ID="jp2_00165_1" MIMETYPE="image/jp2" CHECKSUM="d7e089033f4eb9ba44c0932c63a2a689" CHECKSUMTYPE="MD5" SIZE="2402225">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000669_00165_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00164_0" MIMETYPE="text/xml" CHECKSUM="c29447a1477bfdf93157617946283893" CHECKSUMTYPE="MD5" SIZE="8327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000669_redacted_ALTO_00164_0.xml"/>
+      </file>
+      <file ID="alto_00164_1" MIMETYPE="text/xml" CHECKSUM="acac862957e133c5d41f79045409be9c" CHECKSUMTYPE="MD5" SIZE="81494">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000669_redacted_ALTO_00164_1.xml"/>
+      </file>
+      <file ID="alto_00165_0" MIMETYPE="text/xml" CHECKSUM="1925015e87ff6346bafb781a92ba81fb" CHECKSUMTYPE="MD5" SIZE="92543">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000669_redacted_ALTO_00165_0.xml"/>
+      </file>
+      <file ID="alto_00165_1" MIMETYPE="text/xml" CHECKSUM="929c8685d4a3b374614b368ae1601bf7" CHECKSUMTYPE="MD5" SIZE="51835">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000669_redacted_ALTO_00165_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="307" lastpage="310">
+              <court pgmap="327" id="AxY6">Court of Appeals of Arkansas Division II</court>
+              <docketnumber pgmap="327" id="Asn">CA CR 84-90</docketnumber>
+              <citation pgmap="327" id="AWG">688 S.W.2d 628</citation>
+              <parties pgmap="327" id="b327-3">Richard HILL v. STATE of Arkansas</parties>
+              <decisiondate pgmap="327" id="AOqS">Opinion delivered February 6, 1985</decisiondate>
+              <judges pgmap="330" id="b330-6">Cracraft, C.J., and Cloninger, J., agree.</judges>
+              <attorneys pgmap="328" id="b328-3">Atchley, Russell, Waldrop &amp; Hlavinka, by: Victor Hlavinka, for appellant.</attorneys>
+              <attorneys pgmap="328" id="b328-4">Steve Clark, Att’y Gen., by: Theodore Holder, Asst. Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="328" id="b328-5">James R. Cooper, Judge.</author>
+                <p pgmap="328" id="AejB">The appellant was charged with the delivery of a controlled substance, and the State also charged that his sentence should be enhanced because he was a habitual offender, having been convicted of two or more felonies. The jury found the appellant guilty of the offense charged, determined that he was a habitual offender, and sentenced him to twenty years in the Arkansas Department of Correction. From that decision, comes this appeal.</p>
+                <p pgmap="328" id="b328-6">For reversal, the appellant first argues that the trial court erred in refusing to instruct the jury on this affirmtive defense of entrapment. We must review the facts.</p>
+                <p pgmap="328" id="b328-7">In the spring of 1983, Officer Jimmy Morris of the Arkansas State Police was participating in an undercover operation designed to purchase drugs in the Texarkana area. In the course of this investigation, Officer Morris made contact with Anthony Scott, who agreed to arrange for Morris to make a buy. The record reflects that Scott was not aware of Officer Morris’ status as a police officer, that he was not paid for his efforts, and that no promises were made to induce him to cooperate with the police. On March 1, 1983, Scott and the appellant went to a motel room in Texarkana which was occupied by Officer Morris, and, according to the police officer’s testimony, the appellant sold him one-fourth of a pound of marijuana for $278.00. The substance was identified as marijuana by a chemist from the Arkansas State Crime lab. The appellant did not put on any proof, but he did request that the trial court instruct the jury on the affirmative defense of entrapment. The court refused, noting that there was no evidence before the jury which would give rise to the defense of entrapment. We agree with the trial court’s decision.</p>
+                <p pgmap="328(18) 329(232)" id="b328-8">Entrapment is an affirmative defense which must be proved by a preponderance of the evidence. Ark. Stat. Ann., Section 41-110 (Repl. 1977); Walls v. State, 8 Ark. App. 315, 652 S.W.2d 37 (1983). “Entrapment exists where thecriminal designs originate not with the accused, but with the officers of the law, and the accused is lured into the commission of an unlawful act by persuasion, deceitful representation or inducement by the officers..” Sweat v. State, 5 Ark. App. 284, 635 S.W.2d 296 (1982). Officer Morris’ testimony was insufficient to require that the jury be instructed on entrap­ment. He testified that he did not induce the appellant’s actions, but that the appellant was at all times willing to engage in the sale of marijuana. The appellant’s argument is premised on the allegation that Officer Morris, acting in concert with Anthony Scott, concocted a plan to induce the appellant to sell marijuana to Morris. The argument clearly is without merit, since Scott was not working with Officer Morris as a true informant, paid or not, since he did not know Morris’ true identity. There is no evidence that Officer Morris promised anything to Scott in exchange for his cooperation, and it is worth noting that Morris had observed the appellant and Scott engaged in similar illegal activity in the past. In fact, Scott was later convicted of delivery of marijuana himself. The appellant offered no evidence which supported his claimed affirmative defense, and he has failed to sustain his burden of proof.</p>
+                <p pgmap="329" id="b329-4">Instructions in the law should be given to the jury if there is evidence to support the giving of that instruction, Lucas v. State, 5 Ark. App. 168, 634 S.W.2d 145 (1982), but where no evidence exists to support the giving of an instruction, it is noterror to refuse to give it. Blaney v. State, 280 Ark. 253, 657 S.W.2d 531 (1983).</p>
+                <p pgmap="329(100) 330(77)" id="b329-5">Secondly, the appellant argues that the trial court erred in applying the habitual criminal statutes, Ark. Stat. Ann., Section 41-1001 et seq., (Supp. 1981), to him, because his prior convictions were on appeal at the time of sentencing. The delivery of thé marijuana in the case at bar occurred on March 1, 1983, and the enhanced punishment statute applicable to this crime was the 1981 amendment to the statute, as the substantive law in effect as of the date of the offense governs. Smith v. State, 277 Ark. 64, 639 S.W.2d 348 (1982). The State’s amended information alleged that the appellant had two or more prior convictions, and, according to the applicable statute, the State was required to prove that he had more than two convictions. Of the appellant’s three convictions, two are appealed under A.R.Cr.P., Rule 37, seeking post-conviction relief, and the other conviction is a direct appeal to this Court. The appellant argues that, since his convictions are on appeal, they are not final, and, therefore cannot be used to enhance his punishment. We disagree.</p>
+                <p pgmap="330" id="b330-4">Adopting the theory advanced by the appellant would result, as a practical matter, in rarely ever being able to apply the habitual criminal statutes, since criminal defendants have numerous avenues through which to seek relief, including direct appeal, petitions under Rule 37, and federal habeas corpus petitions. We do not believe that the legislature intended the result urged by the appellant. For enhancement purposes, the appellant’s three convictions, though pending on some sort of appeal, were final. See, Rogers v. U.S., 325 F.2d 485 (C.A., 10th Cir. 1963); Jackson v. State, 418 So. 2d 827 (Miss. 1982); People v. District Court, Etc., 559 P.2d 235 (Colo. 1977); Sutton v. State, 519 S.W.2d 422 (Tex. Crim. 1975); People v. Sarnblad, 26 Cal. App. 3d 801, 103 Cal. Rptr. 211 (1972).</p>
+                <p pgmap="330" id="b330-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="327" ORDERLABEL="307" TYPE="page">
+        <fptr FILEID="tiff_00164_0"/>
+        <fptr FILEID="jp2_00164_0"/>
+        <fptr FILEID="alto_00164_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_327.2" BETYPE="IDREF" FILEID="alto_00164_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="328" ORDERLABEL="308" TYPE="page">
+        <fptr FILEID="tiff_00164_1"/>
+        <fptr FILEID="jp2_00164_1"/>
+        <fptr FILEID="alto_00164_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_328.1" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="329" ORDERLABEL="309" TYPE="page">
+        <fptr FILEID="tiff_00165_0"/>
+        <fptr FILEID="jp2_00165_0"/>
+        <fptr FILEID="alto_00165_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_329.3" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="330" ORDERLABEL="310" TYPE="page">
+        <fptr FILEID="tiff_00165_1"/>
+        <fptr FILEID="jp2_00165_1"/>
+        <fptr FILEID="alto_00165_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_330.2" BETYPE="IDREF" FILEID="alto_00165_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b327-3" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.3" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOqS" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.7" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxY6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.6" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asn" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.4" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.4" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AejB" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.6" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_328.7" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.9" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.5" BETYPE="IDREF" FILEID="alto_00165_0"/>
+            <area BEGIN="BL_330.1" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b329-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_329.4" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWG" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_327.5" BETYPE="IDREF" FILEID="alto_00164_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-8" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.10" BETYPE="IDREF" FILEID="alto_00164_1"/>
+            <area BEGIN="BL_329.1" BETYPE="IDREF" FILEID="alto_00165_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.4" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.5" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.8" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.6" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b330-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_330.5" BETYPE="IDREF" FILEID="alto_00165_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b328-3" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_328.3" BETYPE="IDREF" FILEID="alto_00164_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

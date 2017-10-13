@@ -1,0 +1,539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000700_0017" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Wrenn v. State">Michael WRENN v. STATE of Arkansas</name>
+          <docketnumber>CA CR 03-1146</docketnumber>
+          <citation category="official" type="bluebook">92 Ark. App. 167</citation>
+          <citation category="parallel" type="bluebook">211 S.W.3d 582</citation>
+          <decisiondate>2005-08-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-21T17:19:00Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T16:24:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-19T10:39:48Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-19T10:40:54Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00097_0" MIMETYPE="image/tiff" CHECKSUM="93277de1c4bf3e5ebfddf4df60b4df2b" CHECKSUMTYPE="MD5" SIZE="28672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00097_0.tif"/>
+      </file>
+      <file ID="tiff_00097_1" MIMETYPE="image/tiff" CHECKSUM="bd066a2f391572ec8343306aacdaee8a" CHECKSUMTYPE="MD5" SIZE="43468">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00097_1.tif"/>
+      </file>
+      <file ID="tiff_00098_0" MIMETYPE="image/tiff" CHECKSUM="1eb6be092cbf2c165b36c6fbbd491069" CHECKSUMTYPE="MD5" SIZE="56046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00098_0.tif"/>
+      </file>
+      <file ID="tiff_00098_1" MIMETYPE="image/tiff" CHECKSUM="8cb728df29771985c5f9b04807509d22" CHECKSUMTYPE="MD5" SIZE="29486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00098_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00097_0" MIMETYPE="image/jp2" CHECKSUM="c3e8d9f8f8a7fd123def689104a8e41d" CHECKSUMTYPE="MD5" SIZE="1962988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00097_0.jp2"/>
+      </file>
+      <file ID="jp2_00097_1" MIMETYPE="image/jp2" CHECKSUM="34f3516df012fde82598a1ef7d27a737" CHECKSUMTYPE="MD5" SIZE="2405801">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00097_1.jp2"/>
+      </file>
+      <file ID="jp2_00098_0" MIMETYPE="image/jp2" CHECKSUM="b5eeda3978ba2574d527f13dc34a1325" CHECKSUMTYPE="MD5" SIZE="2779830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00098_0.jp2"/>
+      </file>
+      <file ID="jp2_00098_1" MIMETYPE="image/jp2" CHECKSUM="20980757387cd3c196b3ea3f0c017a03" CHECKSUMTYPE="MD5" SIZE="2040582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000700_00098_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00097_0" MIMETYPE="text/xml" CHECKSUM="c1c939b4917b6990a60fd4418e93e139" CHECKSUMTYPE="MD5" SIZE="44664">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00097_0.xml"/>
+      </file>
+      <file ID="alto_00097_1" MIMETYPE="text/xml" CHECKSUM="c89f6ceb2154f2e9bab29f486e9c8e64" CHECKSUMTYPE="MD5" SIZE="75262">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00097_1.xml"/>
+      </file>
+      <file ID="alto_00098_0" MIMETYPE="text/xml" CHECKSUM="037c1213cf7a2860f296e22980b0bdf9" CHECKSUMTYPE="MD5" SIZE="98488">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00098_0.xml"/>
+      </file>
+      <file ID="alto_00098_1" MIMETYPE="text/xml" CHECKSUM="7f4009d54ef7645825ee59148236e1f2" CHECKSUMTYPE="MD5" SIZE="49700">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000700_redacted_ALTO_00098_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0017" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="170" firstpage="167">
+              <court id="b193-5" pgmap="193">Court of Appeals of Arkansas</court>
+              <docketnumber id="b193-4" pgmap="193">CA CR 03-1146</docketnumber>
+              <citation id="AXV" pgmap="193">211 S.W.3d 582</citation>
+              <parties id="b193-3" pgmap="193">Michael WRENN v. STATE of Arkansas</parties>
+              <decisiondate id="Ai_" pgmap="193">Opinion delivered August 31, 2005</decisiondate>
+              <otherdate id="b193-6" pgmap="193">[Rehearing denied September 28, 2005.]</otherdate>
+              <judges id="b196-6" pgmap="196">Bird and Crabtree, JJ., agree.</judges>
+              <attorneys id="b193-11" pgmap="193">Daniel C. Becker, for appellant.</attorneys>
+              <attorneys id="b193-12" pgmap="193">Mike Beebe, Att’y Gen., by: Brad Newman, Ass’t Att’y Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAdx" pgmap="193">Josephine Linker Hart, Judge.</author>
+                <p id="AeZ" pgmap="193(129) 194(79)">Michael Wrenn was con­victed in a Jefferson County jury trial of first-degree domestic battery, kidnapping, and first-degree terroristic threatening for which he received concurrent sentences of240 months, 180 months, and 72 months, respectively, in the Arkansas Department of Correction. Previously, Wrenn’s appellate counsel filed a no-merit brief pursuant to Anders v. California, 386 U.S. 738 (1967), and Rule 4-3(j) of the Rules of the Arkansas Supreme Court and Court of Appeals. How­ever, based upon our review of the record and the law concerning the offense of first-degree domestic battery, we concluded that an argu­ment addressing whether Wrenn was a “family or household mem­ber,” as contemplated by the sections of our criminal code dealing with domestic battery and assault, see Ark. Code Ann. § 5-26-301 et seq. (Supp. 2003), would not be wholly frivolous. Wrenn now raises that argument on appeal, asserting that the trial court erred in failing to direct a verdict on the charge of domestic battery in that the State failed to prove that he was a household or family member. Wrenn does not contest his conviction on the other charges, and we affirm those convictions. However, we find merit in his argument concern­ing the domestic-battery conviction and reverse and dismiss.</p>
+                <p id="b194-5" pgmap="194">Wrenn’s convictions stem from the events of January 30, 2003, when a social encounter with the victim, Goldie Diane Whitaker, devolved into a physical altercation. In the course of the evening, after visiting a night club, Wrenn allegedly wrapped a belt around Ms. Whitaker’s neck and forced her into the van that she had previously been driving with Wrenn as the passenger. She eventually escaped by leaping from the moving vehicle.</p>
+                <p id="b194-6" pgmap="194">Because this appeal only concerns the issue of whether Wrenn was properly convicted under our domestic-battery stat­ute, we will focus on that part of the testimony that relates to Wrenn’s and Whitaker’s status as “family or household members” under our domestic- battery statute. Under Arkansas Code Anno­tated section 5-26-302 (Supp. 2003), “family or household mem­bers” are defined as</p>
+                <blockquote id="b194-7" pgmap="194">(1) Spouses;</blockquote>
+                <blockquote id="b194-8" pgmap="194">(2) Former spouses;</blockquote>
+                <blockquote id="b194-9" pgmap="194">(3) Parents;</blockquote>
+                <blockquote id="b194-10" pgmap="194">(4) Children, including any minors residing in the household;</blockquote>
+                <blockquote id="b194-11" pgmap="194">(5) (A) Persons related by blood within the fourth degree of con­sanguinity.</blockquote>
+                <blockquote id="b194-12" pgmap="194">(B) Degrees of consanguinity shall be computed pursuant to § 28-­9-212;</blockquote>
+                <blockquote id="b194-14" pgmap="194">(6) Persons who presently or in the past have resided or cohabited together; and</blockquote>
+                <blockquote id="b194-16" pgmap="194">(7) Persons who have or have had a child in common.</blockquote>
+                <p id="b194-17" pgmap="194(32) 195(108)">At Wrenn’s trial, Anita Stennis testified that Wrenn and the victim Goldie Diane Whitaker had dated for four or five months, but she thought that they had “split up.” In her testimony, Whitaker confirmed that her relationship with Wrenn had ended. She stated that they met in July 2002 and would “see each other three or four times a week.” When asked if there were occasions when the two would spend the weekend together, Whitaker denied that they would spend “the whole weekend” but noted that Wrenn would drive to her residence on Sunday morning and attend church services with her and her family. According to Whitaker, in September, Wrenn asked her to marry him, but she told him that she was not ready. However, she claimed that the relationship ended in November 2002, when Wrenn moved to North Carolina.</p>
+                <p id="b195-5" pgmap="195">Whitaker further testified that on or about January 15, 2003, Wrenn called her suggesting that they get back together. He claimed he had an interview at the Pine Bluff Arsenal and would arrive on January 24. Whittaker stated that when she picked him up at the bus terminal on Friday, Wrenn told her that he did not have money for a hotel. She took him to her home, and her mother agreed to “put him up till Monday.” According to Whitaker, Wrenn did not go to the arsenal on Monday or any other day that week. Nonetheless, Wrenn told her that he would leave on Friday. The events in question occurred on Thursday evening.</p>
+                <p id="b195-6" pgmap="195">Whitaker stated that she invited Wrenn to accompany her to the “Y-Not Jazz and Blues” club because “since he was at my house it would be nice to invite him to go.” She testified that on Tuesday, “we had talked that we would just be friends” and that they would not try to go on with their relationship. Whitaker concluded her testimony by confirming that, in the course of her relationship with Wrenn, they had “physical relations together.”</p>
+                <p id="b195-7" pgmap="195">Wrenn moved for a directed verdict, arguing that the State failed to prove cohabitation or that he resided with the victim sufficiently to qualify as a household or family member. The motion was denied, and Wrenn testified on his own behalf. Wrenn confirmed that he and Whitaker had a relationship that lasted from July until he moved to North Carolina in early December and that he intended to return to North Carolina on Friday. Wrenn timely renewed his directed-verdict motion at the close of all the evi­dence.</p>
+                <p id="b195-8" pgmap="195(31) 196(57)">On appeal, Wrenn argues the trial court erred in finding that he fit the description of “family or household member” as defined by Arkansas Code Annotated section 5-26-302. He contends that the testimony proved only that he was a short-term guest and that the purpose of his visit was to seek employment. Wrenn argues further that there was no “intent” by him or the victim that he become a family or household member, and therefore his convic­tion on this count should be reversed and dismissed. We agree.</p>
+                <p id="b196-4" pgmap="196">
+                   The record indicates that Wrenn’s relationship with the victim had ended. While it is true that he was staying in the victim’s home, it was uncontroverted that at the time he assaulted the victim, he had already decided to return to his home in North Carolina the next day. Furthermore, while it was true that Wrenn and Whitaker had a sexual relationship in the past, Whitaker made it very clear in her testimony that they had not cohabited. Under these facts, we hold that the State failed to prove that Wrenn was a household member, and therefore, we reverse and dismiss his conviction for first-degree domestic battery.</p>
+                <p id="b196-5" pgmap="196">Affirmed in part; reversed and dismissed in part.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="193" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00097_0"/>
+        <fptr FILEID="jp2_00097_0"/>
+        <fptr FILEID="alto_00097_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.2" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="194" ORDERLABEL="168" TYPE="page">
+        <fptr FILEID="tiff_00097_1"/>
+        <fptr FILEID="jp2_00097_1"/>
+        <fptr FILEID="alto_00097_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.2" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="195" ORDERLABEL="169" TYPE="page">
+        <fptr FILEID="tiff_00098_0"/>
+        <fptr FILEID="jp2_00098_0"/>
+        <fptr FILEID="alto_00098_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_195.3" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="196" ORDERLABEL="170" TYPE="page">
+        <fptr FILEID="tiff_00098_1"/>
+        <fptr FILEID="jp2_00098_1"/>
+        <fptr FILEID="alto_00098_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_196.2" BETYPE="IDREF" FILEID="alto_00098_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.6" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.5" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai_" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.7" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.4" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXV" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.5" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.5" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-7" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.6" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAdx" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.15" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.4" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.13" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.7" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-9" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.8" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-10" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.9" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-11" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.10" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.11" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-12" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.14" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-14" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.12" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-16" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.13" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-17" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.14" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            <area BEGIN="BL_195.1" BETYPE="IDREF" FILEID="alto_00098_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.6" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.4" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeZ" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.16" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            <area BEGIN="BL_193.17" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            <area BEGIN="BL_194.1" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.8" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b193-3" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_193.3" BETYPE="IDREF" FILEID="alto_00097_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b195-8" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_195.7" BETYPE="IDREF" FILEID="alto_00098_0"/>
+            <area BEGIN="BL_196.1" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-4" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.4" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-5" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.5" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b196-6" BETYPE="IDREF" FILEID="casebody_0017"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_196.6" BETYPE="IDREF" FILEID="alto_00098_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

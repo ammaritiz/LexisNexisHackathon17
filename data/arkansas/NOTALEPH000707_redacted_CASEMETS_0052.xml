@@ -1,0 +1,701 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000707_0052" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Anderson v. State">Gary ANDERSON v. STATE of Arkansas</name>
+          <docketnumber>CA CR 05-172</docketnumber>
+          <citation category="official" type="bluebook">93 Ark. App. 454</citation>
+          <citation category="parallel" type="bluebook">220 S.W.3d 225</citation>
+          <decisiondate>2005-12-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T23:23:45Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-07-15T21:35:15Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-18T12:10:14Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-18T12:12:00Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170715.post179</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00240_1" MIMETYPE="image/tiff" CHECKSUM="6316d5b69a28f30ed9eec7d77be06f56" CHECKSUMTYPE="MD5" SIZE="11594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00240_1.tif"/>
+      </file>
+      <file ID="tiff_00241_0" MIMETYPE="image/tiff" CHECKSUM="e80c2259e2c2764186ad6ceb2729fdff" CHECKSUMTYPE="MD5" SIZE="54820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00241_0.tif"/>
+      </file>
+      <file ID="tiff_00241_1" MIMETYPE="image/tiff" CHECKSUM="34c3f20935346f1eb6c92f7200e5cc68" CHECKSUMTYPE="MD5" SIZE="59950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00241_1.tif"/>
+      </file>
+      <file ID="tiff_00242_0" MIMETYPE="image/tiff" CHECKSUM="cb146d7dcb6e5c45bb677d7722f2122e" CHECKSUMTYPE="MD5" SIZE="62672">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00242_0.tif"/>
+      </file>
+      <file ID="tiff_00242_1" MIMETYPE="image/tiff" CHECKSUM="c968ec21b0078afd401f0a9c6a2141ff" CHECKSUMTYPE="MD5" SIZE="59538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00242_1.tif"/>
+      </file>
+      <file ID="tiff_00243_0" MIMETYPE="image/tiff" CHECKSUM="247943c2c2ad240c822ae9fa13b10c66" CHECKSUMTYPE="MD5" SIZE="53776">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00243_0.tif"/>
+      </file>
+      <file ID="tiff_00243_1" MIMETYPE="image/tiff" CHECKSUM="d068a4b83ef9165fe338c36af5b3b308" CHECKSUMTYPE="MD5" SIZE="60304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00243_1.tif"/>
+      </file>
+      <file ID="tiff_00244_0" MIMETYPE="image/tiff" CHECKSUM="3d940865f047017b9518a639aa49ea29" CHECKSUMTYPE="MD5" SIZE="28600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00244_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00240_1" MIMETYPE="image/jp2" CHECKSUM="d0d79a6afe2040721d2987ce12bd96c1" CHECKSUMTYPE="MD5" SIZE="1440530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00240_1.jp2"/>
+      </file>
+      <file ID="jp2_00241_0" MIMETYPE="image/jp2" CHECKSUM="6f7c0cc12412737969fe42d08bacbf41" CHECKSUMTYPE="MD5" SIZE="2577115">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00241_0.jp2"/>
+      </file>
+      <file ID="jp2_00241_1" MIMETYPE="image/jp2" CHECKSUM="02cd9e0bff7994872f3a1daedb5331e2" CHECKSUMTYPE="MD5" SIZE="2574581">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00241_1.jp2"/>
+      </file>
+      <file ID="jp2_00242_0" MIMETYPE="image/jp2" CHECKSUM="1b21987c72d06d3828e4967a471dcaf3" CHECKSUMTYPE="MD5" SIZE="2639222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00242_0.jp2"/>
+      </file>
+      <file ID="jp2_00242_1" MIMETYPE="image/jp2" CHECKSUM="a1cb5a735f2bdb359130dd69a0682227" CHECKSUMTYPE="MD5" SIZE="2566485">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00242_1.jp2"/>
+      </file>
+      <file ID="jp2_00243_0" MIMETYPE="image/jp2" CHECKSUM="e741574fb68cc9857c29c7c45edf7a12" CHECKSUMTYPE="MD5" SIZE="2539164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00243_0.jp2"/>
+      </file>
+      <file ID="jp2_00243_1" MIMETYPE="image/jp2" CHECKSUM="e1f5160e6ffee824431d27901ba65106" CHECKSUMTYPE="MD5" SIZE="2586859">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00243_1.jp2"/>
+      </file>
+      <file ID="jp2_00244_0" MIMETYPE="image/jp2" CHECKSUM="ff0ae62fce4e033d02ab12ed334b0aee" CHECKSUMTYPE="MD5" SIZE="2089047">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000707_00244_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00240_1" MIMETYPE="text/xml" CHECKSUM="175784614324777eafa232242610f9af" CHECKSUMTYPE="MD5" SIZE="12453">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00240_1.xml"/>
+      </file>
+      <file ID="alto_00241_0" MIMETYPE="text/xml" CHECKSUM="200d45dcbfa203ebdbc808efd2c70393" CHECKSUMTYPE="MD5" SIZE="93138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00241_0.xml"/>
+      </file>
+      <file ID="alto_00241_1" MIMETYPE="text/xml" CHECKSUM="95376d7ef374b5255ff581b4d9d3019f" CHECKSUMTYPE="MD5" SIZE="103004">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00241_1.xml"/>
+      </file>
+      <file ID="alto_00242_0" MIMETYPE="text/xml" CHECKSUM="d62bcb05adeceb8099982a153a27eea7" CHECKSUMTYPE="MD5" SIZE="109392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00242_0.xml"/>
+      </file>
+      <file ID="alto_00242_1" MIMETYPE="text/xml" CHECKSUM="b09cb525fd01bf817911cb6fd104ee17" CHECKSUMTYPE="MD5" SIZE="103750">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00242_1.xml"/>
+      </file>
+      <file ID="alto_00243_0" MIMETYPE="text/xml" CHECKSUM="56dc1aba969e10d11fefc2b9ac6a94f6" CHECKSUMTYPE="MD5" SIZE="92413">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00243_0.xml"/>
+      </file>
+      <file ID="alto_00243_1" MIMETYPE="text/xml" CHECKSUM="318e376d56b84b9eba8b3655494a0d46" CHECKSUMTYPE="MD5" SIZE="102344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00243_1.xml"/>
+      </file>
+      <file ID="alto_00244_0" MIMETYPE="text/xml" CHECKSUM="e11c05d027ece7917a4321d98de83a59" CHECKSUMTYPE="MD5" SIZE="44682">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000707_redacted_ALTO_00244_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0052" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" firstpage="454" lastpage="461">
+              <court id="b480-4" pgmap="480">Court of Appeals of Arkansas</court>
+              <docketnumber id="Aj6N" pgmap="480">CA CR 05-172</docketnumber>
+              <citation id="Aj52" pgmap="480">220 S.W.3d 225</citation>
+              <parties id="b480-3" pgmap="480">Gary ANDERSON v. STATE of Arkansas</parties>
+              <decisiondate id="AlS" pgmap="480">Opinion delivered December 14, 2005</decisiondate>
+              <judges id="b485-7" pgmap="485">Baker, J., agrees.</judges>
+              <judges id="b485-8" pgmap="485">Roaf, J., concurs.</judges>
+              <attorneys id="b480-9" pgmap="480">Dustin D. Dyer, for appellant.</attorneys>
+              <attorneys id="b480-10" pgmap="480">Mike Beebe, Arkansas Attorney General, by: Laura Shue, Assis­tant Attorney General, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="pAfX" pgmap="481">Terry Crabtree, Judge.</author>
+                <p id="A49" pgmap="481">A jury in Saline County found appellant guilty of rape and sexual assault in the first degree for which he was sentenced to consecutive terms of thirty and twenty years in prison. Appellant raises three issues on appeal. He argues that: (1) the trial court erred in denying his motion to dismiss for the violation of his right to a speedy trial; (2) the trial court erred in denying his motion to dismiss on grounds of double jeopardy; and (3) the trial court erred in denying his motion in limine to exclude prior bad acts in contravention of Ark. R. Evid. 403. We affirm.</p>
+                <p id="b481-5" pgmap="481">Appellant’s present convictions arose from an information filed in Saline County on April 8, 2004, wherein he was charged with two counts of rape involving his step-daughter A.H. Previ­ously, on September 22, 2002, appellant had been arrested on bench warrants issued in Hot Spring County on sex-based charges involving A.H., and another child, A.M. On May 29, 2003, appellant pled guilty in a Hot Spring County Circuit Court to sexual assault in the first degree of A.M., and the rape of A.H., for which he was sentenced to cumulative terms of twenty years’ imprisonment.</p>
+                <p id="b481-6" pgmap="481">In the case at bar, appellant filed several pretrial motions that were premised on the Hot Spring County proceedings. Based on his arrest there on September 22, 2002, appellant contended that the speedy-trial period in the present case had expired. Appellant also argued that the former prosecution barred the current charges on grounds of double jeopardy. Appellant further contended that the pursuit of the present charges violated the plea agreement entered in the Hot Spring County Circuit Court.<footnotemark>1</footnotemark> Finally, appel­lant moved in limine to preclude the State from introducing any evidence regarding his prior conduct with regard to A.H.</p>
+                <p id="b481-7" pgmap="481(77) 482(26)">The pretrial hearings took place over the course of several days. Doug Shuffield, a child abuse investigator with the Arkansas State Police, conducted the investigation in Hot Spring County. He interviewed appellant on August 14, 2002, and during the interview appellant confessed to having sexual contact with A.H. After the interview, appellant was placed under arrest by Officer Frazier Ford of the Malvern Police Department, but he was released after forty-eight hours. Bench warrants were later issued after formal charges were filed with regard to appellant’s conduct with A.H. and A.M. The warrants were served and appellant was arrested on September 22, 2002.</p>
+                <p id="b482-5" pgmap="482">Detective Shuffield testified that appellant was not arrested on charges arising in Saline County, and he said that he was not aware that appellant had raped A.H. in Saline County after the August 14 interview. He did know that appellant had left Hot Spring County after the forty-eight-hour hold, but he did not know where appellant had gone. He alerted DCFS on September 4, 2002, that A.H. could not be found, and he contacted the Malvern Police Department to issue a BOLO for appellant and the family. Officer Ford also testified that he arrested appellant based on conduct that occurred with A.H. in Hot Spring County.</p>
+                <p id="b482-6" pgmap="482">Appellant was represented by attorneys Phyllis Lemons and Craig Crain on the Hot Spring County charges. Crain testified that appellant’s guilty plea concerned only the Hot Spring County cases, and he said that he was unaware of any allegations regarding appellant’s conduct in Saline County. Lemons also testified that the plea agreement only involved the charges in Hot Spring County and that she had no knowledge of any charges out of Saline County. Richard Garrett, a deputy prosecutor in Hot Spring County, stated that the charges in Hot Spring County were based on events that took place in that county, and that at the time of the plea, he was not aware that appellant had committed any offenses in Saline County.</p>
+                <p id="b482-7" pgmap="482">The trial court, after hearing the evidence, denied appel­lant’s motions to dismiss and his motion in limine. Appellant renewed these motions at various stages of the trial.</p>
+                <p id="b482-8" pgmap="482">At the trial, A.H. testified that appellant had been her mother’s boyfriend for five years, beginning when she was ten years old and ending when she was fifteen. At the outset, she, her mother, her brother, appellant, and his mother lived in an apart­ment in Malvern. A.H. recalled that she had knee surgery on August 18, 2002. When she got home from the operation, she lay on a mattress watching television, and she testified that appellant had sexual intercourse with her on the mattress. A.H. said that appellant had raped her on previous occasions as well, and that she had told her mother about the rapes, but that her mother did not care and did not want to hear what she had to say. A.H. said that appellant had been arrested in Hot Spring County because of his raping her and that he had just gotten out of jail when he raped her on August 18.</p>
+                <p id="b483-4" pgmap="483">A.H. further testified that they all moved into a house-trailer in Benton sometime after the August 18 rape. She said that her mother was running from DHS because her mother did not want her to divulge what was going on between her and appellant. One day, after she had gotten off the school bus, she recalled that she was sitting on the couch watching television and that appellant inserted a plastic Coke bottle into her vagina. She said that appellant’s mother witnessed this and asked him to stop. A.H. testified that this hurt her and caused her to bleed. A.H. further testified that appellant also raped her one morning before school. When waking her up, he pulled down her pajamas and inserted his penis into her vagina. A.H. said that appellant’s mother witnessed this incident as well. A.H. testified that she told Detective Shuff-­ield about the rapes in Hot Spring County. She was certain that the Coke-bottle incident and the intercourse before school occurred in Saline County.</p>
+                <p id="b483-5" pgmap="483">A.M. testified that she was a friend of A.H.’s when they lived in the same apartment complex in Malvern. She said that appellant was “touchy feely” and that he felt her breasts some fifty times, her crotch about fifteen times, and her bottom around fifty times. When she stayed the night with A.H., she and A.H. slept in the apartment’s only bedroom with appellant. When they were in bed, she was aware of appellant rubbing A.H. She saw appellant touch A.H.’s vagina, and she said that appellant would kiss A.H. on the lips in front of A.H’s mother and appellant’s mother. She once heard appellant’s mother chiding appellant for doing something inappropriate to A.H., which she took to mean sexual intercourse.</p>
+                <p id="b483-6" pgmap="483(178) 484(33)">The first issue appellant raises concerns his allegation that he was denied the right to a speedy trial. He contends that he was first arrested on September 22, 2002, and that his trial in this case held on September 29, 2004, exceeded the speedy-trial limitations period. Rule 28.1 (b) of the Arkansas Rules of Criminal Procedure requires the State to try a defendant within twelve months, excluding any periods of delay authorized by Rule 28.3. The time for trial begins to run from the date the charge is filed; however, the time begins to run from the date of the arrest if the defendant is continuously held in custody to answer for the same offense or an offense based on the same conduct. Ark. R. Crim. P. 28.2(a). Once a defendant demonstrates a prima facie case of a speedy trial violation, the burden is on the State to show that the delay was the result of the defendant’s conduct or was otherwise justified. Zangerl v. State, 352 Ark. 278, 100 S.W.3d 695 (2003). If a defendant is not brought to trial within the requisite time, Ark. R. Crim. P. 30.1(a) provides that the defendant will be discharged, and such discharge is an absolute bar to prosecution of the same offense. Id.</p>
+                <p id="b484-5" pgmap="484">
+                   The trial court ruled that appellant had failed to estab­lish a prima facie case because the evidence showed that appellant was arrested on September 22, 2002, only with regard to the charges in Hot Spring County, which were separate and apart from those arising in Saline County. We agree with the trial court’s ruling. Rape is not defined as a continuing offense. Rains v. State, 329 Ark. 607, 953 S.W.2d 48 (1997). When a victim testifies as to multiple acts of rape of a different nature, separated in point of time, there is no continuing offense as a separate impulse was necessary for the commission of each offense. Id. The record in this case is abundantly clear that appellant was arrested, charged, and pled guilty to raping A.H. for his conduct that occurred in Hot Spring County. None of the officials in Hot Spring County, nor appellant’s attorneys in that matter, were even aware that appellant had engaged in similar conduct in Saline County. Because these were different offenses, the speedy-trial period was not triggered by the date of his arrest on the charges in Hot Spring County. Instead, the period began to run on the date the Saline County charges were filed, April 8, 2004. At the time of trial, September 29, 2004, the speedy-trial period had not expired. Therefore, the trial court correctly ruled that appellant had failed to establish a prima facie case and that he was not denied the right to a speedy trial. We affirm on this point.</p>
+                <p id="b484-6" pgmap="484">
+                   Appellant’s double-jeopardy argument fails for the same reason. His argument is premised on the assertion that the Hot Spring County and Saline County offenses were based on the same conduct. As that is not the case, this argument is likewise without merit.</p>
+                <p id="b484-7" pgmap="484(112) 485(70)">Appellant’s final argument is that the trial court erred in allowing A.H. to testify regarding the sexual activities that oc­curred in Hot Spring County and in allowing evidence of his prior convictions in Hot Spring County. When the alleged crime is child abuse or incest, we have approved allowing evidence of similar acts with the same or other children in the household when it is helpful in showing a proclivity for a specific act with a person or class of persons with whom the defendant has an intimate relationship. Berger v. State, 343 Ark. 413, 36 S.W.3d 286 (2001). This is known as the “pedophile exception” to Rule 404(b) of the Arkansas Rules of Evidence. Parish v. State, 357 Ark. 260, 163 S.W.3d 843 (2004). Further, it is admissible to show the familiarity of the parties and antecedent conduct toward one another and to corroborate the testimony of the victim. Id. The rationale for recognizing this exception is that such evidence helps to prove the depraved sexual instinct of the accused. Flanery v. State, 362 Ark. 311, 208 S.W.3d 187 (2005).</p>
+                <p id="b485-5" pgmap="485">
+                   Appellant does not contend that the evidence was not admissible under this exception. Instead, it is his argument that the evidence was unfairly prejudicial and thus inadmissible under Ark. R. Evid. 403. Rule 403 provides that, although relevant, evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence. Trial courts have broad discretion in deciding evidentiary issues, and their decisions are not reversed absent an abuse of discretion. Smith v. State, 351 Ark. 468, 95 S.W.3d 801 (2003). Here, the appellant presented evidence denying that any acts of abuse occurred in Saline County, and he sought to discredit the testimony of A.H. with letters she had written to him in jail in which she spoke favorably of him.<footnotemark>2</footnotemark> The evidence of the prior occurrences thus tended to corroborate the testimony of A.H. and demonstrate his proclivity for engaging in similar conduct with A.H. We are not able to say that the trial court abused its considerable discretion in concluding that the probative value of the evidence exceeded the danger of unfair prejudice.</p>
+                <p id="b485-6" pgmap="485">Affirmed.</p>
+                <footnote label="1">
+                  <p id="b481-8" pgmap="481">1 Appellant raises no argument with regard to this motion in this appeal.</p>
+                </footnote>
+                <footnote label="2">
+                  <p id="b485-10" pgmap="485">2 In the letters, A.H. referred to appellant as “dad” and wrote, generally, that she loved and missed him and that she awaited his return home. A.H. testified that her mother forced her to write the letters.</p>
+                </footnote>
+              </opinion>
+              <opinion type="concurrence">
+                <author id="b485-9" pgmap="485">Andree Layton Roaf, J­udge,</author>
+                <p id="AP2" pgmap="485(58) 486(26)">concurring. In Gary udge, County for the rape of A.H., a fourteen or fifteen-year-old girl, the State was allowed to introduce into evidence the fact that Anderson had also been prosecuted for rape of the same victim during the same time frame in Hot Spring County and that Anderson had already pled guilty to the Hot Spring County charge. The question is not so much whether this evidence is prejudicial, but whether anything could be more prejudicial to Anderson’s right to a fair trial.</p>
+                <p id="b486-5" pgmap="486">Nevertheless, I join in affirming the conviction. There is simply no basis in our case law for a reversal based upon a Rule 403 objection, and certainly not where an alleged pedophile is on trial. The majority appropriately deals with this issue in a brief para­graph. The case it relies upon, Flanery v. State, 362 Ark. 311, 208 S.W.3d 187 (2005), treats Flattery’s Rule 403 issue with similar brevity. You will search high and low and not find any real substantive discussion of Rule 403 in the annals of Arkansas law. The abuse of discretion standard is always cited, and maybe a few facts regurgitated followed by the conclusion that no abuse of discretion occurred.</p>
+                <p id="b486-6" pgmap="486">The bottom line is that, pursuant to Rule 404(b), the supreme court has consistently recognized the “pedophile excep­tion,” which provides that evidence of similar sexual acts with the same child or other children in the same household is admissible to show a “proclivity toward a specific act with a person or class of persons with whom the accused has an intimate relationship” or to “prove the depraved sexual instinct of the accused.” Dougan v. State, 330 Ark. 827, 957 S.W.2d 182 (1997); Douthitt v. State, 326 Ark. 794, 935 S.W.2d 241 (1996); Mosley v. State, 325 Ark. 469, 929 S.W.2d 693 (1996); Clark v. State, 323 Ark. 211, 913 S.W.2d 297 (1996); Thompson v. State, 322 Ark. 586, 910 S.W.2d 694 (1995). That being the case, there simply cannot be a sincere effort to perform the Rule 403 balancing step or such highly prejudicial evidence would never be allowed in, especially in cases such as this, where the evidence is not even necessary to the State’s case.</p>
+                <p id="b486-7" pgmap="486">Rule 403 is supposed to provide the necessary “parameters” for this balancing act. In response to an objection that evidence is unfairly prejudicial, the probative value of the evidence must be weighed against the danger of unfair prejudice. Hernandez v. State, 331 Ark. 301, 962 S.W.2d 756 (1998); George v. State, 306 Ark. 360, 813 S.W.2d 792 (1991). What “parameters” could they possibly have reference to? The Advisory Committee Note to Rule 403 explains that “unfair prejudice” within the context of the rule means “an undue tendency to suggest a decision on an improper basis, commonly, though not necessarily, an emotional one.”</p>
+                <p id="b486-8" pgmap="486(22) 487(80)">In this regard, Anderson asserts in his brief that his convic­tion was a foregone conclusion once the State was allowed to inform the jury that he had already pled guilty to the same conduct and crime against the same victim in Hot Spring County. Of course he is right. However, it is not considered unfair in Arkansas or indeed in many other jurisdictions to allow such damning evidence as proof of guilt. The “balancing” never really takes place, at either the trial court level or on appeal. Nevertheless, our supreme court precedent mandates that I must concur in affirming this case.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="480" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00240_1"/>
+        <fptr FILEID="jp2_00240_1"/>
+        <fptr FILEID="alto_00240_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_480.1" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="481" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00241_0"/>
+        <fptr FILEID="jp2_00241_0"/>
+        <fptr FILEID="alto_00241_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_481.2" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="482" ORDERLABEL="456" TYPE="page">
+        <fptr FILEID="tiff_00241_1"/>
+        <fptr FILEID="jp2_00241_1"/>
+        <fptr FILEID="alto_00241_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_482.2" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="483" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00242_0"/>
+        <fptr FILEID="jp2_00242_0"/>
+        <fptr FILEID="alto_00242_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_483.2" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="484" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00242_1"/>
+        <fptr FILEID="jp2_00242_1"/>
+        <fptr FILEID="alto_00242_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_484.2" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="485" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00243_0"/>
+        <fptr FILEID="jp2_00243_0"/>
+        <fptr FILEID="alto_00243_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_485.3" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="486" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00243_1"/>
+        <fptr FILEID="jp2_00243_1"/>
+        <fptr FILEID="alto_00243_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_486.2" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="487" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00244_0"/>
+        <fptr FILEID="jp2_00244_0"/>
+        <fptr FILEID="alto_00244_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_487.3" BETYPE="IDREF" FILEID="alto_00244_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlS" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.7" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-3" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.3" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A49" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.5" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_481.6" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_481.7" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.6" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.6" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.4" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.13" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.7" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.5" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-4" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.3" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.14" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.5" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            <area BEGIN="BL_484.1" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.4" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj6N" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.4" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-9" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.8" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.7" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP2" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.9" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_485.10" BETYPE="IDREF" FILEID="alto_00243_0"/>
+            <area BEGIN="BL_486.1" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.5" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.11" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.10" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_482.1" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.9" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.8" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.6" BETYPE="IDREF" FILEID="alto_00243_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.6" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.5" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.4" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj52" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.5" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b486-8" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_486.7" BETYPE="IDREF" FILEID="alto_00243_1"/>
+            <area BEGIN="BL_487.1" BETYPE="IDREF" FILEID="alto_00244_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b485-10" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_485.11" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-6" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.5" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-7" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.6" BETYPE="IDREF" FILEID="alto_00242_1"/>
+            <area BEGIN="BL_485.1" BETYPE="IDREF" FILEID="alto_00243_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.4" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b484-5" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_484.4" BETYPE="IDREF" FILEID="alto_00242_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="pAfX" BETYPE="IDREF" FILEID="casebody_0052"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.4" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

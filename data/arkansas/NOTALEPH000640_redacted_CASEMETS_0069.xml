@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000640_0069" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Smith v. State">Roy E. SMITH v. STATE of Arkansas</name>
+          <docketnumber>CA CR 83-152</docketnumber>
+          <citation category="official" type="bluebook">10 Ark. App. 390</citation>
+          <citation category="parallel" type="bluebook">664 S.W.2d 505</citation>
+          <decisiondate>1984-02-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T18:44:24Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:07:54Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T01:11:28Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T01:12:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00204_1" MIMETYPE="image/tiff" CHECKSUM="b31049a1a90ff9ed453e3023cef63774" CHECKSUMTYPE="MD5" SIZE="8392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00204_1.tif"/>
+      </file>
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="322ee63f4c76c37e95c114e77f876d11" CHECKSUMTYPE="MD5" SIZE="29212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="1db088c90460a05a7e195a9274358487" CHECKSUMTYPE="MD5" SIZE="53544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00205_1.tif"/>
+      </file>
+      <file ID="tiff_00206_0" MIMETYPE="image/tiff" CHECKSUM="68620703fd0fe672a24e9f67cc6f41f3" CHECKSUMTYPE="MD5" SIZE="54150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00206_0.tif"/>
+      </file>
+      <file ID="tiff_00206_1" MIMETYPE="image/tiff" CHECKSUM="1897dad6dd0f0fdd4d6f3c9a3e083b7f" CHECKSUMTYPE="MD5" SIZE="32898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00206_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00204_1" MIMETYPE="image/jp2" CHECKSUM="857a253cdaab362ff49fad73974b829c" CHECKSUMTYPE="MD5" SIZE="1204904">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00204_1.jp2"/>
+      </file>
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="43cc7d51ec55a112657fa5d77f9eab9e" CHECKSUMTYPE="MD5" SIZE="2000172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="f5454c4259ec3b5cf480027ee44c4161" CHECKSUMTYPE="MD5" SIZE="2656221">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00205_1.jp2"/>
+      </file>
+      <file ID="jp2_00206_0" MIMETYPE="image/jp2" CHECKSUM="3073b894032c8cc980b6eb563aa9ccd6" CHECKSUMTYPE="MD5" SIZE="2671350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00206_0.jp2"/>
+      </file>
+      <file ID="jp2_00206_1" MIMETYPE="image/jp2" CHECKSUM="9539d568f05232a18fe680deb952287c" CHECKSUMTYPE="MD5" SIZE="2359532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000640_00206_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00204_1" MIMETYPE="text/xml" CHECKSUM="6e7fb75a6e01078aced546be07be2c46" CHECKSUMTYPE="MD5" SIZE="8580">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00204_1.xml"/>
+      </file>
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="d2127030dcd9e05c14905229c18ed3fd" CHECKSUMTYPE="MD5" SIZE="46539">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="c551bbda9eb4258827042fae242553a7" CHECKSUMTYPE="MD5" SIZE="89802">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00205_1.xml"/>
+      </file>
+      <file ID="alto_00206_0" MIMETYPE="text/xml" CHECKSUM="a970e7155a46122b1a23630075082a37" CHECKSUMTYPE="MD5" SIZE="92068">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00206_0.xml"/>
+      </file>
+      <file ID="alto_00206_1" MIMETYPE="text/xml" CHECKSUM="914dd774392b861972bab6ce715a57c4" CHECKSUMTYPE="MD5" SIZE="52707">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000640_redacted_ALTO_00206_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0069" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="394" firstpage="390">
+              <court pgmap="408" id="b408-4">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="408" id="A9xq">CA CR 83-152</docketnumber>
+              <citation pgmap="408" id="Aak">664 S.W.2d 505</citation>
+              <parties pgmap="408" id="b408-3">Roy E. SMITH v. STATE of Arkansas</parties>
+              <decisiondate pgmap="408" id="b408-5">Opinion delivered February 22, 1984</decisiondate>
+              <judges pgmap="412" id="b412-6">Cloninger and Corbin, JJ., agree.</judges>
+              <attorneys pgmap="409" id="b409-6">Ernie Witt and R. Kevin Barham, for appellant.</attorneys>
+              <attorneys pgmap="409" id="b409-7">Steve Clark, Atty. Gen., by: Theodore Holder, Asst. Atty. Gen., for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="409" id="b409-8">Tom Glaze, Judge.</author>
+                <p pgmap="409" id="A4bU">Appellant appeals his jury con­viction for possession of marijuana. He was sentenced to one year in the county jail and fined $1,000. For reversal, appellant raises seven issues.</p>
+                <p pgmap="409" id="b409-9">Before discussing each issue, we briefly review the evi­dence. On October 10, 1982, law enforcement officers were serveilling a marijuana patch they had found near Clear Creek in Johnson County. During their surveillance, they observed the appellant picking leaves from marijuana stalks and placing them in a large paper sack. The officers subsequently arrested the appellant, who later gave a statement admitting he had picked the marijuana, but denying that he intended to sell or smoke it. Appellant stated that he found the patch while squirrel hunting. After taking some squirrels he had shot to his truck, he returned to pick the marijuana. He said that he intended to take it home “and keep it.” The officers found some dead squirrels in the appellant’s truck as well as his hunting vest in the cab.</p>
+                <p pgmap="410" id="b410-3">Appellant first argues that in its discovery response, the State indicated it would introduce photographs of the marijuana and the patch but instead introduced both photographs and actual marijuana samples. In doing so, appellant contends that the State violated Rule 17.1 of the Arkansas Rules of Criminal Procedure, and that the court’s admission of the marijuana samples into evidence was error.</p>
+                <p pgmap="410" id="b410-4">Rule 17.1 requires that the prosecuting attorney disclose to defense counsel, upon timely request, any material and information the prosecutor intends to use in any hearing or at trial but as the Court noted in Brenneman v. State, 264 Ark. 460, 573 S.W.2d 47 (1978), the exclusion of such evidence is not mandatory. In Fisk v. State, 5 Ark. App. 5, 631 S.W.2d 626 (1982), this Court stated that a trial court is not required under Rule 19.7 of the Arkansas Rules of Criminal Procedure to comply with discovery procedures unless there is a likelihood that prejudice will result. Also, the party alleging error is required to demonstrate that prejudice did in fact exist. Gruzen v. State, 276 Ark. 149, 634 S.W.2d 92 (1982). In the instant case, appellant fails to show how he was prejudiced by the introduction of the marijuana into evidence. Appellant denied neither the existence of the contraband nor that he picked it and put the leaves in a sack. The State proved the existence of the marijuana both by the officers’ testimonies and by photographs of the contraband. In view of such overwhelming proof, the prejudicial impact, if any, caused by the introduction of the actual samples of marijuana was insignificant.</p>
+                <p pgmap="410(111) 411(21)" id="b410-5">For similar and other reasons, we do not agree with appellant’s contention that the State’s failure to establish the chain of custody in handling the marijuana prevented its introduction at trial. Again, appellant’s possession of the marijuana was clearly shown and undenied. He was convicted only of possession of the controlled substance so the chemical analysis of the amount or weight of the substance proved of no prejudicial import. Even if appellant could argue otherwise, he made no timely objection to the introduction of the marijuana samples. Arkansas does not adhere to the “plain error rule,” and accordingly, we cannot consider such an issue for the first time on appeal. See Robinson v. State, 278 Ark. 516, 648 S.W.2d 444 (1983); and Wicks v. State, 270 Ark. 781, 606 S.W.2d 366 (1980).</p>
+                <p pgmap="411" id="b411-4">Appellant also challenges the trial court’s admission of three photographs into evidence. He argues the pictures depicted the marijuana stalks and protective wire screens, thus unfairly leading the jury to believe he manufactured marijuana. He further argues that one of these photographs was inadmissible because it did not accurately reflect the marijuana or the terrain where it was grown. This secondary argument, however, was not made below, so we are unable to address it here. Wicks, id. The law is settled that the introduction of photographs rests largely within the discretion of the trial judge and they are admissible for the purpose of describing and identifying the scene of a crime. Stewart v. State, 233 Ark. 458, 345 S.W.2d 472 (1961). This purpose was served here, and we cannot say the trial court abused its discretion in allowing the photographs into evidence, especially considering the place of the alleged offense and the manner in which it was performed. See also Tucker v. State, 3 Ark. App. 89, 622 S.W.2d 202 (1981) (wherein this Court upheld the admissibility of certain photographs, stating that under Rule 403 of the Uniform Rules of Evidence the weighing of the opposing factors lies within the sound discretion of the trial court and its decision will not be reversed absent a clear abuse of that discretion).</p>
+                <p pgmap="411(148) 412(3)" id="b411-5">Appellant’s next contention is that error ensued even though the trial court sustained his objection to the prosecutor’s question to an officer, “[I]s it usual or unusual for a person to pick another person’s marijuana?” Follow­ing that ruling, the court denied appellant’s request for a mistrial, which he assigns as error here. As is oft stated, it is within the sound discretion of the trial court to deny a motion for a mistrial and such discretion will not be disturbed on appeal unless there is a showing of abuse. Parrott v. State, 246 Ark. 672, 439 S.W.2d 924 (1969). Here, the trial judge promptly agreed with appellant that the question posed to the officer was improper. Appellant did not ask for a cautionary instruction, and the judge simply did not believe the question alone justified granting a mistrial. We cannot say the trial court abused its discretion in so holding.</p>
+                <p pgmap="412" id="b412-4">Finally, appellant argues the trial court erred in failing to exclude the testimony of an officer regarding the weight of the marijuana because (1) the weight included non-con­trolled substances such as stalks and sterilized seeds, (2) the officer was not an expert, and (3) the accuracy of the scales he used was not established. We find no merit in these arguments. The trial court instructed the jury that mari­juana does not include the mature stalks, the fiber produced from the plant or the sterilized seed of the plant which is incapable of germination. More importantly, the officer testified to the weight of the sack that contained only marijuana leaves. As noted earlier, appellant was convicted of possession of marijuana, not possession with the intent to deliver. Thus, the State’s evidence of the amount or weight of marijuana did not prejudicially influence the jury to find appellant guilty of the greater offense. Nonetheless, the officer’s testimony concerning the weight of the marijuana as well as the reliability of the scales he used in determining the weight is, we believe, admissible. Undoubtedly, the objection to such testimony goes to the weight that should be given the officer’s testimony and not to its competency or admissibility. We affirm.</p>
+                <p pgmap="412" id="b412-5">Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="408" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00204_1"/>
+        <fptr FILEID="jp2_00204_1"/>
+        <fptr FILEID="alto_00204_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_408.1" BETYPE="IDREF" FILEID="alto_00204_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="409" ORDERLABEL="391" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="392" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.1" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="411" ORDERLABEL="393" TYPE="page">
+        <fptr FILEID="tiff_00206_0"/>
+        <fptr FILEID="jp2_00206_0"/>
+        <fptr FILEID="alto_00206_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_411.3" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="412" ORDERLABEL="394" TYPE="page">
+        <fptr FILEID="tiff_00206_1"/>
+        <fptr FILEID="jp2_00206_1"/>
+        <fptr FILEID="alto_00206_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_412.2" BETYPE="IDREF" FILEID="alto_00206_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.5" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-9" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.13" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-8" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.10" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.6" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-3" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.3" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.4" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b411-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_411.5" BETYPE="IDREF" FILEID="alto_00206_0"/>
+            <area BEGIN="BL_412.1" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9xq" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.4" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-7" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.9" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-6" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.8" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.6" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.7" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aak" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.5" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b408-3" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_408.3" BETYPE="IDREF" FILEID="alto_00204_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b412-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_412.4" BETYPE="IDREF" FILEID="alto_00206_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4bU" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.11" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.12" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            <area BEGIN="BL_411.1" BETYPE="IDREF" FILEID="alto_00206_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-4" BETYPE="IDREF" FILEID="casebody_0069"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.4" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

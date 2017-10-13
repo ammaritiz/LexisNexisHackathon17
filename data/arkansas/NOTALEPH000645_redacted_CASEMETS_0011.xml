@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="NOTALEPH000645_0011" publicationstatus="published">
+          <court abbreviation="Ark. Ct. App." jurisdiction="Arkansas">Arkansas Court of Appeals</court>
+          <name abbreviation="Alexander v. Lee Way Motor Freight">Bobby J. ALEXANDER v. LEE WAY MOTOR FREIGHT, et al.</name>
+          <docketnumber>CA 84-416</docketnumber>
+          <citation category="official" type="bluebook">15 Ark. App. 41</citation>
+          <citation category="parallel" type="bluebook">689 S.W.2d 3</citation>
+          <decisiondate>1985-05-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-03-22T14:38:47Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-06-27T15:14:27Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-07-17T13:37:29Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-07-17T13:39:04Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170713.post178</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00032_0" MIMETYPE="image/tiff" CHECKSUM="84bee58b8475ae13df4b6007da568512" CHECKSUMTYPE="MD5" SIZE="8316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00032_0.tif"/>
+      </file>
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="68502db39696f330eb2b52806a56cedb" CHECKSUMTYPE="MD5" SIZE="47260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="e9cc9b63aa5847005134a78142186745" CHECKSUMTYPE="MD5" SIZE="56830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00033_0.tif"/>
+      </file>
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="13131f173c8a2712febef450f109f747" CHECKSUMTYPE="MD5" SIZE="44598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00033_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00032_0" MIMETYPE="image/jp2" CHECKSUM="3c472a138ce4d72daf893d2d344b0ed6" CHECKSUMTYPE="MD5" SIZE="1439914">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00032_0.jp2"/>
+      </file>
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="5231920bda149be4e972a3e4dfd7cbb3" CHECKSUMTYPE="MD5" SIZE="2889752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="eeaffcd7e43d6abc3b53c68563facf6d" CHECKSUMTYPE="MD5" SIZE="2693630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00033_0.jp2"/>
+      </file>
+      <file ID="jp2_00033_1" MIMETYPE="image/jp2" CHECKSUM="3b2746af27997a5b8bbf0b634b1f07bf" CHECKSUMTYPE="MD5" SIZE="2554612">
+        <FLocat LOCTYPE="URL" xlink:href="../images/NOTALEPH000645_00033_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00032_0" MIMETYPE="text/xml" CHECKSUM="93894e30683e7e587b8d2611894067ae" CHECKSUMTYPE="MD5" SIZE="11083">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00032_0.xml"/>
+      </file>
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="bb633f9532ec888c16e621b15a378d09" CHECKSUMTYPE="MD5" SIZE="77575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="46a63c690f22f042ce3ee887252de22f" CHECKSUMTYPE="MD5" SIZE="92005">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00033_0.xml"/>
+      </file>
+      <file ID="alto_00033_1" MIMETYPE="text/xml" CHECKSUM="71ce3e7ec39da634ce985a06dca0cf0c" CHECKSUMTYPE="MD5" SIZE="73439">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/NOTALEPH000645_redacted_ALTO_00033_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0011" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="44" firstpage="41">
+              <court pgmap="63" id="b63-6">Court of Appeals of Arkansas Division I</court>
+              <docketnumber pgmap="63" id="b63-5">CA 84-416</docketnumber>
+              <citation pgmap="63" id="A57">689 S.W.2d 3</citation>
+              <parties pgmap="63" id="b63-4">Bobby J. ALEXANDER v. LEE WAY MOTOR FREIGHT, et al.</parties>
+              <decisiondate pgmap="63" id="b63-7">Opinion delivered May 8, 1985</decisiondate>
+              <judges pgmap="66" id="b66-10">Cooper and Cloninger, JJ., agree.</judges>
+              <attorneys pgmap="64" id="b64-5">Hilburn, Calhoon, Forster, Harper &amp; Pruniski, Ltd., by: Nick Thompson, for appellant.</attorneys>
+              <attorneys pgmap="64" id="b64-6">Friday, Eldredge &amp; Clark, by: Elizabeth J. Robben, for appellee.</attorneys>
+              <opinion type="majority">
+                <author pgmap="64" id="b64-7">Melvin Mayfield, Judge.</author>
+                <p pgmap="64" id="A2t">One issue in this case involves a decision of the Workers’ Compensation Commission holding that Act 444 of 1983 was substantive and, therefore, not retroactive. The Act went into effect on July 4,1983, and amended Ark. Stat. Ann. § 81-1311 (Supp. 1983) to allow an injured employee to have chiropractic care. This change provided by the Act is emphasized in the following quotation of a portion of section 81-­1311:</p>
+                <blockquote pgmap="64" id="b64-8">If the employer selects a physician, the claimant may petition the Commission one time only for a change of physician, and if the Commission approves the change, with or without a hearing, the Commission shall determine the second physician and shall not be bound by recommen­dations of claimant or respondent; provided, however, that if the change desired, by the claimant is to a chiropractic physician, the claimant may make the change by giving advance written notification to the employer or carrier.</blockquote>
+                <p pgmap="64(146) 65(12)" id="b64-9">It was stipulated that the claimant sustained a compensable injury to his cervical spine on April 15,1982, and that he was first treated by the company doctor who then referred him to Dr. Thomas Fletcher. Dr. Fletcher released him to return to work on July 20, 1982, but claimant continued to have problems and on July 12,1983, pursuant to Act 444, he gave written notice to his employer that he intended to seek treatment from a chiropractor. He went to Dr. Gaylon Carter and upon respondent’s refusal to pay for this treatment, a claim was filed and a hearing was held before an administrative law judge. The claimant contended that Act 444 entitled him to this treatment since it was in effect on the day he gave the written notice. The employer contended the Act was not retroactive, and the treatment was not for the injury received but for discomfort associated with claimant’s long­standing degenerative disc disease.</p>
+                <p pgmap="65" id="b65-4">Claimant testified that after his release by Dr. Fletcher his problem reoccurred in about six months. He said he returned to Dr. Fletcher who prescribed medication for him but when it did not relieve his pain and his restricted movement, he decided to visit Dr. Carter. Claimant admitted that he had been treated by Dr. Fletcher in 1977 for degenerative disc disease.</p>
+                <p pgmap="65" id="b65-5">Dr. Fletcher testified that claimant’s injury should have healed in about six months and that any recurring pain was most likely due to the degenerative disc disease which claimant had in 1977 and which was temporarily aggravated by the injury. Dr. Carter, however, reported that the injury “would cause this to be symptom expressive” because of the underlying weakness.</p>
+                <p pgmap="65" id="b65-6">The administrative law judge held that Dr. Carter’s treat­ment was not reasonably necessary as a result of the injury sustained in April of 1982. However, she held that based on the case of Popeye’s Famous Fried Chicken v. Willis, 7 Ark. App. 167, 646 S.W.2d 17 (1983), Act 444 was procedural rather than substantive, and since the notice was given after the Act became effective, the claimant was entitled to the change of physicians to Dr. Carter. The Commission reversed the law judge on both points holding that while claimant’s treatment by a chiropractic physician was causally related to the compensable aggravation of claimant’s degenerative cervical disc disease, Act 444 of 1983 created new rights and obligations of a substantive nature, and must be characterized as substantive law not entitled to be retroactively applied to injuries occurring prior to its effective date. Both parties appeal.</p>
+                <p pgmap="65(113) 66(54)" id="b65-7">
+                   We affirm the decision of the Commission holding that the treatment was causally related to the claimant’s compen­sable injury. On review the evidence and all inferences deducible therefrom must be viewed in the light most favorable to the findings of the Commission. Roberts v. Leo Levi Hospital, 8 Ark. App. 184, 649 S.W.2d 402 (1983). It is the duty of the Commission to weigh medical evidence as it does any other evidence and, if that evidence conflicts, the resolution of the conflict is a question of fact for the Commission. Jones v. Scheduled Skyways, Inc., 1 Ark. App. 44, 612 S.W.2d 333 (1981); Turner v. Lambert Construction Co., 258 Ark. 333, 524 S.W.2d 465 (1975). We will not reverse a decision of the Commission unless reasonable minds could not reach the same conclusion. Bearden Lumber Co. v. Bond, 7 Ark. App. 65, 644 S.W.2d 321 (1983). Although the evidence was directly contra­dictory, there was substantial evidence to support the Commis­sion’s decision on this point.</p>
+                <p pgmap="66" id="b66-5">
+                   However, on the second point, we hold that the Com­mission erred in ruling that Act 444 of 1983 should be character­ized as substantive law and not entitled to retroactive application. Statutes are generally construed as having prospective applica­tion except when they are remedial acts or statutes which do not disturb vested rights or create new obligations. Aluminum Company of America v. Neal, 4 Ark. App. 11, 626 S.W.2d 620 (1982). We think this case is controlled by the case of Popeye’s Famous Fried Chicken v. Willis, supra, which held Ark. Stat. Ann. § 81-1311 to be procedural and stated:</p>
+                <blockquote pgmap="66" id="b66-6">Section 81-1311 already contained a provision al­lowing the commission to authorize a claimant to change doctors and section 3 of the 1981 act did not disturb any vested right nor create any new obligation. It merely supplied “a new or more appropriate remedy to enforce an existing right or obligation”. . . .</blockquote>
+                <p pgmap="66" id="b66-7">
+                   Likewise, the amendment to section 81-1311 provided by Act 444 of 1983, does not disturb any vested rights or create any new obligations, it merely removes certain procedural barri­ers and allows an injured employee to seek additional medical treatment. The claimant’s right to seek treatment from a chiro­practor is not unconditional; he still must prove the treatment is reasonable and necessary and causally related to his compensable injury.</p>
+                <p pgmap="66" id="b66-8">Therefore, we remand this case to the Commission for further action not inconsistent with this opinion.</p>
+                <p pgmap="66" id="b66-9">Affirmed in part; reversed in part and remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="63" ORDERLABEL="41" TYPE="page">
+        <fptr FILEID="tiff_00032_0"/>
+        <fptr FILEID="jp2_00032_0"/>
+        <fptr FILEID="alto_00032_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_63.2" BETYPE="IDREF" FILEID="alto_00032_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="64" ORDERLABEL="42" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.2" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="43" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="66" ORDERLABEL="44" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jp2_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.2" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.8" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.7" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.11" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b63-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.10" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-10" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.10" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2t" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.11" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_64.12" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.8" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-8" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.13" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.6" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.8" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_66.1" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.7" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-4" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.7" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.5" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.14" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_65.1" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-6" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.9" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-7" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.10" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-5" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.8" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-9" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.9" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A57" BETYPE="IDREF" FILEID="casebody_0011"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_63.9" BETYPE="IDREF" FILEID="alto_00032_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>
