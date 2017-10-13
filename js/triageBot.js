@@ -16,42 +16,43 @@ var bot = controller.spawn({
   token: process.env.BOT_TOKEN
 }).startRTM();
 
+var mysql      = require('mysql');
+var connection = mysql.createConnection({
+  host     : 'localhost',
+  user     : 'root',
+  password : 'qwerty',
+  database : 'sample'
+});
+
 /**
  * Fulfilling Use Case 1
  * @param bot - our DeveloperTriage bot
  * @param message - command
  */
-controller.hears(['give me issues'], 'direct_message, direct_mention, mention', function(bot, message) {
+controller.hears(['table names'], 'direct_message, direct_mention, mention', function(bot, message) {
   controller.storage.users.get(message.user, function(err, user) {
-    if (user && user.name && user.gitName) {
-      main.getIssues(user.gitName, "open").then(function(openI) {
-        if(openI.length == 0){
-          var str = "No issues to work on for now!";
-          bot.reply(message, str);
-        } else {
-            getICBU(message, user, openI);
-          }
-        }).catch(function (e){ // catch getIssues
-          bot.reply(message, e);
-        });
-      } else {
-        bot.startConversation(message, function(err, convo) {
-          if (!err) {
-            if(!user || !user.name)
-            asking_name(err,convo,message);
-            else{
-              bot.reply(message, 'Hello ' + user.name );
-              asking_git_hub_name(err,convo,message);
-            }
-            // store the results in a field called nickname
-            convo.on('end', function(convo) {
-              if (convo.status != 'completed') {
-                bot.reply(message, 'OK, nevermind!');
-              }
-            });
-          }
-        });
-      }
+    connection.connect();
+    
+    connection.query('show tables;', function(err, rows, fields) {
+      if (!err){
+        //console.log('Data is: ');
+        //console.log(JSON.stringify(rows));
+        var data = rows;
+        //var data = JSON.stringify(rows);
+        //var data = JSON.parse(JSON.stringify(rows));
+        console.log(data);
+        for(var i=0;i<data.length;i++){
+            
+            //console.log(data[i].id);
+            console.log(data[i].Tables_in_sample);
+            bot.reply(message, data[i].Tables_in_sample);
+        }
+            
+    }
+    //else
+        //bot.reply('Error while performing Query.'+err);
+    });
+    connection.end();
     });
   });
 
@@ -267,7 +268,7 @@ controller.hears(['Help me with issue #(.*)', 'help me with issue #(.*)'], 'dire
  * @param bot - our DeveloperTriage bot
  * @param message - command
  */
-controller.hears(['Hello', 'hi'], 'direct_message,direct_mention,mention', function(bot, message) {
+controller.hears(['table data'], 'direct_message,direct_mention,mention', function(bot, message) {
 
     controller.storage.users.get(message.user, function(err, user) {
 
@@ -295,7 +296,7 @@ controller.hears(['Hello', 'hi'], 'direct_message,direct_mention,mention', funct
 
 });
 
-
+git a
 /**
  * Helper method for initializing of the bot
  * set up username for the current user
@@ -303,47 +304,70 @@ controller.hears(['Hello', 'hi'], 'direct_message,direct_mention,mention', funct
  * @param message - command
  */
 var asking_name = function(response, convo, message) {
-    convo.say('Hey there, I do not know your name yet!');
-    convo.ask('What should I call you?', function(response, convo) {
-      convo.ask('You want me to call you `' + response.text + '`?', [
-        {
-          pattern: 'yes',
-          callback: function(response, convo) {
-            // since no further messages are queued after this,
-            // the conversation will end naturally with status == 'completed'
-            controller.storage.users.get(message.user, function(err, user) {
-              if (!user) {
-                user = {
-                  id: message.user,
-                  gitName : '',
-                };
-              }
-              user.name = convo.extractResponse('nickname');
-              controller.storage.users.save(user, function(err, id) {
-                bot.reply(message, 'Got it. I will call you ' + user.name + ' from now on.');
-              });
-            });
-            asking_git_hub_name(response,convo, message);
-            convo.next();
-          }
-        },
-        {
-          pattern: 'no',
-          callback: function(response, convo) {
-            // stop the conversation. this will cause it to end with status == 'stopped'
-            convo.stop();
-          }
-        },
-        {
-          default: true,
-          callback: function(response, convo) {
-            convo.repeat();
-            convo.next();
-          }
+    convo.say('Sampleuser Table Content:');
+    connection.connect();
+    
+    connection.query('SELECT * from sampleusers', function(err, rows, fields) {
+      if (!err){
+        //console.log('Data is: ');
+        //console.log(JSON.stringify(rows));
+        var data = rows;
+        //var data = JSON.stringify(rows);
+        //var data = JSON.parse(JSON.stringify(rows));
+        console.log(data);
+        for(var i=0;i<data.length;i++){
+            
+            console.log(data[i].id);
+            console.log(data[i].username);
+            convo.say(data[i].id + " "+ data[i].username);
         }
-      ]);
-      convo.next();
-    }, {'key': 'nickname'});
+            
+    }
+      else
+        console.log('Error while performing Query.'+err);
+    });
+    
+    connection.end();
+    // convo.ask('What should I call you?', function(response, convo) {
+    //   convo.ask('You want me to call you `' + response.text + '`?', [
+    //     {
+    //       pattern: 'yes',
+    //       callback: function(response, convo) {
+    //         // since no further messages are queued after this,
+    //         // the conversation will end naturally with status == 'completed'
+    //         controller.storage.users.get(message.user, function(err, user) {
+    //           if (!user) {
+    //             user = {
+    //               id: message.user,
+    //               gitName : '',
+    //             };
+    //           }
+    //           user.name = convo.extractResponse('nickname');
+    //           controller.storage.users.save(user, function(err, id) {
+    //             bot.reply(message, 'Got it. I will call you ' + user.name + ' from now on.');
+    //           });
+    //         });
+    //         asking_git_hub_name(response,convo, message);
+    //         convo.next();
+    //       }
+    //     },
+    //     {
+    //       pattern: 'no',
+    //       callback: function(response, convo) {
+    //         // stop the conversation. this will cause it to end with status == 'stopped'
+    //         convo.stop();
+    //       }
+    //     },
+    //     {
+    //       default: true,
+    //       callback: function(response, convo) {
+    //         convo.repeat();
+    //         convo.next();
+    //       }
+    //     }
+    //   ]);
+    //   convo.next();
+    // }, {'key': 'nickname'});
 };
 
 /**
@@ -352,49 +376,49 @@ var asking_name = function(response, convo, message) {
  * @param bot - our DeveloperTriage bot
  * @param message - command
  */
-var asking_git_hub_name = function(response, convo, message) {
+// var asking_git_hub_name = function(response, convo, message) {
 
-  convo.ask('What is your github username?', function(response, convo) {
-      main.isValidUser(response.text).then(function (validUserName){
-        convo.ask('Your github user name is `' + response.text + '`? Please confirm', [
-          {
-            pattern: 'yes',
-            callback: function(response, convo) {
-              // since no further messages are queued after this,
-              // the conversation will end naturally with status == 'completed'
-              controller.storage.users.get(message.user, function(err, user) {
-                user.gitName = convo.extractResponse('git_nickname');
-                controller.storage.users.save(user, function(err, id) {
-                  bot.reply(message, 'Got it! updating you github user name as ' + user.gitName + ' from now on. You can now issue commands!');
-                });
-              });
-              convo.next();
-            }
-          },
-          {
-            pattern: 'no',
-            callback: function(response, convo) {
-              // stop the conversation. this will cause it to end with status == 'stopped'
-              convo.stop();
-            }
-          },
-          {
-            default: true,
-            callback: function(response, convo) {
-              convo.repeat();
-              convo.next();
-            }
-          }
-        ]);
-    convo.next();
-      }).catch(function (e){
-        bot.reply(message,"Sorry, " +e +" is not a valid user!");
-        convo.repeat();
-        convo.next();
-      });
+//   convo.ask('What is your github username?', function(response, convo) {
+//       main.isValidUser(response.text).then(function (validUserName){
+//         convo.ask('Your github user name is `' + response.text + '`? Please confirm', [
+//           {
+//             pattern: 'yes',
+//             callback: function(response, convo) {
+//               // since no further messages are queued after this,
+//               // the conversation will end naturally with status == 'completed'
+//               controller.storage.users.get(message.user, function(err, user) {
+//                 user.gitName = convo.extractResponse('git_nickname');
+//                 controller.storage.users.save(user, function(err, id) {
+//                   bot.reply(message, 'Got it! updating you github user name as ' + user.gitName + ' from now on. You can now issue commands!');
+//                 });
+//               });
+//               convo.next();
+//             }
+//           },
+//           {
+//             pattern: 'no',
+//             callback: function(response, convo) {
+//               // stop the conversation. this will cause it to end with status == 'stopped'
+//               convo.stop();
+//             }
+//           },
+//           {
+//             default: true,
+//             callback: function(response, convo) {
+//               convo.repeat();
+//               convo.next();
+//             }
+//           }
+//         ]);
+//     convo.next();
+//       }).catch(function (e){
+//         bot.reply(message,"Sorry, " +e +" is not a valid user!");
+//         convo.repeat();
+//         convo.next();
+//       });
     
-    }, {'key': 'git_nickname'});
-};
+//     }, {'key': 'git_nickname'});
+// };
 
 
 /**
