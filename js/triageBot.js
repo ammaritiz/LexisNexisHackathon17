@@ -20,7 +20,7 @@ var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : 'qwerty',
+  password : 'pass123',
   database : 'sample'
 });
 
@@ -296,7 +296,6 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
 
 });
 
-git a
 /**
  * Helper method for initializing of the bot
  * set up username for the current user
