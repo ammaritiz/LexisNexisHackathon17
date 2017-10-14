@@ -24,6 +24,30 @@ var connection = mysql.createConnection({
   database : 'sample'
 });
 
+var getData = function(){
+    connection.connect();
+    var query;
+    connection.query('show tables;', function(err, rows, fields) {
+      if (!err){
+        //console.log('Data is: ');
+        //console.log(JSON.stringify(rows));
+        var data = rows;
+        //var data = JSON.stringify(rows);
+        //var data = JSON.parse(JSON.stringify(rows));
+        console.log(data);
+        for(var i=0;i<data.length;i++){
+            
+            //console.log(data[i].id);
+            console.log(data[i].Tables_in_sample);
+            bot.reply(message, data[i].Tables_in_sample);
+        }
+            
+    }
+    //else
+        //bot.reply('Error while performing Query.'+err);
+    });
+    connection.end();
+}
 /**
  * Fulfilling Use Case 1
  * @param bot - our DeveloperTriage bot
@@ -296,17 +320,65 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
 
 });
 
-git a
 /**
  * Helper method for initializing of the bot
  * set up username for the current user
  * @param bot - our DeveloperTriage bot
  * @param message - command
  */
+
+var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+
+var getQuery = function(sampleJson){
+    var keySet = Object.keys(sampleJson[0]);
+    //console.log(keySet);
+    var query = '';
+    //for(var k=0;k<keySet.length;k++){
+    keySet.forEach(function(k){
+        console.log("key ",k);
+        if(k=='intent'){
+          console.log(sampleJson[0].intent);
+            if(sampleJson[0].intent=='count'){
+              console.log("inside count");
+                query+='select count(*) from caseData';
+            }
+            else if(sampleJson[0].intent=='data'){
+                if(keySet.indexOf('val')>-1){
+                  query+='select ';
+                    sampleJson[0].val.forEach(function(i){
+                        query+=i+', ';
+                    });
+                    query = query.substring(0, query.length - 2);
+                    //console.log("val: " + val);
+                }
+                else
+                    query+='select * from caseData';
+            }
+        }
+        else if(k=='column'){
+            var col = sampleJson[0].column;
+            console.log(col);
+            var colkey = Object.keys(col[0]);
+            if(colkey.length>0){
+              query+=" where ";
+              colkey.forEach(function(k){
+                console.log(k, col[0][k]);  
+                query+=k+" like '%"+col[0][k]+"%' and ";
+              });
+              query = query.substring(0, query.length - 5);
+            }
+            //}
+        }
+    });
+    return query;
+}
 var asking_name = function(response, convo, message) {
     convo.say('Sampleuser Table Content:');
     connection.connect();
-    
+    console.log(JSON.stringify(sampleJson));
+    var sample = JSON.stringify(sampleJson);
+    var query = getQuery(sampleJson);
+    console.log("query: ", query);
     connection.query('SELECT * from sampleusers', function(err, rows, fields) {
       if (!err){
         //console.log('Data is: ');
@@ -314,11 +386,11 @@ var asking_name = function(response, convo, message) {
         var data = rows;
         //var data = JSON.stringify(rows);
         //var data = JSON.parse(JSON.stringify(rows));
-        console.log(data);
+        //console.log(Object.keys(data[0]));
         for(var i=0;i<data.length;i++){
             
-            console.log(data[i].id);
-            console.log(data[i].username);
+            //console.log(data[i].id);
+            //console.log(data[i].username);
             convo.say(data[i].id + " "+ data[i].username);
         }
             
