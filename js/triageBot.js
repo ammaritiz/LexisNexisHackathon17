@@ -24,7 +24,7 @@ var connection = mysql.createConnection({
   password : 'pass123',
   database : 'featureData'
 });
-
+connection.connect();
 var getData = function(){
     connection.connect();
     var query;
@@ -343,15 +343,16 @@ var getQuery = function(sampleJson){
     //keySet.forEach(function(k){
         //console.log("key ",k);
         if(keySet.indexOf('intent')>-1){
-          console.log('intent: ', sampleJson[0].intent);
-            if(sampleJson[0].intent=='count'){
+          console.log('intent: ', sampleJson.intent);
+            if(sampleJson.intent=='count'){
               console.log("inside count");
                 query+='select count(*) as numOfRows from caseData';
             }
-            else if(sampleJson[0].intent=='data'){
-                if(keySet.indexOf('val')>-1){
-                  query+='select ';
-                    sampleJson[0].val.forEach(function(i){
+            else if(sampleJson.intent=='data'){
+                if(keySet.indexOf('val')>-1 && sampleJson.val.length>0){
+                  
+		    query+='select ';
+                    sampleJson.val.forEach(function(i){
                         query+=i+', ';
                     });
                     query = query.substring(0, query.length - 2);
@@ -363,7 +364,7 @@ var getQuery = function(sampleJson){
             }
         }
         if(keySet.indexOf('column')>-1){
-            var col = sampleJson[0].column;
+            var col = sampleJson.column;
             console.log(col);
             var colkey = Object.keys(col[0]);
             if(colkey.length>0){
@@ -378,7 +379,7 @@ var getQuery = function(sampleJson){
             //}
         }
     //});
-    return query;
+    return query+' order by decisiondate limit '+sampleJson.num_of_case;
 }
 
 var asking_name = function(response, convo, message) {
@@ -534,16 +535,14 @@ var sampleResponse = [{'judgeName': 'Ammar', 'name': 'KW', 'category': 'criminal
 // var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
 
 controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
-  user_query = String(message);
-  console.log("-------------------------------> ");
-	var process_query = function(user_query)
-  {
+  user_query = message.text;
+  console.log("-------------------------------> ") ;
       //user_query = 'How many cases at Arkansas supreme court?';
       user_query = user_query.toLowerCase()
       needle.post("https://8rc0ymmdo5.execute-api.us-east-2.amazonaws.com/dev/auto-classifier/HackPack-intent-classifier", {"input_text": user_query}, {headers:{"x-api-key": "XV7Ijo8auq2IXAI7tZ08F5pGNUo6gAO92D5nN0v0","Content-Type": "application/json"},json:true}, 
       function(err,resp){
           dt = {}
-          console.log(user_query ,resp.body.classification)
+          console.log("--->",user_query ,resp.body.classification)
           if (resp.body.classification == "countQuery"){
               dt.intent = "count"
           }
@@ -565,6 +564,9 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
               else if(user_query.match(/where/i)){
                   value.push('court','court_type');
               }
+		else{
+		value.push('caseID');
+		}
           }
           
           
@@ -586,10 +588,9 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
                 
           if( user_query.match(/judged by/i) || user_query.match(/judge by/i) ||  user_query.match(/judge/i)){
               arr = user_query.match(/judged by|judge by|judge/i)
-              jud = user_query.substring(arr.index).match(/\w+\s+\w+/i);
-      
+		jud = user_query.substring(arr.index + arr[0].length ).match(/\w+\s+\w+/i);
               if(jud.length){
-                  dct.judgeName = user_query.substring(arr.index).match(/\w+\s+\w+/i)[0];
+                  dct.judgeName = user_query.substring( arr.index+arr[0].length ).match(/\w+\s+\w+/i)[0];
               }  
           }
           if(user_query.match(/opinion/i)){
@@ -605,43 +606,46 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
               if (len){
                   dt.num_of_case = len[0];
               }
-              else{
-                  dt.num_of_case = 1;
-              }
           }
+	else{
+		dt.num_of_case = 10;
+	}
       
           dt.column.push(dct)
           console.log(dt)
-          connection.connect();
+          //connection.connect();
           //var sample = JSON.stringify(dt);
-          var query = getQuery(JSON.stringify(dt));
-          //console.log("query: ", query);
+          var query = getQuery(dt);
+          console.log("query: ", query);
           connection.query(query, function(err, rows, fields) {
-            if (!err){
-              if(dt[0]['intent'] == 'count')
+  	console.log(rows[0]);
+          if (!err){
+              if(dt['intent'] == 'count')
               {
-                bot.reply(message, "I found " + rows[0]['numOfRow'] + " cases")
+		console.log(rows[0].numOfRows);
+                bot.reply(message, "I found " + rows[0].numOfRows + " cases");
               }
-              else if(dt[0]['intent'] == 'data')
+              else if(dt['intent'] == 'data')
               {
                 resp = "Ok, I found " + rows.length + " records. Here are the details for the same:\n\n";
                 for(var i = 0; i < rows.length; i++){
-                  dt[0]['val'].forEach(function(k){
+                  dt['val'].forEach(function(k){
                     resp += k + ': ' + rows[i][k] + '\n';
                   });
                   resp += '\n'
                 }
-                bot.reply(message, resp)
+		if(resp.length > 400)
+			bot.reply(message, resp.substring(0, 400) + '...')
+		else
+                	bot.reply(message, resp)
               }
           }
             else
               console.log('Error while performing Query.'+err);
+	    //connection.end();
           });
           
-          connection.end();
       }
     );
-  }
-
- process_query(user_query); 
+   
 });
