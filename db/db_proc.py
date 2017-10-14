@@ -5,13 +5,16 @@ import sys
 import os
 from os import listdir
 from os.path import isfile, join
+import pymysql
 
-df_meta = pd.read_csv(os.getcwd() + "/../data/metadata.tsv", sep="\\t")
-df_judges = pd.read_csv(os.getcwd() + "/../data/federal-judges.csv", encoding = 'ISO-8859-1')
+db = pymysql.connect(host="localhost",user="root",passwd="pass123",db="featureData")
+cur = db.cursor()
+df_meta = pd.read_csv(os.getcwd() + "/data/metadata.tsv", sep="\\t")
+df_judges = pd.read_csv(os.getcwd() + "/data/federal-judges.csv", encoding = 'ISO-8859-1')
 
-mypath = os.getcwd() + '\\federal\\casemets\\'
+mypath = os.getcwd() + '/data/federal/casemets/'
 onlyfiles = [join(mypath, f) for f in listdir(mypath) if isfile(join(mypath, f)) and f[-3:] == 'xml']
-mypath = os.getcwd() + '\\arkansas\\'
+mypath = os.getcwd() + '/data/arkansas/'
 onlyfiles += [join(mypath, f) for f in listdir(mypath) if isfile(join(mypath, f)) and f[-3:] == 'xml']
 
 dct_data = dict()
@@ -22,9 +25,8 @@ for i in range(len(onlyfiles)):
         xmldoc = minidom.parse(onlyfiles[i])
         
         dct_data['caseid'] = dct_data.get('caseid',[])+[xmldoc.getElementsByTagName('case')[0].getAttribute('caseid')]
-        
         dct_data['name']  = dct_data.get('name',[])+[xmldoc.getElementsByTagName('case')[0].getElementsByTagName('name')[0].childNodes[0].data]
-        dct_data['docketnumber']  = dct_data.get('docketnumber',[])+[xmldoc.getElementsByTagName('case')[0].getElementsByTagName('docketnumber')[0].childNodes[0].data]
+        #dct_data['docketnumber']  = dct_data.get('docketnumber',[])+[xmldoc.getElementsByTagName('case')[0].getElementsByTagName('docketnumber')[0].childNodes[0].data]
         dct_data['decisiondate']  = dct_data.get('decisiondate',[])+[xmldoc.getElementsByTagName('case')[0].getElementsByTagName('decisiondate')[0].childNodes[0].data]
         
         dct_data['opinion_majority'] = dct_data.get('opinion_majority',[])+['']
@@ -52,7 +54,14 @@ for i in range(len(onlyfiles)):
                 dct_data[key][-1] = txt
         except:
             print("Exception in opinion: ",onlyfiles[i], sys.exc_info())
+
+        cur.execute(u'INSERT INTO caseData VALUES (%s,%s,%s,%s,%s,%s,%s)',(dct_data['caseid'][i],dct_data['name'][i],dct_data['decisiondate'][i],dct_data['opinion_majority'][i].encode('cp1252'),dct_data['opinion_dissent'][i].encode('cp1252'),dct_data['opinion_other'][i].encode('cp1252'),dct_data['judge_name'][i]))
+        db.commit()
     except Exception as e:
         print("Exception: ",onlyfiles[i], sys.exc_info())
-
-print(curr_data, dct_data)
+db.commit()
+#values = [list() for item in dct_data['caseid']]
+#print(len(dct_data['caseid'])
+#cur.executemany(u'INSERT INTO caseData(caseID) VALUES (%s)',dct_data['caseid'])
+#db.commit()
+#print(curr_data, dct_data)
