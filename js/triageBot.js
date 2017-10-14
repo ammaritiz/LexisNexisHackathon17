@@ -21,11 +21,7 @@ var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : 'pass123',
-<<<<<<< HEAD
   database : 'sample'
-=======
-  database : 'featureData'
->>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
 });
 
 var getData = function(){
@@ -331,13 +327,9 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
  * @param message - command
  */
 
-<<<<<<< HEAD
 // var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
-=======
-//var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
->>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
 //var sampleJson = [{ 'intent':'count','column':[{'category':'Criminal'}]}];
-var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
+// var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
 //var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','category':'Property'}]}];
 var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','category':'riminal'}]}];
 
@@ -346,15 +338,9 @@ var getQuery = function(sampleJson){
     //console.log(keySet);
     var query = '';
     //for(var k=0;k<keySet.length;k++){
-<<<<<<< HEAD
-    keySet.forEach(function(k){
-        console.log("key ",k);
-        if(k == 'intent'){
-=======
     //keySet.forEach(function(k){
         //console.log("key ",k);
         if(keySet.indexOf('intent')>-1){
->>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
           console.log(sampleJson[0].intent);
             if(sampleJson[0].intent=='count'){
               console.log("inside count");
@@ -374,11 +360,7 @@ var getQuery = function(sampleJson){
                     query+='select * from caseData';
             }
         }
-<<<<<<< HEAD
-        else if(k == 'column'){
-=======
         if(keySet.indexOf('column')>-1){
->>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
             var col = sampleJson[0].column;
             console.log(col);
             var colkey = Object.keys(col[0]);
@@ -546,7 +528,7 @@ var asking_name = function(response, convo, message) {
 // });
 
 // var sampleResponse = [{'count': 25}];
-var sampleResponse = [{'judgeName': 'Ammar', 'name': 'KW'}, {'judgeName': 'Shrikant', 'name': 'KS'}];
+var sampleResponse = [{'judgeName': 'Ammar', 'name': 'KW', 'category': 'criminal law', 'opinion_majority':'yes'}, {'judgeName': 'Shrikant', 'name': 'KS','category': 'criminal law', 'opinion_majority':'yes'}];
 // var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
 
 controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
@@ -556,11 +538,12 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
   }
   else if(sampleJson[0]['intent'] == 'data')
   {
-    resp = "Ok, I found " + sampleResponse.length + " records. Here are the details for the same:\n";
+    resp = "Ok, I found " + sampleResponse.length + " records. Here are the details for the same:\n\n";
     for(var i = 0; i < sampleResponse.length; i++){
       sampleJson[0]['val'].forEach(function(k){
         resp += k + ': ' + sampleResponse[i][k] + '\n';
       });
+      resp += '\n'
     }
     bot.reply(message, resp)
   }
