@@ -20,7 +20,7 @@ var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
-  password : 'qwerty',
+  password : 'pass123',
   database : 'sample'
 });
 
@@ -327,24 +327,24 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
  * @param message - command
  */
 
-var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+// var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
 //var sampleJson = [{ 'intent':'count','column':[{'category':'Criminal'}]}];
-//var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
+// var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
 //var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','category':'Property'}]}];
-//var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
+var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','category':'riminal'}]}];
 
 var getQuery = function(sampleJson){
     var keySet = Object.keys(sampleJson[0]);
     //console.log(keySet);
     var query = '';
     //for(var k=0;k<keySet.length;k++){
-    keySet.forEach(function(k){
-        console.log("key ",k);
-        if(k=='intent'){
+    //keySet.forEach(function(k){
+        //console.log("key ",k);
+        if(keySet.indexOf('intent')>-1){
           console.log(sampleJson[0].intent);
             if(sampleJson[0].intent=='count'){
               console.log("inside count");
-                query+='select count(*) from caseData';
+                query+='select count(*) as numOfRows from caseData';
             }
             else if(sampleJson[0].intent=='data'){
                 if(keySet.indexOf('val')>-1){
@@ -353,13 +353,14 @@ var getQuery = function(sampleJson){
                         query+=i+', ';
                     });
                     query = query.substring(0, query.length - 2);
+		    query+=' from caseData';
                     //console.log("val: " + val);
                 }
                 else
                     query+='select * from caseData';
             }
         }
-        else if(k=='column'){
+        if(keySet.indexOf('column')>-1){
             var col = sampleJson[0].column;
             console.log(col);
             var colkey = Object.keys(col[0]);
@@ -370,20 +371,22 @@ var getQuery = function(sampleJson){
                 query+=k+" like '%"+col[0][k]+"%' and ";
               });
               query = query.substring(0, query.length - 5);
-            }
+            }	
+
             //}
         }
-    });
+    //});
     return query;
 }
+
 var asking_name = function(response, convo, message) {
     convo.say('Sampleuser Table Content:');
     connection.connect();
     console.log(JSON.stringify(sampleJson));
     var sample = JSON.stringify(sampleJson);
-    var query = getQuery(sampleJson);
+    var query = getQuery(sampleJson)+' limit 2';
     console.log("query: ", query);
-    connection.query('SELECT * from sampleusers', function(err, rows, fields) {
+    connection.query(query, function(err, rows, fields) {
       if (!err){
         //console.log('Data is: ');
         //console.log(JSON.stringify(rows));
@@ -399,7 +402,8 @@ var asking_name = function(response, convo, message) {
         for(var i=0;i<data.length;i++){
             keys.forEach(function(k){
                 console.log("key", k);
-                convo.say(data[i][k]);
+                console.log(data[i]);
+		convo.say(data[i][k]);
             });             
             //console.log(data[i].id);
             //console.log(data[i].username);
@@ -509,16 +513,38 @@ var asking_name = function(response, convo, message) {
  * @param bot - our DeveloperTriage bot
  * @param message - command
  */
+// controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
+//     controller.storage.users.get(message.user, function(err, user) {
+//       if (user && user.name) {
+//         bot.reply(message,"Sorry couldn't understand it "+ user.name );
+//       }else{
+//         bot.reply(message,"Sorry couldn't understand it ");
+//       }
+//       bot.reply(message,"Below are is the list of commands you can use:");
+//       bot.reply(message,"1. Deadlines for <git_user_name>");
+//       bot.reply(message,"2. Help me with issue #<github issue number>");
+//       bot.reply(message,"3. Give me issues");
+//     });
+// });
+
+// var sampleResponse = [{'count': 25}];
+var sampleResponse = [{'judgeName': 'Ammar', 'name': 'KW', 'category': 'criminal law', 'opinion_majority':'yes'}, {'judgeName': 'Shrikant', 'name': 'KS','category': 'criminal law', 'opinion_majority':'yes'}];
+// var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+
 controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
-    controller.storage.users.get(message.user, function(err, user) {
-      if (user && user.name) {
-        bot.reply(message,"Sorry couldn't understand it "+ user.name );
-      }else{
-        bot.reply(message,"Sorry couldn't understand it ");
-      }
-      bot.reply(message,"Below are is the list of commands you can use:");
-      bot.reply(message,"1. Deadlines for <git_user_name>");
-      bot.reply(message,"2. Help me with issue #<github issue number>");
-      bot.reply(message,"3. Give me issues");
-    });
+  if(sampleJson[0]['intent'] == 'count')
+  {
+    bot.reply(message, "I found " + sampleResponse[0]['numOfRow'] + " cases")
+  }
+  else if(sampleJson[0]['intent'] == 'data')
+  {
+    resp = "Ok, I found " + sampleResponse.length + " records. Here are the details for the same:\n\n";
+    for(var i = 0; i < sampleResponse.length; i++){
+      sampleJson[0]['val'].forEach(function(k){
+        resp += k + ': ' + sampleResponse[i][k] + '\n';
+      });
+      resp += '\n'
+    }
+    bot.reply(message, resp)
+  }
 });
