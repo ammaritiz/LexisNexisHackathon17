@@ -328,6 +328,10 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
  */
 
 var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+//var sampleJson = [{ 'intent':'count','column':[{'category':'Criminal'}]}];
+//var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
+//var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','category':'Property'}]}];
+//var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
 
 var getQuery = function(sampleJson){
     var keySet = Object.keys(sampleJson[0]);
@@ -386,12 +390,19 @@ var asking_name = function(response, convo, message) {
         var data = rows;
         //var data = JSON.stringify(rows);
         //var data = JSON.parse(JSON.stringify(rows));
-        //console.log(Object.keys(data[0]));
+        var keys;
+        if(data.length>0){
+            console.log(Object.keys(data[0]));
+            keys = Object.keys(data[0]);
+        }
+ 
         for(var i=0;i<data.length;i++){
-            
+            keys.forEach(function(k){
+                console.log("key", k);
+                convo.say(data[i][k]);
+            });             
             //console.log(data[i].id);
             //console.log(data[i].username);
-            convo.say(data[i].id + " "+ data[i].username);
         }
             
     }
