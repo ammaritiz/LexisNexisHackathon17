@@ -1,3 +1,4 @@
+var needle = require('needle')
 var main = require("./main.js")
 var Promise = require("bluebird");
 var _ = require("underscore");
@@ -21,7 +22,7 @@ var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : 'pass123',
-  database : 'sample'
+  database : 'featureData'
 });
 
 var getData = function(){
@@ -334,14 +335,15 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
 var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','category':'riminal'}]}];
 
 var getQuery = function(sampleJson){
-    var keySet = Object.keys(sampleJson[0]);
-    //console.log(keySet);
+    console.log('Json: ', sampleJson);
+    var keySet = Object.keys(sampleJson);
+    console.log("keyset", keySet);
     var query = '';
     //for(var k=0;k<keySet.length;k++){
     //keySet.forEach(function(k){
         //console.log("key ",k);
         if(keySet.indexOf('intent')>-1){
-          console.log(sampleJson[0].intent);
+          console.log('intent: ', sampleJson[0].intent);
             if(sampleJson[0].intent=='count'){
               console.log("inside count");
                 query+='select count(*) as numOfRows from caseData';
@@ -532,10 +534,11 @@ var sampleResponse = [{'judgeName': 'Ammar', 'name': 'KW', 'category': 'criminal
 // var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
 
 controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
-  user_query = message
-  var process_query = function(user_query)
+  user_query = String(message);
+  console.log("-------------------------------> ");
+	var process_query = function(user_query)
   {
-      user_query = 'How many cases at Arkansas supreme court?';
+      //user_query = 'How many cases at Arkansas supreme court?';
       user_query = user_query.toLowerCase()
       needle.post("https://8rc0ymmdo5.execute-api.us-east-2.amazonaws.com/dev/auto-classifier/HackPack-intent-classifier", {"input_text": user_query}, {headers:{"x-api-key": "XV7Ijo8auq2IXAI7tZ08F5pGNUo6gAO92D5nN0v0","Content-Type": "application/json"},json:true}, 
       function(err,resp){
@@ -608,10 +611,10 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
           }
       
           dt.column.push(dct)
-          //console.log(dt)
+          console.log(dt)
           connection.connect();
           //var sample = JSON.stringify(dt);
-          var query = getQuery(dt);
+          var query = getQuery(JSON.stringify(dt));
           //console.log("query: ", query);
           connection.query(query, function(err, rows, fields) {
             if (!err){
@@ -640,5 +643,5 @@ controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot
     );
   }
 
-  
+ process_query(user_query); 
 });
