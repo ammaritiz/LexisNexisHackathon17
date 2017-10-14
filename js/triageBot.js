@@ -383,7 +383,7 @@ var asking_name = function(response, convo, message) {
     var sample = JSON.stringify(sampleJson);
     var query = getQuery(sampleJson);
     console.log("query: ", query);
-    connection.query('SELECT * from sampleusers', function(err, rows, fields) {
+    connection.query('SELECT count(*) as numOfRow from sampleusers', function(err, rows, fields) {
       if (!err){
         //console.log('Data is: ');
         //console.log(JSON.stringify(rows));
@@ -399,6 +399,7 @@ var asking_name = function(response, convo, message) {
         for(var i=0;i<data.length;i++){
             keys.forEach(function(k){
                 console.log("key", k);
+                console.log(data[i]);
                 convo.say(data[i][k]);
             });             
             //console.log(data[i].id);
