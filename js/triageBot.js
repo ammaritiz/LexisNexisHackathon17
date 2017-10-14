@@ -21,7 +21,11 @@ var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : 'pass123',
+<<<<<<< HEAD
   database : 'sample'
+=======
+  database : 'featureData'
+>>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
 });
 
 var getData = function(){
@@ -327,24 +331,34 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
  * @param message - command
  */
 
+<<<<<<< HEAD
 // var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+=======
+//var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+>>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
 //var sampleJson = [{ 'intent':'count','column':[{'category':'Criminal'}]}];
 var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
 //var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','category':'Property'}]}];
-//var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
+var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','category':'riminal'}]}];
 
 var getQuery = function(sampleJson){
     var keySet = Object.keys(sampleJson[0]);
     //console.log(keySet);
     var query = '';
     //for(var k=0;k<keySet.length;k++){
+<<<<<<< HEAD
     keySet.forEach(function(k){
         console.log("key ",k);
         if(k == 'intent'){
+=======
+    //keySet.forEach(function(k){
+        //console.log("key ",k);
+        if(keySet.indexOf('intent')>-1){
+>>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
           console.log(sampleJson[0].intent);
             if(sampleJson[0].intent=='count'){
               console.log("inside count");
-                query+='select count(*) from caseData';
+                query+='select count(*) as numOfRows from caseData';
             }
             else if(sampleJson[0].intent=='data'){
                 if(keySet.indexOf('val')>-1){
@@ -353,13 +367,18 @@ var getQuery = function(sampleJson){
                         query+=i+', ';
                     });
                     query = query.substring(0, query.length - 2);
+		    query+=' from caseData';
                     //console.log("val: " + val);
                 }
                 else
                     query+='select * from caseData';
             }
         }
+<<<<<<< HEAD
         else if(k == 'column'){
+=======
+        if(keySet.indexOf('column')>-1){
+>>>>>>> b23a5c55ccad97ce95c9a3ba2137ea05fcec5676
             var col = sampleJson[0].column;
             console.log(col);
             var colkey = Object.keys(col[0]);
@@ -370,10 +389,11 @@ var getQuery = function(sampleJson){
                 query+=k+" like '%"+col[0][k]+"%' and ";
               });
               query = query.substring(0, query.length - 5);
-            }
+            }	
+
             //}
         }
-    });
+    //});
     return query;
 }
 
@@ -382,9 +402,9 @@ var asking_name = function(response, convo, message) {
     connection.connect();
     console.log(JSON.stringify(sampleJson));
     var sample = JSON.stringify(sampleJson);
-    var query = getQuery(sampleJson);
+    var query = getQuery(sampleJson)+' limit 2';
     console.log("query: ", query);
-    connection.query('SELECT * from sampleusers', function(err, rows, fields) {
+    connection.query(query, function(err, rows, fields) {
       if (!err){
         //console.log('Data is: ');
         //console.log(JSON.stringify(rows));
@@ -400,7 +420,8 @@ var asking_name = function(response, convo, message) {
         for(var i=0;i<data.length;i++){
             keys.forEach(function(k){
                 console.log("key", k);
-                convo.say(data[i][k]);
+                console.log(data[i]);
+		convo.say(data[i][k]);
             });             
             //console.log(data[i].id);
             //console.log(data[i].username);
