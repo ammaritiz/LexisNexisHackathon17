@@ -21,7 +21,7 @@ var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : 'pass123',
-  database : 'featureData'
+  database : 'sample'
 });
 
 var getData = function(){
@@ -327,9 +327,9 @@ controller.hears(['table data'], 'direct_message,direct_mention,mention', functi
  * @param message - command
  */
 
-//var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+// var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
 //var sampleJson = [{ 'intent':'count','column':[{'category':'Criminal'}]}];
-//var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
+// var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','caseID':'12345'}]}];
 //var sampleJson = [{ 'intent':'data','val':['judgeName','name'], 'column':[{'judgeName':'Robbins','category':'Property'}]}];
 var sampleJson = [{ 'intent':'data','val':['judgeName','name','category','opinion_majority'], 'column':[{'judgeName':'Robbins','category':'riminal'}]}];
 
@@ -378,12 +378,13 @@ var getQuery = function(sampleJson){
     //});
     return query;
 }
+
 var asking_name = function(response, convo, message) {
     convo.say('Sampleuser Table Content:');
     connection.connect();
     console.log(JSON.stringify(sampleJson));
     var sample = JSON.stringify(sampleJson);
-    var query = getQuery(sampleJson)+'order by decisiondate limit 2';
+    var query = getQuery(sampleJson);
     console.log("query: ", query);
     connection.query(query, function(err, rows, fields) {
       if (!err){
@@ -512,16 +513,133 @@ var asking_name = function(response, convo, message) {
  * @param bot - our DeveloperTriage bot
  * @param message - command
  */
+// controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
+//     controller.storage.users.get(message.user, function(err, user) {
+//       if (user && user.name) {
+//         bot.reply(message,"Sorry couldn't understand it "+ user.name );
+//       }else{
+//         bot.reply(message,"Sorry couldn't understand it ");
+//       }
+//       bot.reply(message,"Below are is the list of commands you can use:");
+//       bot.reply(message,"1. Deadlines for <git_user_name>");
+//       bot.reply(message,"2. Help me with issue #<github issue number>");
+//       bot.reply(message,"3. Give me issues");
+//     });
+// });
+
+// var sampleResponse = [{'count': 25}];
+var sampleResponse = [{'judgeName': 'Ammar', 'name': 'KW', 'category': 'criminal law', 'opinion_majority':'yes'}, {'judgeName': 'Shrikant', 'name': 'KS','category': 'criminal law', 'opinion_majority':'yes'}];
+// var sampleJson = [{ 'intent':'count','column':[{'judgeName':'Robbins'}]}];
+
 controller.hears(['.*'], 'direct_message, direct_mention, mention', function(bot, message) {
-    controller.storage.users.get(message.user, function(err, user) {
-      if (user && user.name) {
-        bot.reply(message,"Sorry couldn't understand it "+ user.name );
-      }else{
-        bot.reply(message,"Sorry couldn't understand it ");
+    console.log("in main");
+  user_query = message
+  var process_query = function(user_query)
+  {
+      user_query = 'How many cases at Arkansas supreme court?';
+      user_query = user_query.toLowerCase()
+      needle.post("https://8rc0ymmdo5.execute-api.us-east-2.amazonaws.com/dev/auto-classifier/HackPack-intent-classifier", {"input_text": user_query}, {headers:{"x-api-key": "XV7Ijo8auq2IXAI7tZ08F5pGNUo6gAO92D5nN0v0","Content-Type": "application/json"},json:true}, 
+      function(err,resp){
+          dt = {}
+          console.log(user_query ,resp.body.classification)
+          if (resp.body.classification == "countQuery"){
+              dt.intent = "count"
+          }
+          else{
+              dt.intent = "data"
+          }
+          
+          var value = [];
+          if(dt.intent == "count"){
+              //value = "case";
+          }
+          else{
+              if(user_query.match(/who/i)){
+                  value.push('judgeName');
+              }
+              else if(user_query.match(/when/i)){
+                  value.push('decisiondate');
+              }
+              else if(user_query.match(/where/i)){
+                  value.push('court','court_type');
+              }
+          }
+          
+          
+          dt.val = value
+          dt.column = []
+          dct = {}
+      
+          var words = ['real','property','education','healthcare','labor','employment','patent','criminal','energy ', 'utilities','bankruptcy','military','veterans','copyright','trademark','Civil','international', 'trade','insurance','family','transportation','civil','rights','international','communications', 'admiralty','securities','tax','environmental','commercial','evidence','banking','torts','estate', 'gift','trust','workers','compensation','ssdi','compliance','business','corporate','constitutional', 'antitrust','trade','maritime'];
+      
+          var getWhere = function(question){
+              var que = question.split(" ");
+              que.forEach(function(e) {
+                  if(words.indexOf(e.toLowerCase()) > -1){
+                      dct.category = e;
+                  }
+              });
+          }
+          getWhere(user_query);
+                
+          if( user_query.match(/judged by/i) || user_query.match(/judge by/i) ||  user_query.match(/judge/i)){
+              arr = user_query.match(/judged by|judge by|judge/i)
+              jud = user_query.substring(arr.index).match(/\w+\s+\w+/i);
+      
+              if(jud.length){
+                  dct.judgeName = user_query.substring(arr.index).match(/\w+\s+\w+/i)[0];
+              }  
+          }
+          if(user_query.match(/opinion/i)){
+              value.push('opinion_majority');
+              console.log(value);
+          }
+          else if((user_query.match(/critic/i))||(user_query.match(/dissent/i))){
+              value.push('opinion_dissent');
+              console.log(value);
+          }
+          if(user_query.match(/[0-9]+/i)){
+              len = user_query.match(/[1-9]+/i);
+              if (len){
+                  dt.num_of_case = len[0];
+              }
+              else{
+                  dt.num_of_case = 1;
+              }
+          }
+      
+          dt.column.push(dct)
+          //console.log(dt)
+          connection.connect();
+          //var sample = JSON.stringify(dt);
+          var query = getQuery(dt);
+          //console.log("query: ", query);
+          connection.query(query, function(err, rows, fields) {
+            if (!err){
+              if(dt[0]['intent'] == 'count')
+              {
+                bot.reply(message, "I found " + rows[0]['numOfRow'] + " cases")
+              }
+              else if(dt[0]['intent'] == 'data')
+              {
+                resp = "Ok, I found " + rows.length + " records. Here are the details for the same:\n\n";
+                for(var i = 0; i < rows.length; i++){
+                  dt[0]['val'].forEach(function(k){
+                    resp += k + ': ' + rows[i][k] + '\n';
+                  });
+                  resp += '\n'
+                }
+                bot.reply(message, resp)
+              }
+          }
+            else
+              console.log('Error while performing Query.'+err);
+          });
+          
+          connection.end();
       }
-      bot.reply(message,"Below are is the list of commands you can use:");
-      bot.reply(message,"1. Deadlines for <git_user_name>");
-      bot.reply(message,"2. Help me with issue #<github issue number>");
-      bot.reply(message,"3. Give me issues");
-    });
+    );
+  }
+
+  
 });
